@@ -1,0 +1,36 @@
+{
+  "name": "pf2-spanish-babele",
+  "title": "Pathfinder 2 - Translations for compendiums (Spanish)",
+  "description": "Traducciones al español de los compendiums de PF2 usando el modulo de babele",
+  "author": "Comunidad de FoundryVTT en español",
+  "authors": [],
+  "url": "https://github.com/javierriveracastro/pf2-spanish-babele",
+  "flags": {},
+  "version": "0.0.1",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "9",
+  "scripts": [
+    "pf2es.js"
+  ],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": [
+    "pf2e"
+  ],
+  "dependencies": [
+    {
+      "name": "babele"
+    },
+    {
+      "name": "lib-wrapper"
+    }
+    ],
+  "socket": false,
+  "download": "",
+  "manifest": "",
+  "protected": false,
+  "coreTranslation": false,
+  "library": false
+}
