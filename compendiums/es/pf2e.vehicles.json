@@ -1,0 +1,189 @@
+{
+	"label": "Vehicles",
+	"entries": [
+		{
+			"id": "Adaptable Paddleboat",
+			"name": "Adaptable Paddleboat"
+		},
+		{
+			"id": "Airship",
+			"name": "Airship"
+		},
+		{
+			"id": "Ambling Surveyor",
+			"name": "Ambling Surveyor"
+		},
+		{
+			"id": "Apparatus of the Octopus",
+			"name": "Apparatus of the Octopus"
+		},
+		{
+			"id": "Armored Carriage",
+			"name": "Armored Carriage"
+		},
+		{
+			"id": "Automated Cycle",
+			"name": "Automated Cycle"
+		},
+		{
+			"id": "Bathysphere",
+			"name": "Bathysphere"
+		},
+		{
+			"id": "Carriage",
+			"name": "Carriage"
+		},
+		{
+			"id": "Cart",
+			"name": "Cart"
+		},
+		{
+			"id": "Chariot, Heavy",
+			"name": "Chariot, Heavy"
+		},
+		{
+			"id": "Chariot, Light",
+			"name": "Chariot, Light"
+		},
+		{
+			"id": "Cliff Crawler",
+			"name": "Cliff Crawler"
+		},
+		{
+			"id": "Clockwork Borer",
+			"name": "Clockwork Borer"
+		},
+		{
+			"id": "Clockwork Bumblebee",
+			"name": "Clockwork Bumblebee"
+		},
+		{
+			"id": "Clockwork Castle",
+			"name": "Clockwork Castle"
+		},
+		{
+			"id": "Clockwork Hopper",
+			"name": "Clockwork Hopper"
+		},
+		{
+			"id": "Clockwork Wagon",
+			"name": "Clockwork Wagon"
+		},
+		{
+			"id": "Clunkerjunker",
+			"name": "Clunkerjunker"
+		},
+		{
+			"id": "Cutter",
+			"name": "Cutter"
+		},
+		{
+			"id": "Firefly",
+			"name": "Firefly"
+		},
+		{
+			"id": "Firework Pogo",
+			"name": "Firework Pogo"
+		},
+		{
+			"id": "Galley",
+			"name": "Galley"
+		},
+		{
+			"id": "Glider",
+			"name": "Glider"
+		},
+		{
+			"id": "Hillcross Glider",
+			"name": "Hillcross Glider"
+		},
+		{
+			"id": "Mobile Inn",
+			"name": "Mobile Inn"
+		},
+		{
+			"id": "Rowboat",
+			"name": "Rowboat"
+		},
+		{
+			"id": "Sailing Ship",
+			"name": "Sailing Ship"
+		},
+		{
+			"id": "Sand Barge",
+			"name": "Sand Barge"
+		},
+		{
+			"id": "Sand Diver",
+			"name": "Sand Diver"
+		},
+		{
+			"id": "Sandsailer",
+			"name": "Sandsailer"
+		},
+		{
+			"id": "Second Kiss",
+			"name": "Second Kiss"
+		},
+		{
+			"id": "Shark Diver",
+			"name": "Shark Diver"
+		},
+		{
+			"id": "Sky Chariot, Heavy",
+			"name": "Sky Chariot, Heavy"
+		},
+		{
+			"id": "Sky Chariot, Light",
+			"name": "Sky Chariot, Light"
+		},
+		{
+			"id": "Sky Chariot, Medium",
+			"name": "Sky Chariot, Medium"
+		},
+		{
+			"id": "Sleigh",
+			"name": "Sleigh"
+		},
+		{
+			"id": "Snail Coach",
+			"name": "Snail Coach"
+		},
+		{
+			"id": "Speedster",
+			"name": "Speedster"
+		},
+		{
+			"id": "Steam Cart",
+			"name": "Steam Cart"
+		},
+		{
+			"id": "Steam Giant",
+			"name": "Steam Giant"
+		},
+		{
+			"id": "Steam Trolley",
+			"name": "Steam Trolley"
+		},
+		{
+			"id": "Strider",
+			"name": "Strider"
+		},
+		{
+			"id": "Titanic Stomper",
+			"name": "Titanic Stomper"
+		},
+		{
+			"id": "Velocipede",
+			"name": "Velocipede"
+		},
+		{
+			"id": "Vonthos's Golden Bridge",
+			"name": "Vonthos's Golden Bridge"
+		},
+		{
+			"id": "Wagon",
+			"name": "Wagon"
+		}
+	]
+}

@@ -1,0 +1,753 @@
+{
+	"label": "Agents of Edgewatch",
+	"entries": [
+		{
+			"id": "Acidic Poison Cloud Trap",
+			"name": "Acidic Poison Cloud Trap"
+		},
+		{
+			"id": "Agent of the Gray Queen",
+			"name": "Agent of the Gray Queen"
+		},
+		{
+			"id": "Agradaemon",
+			"name": "Agradaemon"
+		},
+		{
+			"id": "Alchemical Horror",
+			"name": "Alchemical Horror"
+		},
+		{
+			"id": "Alchemist Aspirant",
+			"name": "Alchemist Aspirant"
+		},
+		{
+			"id": "Almiraj",
+			"name": "Almiraj"
+		},
+		{
+			"id": "Amateur Chemist",
+			"name": "Amateur Chemist"
+		},
+		{
+			"id": "Antaro Boldblade",
+			"name": "Antaro Boldblade"
+		},
+		{
+			"id": "Arcane Feedback Trap",
+			"name": "Arcane Feedback Trap"
+		},
+		{
+			"id": "Avarek",
+			"name": "Avarek"
+		},
+		{
+			"id": "Avsheros the Betrayer",
+			"name": "Avsheros the Betrayer"
+		},
+		{
+			"id": "Baatamidar",
+			"name": "Baatamidar"
+		},
+		{
+			"id": "Barnacle Ghoul",
+			"name": "Barnacle Ghoul"
+		},
+		{
+			"id": "Barrel Launcher",
+			"name": "Barrel Launcher"
+		},
+		{
+			"id": "Battle Leader Rekarek",
+			"name": "Battle Leader Rekarek"
+		},
+		{
+			"id": "Binumir",
+			"name": "Binumir"
+		},
+		{
+			"id": "Black Whale Guard",
+			"name": "Black Whale Guard"
+		},
+		{
+			"id": "Black Whale Guard (F3, Nightmare Cudgel)",
+			"name": "Black Whale Guard (F3, Nightmare Cudgel)"
+		},
+		{
+			"id": "Blackfinger's Prayer",
+			"name": "Blackfinger's Prayer"
+		},
+		{
+			"id": "Blackfingers Acolyte",
+			"name": "Blackfingers Acolyte"
+		},
+		{
+			"id": "Bloody Barber Goon",
+			"name": "Bloody Barber Goon"
+		},
+		{
+			"id": "Bloody Berleth",
+			"name": "Bloody Berleth"
+		},
+		{
+			"id": "Blune Bandersworth",
+			"name": "Blune Bandersworth"
+		},
+		{
+			"id": "Blune's Illusory Toady",
+			"name": "Blune's Illusory Toady"
+		},
+		{
+			"id": "Boiling Fountains",
+			"name": "Boiling Fountains"
+		},
+		{
+			"id": "Boiling Tub Trap",
+			"name": "Boiling Tub Trap"
+		},
+		{
+			"id": "Bolar Of Stonemoor",
+			"name": "Bolar Of Stonemoor"
+		},
+		{
+			"id": "Bone Skipper Swarm",
+			"name": "Bone Skipper Swarm"
+		},
+		{
+			"id": "Bregdi",
+			"name": "Bregdi"
+		},
+		{
+			"id": "Burning Chandelier Trap",
+			"name": "Burning Chandelier Trap"
+		},
+		{
+			"id": "Calennia",
+			"name": "Calennia"
+		},
+		{
+			"id": "Camarach",
+			"name": "Camarach"
+		},
+		{
+			"id": "Canopy Drop",
+			"name": "Canopy Drop"
+		},
+		{
+			"id": "Carvey",
+			"name": "Carvey"
+		},
+		{
+			"id": "Casino Bouncer",
+			"name": "Casino Bouncer"
+		},
+		{
+			"id": "Chalky",
+			"name": "Chalky"
+		},
+		{
+			"id": "Chaos Gulgamodh",
+			"name": "Chaos Gulgamodh"
+		},
+		{
+			"id": "Child Of Venom",
+			"name": "Child Of Venom"
+		},
+		{
+			"id": "Clockwork Amalgam",
+			"name": "Clockwork Amalgam"
+		},
+		{
+			"id": "Clockwork Arms",
+			"name": "Clockwork Arms"
+		},
+		{
+			"id": "Clockwork Assassin",
+			"name": "Clockwork Assassin"
+		},
+		{
+			"id": "Clockwork Chopper",
+			"name": "Clockwork Chopper"
+		},
+		{
+			"id": "Clockwork Injector",
+			"name": "Clockwork Injector"
+		},
+		{
+			"id": "Clockwork Poison Bomb",
+			"name": "Clockwork Poison Bomb"
+		},
+		{
+			"id": "Cobbleswarm (AoE)",
+			"name": "Cobbleswarm (AoE)"
+		},
+		{
+			"id": "Copper Hand Illusionist",
+			"name": "Copper Hand Illusionist"
+		},
+		{
+			"id": "Copper Hand Rogue",
+			"name": "Copper Hand Rogue"
+		},
+		{
+			"id": "Daemonic Infector",
+			"name": "Daemonic Infector"
+		},
+		{
+			"id": "Daemonic Rumormonger",
+			"name": "Daemonic Rumormonger"
+		},
+		{
+			"id": "Daemonic Skinner",
+			"name": "Daemonic Skinner"
+		},
+		{
+			"id": "Dart Barrage",
+			"name": "Dart Barrage"
+		},
+		{
+			"id": "Diobel Sweeper Chemist",
+			"name": "Diobel Sweeper Chemist"
+		},
+		{
+			"id": "Diobel Sweeper Tough",
+			"name": "Diobel Sweeper Tough"
+		},
+		{
+			"id": "Dreadsong Dancer",
+			"name": "Dreadsong Dancer"
+		},
+		{
+			"id": "Eberark",
+			"name": "Eberark"
+		},
+		{
+			"id": "Eunice",
+			"name": "Eunice"
+		},
+		{
+			"id": "Excorion",
+			"name": "Excorion"
+		},
+		{
+			"id": "Excorion Paragon",
+			"name": "Excorion Paragon"
+		},
+		{
+			"id": "Exploding Statue",
+			"name": "Exploding Statue"
+		},
+		{
+			"id": "Explosive Barrels",
+			"name": "Explosive Barrels"
+		},
+		{
+			"id": "Eyeball Tank",
+			"name": "Eyeball Tank"
+		},
+		{
+			"id": "False Door Trap",
+			"name": "False Door Trap"
+		},
+		{
+			"id": "Fayati Alummur",
+			"name": "Fayati Alummur"
+		},
+		{
+			"id": "Field Of Opposition",
+			"name": "Field Of Opposition"
+		},
+		{
+			"id": "Flying Guillotine",
+			"name": "Flying Guillotine"
+		},
+		{
+			"id": "Franca Laurentz",
+			"name": "Franca Laurentz"
+		},
+		{
+			"id": "Freezing Alarm",
+			"name": "Freezing Alarm"
+		},
+		{
+			"id": "Frefferth",
+			"name": "Frefferth"
+		},
+		{
+			"id": "Gage Carlyle",
+			"name": "Gage Carlyle"
+		},
+		{
+			"id": "Gang Tough",
+			"name": "Gang Tough"
+		},
+		{
+			"id": "Garrote Master Assassin",
+			"name": "Garrote Master Assassin"
+		},
+		{
+			"id": "Gas Trap",
+			"name": "Gas Trap"
+		},
+		{
+			"id": "Ghaele Of Kharnas",
+			"name": "Ghaele Of Kharnas"
+		},
+		{
+			"id": "Giant Bone Skipper",
+			"name": "Giant Bone Skipper"
+		},
+		{
+			"id": "Giant Joro Spiders",
+			"name": "Giant Joro Spiders"
+		},
+		{
+			"id": "Gloaming Will-o'-Wisp",
+			"name": "Gloaming Will-o'-Wisp"
+		},
+		{
+			"id": "Grabble Forden",
+			"name": "Grabble Forden"
+		},
+		{
+			"id": "Graem",
+			"name": "Graem"
+		},
+		{
+			"id": "Graveknight Of Kharnas",
+			"name": "Graveknight Of Kharnas"
+		},
+		{
+			"id": "Greater Planar Rift",
+			"name": "Greater Planar Rift"
+		},
+		{
+			"id": "Gref",
+			"name": "Gref"
+		},
+		{
+			"id": "Grick",
+			"name": "Grick"
+		},
+		{
+			"id": "Grimwold",
+			"name": "Grimwold"
+		},
+		{
+			"id": "Grinlowe",
+			"name": "Grinlowe"
+		},
+		{
+			"id": "Grospek Lavarsus",
+			"name": "Grospek Lavarsus"
+		},
+		{
+			"id": "Grunka",
+			"name": "Grunka"
+		},
+		{
+			"id": "Hands Of The Forgotten",
+			"name": "Hands Of The Forgotten"
+		},
+		{
+			"id": "Hegessik",
+			"name": "Hegessik"
+		},
+		{
+			"id": "Hendrid Pratchett",
+			"name": "Hendrid Pratchett"
+		},
+		{
+			"id": "Hestriviniaas",
+			"name": "Hestriviniaas"
+		},
+		{
+			"id": "Hidden Chute",
+			"name": "Hidden Chute"
+		},
+		{
+			"id": "Hundun Chaos Mage",
+			"name": "Hundun Chaos Mage"
+		},
+		{
+			"id": "Il'setsya Wyrmtouched",
+			"name": "Il'setsya Wyrmtouched"
+		},
+		{
+			"id": "Ink Drowning Vats",
+			"name": "Ink Drowning Vats"
+		},
+		{
+			"id": "Inky Tendrils",
+			"name": "Inky Tendrils"
+		},
+		{
+			"id": "Iron Maiden Trap",
+			"name": "Iron Maiden Trap"
+		},
+		{
+			"id": "Iroran Skeleton",
+			"name": "Iroran Skeleton"
+		},
+		{
+			"id": "Ixusoth",
+			"name": "Ixusoth"
+		},
+		{
+			"id": "Izfiitar",
+			"name": "Izfiitar"
+		},
+		{
+			"id": "Jonis Flakfatter",
+			"name": "Jonis Flakfatter"
+		},
+		{
+			"id": "Kapral",
+			"name": "Kapral"
+		},
+		{
+			"id": "Kekker",
+			"name": "Kekker"
+		},
+		{
+			"id": "Kemeneles",
+			"name": "Kemeneles"
+		},
+		{
+			"id": "Kharnas's Lesser Glyph",
+			"name": "Kharnas's Lesser Glyph"
+		},
+		{
+			"id": "Kolo Harvan",
+			"name": "Kolo Harvan"
+		},
+		{
+			"id": "Lie-Master",
+			"name": "Lie-Master"
+		},
+		{
+			"id": "Life Magnet",
+			"name": "Life Magnet"
+		},
+		{
+			"id": "Living Mural",
+			"name": "Living Mural"
+		},
+		{
+			"id": "Living Paints",
+			"name": "Living Paints"
+		},
+		{
+			"id": "Lord Guirden",
+			"name": "Lord Guirden"
+		},
+		{
+			"id": "Lusca",
+			"name": "Lusca"
+		},
+		{
+			"id": "Lyrma Swampwalker",
+			"name": "Lyrma Swampwalker"
+		},
+		{
+			"id": "Maurrisa Jonne",
+			"name": "Maurrisa Jonne"
+		},
+		{
+			"id": "Minchgorm",
+			"name": "Minchgorm"
+		},
+		{
+			"id": "Miogimo",
+			"name": "Miogimo"
+		},
+		{
+			"id": "Miriel Grayleaf",
+			"name": "Miriel Grayleaf"
+		},
+		{
+			"id": "Mobana",
+			"name": "Mobana"
+		},
+		{
+			"id": "Mother Venom",
+			"name": "Mother Venom"
+		},
+		{
+			"id": "Mr. Snips",
+			"name": "Mr. Snips"
+		},
+		{
+			"id": "Myrna Rath",
+			"name": "Myrna Rath"
+		},
+		{
+			"id": "Myrucarx",
+			"name": "Myrucarx"
+		},
+		{
+			"id": "Najra Lizard",
+			"name": "Najra Lizard"
+		},
+		{
+			"id": "Needling Stairs",
+			"name": "Needling Stairs"
+		},
+		{
+			"id": "Nenchuuj",
+			"name": "Nenchuuj"
+		},
+		{
+			"id": "Norgorberite Poisoner",
+			"name": "Norgorberite Poisoner"
+		},
+		{
+			"id": "Obrousian",
+			"name": "Obrousian"
+		},
+		{
+			"id": "Ofalth Zombie",
+			"name": "Ofalth Zombie"
+		},
+		{
+			"id": "Olansa Terimor",
+			"name": "Olansa Terimor"
+		},
+		{
+			"id": "Overdrive Imentesh",
+			"name": "Overdrive Imentesh"
+		},
+		{
+			"id": "Pelmo",
+			"name": "Pelmo"
+		},
+		{
+			"id": "Penqual",
+			"name": "Penqual"
+		},
+		{
+			"id": "Pickled Punk",
+			"name": "Pickled Punk"
+		},
+		{
+			"id": "Plunger Chute",
+			"name": "Plunger Chute"
+		},
+		{
+			"id": "Poison Eater",
+			"name": "Poison Eater"
+		},
+		{
+			"id": "Poisoned Dart Statue",
+			"name": "Poisoned Dart Statue"
+		},
+		{
+			"id": "Priest of Blackfingers",
+			"name": "Priest of Blackfingers"
+		},
+		{
+			"id": "Prospecti Statue",
+			"name": "Prospecti Statue"
+		},
+		{
+			"id": "Pulping Golem",
+			"name": "Pulping Golem"
+		},
+		{
+			"id": "Ralso",
+			"name": "Ralso"
+		},
+		{
+			"id": "Ravenile Rager",
+			"name": "Ravenile Rager"
+		},
+		{
+			"id": "Reginald Vancaskerkin",
+			"name": "Reginald Vancaskerkin"
+		},
+		{
+			"id": "Rhevanna",
+			"name": "Rhevanna"
+		},
+		{
+			"id": "Rigged Cubby",
+			"name": "Rigged Cubby"
+		},
+		{
+			"id": "Sad Liza",
+			"name": "Sad Liza"
+		},
+		{
+			"id": "Scathka",
+			"name": "Scathka"
+		},
+		{
+			"id": "Secret-Keeper",
+			"name": "Secret-Keeper"
+		},
+		{
+			"id": "Shatterling",
+			"name": "Shatterling"
+		},
+		{
+			"id": "Shikwashim Mercenary",
+			"name": "Shikwashim Mercenary"
+		},
+		{
+			"id": "Shredskin",
+			"name": "Shredskin"
+		},
+		{
+			"id": "Shristi Melipdra",
+			"name": "Shristi Melipdra"
+		},
+		{
+			"id": "Siege Shard",
+			"name": "Siege Shard"
+		},
+		{
+			"id": "Skebs",
+			"name": "Skebs"
+		},
+		{
+			"id": "Skinsaw Murderer",
+			"name": "Skinsaw Murderer"
+		},
+		{
+			"id": "Skinsaw Seamer",
+			"name": "Skinsaw Seamer"
+		},
+		{
+			"id": "Skitterstitch",
+			"name": "Skitterstitch"
+		},
+		{
+			"id": "Sleepless Sun Veteran",
+			"name": "Sleepless Sun Veteran"
+		},
+		{
+			"id": "Slithering Rift",
+			"name": "Slithering Rift"
+		},
+		{
+			"id": "Sordesdaemon",
+			"name": "Sordesdaemon"
+		},
+		{
+			"id": "Starwatch Commando",
+			"name": "Starwatch Commando"
+		},
+		{
+			"id": "Summoning Rune (Barbazu Devil)",
+			"name": "Summoning Rune (Barbazu Devil)"
+		},
+		{
+			"id": "Summoning Rune (Cinder Rat)",
+			"name": "Summoning Rune (Cinder Rat)"
+		},
+		{
+			"id": "Supplicant Statues",
+			"name": "Supplicant Statues"
+		},
+		{
+			"id": "Svartalfar Killer",
+			"name": "Svartalfar Killer"
+		},
+		{
+			"id": "Tenome",
+			"name": "Tenome"
+		},
+		{
+			"id": "Teraphant",
+			"name": "Teraphant"
+		},
+		{
+			"id": "The Inkmaster",
+			"name": "The Inkmaster"
+		},
+		{
+			"id": "The Laughing Fiend's Greeting",
+			"name": "The Laughing Fiend's Greeting"
+		},
+		{
+			"id": "The Rabbit Prince",
+			"name": "The Rabbit Prince"
+		},
+		{
+			"id": "The Stabbing Beast",
+			"name": "The Stabbing Beast"
+		},
+		{
+			"id": "The Winder",
+			"name": "The Winder"
+		},
+		{
+			"id": "Tiderunner Aquamancer",
+			"name": "Tiderunner Aquamancer"
+		},
+		{
+			"id": "Twisted Jack",
+			"name": "Twisted Jack"
+		},
+		{
+			"id": "Tyrroicese",
+			"name": "Tyrroicese"
+		},
+		{
+			"id": "Ulressia The Blessed",
+			"name": "Ulressia The Blessed"
+		},
+		{
+			"id": "Vargouille",
+			"name": "Vargouille"
+		},
+		{
+			"id": "Vaultbreaker Ooze",
+			"name": "Vaultbreaker Ooze"
+		},
+		{
+			"id": "Veksciralenix",
+			"name": "Veksciralenix"
+		},
+		{
+			"id": "Venom Mage",
+			"name": "Venom Mage"
+		},
+		{
+			"id": "Washboard Dog Tough",
+			"name": "Washboard Dog Tough"
+		},
+		{
+			"id": "Water Elemental Vessel",
+			"name": "Water Elemental Vessel"
+		},
+		{
+			"id": "Water Elemental Vessel (I2)",
+			"name": "Water Elemental Vessel (I2)"
+		},
+		{
+			"id": "Waxworks Onslaught Trap",
+			"name": "Waxworks Onslaught Trap"
+		},
+		{
+			"id": "Wrent Dicaspiron",
+			"name": "Wrent Dicaspiron"
+		},
+		{
+			"id": "Wynsal Starborn",
+			"name": "Wynsal Starborn"
+		},
+		{
+			"id": "Zeal-damned Ghoul",
+			"name": "Zeal-damned Ghoul"
+		},
+		{
+			"id": "Zealborn",
+			"name": "Zealborn"
+		},
+		{
+			"id": "Zrukbat",
+			"name": "Zrukbat"
+		}
+	]
+}

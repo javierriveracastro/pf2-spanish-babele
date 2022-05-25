@@ -1,0 +1,1365 @@
+{
+	"label": "Bestiary 3",
+	"entries": [
+		{
+			"id": "Abandoned Zealot",
+			"name": "Abandoned Zealot"
+		},
+		{
+			"id": "Abrikandilu",
+			"name": "Abrikandilu"
+		},
+		{
+			"id": "Adachros",
+			"name": "Adachros"
+		},
+		{
+			"id": "Adhukait",
+			"name": "Adhukait"
+		},
+		{
+			"id": "Adlet",
+			"name": "Adlet"
+		},
+		{
+			"id": "Adult Forest Dragon",
+			"name": "Adult Forest Dragon"
+		},
+		{
+			"id": "Adult Sea Dragon",
+			"name": "Adult Sea Dragon"
+		},
+		{
+			"id": "Adult Sky Dragon",
+			"name": "Adult Sky Dragon"
+		},
+		{
+			"id": "Adult Sovereign Dragon",
+			"name": "Adult Sovereign Dragon"
+		},
+		{
+			"id": "Adult Underworld Dragon",
+			"name": "Adult Underworld Dragon"
+		},
+		{
+			"id": "Aghash",
+			"name": "Aghash"
+		},
+		{
+			"id": "Air Wisp",
+			"name": "Air Wisp"
+		},
+		{
+			"id": "Amalgamite",
+			"name": "Amalgamite"
+		},
+		{
+			"id": "Amphisbaena",
+			"name": "Amphisbaena"
+		},
+		{
+			"id": "Ancient Forest Dragon",
+			"name": "Ancient Forest Dragon"
+		},
+		{
+			"id": "Ancient Sea Dragon",
+			"name": "Ancient Sea Dragon"
+		},
+		{
+			"id": "Ancient Sky Dragon",
+			"name": "Ancient Sky Dragon"
+		},
+		{
+			"id": "Ancient Sovereign Dragon",
+			"name": "Ancient Sovereign Dragon"
+		},
+		{
+			"id": "Ancient Underworld Dragon",
+			"name": "Ancient Underworld Dragon"
+		},
+		{
+			"id": "Android Infiltrator",
+			"name": "Android Infiltrator"
+		},
+		{
+			"id": "Angazhani",
+			"name": "Angazhani"
+		},
+		{
+			"id": "Angheuvore Flesh-gnawer",
+			"name": "Angheuvore Flesh-gnawer"
+		},
+		{
+			"id": "Animated Colossus",
+			"name": "Animated Colossus"
+		},
+		{
+			"id": "Animated Furnace",
+			"name": "Animated Furnace"
+		},
+		{
+			"id": "Animated Silverware Swarm",
+			"name": "Animated Silverware Swarm"
+		},
+		{
+			"id": "Animated Trebuchet",
+			"name": "Animated Trebuchet"
+		},
+		{
+			"id": "Aphorite Sharpshooter",
+			"name": "Aphorite Sharpshooter"
+		},
+		{
+			"id": "Arboreal Archive",
+			"name": "Arboreal Archive"
+		},
+		{
+			"id": "Arboreal Reaper",
+			"name": "Arboreal Reaper"
+		},
+		{
+			"id": "Arcane Living Rune",
+			"name": "Arcane Living Rune"
+		},
+		{
+			"id": "Azarketi Explorer",
+			"name": "Azarketi Explorer"
+		},
+		{
+			"id": "Azer",
+			"name": "Azer"
+		},
+		{
+			"id": "Bauble Beast",
+			"name": "Bauble Beast"
+		},
+		{
+			"id": "Baykok",
+			"name": "Baykok"
+		},
+		{
+			"id": "Betobeto-san",
+			"name": "Betobeto-san"
+		},
+		{
+			"id": "Bison",
+			"name": "Bison"
+		},
+		{
+			"id": "Blood Hag",
+			"name": "Blood Hag"
+		},
+		{
+			"id": "Blood Painter",
+			"name": "Blood Painter"
+		},
+		{
+			"id": "Bone Ship",
+			"name": "Bone Ship"
+		},
+		{
+			"id": "Bore Worm Swarm",
+			"name": "Bore Worm Swarm"
+		},
+		{
+			"id": "Brainchild",
+			"name": "Brainchild"
+		},
+		{
+			"id": "Brimorak",
+			"name": "Brimorak"
+		},
+		{
+			"id": "Buso Farmer",
+			"name": "Buso Farmer"
+		},
+		{
+			"id": "Cactus Leshy",
+			"name": "Cactus Leshy"
+		},
+		{
+			"id": "Caligni Caller",
+			"name": "Caligni Caller"
+		},
+		{
+			"id": "Caligni Vanguard",
+			"name": "Caligni Vanguard"
+		},
+		{
+			"id": "Calikang",
+			"name": "Calikang"
+		},
+		{
+			"id": "Camel",
+			"name": "Camel"
+		},
+		{
+			"id": "Caulborn",
+			"name": "Caulborn"
+		},
+		{
+			"id": "Cave Giant",
+			"name": "Cave Giant"
+		},
+		{
+			"id": "Cecaelia Trapper",
+			"name": "Cecaelia Trapper"
+		},
+		{
+			"id": "Chouchin-obake",
+			"name": "Chouchin-obake"
+		},
+		{
+			"id": "Chyzaedu",
+			"name": "Chyzaedu"
+		},
+		{
+			"id": "City Guard Squadron",
+			"name": "City Guard Squadron"
+		},
+		{
+			"id": "Clacking Skull Swarm",
+			"name": "Clacking Skull Swarm"
+		},
+		{
+			"id": "Clockwork Dragon",
+			"name": "Clockwork Dragon"
+		},
+		{
+			"id": "Clockwork Mage",
+			"name": "Clockwork Mage"
+		},
+		{
+			"id": "Clockwork Soldier",
+			"name": "Clockwork Soldier"
+		},
+		{
+			"id": "Clockwork Spy",
+			"name": "Clockwork Spy"
+		},
+		{
+			"id": "Cobbleswarm",
+			"name": "Cobbleswarm"
+		},
+		{
+			"id": "Common Eurypterid",
+			"name": "Common Eurypterid"
+		},
+		{
+			"id": "Consonite Choir",
+			"name": "Consonite Choir"
+		},
+		{
+			"id": "Coral Capuchin",
+			"name": "Coral Capuchin"
+		},
+		{
+			"id": "Corrupted Relic",
+			"name": "Corrupted Relic"
+		},
+		{
+			"id": "Crossroads Guardian",
+			"name": "Crossroads Guardian"
+		},
+		{
+			"id": "Cunning Fox",
+			"name": "Cunning Fox"
+		},
+		{
+			"id": "Danava Titan",
+			"name": "Danava Titan"
+		},
+		{
+			"id": "Deimavigga",
+			"name": "Deimavigga"
+		},
+		{
+			"id": "Desert Giant",
+			"name": "Desert Giant"
+		},
+		{
+			"id": "Divine Living Rune",
+			"name": "Divine Living Rune"
+		},
+		{
+			"id": "Divine Warden Of Nethys",
+			"name": "Divine Warden Of Nethys"
+		},
+		{
+			"id": "Domovoi",
+			"name": "Domovoi"
+		},
+		{
+			"id": "Doru",
+			"name": "Doru"
+		},
+		{
+			"id": "Draconal",
+			"name": "Draconal"
+		},
+		{
+			"id": "Dramofir",
+			"name": "Dramofir"
+		},
+		{
+			"id": "Draxie",
+			"name": "Draxie"
+		},
+		{
+			"id": "Dretch",
+			"name": "Dretch"
+		},
+		{
+			"id": "Duende",
+			"name": "Duende"
+		},
+		{
+			"id": "Dvorovoi",
+			"name": "Dvorovoi"
+		},
+		{
+			"id": "Dybbuk",
+			"name": "Dybbuk"
+		},
+		{
+			"id": "Earth Wisp",
+			"name": "Earth Wisp"
+		},
+		{
+			"id": "Einherji",
+			"name": "Einherji"
+		},
+		{
+			"id": "Elder Sphinx",
+			"name": "Elder Sphinx"
+		},
+		{
+			"id": "Elder Wyrmwraith",
+			"name": "Elder Wyrmwraith"
+		},
+		{
+			"id": "Elysian Titan",
+			"name": "Elysian Titan"
+		},
+		{
+			"id": "Empress Bore Worm",
+			"name": "Empress Bore Worm"
+		},
+		{
+			"id": "Empress Ice Worm",
+			"name": "Empress Ice Worm"
+		},
+		{
+			"id": "Empress Lava Worm",
+			"name": "Empress Lava Worm"
+		},
+		{
+			"id": "Empress Mage-Eater Worm",
+			"name": "Empress Mage-Eater Worm"
+		},
+		{
+			"id": "Empress Necril Worm",
+			"name": "Empress Necril Worm"
+		},
+		{
+			"id": "Esipil",
+			"name": "Esipil"
+		},
+		{
+			"id": "Etioling Blightmage",
+			"name": "Etioling Blightmage"
+		},
+		{
+			"id": "Eunemvro",
+			"name": "Eunemvro"
+		},
+		{
+			"id": "Fading Fox",
+			"name": "Fading Fox"
+		},
+		{
+			"id": "Feathered Bear",
+			"name": "Feathered Bear"
+		},
+		{
+			"id": "Feral Skull Swarm",
+			"name": "Feral Skull Swarm"
+		},
+		{
+			"id": "Festrog",
+			"name": "Festrog"
+		},
+		{
+			"id": "Fire Wisp",
+			"name": "Fire Wisp"
+		},
+		{
+			"id": "Flaming Skull",
+			"name": "Flaming Skull"
+		},
+		{
+			"id": "Flumph",
+			"name": "Flumph"
+		},
+		{
+			"id": "Fortune Eater",
+			"name": "Fortune Eater"
+		},
+		{
+			"id": "Fossil Golem",
+			"name": "Fossil Golem"
+		},
+		{
+			"id": "Fuath",
+			"name": "Fuath"
+		},
+		{
+			"id": "Galvo",
+			"name": "Galvo"
+		},
+		{
+			"id": "Ganzi Martial Artist",
+			"name": "Ganzi Martial Artist"
+		},
+		{
+			"id": "Garuda",
+			"name": "Garuda"
+		},
+		{
+			"id": "Gathlain Wanderer",
+			"name": "Gathlain Wanderer"
+		},
+		{
+			"id": "Ghoran Manipulator",
+			"name": "Ghoran Manipulator"
+		},
+		{
+			"id": "Giant Flying Squirrel",
+			"name": "Giant Flying Squirrel"
+		},
+		{
+			"id": "Giant Hermit Crab",
+			"name": "Giant Hermit Crab"
+		},
+		{
+			"id": "Giant Opossum",
+			"name": "Giant Opossum"
+		},
+		{
+			"id": "Giant Pangolin",
+			"name": "Giant Pangolin"
+		},
+		{
+			"id": "Giant Porcupine",
+			"name": "Giant Porcupine"
+		},
+		{
+			"id": "Giant Seahorse",
+			"name": "Giant Seahorse"
+		},
+		{
+			"id": "Giant Skunk",
+			"name": "Giant Skunk"
+		},
+		{
+			"id": "Giant Vulture",
+			"name": "Giant Vulture"
+		},
+		{
+			"id": "Girtablilu Seer",
+			"name": "Girtablilu Seer"
+		},
+		{
+			"id": "Girtablilu Sentry",
+			"name": "Girtablilu Sentry"
+		},
+		{
+			"id": "Gliminal",
+			"name": "Gliminal"
+		},
+		{
+			"id": "Globster",
+			"name": "Globster"
+		},
+		{
+			"id": "Green Man",
+			"name": "Green Man"
+		},
+		{
+			"id": "Grimple",
+			"name": "Grimple"
+		},
+		{
+			"id": "Grioth Cultist",
+			"name": "Grioth Cultist"
+		},
+		{
+			"id": "Grioth Scout",
+			"name": "Grioth Scout"
+		},
+		{
+			"id": "Guecubu",
+			"name": "Guecubu"
+		},
+		{
+			"id": "Gurgist Mauler",
+			"name": "Gurgist Mauler"
+		},
+		{
+			"id": "Hadrinnex",
+			"name": "Hadrinnex"
+		},
+		{
+			"id": "Haniver",
+			"name": "Haniver"
+		},
+		{
+			"id": "Harmona",
+			"name": "Harmona"
+		},
+		{
+			"id": "Harpy Skeleton",
+			"name": "Harpy Skeleton"
+		},
+		{
+			"id": "Hatred Siktempora",
+			"name": "Hatred Siktempora"
+		},
+		{
+			"id": "Hekatonkheires Titan",
+			"name": "Hekatonkheires Titan"
+		},
+		{
+			"id": "Hellbound Attorney",
+			"name": "Hellbound Attorney"
+		},
+		{
+			"id": "Hellknight Cavalry Brigade",
+			"name": "Hellknight Cavalry Brigade"
+		},
+		{
+			"id": "Hellwasp Swarm",
+			"name": "Hellwasp Swarm"
+		},
+		{
+			"id": "Herexen",
+			"name": "Herexen"
+		},
+		{
+			"id": "Hermit Crab Swarm",
+			"name": "Hermit Crab Swarm"
+		},
+		{
+			"id": "Hesperid",
+			"name": "Hesperid"
+		},
+		{
+			"id": "Hesperid Queen",
+			"name": "Hesperid Queen"
+		},
+		{
+			"id": "Hieracosphinx",
+			"name": "Hieracosphinx"
+		},
+		{
+			"id": "House Drake",
+			"name": "House Drake"
+		},
+		{
+			"id": "Huldra",
+			"name": "Huldra"
+		},
+		{
+			"id": "Hyakume",
+			"name": "Hyakume"
+		},
+		{
+			"id": "Ice Worm Swarm",
+			"name": "Ice Worm Swarm"
+		},
+		{
+			"id": "Incutilis",
+			"name": "Incutilis"
+		},
+		{
+			"id": "Ioton",
+			"name": "Ioton"
+		},
+		{
+			"id": "Ittan-momen",
+			"name": "Ittan-momen"
+		},
+		{
+			"id": "Japalisura",
+			"name": "Japalisura"
+		},
+		{
+			"id": "Jorogumo",
+			"name": "Jorogumo"
+		},
+		{
+			"id": "Kangaroo",
+			"name": "Kangaroo"
+		},
+		{
+			"id": "Kappa",
+			"name": "Kappa"
+		},
+		{
+			"id": "Kasa-obake",
+			"name": "Kasa-obake"
+		},
+		{
+			"id": "Khravgodon",
+			"name": "Khravgodon"
+		},
+		{
+			"id": "Kimenhul",
+			"name": "Kimenhul"
+		},
+		{
+			"id": "Kirin",
+			"name": "Kirin"
+		},
+		{
+			"id": "Kishi",
+			"name": "Kishi"
+		},
+		{
+			"id": "Kitsune Trickster",
+			"name": "Kitsune Trickster"
+		},
+		{
+			"id": "Kodama",
+			"name": "Kodama"
+		},
+		{
+			"id": "Kokogiak",
+			"name": "Kokogiak"
+		},
+		{
+			"id": "Kongamato",
+			"name": "Kongamato"
+		},
+		{
+			"id": "Kovintus Geomancer",
+			"name": "Kovintus Geomancer"
+		},
+		{
+			"id": "Krampus",
+			"name": "Krampus"
+		},
+		{
+			"id": "Kuchisake-Onna",
+			"name": "Kuchisake-Onna"
+		},
+		{
+			"id": "Kurobozu",
+			"name": "Kurobozu"
+		},
+		{
+			"id": "Kushtaka",
+			"name": "Kushtaka"
+		},
+		{
+			"id": "Lampad",
+			"name": "Lampad"
+		},
+		{
+			"id": "Lampad Queen",
+			"name": "Lampad Queen"
+		},
+		{
+			"id": "Lava Worm Swarm",
+			"name": "Lava Worm Swarm"
+		},
+		{
+			"id": "Ledalusca",
+			"name": "Ledalusca"
+		},
+		{
+			"id": "Leng Ghoul",
+			"name": "Leng Ghoul"
+		},
+		{
+			"id": "Levaloch",
+			"name": "Levaloch"
+		},
+		{
+			"id": "Lifeleecher Brawler",
+			"name": "Lifeleecher Brawler"
+		},
+		{
+			"id": "Locathah Hunter",
+			"name": "Locathah Hunter"
+		},
+		{
+			"id": "Love Siktempora",
+			"name": "Love Siktempora"
+		},
+		{
+			"id": "Lovelorn",
+			"name": "Lovelorn"
+		},
+		{
+			"id": "Maftet Guardian",
+			"name": "Maftet Guardian"
+		},
+		{
+			"id": "Mage-Eater Worm Swarm",
+			"name": "Mage-Eater Worm Swarm"
+		},
+		{
+			"id": "Maharaja",
+			"name": "Maharaja"
+		},
+		{
+			"id": "Manticore Paaridar",
+			"name": "Manticore Paaridar"
+		},
+		{
+			"id": "Megalictis",
+			"name": "Megalictis"
+		},
+		{
+			"id": "Megatherium",
+			"name": "Megatherium"
+		},
+		{
+			"id": "Melixie",
+			"name": "Melixie"
+		},
+		{
+			"id": "Mezlan",
+			"name": "Mezlan"
+		},
+		{
+			"id": "Mi-Go",
+			"name": "Mi-Go"
+		},
+		{
+			"id": "Millindemalion",
+			"name": "Millindemalion"
+		},
+		{
+			"id": "Misery Siktempora",
+			"name": "Misery Siktempora"
+		},
+		{
+			"id": "Mithral Golem",
+			"name": "Mithral Golem"
+		},
+		{
+			"id": "Mix Couatl",
+			"name": "Mix Couatl"
+		},
+		{
+			"id": "Mobogo",
+			"name": "Mobogo"
+		},
+		{
+			"id": "Mokele-mbembe",
+			"name": "Mokele-mbembe"
+		},
+		{
+			"id": "Monkey",
+			"name": "Monkey"
+		},
+		{
+			"id": "Monkey Swarm",
+			"name": "Monkey Swarm"
+		},
+		{
+			"id": "Moon Hag",
+			"name": "Moon Hag"
+		},
+		{
+			"id": "Moose",
+			"name": "Moose"
+		},
+		{
+			"id": "Mothman",
+			"name": "Mothman"
+		},
+		{
+			"id": "Munagola",
+			"name": "Munagola"
+		},
+		{
+			"id": "Munavri Spellblade",
+			"name": "Munavri Spellblade"
+		},
+		{
+			"id": "Myceloid",
+			"name": "Myceloid"
+		},
+		{
+			"id": "Nagaji Soldier",
+			"name": "Nagaji Soldier"
+		},
+		{
+			"id": "Namorrodor",
+			"name": "Namorrodor"
+		},
+		{
+			"id": "Narwhal",
+			"name": "Narwhal"
+		},
+		{
+			"id": "Necril Worm Swarm",
+			"name": "Necril Worm Swarm"
+		},
+		{
+			"id": "Nemhaith",
+			"name": "Nemhaith"
+		},
+		{
+			"id": "Nightgaunt",
+			"name": "Nightgaunt"
+		},
+		{
+			"id": "Nightmarchers",
+			"name": "Nightmarchers"
+		},
+		{
+			"id": "Nikaramsa",
+			"name": "Nikaramsa"
+		},
+		{
+			"id": "Nosferatu Malefactor",
+			"name": "Nosferatu Malefactor"
+		},
+		{
+			"id": "Nosferatu Overlord",
+			"name": "Nosferatu Overlord"
+		},
+		{
+			"id": "Nosferatu Thrall",
+			"name": "Nosferatu Thrall"
+		},
+		{
+			"id": "Nucol",
+			"name": "Nucol"
+		},
+		{
+			"id": "Nyktera",
+			"name": "Nyktera"
+		},
+		{
+			"id": "Occult Living Rune",
+			"name": "Occult Living Rune"
+		},
+		{
+			"id": "Oil Living Graffiti",
+			"name": "Oil Living Graffiti"
+		},
+		{
+			"id": "Omox",
+			"name": "Omox"
+		},
+		{
+			"id": "Ostovite",
+			"name": "Ostovite"
+		},
+		{
+			"id": "Ouroboros",
+			"name": "Ouroboros"
+		},
+		{
+			"id": "Ovinnik",
+			"name": "Ovinnik"
+		},
+		{
+			"id": "Owb",
+			"name": "Owb"
+		},
+		{
+			"id": "Owb Prophet",
+			"name": "Owb Prophet"
+		},
+		{
+			"id": "Pairaka",
+			"name": "Pairaka"
+		},
+		{
+			"id": "Pakalchi",
+			"name": "Pakalchi"
+		},
+		{
+			"id": "Palace Skelm",
+			"name": "Palace Skelm"
+		},
+		{
+			"id": "Penanggalan",
+			"name": "Penanggalan"
+		},
+		{
+			"id": "Peri",
+			"name": "Peri"
+		},
+		{
+			"id": "Phantom Beast",
+			"name": "Phantom Beast"
+		},
+		{
+			"id": "Phantom Knight",
+			"name": "Phantom Knight"
+		},
+		{
+			"id": "Piranha Swarm",
+			"name": "Piranha Swarm"
+		},
+		{
+			"id": "Plague Giant",
+			"name": "Plague Giant"
+		},
+		{
+			"id": "Platecarpus",
+			"name": "Platecarpus"
+		},
+		{
+			"id": "Popobawa",
+			"name": "Popobawa"
+		},
+		{
+			"id": "Primal Living Rune",
+			"name": "Primal Living Rune"
+		},
+		{
+			"id": "Procyal",
+			"name": "Procyal"
+		},
+		{
+			"id": "Pufferfish",
+			"name": "Pufferfish"
+		},
+		{
+			"id": "Pukwudgie",
+			"name": "Pukwudgie"
+		},
+		{
+			"id": "Quintessivore",
+			"name": "Quintessivore"
+		},
+		{
+			"id": "Raktavarna",
+			"name": "Raktavarna"
+		},
+		{
+			"id": "Rancorous Priesthood",
+			"name": "Rancorous Priesthood"
+		},
+		{
+			"id": "Rat Snake Swarm",
+			"name": "Rat Snake Swarm"
+		},
+		{
+			"id": "Red Fox",
+			"name": "Red Fox"
+		},
+		{
+			"id": "Rhu-chalik",
+			"name": "Rhu-chalik"
+		},
+		{
+			"id": "Ringhorn Ram",
+			"name": "Ringhorn Ram"
+		},
+		{
+			"id": "Roiling Incant",
+			"name": "Roiling Incant"
+		},
+		{
+			"id": "Rokurokubi",
+			"name": "Rokurokubi"
+		},
+		{
+			"id": "Rosethorn Ram",
+			"name": "Rosethorn Ram"
+		},
+		{
+			"id": "Sabosan",
+			"name": "Sabosan"
+		},
+		{
+			"id": "Samsaran Anchorite",
+			"name": "Samsaran Anchorite"
+		},
+		{
+			"id": "Sasquatch",
+			"name": "Sasquatch"
+		},
+		{
+			"id": "Scalescribe",
+			"name": "Scalescribe"
+		},
+		{
+			"id": "Seaweed Leshy",
+			"name": "Seaweed Leshy"
+		},
+		{
+			"id": "Seething Spirit",
+			"name": "Seething Spirit"
+		},
+		{
+			"id": "Sepid",
+			"name": "Sepid"
+		},
+		{
+			"id": "Severed Head",
+			"name": "Severed Head"
+		},
+		{
+			"id": "Shabti Redeemer",
+			"name": "Shabti Redeemer"
+		},
+		{
+			"id": "Shae",
+			"name": "Shae"
+		},
+		{
+			"id": "Shambler Troop",
+			"name": "Shambler Troop"
+		},
+		{
+			"id": "Shantak",
+			"name": "Shantak"
+		},
+		{
+			"id": "Shaukeen",
+			"name": "Shaukeen"
+		},
+		{
+			"id": "Shikigami",
+			"name": "Shikigami"
+		},
+		{
+			"id": "Shrine Skelm",
+			"name": "Shrine Skelm"
+		},
+		{
+			"id": "Shulsaga",
+			"name": "Shulsaga"
+		},
+		{
+			"id": "Silvanshee",
+			"name": "Silvanshee"
+		},
+		{
+			"id": "Skeleton Infantry",
+			"name": "Skeleton Infantry"
+		},
+		{
+			"id": "Skinstitch",
+			"name": "Skinstitch"
+		},
+		{
+			"id": "Skull Peeler",
+			"name": "Skull Peeler"
+		},
+		{
+			"id": "Skunk",
+			"name": "Skunk"
+		},
+		{
+			"id": "Slithering Pit",
+			"name": "Slithering Pit"
+		},
+		{
+			"id": "Sorcerous Skull Swarm",
+			"name": "Sorcerous Skull Swarm"
+		},
+		{
+			"id": "Soul Skelm",
+			"name": "Soul Skelm"
+		},
+		{
+			"id": "Spiny Eurypterid",
+			"name": "Spiny Eurypterid"
+		},
+		{
+			"id": "Squirming Swill",
+			"name": "Squirming Swill"
+		},
+		{
+			"id": "Squirrel Swarm",
+			"name": "Squirrel Swarm"
+		},
+		{
+			"id": "Stheno Harpist",
+			"name": "Stheno Harpist"
+		},
+		{
+			"id": "Stone Lion",
+			"name": "Stone Lion"
+		},
+		{
+			"id": "Stone Lion Cub",
+			"name": "Stone Lion Cub"
+		},
+		{
+			"id": "Storm Hag",
+			"name": "Storm Hag"
+		},
+		{
+			"id": "Street Skelm",
+			"name": "Street Skelm"
+		},
+		{
+			"id": "Strix Kinmate",
+			"name": "Strix Kinmate"
+		},
+		{
+			"id": "Sturzstromer",
+			"name": "Sturzstromer"
+		},
+		{
+			"id": "Sulfur Zombie",
+			"name": "Sulfur Zombie"
+		},
+		{
+			"id": "Sumbreiva",
+			"name": "Sumbreiva"
+		},
+		{
+			"id": "Swordkeeper",
+			"name": "Swordkeeper"
+		},
+		{
+			"id": "Tattoo Guardian",
+			"name": "Tattoo Guardian"
+		},
+		{
+			"id": "Terra-cotta Garrison",
+			"name": "Terra-cotta Garrison"
+		},
+		{
+			"id": "Terra-cotta Soldier",
+			"name": "Terra-cotta Soldier"
+		},
+		{
+			"id": "Terror Bird",
+			"name": "Terror Bird"
+		},
+		{
+			"id": "Terror Shrike",
+			"name": "Terror Shrike"
+		},
+		{
+			"id": "Thanatotic Titan",
+			"name": "Thanatotic Titan"
+		},
+		{
+			"id": "Three-toed Sloth",
+			"name": "Three-toed Sloth"
+		},
+		{
+			"id": "Tiddalik",
+			"name": "Tiddalik"
+		},
+		{
+			"id": "Tidehawk",
+			"name": "Tidehawk"
+		},
+		{
+			"id": "Tikbalang",
+			"name": "Tikbalang"
+		},
+		{
+			"id": "Tolokand",
+			"name": "Tolokand"
+		},
+		{
+			"id": "Tomb Giant",
+			"name": "Tomb Giant"
+		},
+		{
+			"id": "Tooth Fairy",
+			"name": "Tooth Fairy"
+		},
+		{
+			"id": "Tooth Fairy Swarm",
+			"name": "Tooth Fairy Swarm"
+		},
+		{
+			"id": "Toshigami",
+			"name": "Toshigami"
+		},
+		{
+			"id": "Trailgaunt",
+			"name": "Trailgaunt"
+		},
+		{
+			"id": "Trilobite",
+			"name": "Trilobite"
+		},
+		{
+			"id": "Trilobite Swarm",
+			"name": "Trilobite Swarm"
+		},
+		{
+			"id": "Triumph Siktempora",
+			"name": "Triumph Siktempora"
+		},
+		{
+			"id": "Tupilaq",
+			"name": "Tupilaq"
+		},
+		{
+			"id": "Tylosaurus",
+			"name": "Tylosaurus"
+		},
+		{
+			"id": "Tyrannosaurus Skeleton",
+			"name": "Tyrannosaurus Skeleton"
+		},
+		{
+			"id": "Tzitzimitl",
+			"name": "Tzitzimitl"
+		},
+		{
+			"id": "Umasi",
+			"name": "Umasi"
+		},
+		{
+			"id": "Valkyrie",
+			"name": "Valkyrie"
+		},
+		{
+			"id": "Vanara Disciple",
+			"name": "Vanara Disciple"
+		},
+		{
+			"id": "Vilderavn",
+			"name": "Vilderavn"
+		},
+		{
+			"id": "Vine Leshy",
+			"name": "Vine Leshy"
+		},
+		{
+			"id": "Viper Swarm",
+			"name": "Viper Swarm"
+		},
+		{
+			"id": "Vishkanya Infiltrator",
+			"name": "Vishkanya Infiltrator"
+		},
+		{
+			"id": "Vulpinal",
+			"name": "Vulpinal"
+		},
+		{
+			"id": "Water Wisp",
+			"name": "Water Wisp"
+		},
+		{
+			"id": "Wayang Whisperblade",
+			"name": "Wayang Whisperblade"
+		},
+		{
+			"id": "Weasel",
+			"name": "Weasel"
+		},
+		{
+			"id": "Werebat",
+			"name": "Werebat"
+		},
+		{
+			"id": "Werecrocodile",
+			"name": "Werecrocodile"
+		},
+		{
+			"id": "Wihsaak",
+			"name": "Wihsaak"
+		},
+		{
+			"id": "Winter Hag",
+			"name": "Winter Hag"
+		},
+		{
+			"id": "Wizard Sponge",
+			"name": "Wizard Sponge"
+		},
+		{
+			"id": "Wizard Sponge (Crypt)",
+			"name": "Wizard Sponge (Crypt)"
+		},
+		{
+			"id": "Wizard Sponge (Fey Domain)",
+			"name": "Wizard Sponge (Fey Domain)"
+		},
+		{
+			"id": "Wizard Sponge (Fiendish Temple)",
+			"name": "Wizard Sponge (Fiendish Temple)"
+		},
+		{
+			"id": "Wizard Sponge (Toxic Lair)",
+			"name": "Wizard Sponge (Toxic Lair)"
+		},
+		{
+			"id": "Wizard Sponge (Underwater)",
+			"name": "Wizard Sponge (Underwater)"
+		},
+		{
+			"id": "Wolliped",
+			"name": "Wolliped"
+		},
+		{
+			"id": "Wyrmwraith",
+			"name": "Wyrmwraith"
+		},
+		{
+			"id": "Wyrwood Sneak",
+			"name": "Wyrwood Sneak"
+		},
+		{
+			"id": "Ximtal",
+			"name": "Ximtal"
+		},
+		{
+			"id": "Xiuh Couatl",
+			"name": "Xiuh Couatl"
+		},
+		{
+			"id": "Yithian",
+			"name": "Yithian"
+		},
+		{
+			"id": "Young Forest Dragon",
+			"name": "Young Forest Dragon"
+		},
+		{
+			"id": "Young Sea Dragon",
+			"name": "Young Sea Dragon"
+		},
+		{
+			"id": "Young Sky Dragon",
+			"name": "Young Sky Dragon"
+		},
+		{
+			"id": "Young Sovereign Dragon",
+			"name": "Young Sovereign Dragon"
+		},
+		{
+			"id": "Young Underworld Dragon",
+			"name": "Young Underworld Dragon"
+		},
+		{
+			"id": "Yzobu",
+			"name": "Yzobu"
+		},
+		{
+			"id": "Zetogeki",
+			"name": "Zetogeki"
+		},
+		{
+			"id": "Zombie Dragon",
+			"name": "Zombie Dragon"
+		},
+		{
+			"id": "Zuishin",
+			"name": "Zuishin"
+		}
+	]
+}

@@ -1,0 +1,97 @@
+{
+	"label": "Fall of Plaguestone",
+	"entries": [
+		{
+			"id": "Alchemical Drudge",
+			"name": "Alchemical Drudge"
+		},
+		{
+			"id": "Bee Swarm",
+			"name": "Bee Swarm"
+		},
+		{
+			"id": "Blood Ooze",
+			"name": "Blood Ooze"
+		},
+		{
+			"id": "Bloodlash Bush",
+			"name": "Bloodlash Bush"
+		},
+		{
+			"id": "Caustic Wolf",
+			"name": "Caustic Wolf"
+		},
+		{
+			"id": "Drunken Farmer",
+			"name": "Drunken Farmer"
+		},
+		{
+			"id": "Falling Debris",
+			"name": "Falling Debris"
+		},
+		{
+			"id": "Fiery Leopard",
+			"name": "Fiery Leopard"
+		},
+		{
+			"id": "Giant Lightning Serpent",
+			"name": "Giant Lightning Serpent"
+		},
+		{
+			"id": "Graytusk",
+			"name": "Graytusk"
+		},
+		{
+			"id": "Hallod",
+			"name": "Hallod"
+		},
+		{
+			"id": "Ice Fall Trap",
+			"name": "Ice Fall Trap"
+		},
+		{
+			"id": "Icy Rat",
+			"name": "Icy Rat"
+		},
+		{
+			"id": "Lord Nar",
+			"name": "Lord Nar"
+		},
+		{
+			"id": "Mangy Wolf",
+			"name": "Mangy Wolf"
+		},
+		{
+			"id": "Mutant Wolf",
+			"name": "Mutant Wolf"
+		},
+		{
+			"id": "Orc Alchemist",
+			"name": "Orc Alchemist"
+		},
+		{
+			"id": "Stone Horse",
+			"name": "Stone Horse"
+		},
+		{
+			"id": "The Amalgam",
+			"name": "The Amalgam"
+		},
+		{
+			"id": "The Behemoth",
+			"name": "The Behemoth"
+		},
+		{
+			"id": "The Sculptor",
+			"name": "The Sculptor"
+		},
+		{
+			"id": "Vilree",
+			"name": "Vilree"
+		},
+		{
+			"id": "Vine Lasher",
+			"name": "Vine Lasher"
+		}
+	]
+}

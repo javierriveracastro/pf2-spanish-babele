@@ -1,0 +1,77 @@
+{
+	"label": "Troubles in Otari",
+	"entries": [
+		{
+			"id": "Brimstone Rat",
+			"name": "Brimstone Rat"
+		},
+		{
+			"id": "Bugbear Marauder",
+			"name": "Bugbear Marauder"
+		},
+		{
+			"id": "Collapsing Porch",
+			"name": "Collapsing Porch"
+		},
+		{
+			"id": "Hargrit Leadbuster",
+			"name": "Hargrit Leadbuster"
+		},
+		{
+			"id": "Kobold Trapmaster",
+			"name": "Kobold Trapmaster"
+		},
+		{
+			"id": "Kotgar Leadbuster",
+			"name": "Kotgar Leadbuster"
+		},
+		{
+			"id": "Kurnugian Jackal",
+			"name": "Kurnugian Jackal"
+		},
+		{
+			"id": "Magic Starknives Trap",
+			"name": "Magic Starknives Trap"
+		},
+		{
+			"id": "Morgrym Leadbuster",
+			"name": "Morgrym Leadbuster"
+		},
+		{
+			"id": "Nightmare Terrain",
+			"name": "Nightmare Terrain"
+		},
+		{
+			"id": "Omblin Leadbuster",
+			"name": "Omblin Leadbuster"
+		},
+		{
+			"id": "Orc Commander",
+			"name": "Orc Commander"
+		},
+		{
+			"id": "Orc Scrapper",
+			"name": "Orc Scrapper"
+		},
+		{
+			"id": "Scalliwing",
+			"name": "Scalliwing"
+		},
+		{
+			"id": "Stinkweed Shambler",
+			"name": "Stinkweed Shambler"
+		},
+		{
+			"id": "Tongues of Flame",
+			"name": "Tongues of Flame"
+		},
+		{
+			"id": "Viper Urn",
+			"name": "Viper Urn"
+		},
+		{
+			"id": "Web Lurker Noose",
+			"name": "Web Lurker Noose"
+		}
+	]
+}

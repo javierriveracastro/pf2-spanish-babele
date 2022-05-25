@@ -1,0 +1,32 @@
+{
+	"label": "PF2e Macros",
+	"entries": [
+		{
+			"id": "Earn Income"
+		},
+		{
+			"id": "Perception For Selected Tokens"
+		},
+		{
+			"id": "Rest for the Night"
+		},
+		{
+			"id": "Stealth For Selected Tokens"
+		},
+		{
+			"id": "Take a Breather"
+		},
+		{
+			"id": "Toggle Compendium Browser"
+		},
+		{
+			"id": "Travel Duration"
+		},
+		{
+			"id": "Treat Wounds"
+		},
+		{
+			"id": "XP"
+		}
+	]
+}

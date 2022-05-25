@@ -1,0 +1,217 @@
+{
+	"label": "Hazards (Rulebooks)",
+	"entries": [
+		{
+			"id": "Armageddon Orb",
+			"name": "Armageddon Orb"
+		},
+		{
+			"id": "Banshee's Symphony",
+			"name": "Banshee's Symphony"
+		},
+		{
+			"id": "Bloodthirsty Urge",
+			"name": "Bloodthirsty Urge"
+		},
+		{
+			"id": "Bottomless Pit",
+			"name": "Bottomless Pit"
+		},
+		{
+			"id": "Brown Mold",
+			"name": "Brown Mold"
+		},
+		{
+			"id": "Confounding Betrayal",
+			"name": "Confounding Betrayal"
+		},
+		{
+			"id": "Dance Of Death",
+			"name": "Dance Of Death"
+		},
+		{
+			"id": "Darkside Mirror",
+			"name": "Darkside Mirror"
+		},
+		{
+			"id": "Drowning Pit",
+			"name": "Drowning Pit"
+		},
+		{
+			"id": "Electric Latch Rune",
+			"name": "Electric Latch Rune"
+		},
+		{
+			"id": "Eternal Flame",
+			"name": "Eternal Flame"
+		},
+		{
+			"id": "Fireball Rune",
+			"name": "Fireball Rune"
+		},
+		{
+			"id": "Flensing Blades",
+			"name": "Flensing Blades"
+		},
+		{
+			"id": "Frozen Moment",
+			"name": "Frozen Moment"
+		},
+		{
+			"id": "Ghostly Choir",
+			"name": "Ghostly Choir"
+		},
+		{
+			"id": "Grasp Of The Damned",
+			"name": "Grasp Of The Damned"
+		},
+		{
+			"id": "Gravehall Trap",
+			"name": "Gravehall Trap"
+		},
+		{
+			"id": "Green Slime",
+			"name": "Green Slime"
+		},
+		{
+			"id": "Hallucination Powder Trap",
+			"name": "Hallucination Powder Trap"
+		},
+		{
+			"id": "Hammer Of Forbiddance",
+			"name": "Hammer Of Forbiddance"
+		},
+		{
+			"id": "Hampering Web",
+			"name": "Hampering Web"
+		},
+		{
+			"id": "Hidden Pit",
+			"name": "Hidden Pit"
+		},
+		{
+			"id": "Insistent Privacy Fence",
+			"name": "Insistent Privacy Fence"
+		},
+		{
+			"id": "Jealous Abjurer",
+			"name": "Jealous Abjurer"
+		},
+		{
+			"id": "Lava Flume Tube",
+			"name": "Lava Flume Tube"
+		},
+		{
+			"id": "Malevolent Mannequins",
+			"name": "Malevolent Mannequins"
+		},
+		{
+			"id": "Perilous Flash Flood",
+			"name": "Perilous Flash Flood"
+		},
+		{
+			"id": "Pharaoh's Ward",
+			"name": "Pharaoh's Ward"
+		},
+		{
+			"id": "Planar Rift",
+			"name": "Planar Rift"
+		},
+		{
+			"id": "Plummeting Doom",
+			"name": "Plummeting Doom"
+		},
+		{
+			"id": "Poisoned Dart Gallery",
+			"name": "Poisoned Dart Gallery"
+		},
+		{
+			"id": "Poisoned Lock",
+			"name": "Poisoned Lock"
+		},
+		{
+			"id": "Polymorph Trap",
+			"name": "Polymorph Trap"
+		},
+		{
+			"id": "Quicksand",
+			"name": "Quicksand"
+		},
+		{
+			"id": "Scythe Blades",
+			"name": "Scythe Blades"
+		},
+		{
+			"id": "Second Chance",
+			"name": "Second Chance"
+		},
+		{
+			"id": "Shrieker",
+			"name": "Shrieker"
+		},
+		{
+			"id": "Slamming Door",
+			"name": "Slamming Door"
+		},
+		{
+			"id": "Snowfall",
+			"name": "Snowfall"
+		},
+		{
+			"id": "Spear Launcher",
+			"name": "Spear Launcher"
+		},
+		{
+			"id": "Spectral Reflection",
+			"name": "Spectral Reflection"
+		},
+		{
+			"id": "Spinning Blade Pillar",
+			"name": "Spinning Blade Pillar"
+		},
+		{
+			"id": "Sportlebore",
+			"name": "Sportlebore"
+		},
+		{
+			"id": "Steam Vents",
+			"name": "Steam Vents"
+		},
+		{
+			"id": "Summoning Rune",
+			"name": "Summoning Rune"
+		},
+		{
+			"id": "Telekinetic Swarm Trap",
+			"name": "Telekinetic Swarm Trap"
+		},
+		{
+			"id": "Titanic Flytrap",
+			"name": "Titanic Flytrap"
+		},
+		{
+			"id": "Treacherous Scree",
+			"name": "Treacherous Scree"
+		},
+		{
+			"id": "Vorpal Executioner",
+			"name": "Vorpal Executioner"
+		},
+		{
+			"id": "Web Lurker Deadfall",
+			"name": "Web Lurker Deadfall"
+		},
+		{
+			"id": "Web Lurker Noose",
+			"name": "Web Lurker Noose"
+		},
+		{
+			"id": "Wheel Of Misery",
+			"name": "Wheel Of Misery"
+		},
+		{
+			"id": "Yellow Mold",
+			"name": "Yellow Mold"
+		}
+	]
+}
