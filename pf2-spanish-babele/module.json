@@ -29,7 +29,7 @@
     ],
   "socket": false,
   "download": "",
-  "manifest": "",
+  "manifest": "https://raw.githubusercontent.com/javierriveracastro/pf2-spanish-babele/main/pf2-spanish-babele/module.json",
   "protected": false,
   "coreTranslation": false,
   "library": false
