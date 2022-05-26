@@ -28,7 +28,7 @@
     }
     ],
   "socket": false,
-  "download": "",
+  "download": "https://github.com/javierriveracastro/pf2-spanish-babele/raw/main/pf2-spanish-babele.zip",
   "manifest": "https://raw.githubusercontent.com/javierriveracastro/pf2-spanish-babele/main/pf2-spanish-babele/module.json",
   "protected": false,
   "coreTranslation": false,
