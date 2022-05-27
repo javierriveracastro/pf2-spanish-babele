@@ -1,6 +1,7 @@
-/* globals Hooks, game, Babele */
+/* globals Hooks, game, Babele,console */
+
 Hooks.on('init', () => {
-    console.log ("INITIALIZING SPANISH TRANSLATION BABELE INIT")
+    console.log ("INITIALIZING SPANISH TRANSLATION BABELE INIT");
     if(typeof Babele !== 'undefined') {
         Babele.get().register({
             module: 'pf2-spanish-babele',
@@ -12,9 +13,4 @@ Hooks.on('init', () => {
 
 Hooks.once("babele.ready", () => {
     game.pf2e.ConditionManager.initialize();
-  //  Babele.get().register({
-  //      module: "pf2-spanish-babele",
-  //      lang: "es",
-  //      dir: "compendiums/es"
-  //  });
 });
