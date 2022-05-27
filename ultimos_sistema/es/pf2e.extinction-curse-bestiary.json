@@ -1,0 +1,673 @@
+{
+	"label": "Extinction Curse",
+	"entries": [
+		{
+			"id": "Abberton Ruffian",
+			"name": "Abberton Ruffian"
+		},
+		{
+			"id": "Adrivallo",
+			"name": "Adrivallo"
+		},
+		{
+			"id": "Aives The Smoke Dragon",
+			"name": "Aives The Smoke Dragon"
+		},
+		{
+			"id": "Ammut",
+			"name": "Ammut"
+		},
+		{
+			"id": "Andera Paldreen",
+			"name": "Andera Paldreen"
+		},
+		{
+			"id": "Angry Vegetation",
+			"name": "Angry Vegetation"
+		},
+		{
+			"id": "Ararda",
+			"name": "Ararda"
+		},
+		{
+			"id": "Arskuva The Gnasher",
+			"name": "Arskuva The Gnasher"
+		},
+		{
+			"id": "Aukashungi Swarm",
+			"name": "Aukashungi Swarm"
+		},
+		{
+			"id": "Axiomatic Polymorph Trap",
+			"name": "Axiomatic Polymorph Trap"
+		},
+		{
+			"id": "Barking Stag",
+			"name": "Barking Stag"
+		},
+		{
+			"id": "Bitter Truth Bandit",
+			"name": "Bitter Truth Bandit"
+		},
+		{
+			"id": "Blood Wolf",
+			"name": "Blood Wolf"
+		},
+		{
+			"id": "Bogey",
+			"name": "Bogey"
+		},
+		{
+			"id": "Bogeyman",
+			"name": "Bogeyman"
+		},
+		{
+			"id": "Bone Croupier",
+			"name": "Bone Croupier"
+		},
+		{
+			"id": "Brughadatch",
+			"name": "Brughadatch"
+		},
+		{
+			"id": "Bugaboo",
+			"name": "Bugaboo"
+		},
+		{
+			"id": "Bugul Noz",
+			"name": "Bugul Noz"
+		},
+		{
+			"id": "Buzzing Latch Rune",
+			"name": "Buzzing Latch Rune"
+		},
+		{
+			"id": "Cat Sith",
+			"name": "Cat Sith"
+		},
+		{
+			"id": "Catacomb Cave-In",
+			"name": "Catacomb Cave-In"
+		},
+		{
+			"id": "Caustic Dart Trap",
+			"name": "Caustic Dart Trap"
+		},
+		{
+			"id": "Cavnakash",
+			"name": "Cavnakash"
+		},
+		{
+			"id": "Celestial Menagerie Bruiser",
+			"name": "Celestial Menagerie Bruiser"
+		},
+		{
+			"id": "Chimpanzee Visitant",
+			"name": "Chimpanzee Visitant"
+		},
+		{
+			"id": "Ciza",
+			"name": "Ciza"
+		},
+		{
+			"id": "Convergence Lattice",
+			"name": "Convergence Lattice"
+		},
+		{
+			"id": "Convergent Giant Eagle",
+			"name": "Convergent Giant Eagle"
+		},
+		{
+			"id": "Convergent Kendley Nathrael",
+			"name": "Convergent Kendley Nathrael"
+		},
+		{
+			"id": "Convergent Soldier",
+			"name": "Convergent Soldier"
+		},
+		{
+			"id": "Corrosive Lizard",
+			"name": "Corrosive Lizard"
+		},
+		{
+			"id": "Corrupted Priest",
+			"name": "Corrupted Priest"
+		},
+		{
+			"id": "Corrupted Retainer",
+			"name": "Corrupted Retainer"
+		},
+		{
+			"id": "Counteflora",
+			"name": "Counteflora"
+		},
+		{
+			"id": "Crushing Gate Trap",
+			"name": "Crushing Gate Trap"
+		},
+		{
+			"id": "Cu Sith",
+			"name": "Cu Sith"
+		},
+		{
+			"id": "Daring Danika",
+			"name": "Daring Danika"
+		},
+		{
+			"id": "Darklands Alchemical Golem",
+			"name": "Darklands Alchemical Golem"
+		},
+		{
+			"id": "Darricus Stallit",
+			"name": "Darricus Stallit"
+		},
+		{
+			"id": "Death Drider",
+			"name": "Death Drider"
+		},
+		{
+			"id": "Deghuun (Child of Mhar)",
+			"name": "Deghuun (Child of Mhar)"
+		},
+		{
+			"id": "Delamar Gianvin",
+			"name": "Delamar Gianvin"
+		},
+		{
+			"id": "Doblagub",
+			"name": "Doblagub"
+		},
+		{
+			"id": "Dream Pollen Pod",
+			"name": "Dream Pollen Pod"
+		},
+		{
+			"id": "Drow Bodyguard Golem",
+			"name": "Drow Bodyguard Golem"
+		},
+		{
+			"id": "Drunken Brawler",
+			"name": "Drunken Brawler"
+		},
+		{
+			"id": "Dyzallin Shraen",
+			"name": "Dyzallin Shraen"
+		},
+		{
+			"id": "Dyzallin's Golem",
+			"name": "Dyzallin's Golem"
+		},
+		{
+			"id": "Echoes of Faith",
+			"name": "Echoes of Faith"
+		},
+		{
+			"id": "Elysian Sheep",
+			"name": "Elysian Sheep"
+		},
+		{
+			"id": "Envenomed Thorns Trap",
+			"name": "Envenomed Thorns Trap"
+		},
+		{
+			"id": "Evora Yarket",
+			"name": "Evora Yarket"
+		},
+		{
+			"id": "Explosive Furniture Trap",
+			"name": "Explosive Furniture Trap"
+		},
+		{
+			"id": "Faceless Butcher",
+			"name": "Faceless Butcher"
+		},
+		{
+			"id": "Flea Swarm",
+			"name": "Flea Swarm"
+		},
+		{
+			"id": "Gahlepod",
+			"name": "Gahlepod"
+		},
+		{
+			"id": "Ghost Crystal Cloud",
+			"name": "Ghost Crystal Cloud"
+		},
+		{
+			"id": "Giant Aukashungi",
+			"name": "Giant Aukashungi"
+		},
+		{
+			"id": "Giant Flea",
+			"name": "Giant Flea"
+		},
+		{
+			"id": "Ginjana Mindkeeper",
+			"name": "Ginjana Mindkeeper"
+		},
+		{
+			"id": "Gluttondark Babau",
+			"name": "Gluttondark Babau"
+		},
+		{
+			"id": "Guardian of the Faithful",
+			"name": "Guardian of the Faithful"
+		},
+		{
+			"id": "Guthallath Rockslide",
+			"name": "Guthallath Rockslide"
+		},
+		{
+			"id": "Hallowed Wheel",
+			"name": "Hallowed Wheel"
+		},
+		{
+			"id": "Harrow Doll",
+			"name": "Harrow Doll"
+		},
+		{
+			"id": "Headless Xulgath",
+			"name": "Headless Xulgath"
+		},
+		{
+			"id": "Helg Eats-The-Eaters",
+			"name": "Helg Eats-The-Eaters"
+		},
+		{
+			"id": "Herecite Of Zevgavizeb",
+			"name": "Herecite Of Zevgavizeb"
+		},
+		{
+			"id": "Hollow Hush",
+			"name": "Hollow Hush"
+		},
+		{
+			"id": "Hooklimb Xulgath",
+			"name": "Hooklimb Xulgath"
+		},
+		{
+			"id": "Horba",
+			"name": "Horba"
+		},
+		{
+			"id": "Host of Spirits",
+			"name": "Host of Spirits"
+		},
+		{
+			"id": "Iffdahsil",
+			"name": "Iffdahsil"
+		},
+		{
+			"id": "Imperious Darkside Mirror",
+			"name": "Imperious Darkside Mirror"
+		},
+		{
+			"id": "Iridescent Elephant",
+			"name": "Iridescent Elephant"
+		},
+		{
+			"id": "Jellico Bounce-Bounce",
+			"name": "Jellico Bounce-Bounce"
+		},
+		{
+			"id": "Juvenile Boar",
+			"name": "Juvenile Boar"
+		},
+		{
+			"id": "Kalkek",
+			"name": "Kalkek"
+		},
+		{
+			"id": "Kharostan",
+			"name": "Kharostan"
+		},
+		{
+			"id": "Kimilekki",
+			"name": "Kimilekki"
+		},
+		{
+			"id": "Kirosthrek",
+			"name": "Kirosthrek"
+		},
+		{
+			"id": "Krooth Summoning Rune",
+			"name": "Krooth Summoning Rune"
+		},
+		{
+			"id": "Lakkai One-Fang",
+			"name": "Lakkai One-Fang"
+		},
+		{
+			"id": "Leandrus",
+			"name": "Leandrus"
+		},
+		{
+			"id": "Ledorick Banyan",
+			"name": "Ledorick Banyan"
+		},
+		{
+			"id": "Lion Visitant",
+			"name": "Lion Visitant"
+		},
+		{
+			"id": "Luminous Ooze",
+			"name": "Luminous Ooze"
+		},
+		{
+			"id": "Lyrt Cozurn",
+			"name": "Lyrt Cozurn"
+		},
+		{
+			"id": "Masks of Aroden's Guises",
+			"name": "Masks of Aroden's Guises"
+		},
+		{
+			"id": "Maze of Mirrors",
+			"name": "Maze of Mirrors"
+		},
+		{
+			"id": "Mechanical Carny",
+			"name": "Mechanical Carny"
+		},
+		{
+			"id": "Mistress Dusklight",
+			"name": "Mistress Dusklight"
+		},
+		{
+			"id": "Mukradi Summoning Runes",
+			"name": "Mukradi Summoning Runes"
+		},
+		{
+			"id": "Muse Phantom",
+			"name": "Muse Phantom"
+		},
+		{
+			"id": "Muurfeli",
+			"name": "Muurfeli"
+		},
+		{
+			"id": "Nemmia Bramblecloak",
+			"name": "Nemmia Bramblecloak"
+		},
+		{
+			"id": "Nihiris",
+			"name": "Nihiris"
+		},
+		{
+			"id": "Obsidian Golem",
+			"name": "Obsidian Golem"
+		},
+		{
+			"id": "Pin Tingwheely",
+			"name": "Pin Tingwheely"
+		},
+		{
+			"id": "Pinacosaurus",
+			"name": "Pinacosaurus"
+		},
+		{
+			"id": "Poisoned Secret Door Trap",
+			"name": "Poisoned Secret Door Trap"
+		},
+		{
+			"id": "Pruana Two-punch",
+			"name": "Pruana Two-punch"
+		},
+		{
+			"id": "Qormintur",
+			"name": "Qormintur"
+		},
+		{
+			"id": "Qurashith",
+			"name": "Qurashith"
+		},
+		{
+			"id": "Raptor Guard Wight",
+			"name": "Raptor Guard Wight"
+		},
+		{
+			"id": "Raving Spirit",
+			"name": "Raving Spirit"
+		},
+		{
+			"id": "Resin-seep Xulgath",
+			"name": "Resin-seep Xulgath"
+		},
+		{
+			"id": "Ruanna Nyamma",
+			"name": "Ruanna Nyamma"
+		},
+		{
+			"id": "Runkrunk",
+			"name": "Runkrunk"
+		},
+		{
+			"id": "Sarvel Ever-Hunger",
+			"name": "Sarvel Ever-Hunger"
+		},
+		{
+			"id": "Saurian Warmonger",
+			"name": "Saurian Warmonger"
+		},
+		{
+			"id": "Saurian Worldwatcher",
+			"name": "Saurian Worldwatcher"
+		},
+		{
+			"id": "Shanchek",
+			"name": "Shanchek"
+		},
+		{
+			"id": "Shoony Hierarch",
+			"name": "Shoony Hierarch"
+		},
+		{
+			"id": "Shoony Militia Member",
+			"name": "Shoony Militia Member"
+		},
+		{
+			"id": "Shoony Tiller",
+			"name": "Shoony Tiller"
+		},
+		{
+			"id": "Shraen Graveknight",
+			"name": "Shraen Graveknight"
+		},
+		{
+			"id": "Skarja",
+			"name": "Skarja"
+		},
+		{
+			"id": "Smiler",
+			"name": "Smiler"
+		},
+		{
+			"id": "Smoldering Leopard",
+			"name": "Smoldering Leopard"
+		},
+		{
+			"id": "Sodden Sentinel",
+			"name": "Sodden Sentinel"
+		},
+		{
+			"id": "Spiked Barricade Trap",
+			"name": "Spiked Barricade Trap"
+		},
+		{
+			"id": "Stabbing Sentinel",
+			"name": "Stabbing Sentinel"
+		},
+		{
+			"id": "Starved Staff",
+			"name": "Starved Staff"
+		},
+		{
+			"id": "Stirvyn Banyan",
+			"name": "Stirvyn Banyan"
+		},
+		{
+			"id": "Suffering Xulgaths",
+			"name": "Suffering Xulgaths"
+		},
+		{
+			"id": "Swardlands Delinquent",
+			"name": "Swardlands Delinquent"
+		},
+		{
+			"id": "Tallow Ooze",
+			"name": "Tallow Ooze"
+		},
+		{
+			"id": "Tanessa Fleer",
+			"name": "Tanessa Fleer"
+		},
+		{
+			"id": "Tashlock Banyan",
+			"name": "Tashlock Banyan"
+		},
+		{
+			"id": "The Vanish Man",
+			"name": "The Vanish Man"
+		},
+		{
+			"id": "Thessekka",
+			"name": "Thessekka"
+		},
+		{
+			"id": "Thief's Trap",
+			"name": "Thief's Trap"
+		},
+		{
+			"id": "Thunderstone Cascade Trap",
+			"name": "Thunderstone Cascade Trap"
+		},
+		{
+			"id": "Ulthadar",
+			"name": "Ulthadar"
+		},
+		{
+			"id": "Urdefhan Dominator",
+			"name": "Urdefhan Dominator"
+		},
+		{
+			"id": "Urdefhan High Tormentor",
+			"name": "Urdefhan High Tormentor"
+		},
+		{
+			"id": "Urdefhan Hunter",
+			"name": "Urdefhan Hunter"
+		},
+		{
+			"id": "Urushil",
+			"name": "Urushil"
+		},
+		{
+			"id": "Vavakia",
+			"name": "Vavakia"
+		},
+		{
+			"id": "Vermlek",
+			"name": "Vermlek"
+		},
+		{
+			"id": "Viktor Volkano",
+			"name": "Viktor Volkano"
+		},
+		{
+			"id": "Violet",
+			"name": "Violet"
+		},
+		{
+			"id": "Viskithrel",
+			"name": "Viskithrel"
+		},
+		{
+			"id": "Vitalia",
+			"name": "Vitalia"
+		},
+		{
+			"id": "War Sauropeltas",
+			"name": "War Sauropeltas"
+		},
+		{
+			"id": "Wight Cultist",
+			"name": "Wight Cultist"
+		},
+		{
+			"id": "Witch-Priests' Curse",
+			"name": "Witch-Priests' Curse"
+		},
+		{
+			"id": "Xilvirek",
+			"name": "Xilvirek"
+		},
+		{
+			"id": "Xulgath Bilebearer",
+			"name": "Xulgath Bilebearer"
+		},
+		{
+			"id": "Xulgath Bomber",
+			"name": "Xulgath Bomber"
+		},
+		{
+			"id": "Xulgath Deepmouth",
+			"name": "Xulgath Deepmouth"
+		},
+		{
+			"id": "Xulgath Demon-Caller",
+			"name": "Xulgath Demon-Caller"
+		},
+		{
+			"id": "Xulgath Gutrager",
+			"name": "Xulgath Gutrager"
+		},
+		{
+			"id": "Xulgath Hardscale",
+			"name": "Xulgath Hardscale"
+		},
+		{
+			"id": "Xulgath Herd-Tender",
+			"name": "Xulgath Herd-Tender"
+		},
+		{
+			"id": "Xulgath Mage",
+			"name": "Xulgath Mage"
+		},
+		{
+			"id": "Xulgath Roughrider",
+			"name": "Xulgath Roughrider"
+		},
+		{
+			"id": "Xulgath Skirmisher",
+			"name": "Xulgath Skirmisher"
+		},
+		{
+			"id": "Xulgath Spinesnapper",
+			"name": "Xulgath Spinesnapper"
+		},
+		{
+			"id": "Xulgath Stoneliege",
+			"name": "Xulgath Stoneliege"
+		},
+		{
+			"id": "Xulgath Thoughtmaw",
+			"name": "Xulgath Thoughtmaw"
+		},
+		{
+			"id": "Yaganty",
+			"name": "Yaganty"
+		},
+		{
+			"id": "Zashathal Head-Taker",
+			"name": "Zashathal Head-Taker"
+		},
+		{
+			"id": "Zinogyvaz",
+			"name": "Zinogyvaz"
+		},
+		{
+			"id": "Zuipnyrn",
+			"name": "Zuipnyrn"
+		}
+	]
+}

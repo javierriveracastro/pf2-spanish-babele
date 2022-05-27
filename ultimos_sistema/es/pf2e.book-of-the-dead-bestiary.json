@@ -1,0 +1,445 @@
+{
+	"label": "Book of the Dead Bestiary",
+	"entries": [
+		{
+			"id": "Beetle Carapace",
+			"name": "Beetle Carapace"
+		},
+		{
+			"id": "Bhuta",
+			"name": "Bhuta"
+		},
+		{
+			"id": "Blood Tears",
+			"name": "Blood Tears"
+		},
+		{
+			"id": "Blood-Soaked Soil",
+			"name": "Blood-Soaked Soil"
+		},
+		{
+			"id": "Bloodthirsty Toy",
+			"name": "Bloodthirsty Toy"
+		},
+		{
+			"id": "Bone Croupier",
+			"name": "Bone Croupier"
+		},
+		{
+			"id": "Cadaverous Rake",
+			"name": "Cadaverous Rake"
+		},
+		{
+			"id": "Cannibalistic Echoes",
+			"name": "Cannibalistic Echoes"
+		},
+		{
+			"id": "Child of Urgathoa",
+			"name": "Child of Urgathoa"
+		},
+		{
+			"id": "Cold Spot",
+			"name": "Cold Spot"
+		},
+		{
+			"id": "Combusted",
+			"name": "Combusted"
+		},
+		{
+			"id": "Corpseroot",
+			"name": "Corpseroot"
+		},
+		{
+			"id": "Daqqanoenyent",
+			"name": "Daqqanoenyent"
+		},
+		{
+			"id": "Death Coach",
+			"name": "Death Coach"
+		},
+		{
+			"id": "Deathless Acolyte Of Urgathoa",
+			"name": "Deathless Acolyte Of Urgathoa"
+		},
+		{
+			"id": "Deathless Hierophant Of Urgathoa",
+			"name": "Deathless Hierophant Of Urgathoa"
+		},
+		{
+			"id": "Decrepit Mummy",
+			"name": "Decrepit Mummy"
+		},
+		{
+			"id": "Desperate Hunger",
+			"name": "Desperate Hunger"
+		},
+		{
+			"id": "Disembodied Voices",
+			"name": "Disembodied Voices"
+		},
+		{
+			"id": "Drake Skeleton",
+			"name": "Drake Skeleton"
+		},
+		{
+			"id": "Ecorche",
+			"name": "Ecorche"
+		},
+		{
+			"id": "Ectoplasmic Grasp",
+			"name": "Ectoplasmic Grasp"
+		},
+		{
+			"id": "Excorion",
+			"name": "Excorion"
+		},
+		{
+			"id": "Faithless Ecclesiarch",
+			"name": "Faithless Ecclesiarch"
+		},
+		{
+			"id": "Fallen Champion",
+			"name": "Fallen Champion"
+		},
+		{
+			"id": "Festering Gnasher",
+			"name": "Festering Gnasher"
+		},
+		{
+			"id": "Fiddling Bones",
+			"name": "Fiddling Bones"
+		},
+		{
+			"id": "Final Words",
+			"name": "Final Words"
+		},
+		{
+			"id": "Flood of Spirits",
+			"name": "Flood of Spirits"
+		},
+		{
+			"id": "Fluxwraith",
+			"name": "Fluxwraith"
+		},
+		{
+			"id": "Frenetic Musician",
+			"name": "Frenetic Musician"
+		},
+		{
+			"id": "Gallowdead",
+			"name": "Gallowdead"
+		},
+		{
+			"id": "Gashadokuro",
+			"name": "Gashadokuro"
+		},
+		{
+			"id": "Geist",
+			"name": "Geist"
+		},
+		{
+			"id": "Gholdako",
+			"name": "Gholdako"
+		},
+		{
+			"id": "Ghost Pirate Captain",
+			"name": "Ghost Pirate Captain"
+		},
+		{
+			"id": "Ghul",
+			"name": "Ghul"
+		},
+		{
+			"id": "Glimpse Grave",
+			"name": "Glimpse Grave"
+		},
+		{
+			"id": "Grappling Spirit",
+			"name": "Grappling Spirit"
+		},
+		{
+			"id": "Graveknight Warmaster",
+			"name": "Graveknight Warmaster"
+		},
+		{
+			"id": "Harlo Krant",
+			"name": "Harlo Krant"
+		},
+		{
+			"id": "Hollow Serpent",
+			"name": "Hollow Serpent"
+		},
+		{
+			"id": "Horde Lich",
+			"name": "Horde Lich"
+		},
+		{
+			"id": "Hungry Ghost",
+			"name": "Hungry Ghost"
+		},
+		{
+			"id": "Hunter Wight",
+			"name": "Hunter Wight"
+		},
+		{
+			"id": "Husk Zombie",
+			"name": "Husk Zombie"
+		},
+		{
+			"id": "Ice Mummy",
+			"name": "Ice Mummy"
+		},
+		{
+			"id": "Ichor Slinger",
+			"name": "Ichor Slinger"
+		},
+		{
+			"id": "Iroran Mummy",
+			"name": "Iroran Mummy"
+		},
+		{
+			"id": "Iruxi Ossature",
+			"name": "Iruxi Ossature"
+		},
+		{
+			"id": "Jitterbone Contortionist",
+			"name": "Jitterbone Contortionist"
+		},
+		{
+			"id": "Lacedon",
+			"name": "Lacedon"
+		},
+		{
+			"id": "Last Guard",
+			"name": "Last Guard"
+		},
+		{
+			"id": "Little Man In The Woods",
+			"name": "Little Man In The Woods"
+		},
+		{
+			"id": "Llorona",
+			"name": "Llorona"
+		},
+		{
+			"id": "Locking Door",
+			"name": "Locking Door"
+		},
+		{
+			"id": "Minister Of Tumult",
+			"name": "Minister Of Tumult"
+		},
+		{
+			"id": "Mummified Cat",
+			"name": "Mummified Cat"
+		},
+		{
+			"id": "Mummy Prophet Of Set",
+			"name": "Mummy Prophet Of Set"
+		},
+		{
+			"id": "Nasurgeth",
+			"name": "Nasurgeth"
+		},
+		{
+			"id": "Obrousian",
+			"name": "Obrousian"
+		},
+		{
+			"id": "Onryo",
+			"name": "Onryo"
+		},
+		{
+			"id": "Pale Sovereign",
+			"name": "Pale Sovereign"
+		},
+		{
+			"id": "Pale Stranger",
+			"name": "Pale Stranger"
+		},
+		{
+			"id": "Phantom Footsteps",
+			"name": "Phantom Footsteps"
+		},
+		{
+			"id": "Phantom Jailer",
+			"name": "Phantom Jailer"
+		},
+		{
+			"id": "Polong",
+			"name": "Polong"
+		},
+		{
+			"id": "Predatory Rabbit",
+			"name": "Predatory Rabbit"
+		},
+		{
+			"id": "Priest Of Kabriri",
+			"name": "Priest Of Kabriri"
+		},
+		{
+			"id": "Provincial Jiang-shi",
+			"name": "Provincial Jiang-shi"
+		},
+		{
+			"id": "Prowler Wight",
+			"name": "Prowler Wight"
+		},
+		{
+			"id": "Queen Sluagh",
+			"name": "Queen Sluagh"
+		},
+		{
+			"id": "Raw Nerve",
+			"name": "Raw Nerve"
+		},
+		{
+			"id": "Relictner Eroder",
+			"name": "Relictner Eroder"
+		},
+		{
+			"id": "Runecarved Lich",
+			"name": "Runecarved Lich"
+		},
+		{
+			"id": "Scorned Hound",
+			"name": "Scorned Hound"
+		},
+		{
+			"id": "Seetangeist",
+			"name": "Seetangeist"
+		},
+		{
+			"id": "Shadern Immolator",
+			"name": "Shadern Immolator"
+		},
+		{
+			"id": "Shattered Window",
+			"name": "Shattered Window"
+		},
+		{
+			"id": "Shredskin",
+			"name": "Shredskin"
+		},
+		{
+			"id": "Siabrae",
+			"name": "Siabrae"
+		},
+		{
+			"id": "Silent Stalker",
+			"name": "Silent Stalker"
+		},
+		{
+			"id": "Skeletal Mage",
+			"name": "Skeletal Mage"
+		},
+		{
+			"id": "Skeletal Soldier",
+			"name": "Skeletal Soldier"
+		},
+		{
+			"id": "Skeletal Titan",
+			"name": "Skeletal Titan"
+		},
+		{
+			"id": "Sluagh Reaper",
+			"name": "Sluagh Reaper"
+		},
+		{
+			"id": "Sykever",
+			"name": "Sykever"
+		},
+		{
+			"id": "Taunting Skull",
+			"name": "Taunting Skull"
+		},
+		{
+			"id": "Toppling Furniture",
+			"name": "Toppling Furniture"
+		},
+		{
+			"id": "Tormented (Burning)",
+			"name": "Tormented (Burning)"
+		},
+		{
+			"id": "Tormented (Crushing)",
+			"name": "Tormented (Crushing)"
+		},
+		{
+			"id": "Tormented (Dislocation)",
+			"name": "Tormented (Dislocation)"
+		},
+		{
+			"id": "Tormented (Drowning)",
+			"name": "Tormented (Drowning)"
+		},
+		{
+			"id": "Tormented (Impalement)",
+			"name": "Tormented (Impalement)"
+		},
+		{
+			"id": "Tormented (Starvation)",
+			"name": "Tormented (Starvation)"
+		},
+		{
+			"id": "Unrisen",
+			"name": "Unrisen"
+		},
+		{
+			"id": "Urveth",
+			"name": "Urveth"
+		},
+		{
+			"id": "Vanyver",
+			"name": "Vanyver"
+		},
+		{
+			"id": "Vetalarana Emergent",
+			"name": "Vetalarana Emergent"
+		},
+		{
+			"id": "Vetalarana Manipulator",
+			"name": "Vetalarana Manipulator"
+		},
+		{
+			"id": "Violent Shove",
+			"name": "Violent Shove"
+		},
+		{
+			"id": "Waldgeist",
+			"name": "Waldgeist"
+		},
+		{
+			"id": "Weight of Guilt",
+			"name": "Weight of Guilt"
+		},
+		{
+			"id": "Wight Commander",
+			"name": "Wight Commander"
+		},
+		{
+			"id": "Withered",
+			"name": "Withered"
+		},
+		{
+			"id": "Wolf Skeleton",
+			"name": "Wolf Skeleton"
+		},
+		{
+			"id": "Zombie Lord",
+			"name": "Zombie Lord"
+		},
+		{
+			"id": "Zombie Mammoth",
+			"name": "Zombie Mammoth"
+		},
+		{
+			"id": "Zombie Owlbear",
+			"name": "Zombie Owlbear"
+		},
+		{
+			"id": "Zombie Snake",
+			"name": "Zombie Snake"
+		}
+	]
+}

@@ -1,0 +1,128 @@
+{
+	"label": "Action Macros",
+	"entries": [
+		{
+			"id": "Athletics: Arcane Slam"
+		},
+		{
+			"id": "Balance: Acrobatics"
+		},
+		{
+			"id": "Bon Mot: Diplomacy"
+		},
+		{
+			"id": "Climb: Athletics"
+		},
+		{
+			"id": "Coerce: Intimidation"
+		},
+		{
+			"id": "Command an Animal: Nature"
+		},
+		{
+			"id": "Craft: Crafting"
+		},
+		{
+			"id": "Create a Diversion - Distracting Words: Deception"
+		},
+		{
+			"id": "Create a Diversion - Gesture: Deception"
+		},
+		{
+			"id": "Create a Diversion - Trick: Deception"
+		},
+		{
+			"id": "Demoralize: Intimidation"
+		},
+		{
+			"id": "Disarm: Athletics"
+		},
+		{
+			"id": "Encouraging Words"
+		},
+		{
+			"id": "Exploration: Avoid Notice"
+		},
+		{
+			"id": "Feint: Deception"
+		},
+		{
+			"id": "Force Open: Athletics"
+		},
+		{
+			"id": "Gather Information: Diplomacy"
+		},
+		{
+			"id": "Grapple: Athletics"
+		},
+		{
+			"id": "Hide: Stealth"
+		},
+		{
+			"id": "High Jump: Athletics"
+		},
+		{
+			"id": "Impersonate: Deception"
+		},
+		{
+			"id": "Lie: Deception"
+		},
+		{
+			"id": "Long Jump: Athletics"
+		},
+		{
+			"id": "Make an Impression: Diplomacy"
+		},
+		{
+			"id": "Maneuver in Flight: Acrobatics"
+		},
+		{
+			"id": "Pick a Lock: Thievery"
+		},
+		{
+			"id": "Raise a Shield"
+		},
+		{
+			"id": "Request: Diplomacy"
+		},
+		{
+			"id": "Seek: Perception"
+		},
+		{
+			"id": "Sense Direction: Survival"
+		},
+		{
+			"id": "Sense Motive: Perception"
+		},
+		{
+			"id": "Shove: Athletics"
+		},
+		{
+			"id": "Sneak: Stealth"
+		},
+		{
+			"id": "Squeeze: Acrobatics"
+		},
+		{
+			"id": "Steel Your Resolve"
+		},
+		{
+			"id": "Swim: Athletics"
+		},
+		{
+			"id": "Track: Survival"
+		},
+		{
+			"id": "Treat Poison: Medicine"
+		},
+		{
+			"id": "Trip: Athletics"
+		},
+		{
+			"id": "Tumble Through: Acrobatics"
+		},
+		{
+			"id": "Whirling Throw: Athletics"
+		}
+	]
+}

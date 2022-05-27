@@ -1,0 +1,257 @@
+{
+	"label": "Beginner Box Bestiary",
+	"entries": [
+		{
+			"id": "Animated Armor (BB)",
+			"name": "Animated Armor (BB)"
+		},
+		{
+			"id": "Basilisk (BB)",
+			"name": "Basilisk (BB)"
+		},
+		{
+			"id": "Black Kobold Dragon Mage (BB)",
+			"name": "Black Kobold Dragon Mage (BB)"
+		},
+		{
+			"id": "Blue Kobold Dragon Mage (BB)",
+			"name": "Blue Kobold Dragon Mage (BB)"
+		},
+		{
+			"id": "Boar (BB)",
+			"name": "Boar (BB)"
+		},
+		{
+			"id": "Brine Shark (BB)",
+			"name": "Brine Shark (BB)"
+		},
+		{
+			"id": "Bugbear Marauder (BB)",
+			"name": "Bugbear Marauder (BB)"
+		},
+		{
+			"id": "Central Spears (BB)",
+			"name": "Central Spears (BB)"
+		},
+		{
+			"id": "Cinder Rat (BB)",
+			"name": "Cinder Rat (BB)"
+		},
+		{
+			"id": "Doppelganger (BB)",
+			"name": "Doppelganger (BB)"
+		},
+		{
+			"id": "Drow Priestess (BB)",
+			"name": "Drow Priestess (BB)"
+		},
+		{
+			"id": "Drow Sneak (BB)",
+			"name": "Drow Sneak (BB)"
+		},
+		{
+			"id": "Drow Warrior (BB)",
+			"name": "Drow Warrior (BB)"
+		},
+		{
+			"id": "Envenomed Lock (BB)",
+			"name": "Envenomed Lock (BB)"
+		},
+		{
+			"id": "Falling Ceiling (BB)",
+			"name": "Falling Ceiling (BB)"
+		},
+		{
+			"id": "Gargoyle (BB)",
+			"name": "Gargoyle (BB)"
+		},
+		{
+			"id": "Ghost Commoner (BB)",
+			"name": "Ghost Commoner (BB)"
+		},
+		{
+			"id": "Ghoul (BB)",
+			"name": "Ghoul (BB)"
+		},
+		{
+			"id": "Giant Centipede (BB)",
+			"name": "Giant Centipede (BB)"
+		},
+		{
+			"id": "Giant Rat (BB)",
+			"name": "Giant Rat (BB)"
+		},
+		{
+			"id": "Giant Spider (BB)",
+			"name": "Giant Spider (BB)"
+		},
+		{
+			"id": "Giant Viper (BB)",
+			"name": "Giant Viper (BB)"
+		},
+		{
+			"id": "Goblin Commando (BB)",
+			"name": "Goblin Commando (BB)"
+		},
+		{
+			"id": "Goblin Igniter (BB)",
+			"name": "Goblin Igniter (BB)"
+		},
+		{
+			"id": "Goblin Warrior (BB)",
+			"name": "Goblin Warrior (BB)"
+		},
+		{
+			"id": "Green Dragon Wyrmling (BB)",
+			"name": "Green Dragon Wyrmling (BB)"
+		},
+		{
+			"id": "Green Kobold Dragon Mage (BB)",
+			"name": "Green Kobold Dragon Mage (BB)"
+		},
+		{
+			"id": "Harpy (BB)",
+			"name": "Harpy (BB)"
+		},
+		{
+			"id": "Hell Hound (BB)",
+			"name": "Hell Hound (BB)"
+		},
+		{
+			"id": "Hidden Pit (BB)",
+			"name": "Hidden Pit (BB)"
+		},
+		{
+			"id": "Hobgoblin Warrior (BB)",
+			"name": "Hobgoblin Warrior (BB)"
+		},
+		{
+			"id": "Kobold Boss Zolgran (BB)",
+			"name": "Kobold Boss Zolgran (BB)"
+		},
+		{
+			"id": "Kobold Scout (BB)",
+			"name": "Kobold Scout (BB)"
+		},
+		{
+			"id": "Kobold Trapmaster (BB)",
+			"name": "Kobold Trapmaster (BB)"
+		},
+		{
+			"id": "Kobold Warrior (BB)",
+			"name": "Kobold Warrior (BB)"
+		},
+		{
+			"id": "Leopard (BB)",
+			"name": "Leopard (BB)"
+		},
+		{
+			"id": "Mermaid Fountain (BB)",
+			"name": "Mermaid Fountain (BB)"
+		},
+		{
+			"id": "Mimic (BB)",
+			"name": "Mimic (BB)"
+		},
+		{
+			"id": "Ogre Warrior (BB)",
+			"name": "Ogre Warrior (BB)"
+		},
+		{
+			"id": "Orc Commander (BB)",
+			"name": "Orc Commander (BB)"
+		},
+		{
+			"id": "Orc Scrapper (BB)",
+			"name": "Orc Scrapper (BB)"
+		},
+		{
+			"id": "Orc Trooper (BB)",
+			"name": "Orc Trooper (BB)"
+		},
+		{
+			"id": "Owlbear (BB)",
+			"name": "Owlbear (BB)"
+		},
+		{
+			"id": "Pugwampi (BB)",
+			"name": "Pugwampi (BB)"
+		},
+		{
+			"id": "Red Kobold Dragon Mage (BB)",
+			"name": "Red Kobold Dragon Mage (BB)"
+		},
+		{
+			"id": "Scythe Blades (BB)",
+			"name": "Scythe Blades (BB)"
+		},
+		{
+			"id": "Sewer Ooze (BB)",
+			"name": "Sewer Ooze (BB)"
+		},
+		{
+			"id": "Shadow (BB)",
+			"name": "Shadow (BB)"
+		},
+		{
+			"id": "Skeletal Giant (BB)",
+			"name": "Skeletal Giant (BB)"
+		},
+		{
+			"id": "Skeleton Guard (BB)",
+			"name": "Skeleton Guard (BB)"
+		},
+		{
+			"id": "Slamming Door (BB)",
+			"name": "Slamming Door (BB)"
+		},
+		{
+			"id": "Sod Hound (BB)",
+			"name": "Sod Hound (BB)"
+		},
+		{
+			"id": "Spear Launcher (BB)",
+			"name": "Spear Launcher (BB)"
+		},
+		{
+			"id": "Troll (BB)",
+			"name": "Troll (BB)"
+		},
+		{
+			"id": "Viper (BB)",
+			"name": "Viper (BB)"
+		},
+		{
+			"id": "Web Lurker (BB)",
+			"name": "Web Lurker (BB)"
+		},
+		{
+			"id": "White Kobold Dragon Mage (BB)",
+			"name": "White Kobold Dragon Mage (BB)"
+		},
+		{
+			"id": "Wight (BB)",
+			"name": "Wight (BB)"
+		},
+		{
+			"id": "Wolf (BB)",
+			"name": "Wolf (BB)"
+		},
+		{
+			"id": "Xulgath Boss (BB)",
+			"name": "Xulgath Boss (BB)"
+		},
+		{
+			"id": "Xulgath Warrior (BB)",
+			"name": "Xulgath Warrior (BB)"
+		},
+		{
+			"id": "Zephyr Hawk (BB)",
+			"name": "Zephyr Hawk (BB)"
+		},
+		{
+			"id": "Zombie Shambler (BB)",
+			"name": "Zombie Shambler (BB)"
+		}
+	]
+}

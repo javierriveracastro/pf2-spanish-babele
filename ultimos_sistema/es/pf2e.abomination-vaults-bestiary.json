@@ -1,0 +1,429 @@
+{
+	"label": "Abomination Vaults",
+	"entries": [
+		{
+			"id": "Afflicted Irnakurse",
+			"name": "Afflicted Irnakurse"
+		},
+		{
+			"id": "Aller Rosk",
+			"name": "Aller Rosk"
+		},
+		{
+			"id": "Augrael",
+			"name": "Augrael"
+		},
+		{
+			"id": "Azvalvigander",
+			"name": "Azvalvigander"
+		},
+		{
+			"id": "Barbazu (AV-C24)",
+			"name": "Barbazu (AV-C24)"
+		},
+		{
+			"id": "Barbazu (AV-D3)",
+			"name": "Barbazu (AV-D3)"
+		},
+		{
+			"id": "Barbazu (AV-D5)",
+			"name": "Barbazu (AV-D5)"
+		},
+		{
+			"id": "Barcumbuk",
+			"name": "Barcumbuk"
+		},
+		{
+			"id": "Befuddling Gas Trap",
+			"name": "Befuddling Gas Trap"
+		},
+		{
+			"id": "Belcorra Haruvex",
+			"name": "Belcorra Haruvex"
+		},
+		{
+			"id": "Blast Tumbler",
+			"name": "Blast Tumbler"
+		},
+		{
+			"id": "Blood of Belcorra",
+			"name": "Blood of Belcorra"
+		},
+		{
+			"id": "Bloodsiphon",
+			"name": "Bloodsiphon"
+		},
+		{
+			"id": "Bone Gladiator",
+			"name": "Bone Gladiator"
+		},
+		{
+			"id": "Boss Skrawng",
+			"name": "Boss Skrawng"
+		},
+		{
+			"id": "Bright Walker",
+			"name": "Bright Walker"
+		},
+		{
+			"id": "Caligni Defender",
+			"name": "Caligni Defender"
+		},
+		{
+			"id": "Canker Cultist",
+			"name": "Canker Cultist"
+		},
+		{
+			"id": "Carman Rajani",
+			"name": "Carman Rajani"
+		},
+		{
+			"id": "Chafkhem",
+			"name": "Chafkhem"
+		},
+		{
+			"id": "Chandriu Invisar",
+			"name": "Chandriu Invisar"
+		},
+		{
+			"id": "Corpselight",
+			"name": "Corpselight"
+		},
+		{
+			"id": "Cratonys",
+			"name": "Cratonys"
+		},
+		{
+			"id": "Daemonic Fog",
+			"name": "Daemonic Fog"
+		},
+		{
+			"id": "Deepwater Dhuthorex",
+			"name": "Deepwater Dhuthorex"
+		},
+		{
+			"id": "Dhuthorex Sage",
+			"name": "Dhuthorex Sage"
+		},
+		{
+			"id": "Doom of Tomorrow",
+			"name": "Doom of Tomorrow"
+		},
+		{
+			"id": "Dragon's Blood Puffball",
+			"name": "Dragon's Blood Puffball"
+		},
+		{
+			"id": "Dread Dhuthorex",
+			"name": "Dread Dhuthorex"
+		},
+		{
+			"id": "Dread Wisp",
+			"name": "Dread Wisp"
+		},
+		{
+			"id": "Dreshkan",
+			"name": "Dreshkan"
+		},
+		{
+			"id": "Drow Cavern Seer",
+			"name": "Drow Cavern Seer"
+		},
+		{
+			"id": "Drow Hunter",
+			"name": "Drow Hunter"
+		},
+		{
+			"id": "Drow Shootist",
+			"name": "Drow Shootist"
+		},
+		{
+			"id": "Drow Warden",
+			"name": "Drow Warden"
+		},
+		{
+			"id": "Dulac",
+			"name": "Dulac"
+		},
+		{
+			"id": "Dune Candle",
+			"name": "Dune Candle"
+		},
+		{
+			"id": "Elder Child Of Belcorra",
+			"name": "Elder Child Of Belcorra"
+		},
+		{
+			"id": "Erinys (AV-D7)",
+			"name": "Erinys (AV-D7)"
+		},
+		{
+			"id": "Flickerwisp",
+			"name": "Flickerwisp"
+		},
+		{
+			"id": "Galudu",
+			"name": "Galudu"
+		},
+		{
+			"id": "Gibtanius",
+			"name": "Gibtanius"
+		},
+		{
+			"id": "Gibtas Bounder",
+			"name": "Gibtas Bounder"
+		},
+		{
+			"id": "Gibtas Spawn Swarm",
+			"name": "Gibtas Spawn Swarm"
+		},
+		{
+			"id": "Groetan Candle",
+			"name": "Groetan Candle"
+		},
+		{
+			"id": "Gulzash",
+			"name": "Gulzash"
+		},
+		{
+			"id": "Images of Failure",
+			"name": "Images of Failure"
+		},
+		{
+			"id": "Images of Powerlessness",
+			"name": "Images of Powerlessness"
+		},
+		{
+			"id": "Jafaki",
+			"name": "Jafaki"
+		},
+		{
+			"id": "Jarelle Kaldrian",
+			"name": "Jarelle Kaldrian"
+		},
+		{
+			"id": "Jaul Mezmin",
+			"name": "Jaul Mezmin"
+		},
+		{
+			"id": "Jaul's Wolf",
+			"name": "Jaul's Wolf"
+		},
+		{
+			"id": "Khurfel",
+			"name": "Khurfel"
+		},
+		{
+			"id": "Kragala",
+			"name": "Kragala"
+		},
+		{
+			"id": "Lady's Whisper",
+			"name": "Lady's Whisper"
+		},
+		{
+			"id": "Mister Beak",
+			"name": "Mister Beak"
+		},
+		{
+			"id": "Morlock (AV)",
+			"name": "Morlock (AV)"
+		},
+		{
+			"id": "Morlock Cultist",
+			"name": "Morlock Cultist"
+		},
+		{
+			"id": "Morlock Engineer",
+			"name": "Morlock Engineer"
+		},
+		{
+			"id": "Morlock Scavenger",
+			"name": "Morlock Scavenger"
+		},
+		{
+			"id": "Mulventok",
+			"name": "Mulventok"
+		},
+		{
+			"id": "Murschen",
+			"name": "Murschen"
+		},
+		{
+			"id": "Nhakazarin",
+			"name": "Nhakazarin"
+		},
+		{
+			"id": "Nhimbaloth's Cutter",
+			"name": "Nhimbaloth's Cutter"
+		},
+		{
+			"id": "Nox",
+			"name": "Nox"
+		},
+		{
+			"id": "Otari Ilvashti",
+			"name": "Otari Ilvashti"
+		},
+		{
+			"id": "Padli",
+			"name": "Padli"
+		},
+		{
+			"id": "Painful Suggestion Trap",
+			"name": "Painful Suggestion Trap"
+		},
+		{
+			"id": "Paralyzing Light Trap",
+			"name": "Paralyzing Light Trap"
+		},
+		{
+			"id": "Quara Orshendiel",
+			"name": "Quara Orshendiel"
+		},
+		{
+			"id": "Reaper Skull Puffball",
+			"name": "Reaper Skull Puffball"
+		},
+		{
+			"id": "Rusty Grate Pit",
+			"name": "Rusty Grate Pit"
+		},
+		{
+			"id": "Ryta",
+			"name": "Ryta"
+		},
+		{
+			"id": "Sacuishu",
+			"name": "Sacuishu"
+		},
+		{
+			"id": "Salaisa Malthulas",
+			"name": "Salaisa Malthulas"
+		},
+		{
+			"id": "Sarglagon (AV)",
+			"name": "Sarglagon (AV)"
+		},
+		{
+			"id": "Scalathrax",
+			"name": "Scalathrax"
+		},
+		{
+			"id": "Seugathi Guard",
+			"name": "Seugathi Guard"
+		},
+		{
+			"id": "Seugathi Reality Warper",
+			"name": "Seugathi Reality Warper"
+		},
+		{
+			"id": "Seugathi Researcher",
+			"name": "Seugathi Researcher"
+		},
+		{
+			"id": "Seugathi Researcher (C20)",
+			"name": "Seugathi Researcher (C20)"
+		},
+		{
+			"id": "Seugathi Servant",
+			"name": "Seugathi Servant"
+		},
+		{
+			"id": "Shanrigol Behemoth",
+			"name": "Shanrigol Behemoth"
+		},
+		{
+			"id": "Shanrigol Heap",
+			"name": "Shanrigol Heap"
+		},
+		{
+			"id": "Shuffling Scythe Blades",
+			"name": "Shuffling Scythe Blades"
+		},
+		{
+			"id": "Siora Fallowglade",
+			"name": "Siora Fallowglade"
+		},
+		{
+			"id": "Skeleton Guard (AV-Graveyard)",
+			"name": "Skeleton Guard (AV-Graveyard)"
+		},
+		{
+			"id": "Specter (AV C2)",
+			"name": "Specter (AV C2)"
+		},
+		{
+			"id": "Spellvoid",
+			"name": "Spellvoid"
+		},
+		{
+			"id": "Spike Launcher",
+			"name": "Spike Launcher"
+		},
+		{
+			"id": "Stonescale Spirits",
+			"name": "Stonescale Spirits"
+		},
+		{
+			"id": "Urdefhan Blood Mage",
+			"name": "Urdefhan Blood Mage"
+		},
+		{
+			"id": "Urdefhan Death Scout",
+			"name": "Urdefhan Death Scout"
+		},
+		{
+			"id": "Urdefhan Lasher",
+			"name": "Urdefhan Lasher"
+		},
+		{
+			"id": "Urevian",
+			"name": "Urevian"
+		},
+		{
+			"id": "Vengeful Furnace",
+			"name": "Vengeful Furnace"
+		},
+		{
+			"id": "Vischari",
+			"name": "Vischari"
+		},
+		{
+			"id": "Viscous Black Pudding",
+			"name": "Viscous Black Pudding"
+		},
+		{
+			"id": "Voidbracken Chuul",
+			"name": "Voidbracken Chuul"
+		},
+		{
+			"id": "Voidglutton",
+			"name": "Voidglutton"
+		},
+		{
+			"id": "Volluk Azrinae",
+			"name": "Volluk Azrinae"
+		},
+		{
+			"id": "Watching Wall",
+			"name": "Watching Wall"
+		},
+		{
+			"id": "Will-o'-the-Deep",
+			"name": "Will-o'-the-Deep"
+		},
+		{
+			"id": "Witchfire Warden",
+			"name": "Witchfire Warden"
+		},
+		{
+			"id": "Wrin Sivinxi",
+			"name": "Wrin Sivinxi"
+		},
+		{
+			"id": "Ysondkhelir",
+			"name": "Ysondkhelir"
+		}
+	]
+}
