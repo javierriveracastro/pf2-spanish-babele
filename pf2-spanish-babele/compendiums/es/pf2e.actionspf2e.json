@@ -118,43 +118,43 @@
 		},
 		{
 			"id": "Blizzard Evasion",
-			"name": "Blizzard Evasion",
-			"description": "<p><strong>Frecuencia</strong> una vez por día</p>\n<p><strong>Desencadenante</strong> You take 40 or more physical damage from a single attack</p>\n<hr />\n<p><strong>Efecto</strong> You discorporate into a whirling blizzard for up to 3 rounds. During this time, you gain resistance 10 to physical damage and weakness 10 to force damage. You gain a fly speed of 40 feet, but the only action you can take is to @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Fly}. The first time each round you enter another creature's space while discorporated, or the first time a creature enters your space, that creature takes [[/r {4d8}[cold]]]{4d8 cold damage} and must succeed at a Fortitude saving throw against your class DC or spell DC, whichever is higher, or else be @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Stunned 1}. At the start of your turn, you can end this effect as a free action.</p>\n<p>@Compendium[pf2e.feat-effects.JF2xCqL6t4UJZtUi]{Effect: Blizzard Evasion}</p>"
+			"name": "Evasión de la ventisca",
+			"description": "<p><strong>Frecuencia</strong> una vez por día</p>\n<p><strong>Desencadenante</strong> Recibes 40 o más de daño físico de un solo ataque</p>\n<hr />\n<p><strong>Efecto</strong> Te transformas en una ventisca arrebatadora durante un máximo de 3 asaltos. Durante este tiempo, ganas resistencia 10 al daño físico y debilidad 10 al daño de fuerza. Obtienes una velocidad de vuelo de 40 pies, pero la única acción que puedes realizar es @Compendium[pf2e.actionspf2e.cS9nfDRGD83bNU1p]{Volar}. La primera vez en cada ronda que entras en el espacio de otra criatura mientras estás desincorporado, o la primera vez que una criatura entra en tu espacio, esa criatura recibe [[/r {4d8}[frío]]]{4d8 de daño por frío} y debe tener éxito en una tirada de salvación de Fortaleza contra tu DC de clase o la DC del hechizo, la que sea mayor, o de lo contrario queda @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Aturdido 1}. Al comienzo de tu turno, puedes terminar este efecto como acción gratuita.</p>\n<p>@Compendium[pf2e.feat-effects.JF2xCqL6t4UJZtUi]{Efecto: Evasión de la Ventisca}</p>"
 		},
 		{
 			"id": "Board",
-			"name": "Board",
-			"description": "<p><strong>Requisitos</strong> You are adjacent to a point of entry on the vehicle you are attempting to board.</p>\n<p>You board a vehicle through an open top, a door, a portal, or a hatch; if you're already on board, you can instead use this action to disembark into an empty space adjacent to the vehicle's point of entry. Using this action while the vehicle is in motion is challenging, requiring a successful Acrobatics or Athletics check with a DC equal to the vehicle's AC.</p>"
+			"name": "Abordar",
+			"description": "<p><strong>Requisitos</strong> Te encuentras adyacente a un punto de entrada en el vehículo que intentas abordar.</p>\n<p>Subes a un vehículo a través de una parte superior abierta, una puerta, un portal o una escotilla; si ya estás a bordo, puedes usar esta acción para desembarcar en un espacio vacío adyacente al punto de entrada del vehículo. Usar esta acción mientras el vehículo está en movimiento es un reto, que requiere un chequeo exitoso de Acrobacia o Atletismo con una DC igual a la CA del vehículo.</p>"
 		},
 		{
 			"id": "Boarding Assault",
-			"name": "Boarding Assault",
-			"description": "<p>Either Stride twice or attempt an Acrobatics check (DC determined by the GM, but usually DC 20) to swing on a rope up to twice your Speed.</p>\n<p>If you boarded or disembarked from a boat or similar vehicle during this movement, you can make a melee Strike that deals one additional weapon damage die.</p>"
+			"name": "Asalto a bordo",
+			"description": "<p>Da dos zancadas o intenta un chequeo de Acrobacia (DC determinada por el GM, pero normalmente DC 20) para balancearte en una cuerda hasta el doble de tu Velocidad.</p>\n<p>Si subes o bajas de un barco o vehículo similar durante este movimiento, puedes hacer un Golpe cuerpo a cuerpo que inflige un dado de daño de arma adicional.</p>"
 		},
 		{
 			"id": "Borrow an Arcane Spell",
-			"name": "Borrow an Arcane Spell",
-			"description": "<p>If you're an arcane spellcaster who prepares from a spellbook, you can attempt to prepare a spell from someone else's spellbook. The GM sets the DC for the check based on the spell's level and rarity; it's typically a bit easier than @Compendium[pf2e.actionspf2e.Q5iIYCFdqJFM31GW]{Learning the Spell}.</p>\n<hr />\n<p><strong>Éxito</strong> You prepare the borrowed spell as part of your normal spell preparation.</p>\n<p><strong>Fallo</strong> You fail to prepare the spell, but the spell slot remains available for you to prepare a different spell. You can't try to prepare this spell until the next time you prepare spells.</p>"
+			"name": "Tomar prestado un hechizo arcano",
+			"description": "<p>Si eres un hechicero arcano que se prepara con un libro de hechizos, puedes intentar preparar un hechizo del libro de hechizos de otra persona. El GM establece la DC para el chequeo basándose en el nivel y la rareza del hechizo; normalmente es un poco más fácil que @Compendium[pf2e.actionspf2e.Q5iIYCFdqJFM31GW]{Aprender el hechizo}.</p>\n<hr />\n<p><strong>Éxito</strong> Preparas el hechizo prestado como parte de tu preparación normal de hechizos.</p>\n<p><strong>Fallo</strong> Fallas en la preparación del hechizo, pero la ranura de hechizo queda disponible para que prepares otro hechizo. No puedes intentar preparar este hechizo hasta la próxima vez que prepares hechizos.</p>"
 		},
 		{
 			"id": "Breath Weapon (Acid) (Cone)",
-			"name": "Arma de aliento (Acid) (Cono)",
+			"name": "Arma de aliento (Acido) (Cono)",
 			"description": "<p>Tu eidolón exhala una ráfaga de energía destructiva. Tu eidolón inflige [[/r {1d6}[ácido]]]{1d6 de daño por ácido} a todas las criaturas en un @Template[type:cone|distance:30], con una salvación básica de Reflejos contra tu DC del hechizo. </p>\n<p>A continuación, tu eidolon no puede volver a usar su Arma de Aliento durante los siguientes [[/r 1d4 #rondas]]{1d4 rondas}.</p>\n<p>A partir del 3º nivel y cada 2 niveles posteriores, el daño aumenta en 1d6. [[/r ((floor(@actor.level/2))d6)[acid]]]{Daño por nivel}</p>"
 		},
 		{
 			"id": "Breath Weapon (Acid) (Line)",
-			"name": "Arma de aliento (Acid) (Linea)",
+			"name": "Arma de aliento (Acido) (Linea)",
 			"description": "<p>Tu eidolón exhala una ráfaga de energía destructiva. Tu eidolón inflige [[/r {1d6}[acid]]]{1d6 de daño por ácido} a todas las criaturas en un @Template[type:line|distance:60], con una salvación básica de Reflejos contra la DC de tu hechizo. </p>\n<p>A continuación, tu eidolon no puede volver a usar su Arma de Aliento durante los siguientes [[/r 1d4 #rondas]]{1d4 rondas}.</p>\n<p>A partir del 3º nivel y cada 2 niveles posteriores, el daño aumenta en 1d6. [[/r ((floor(@actor.level/2))d6)[acid]]]{Daño de nivel}</p>"
 		},
 		{
 			"id": "Breath Weapon (Cold) (Cone)",
-			"name": "Arma de aliento (Cold) (Cono)",
-			"description": "<p>Your eidolon exhales a blast of destructive energy. Your eidolon deals [[/r {1d6}[cold]]]{1d6 cold damage} to all creatures in a @Template[type:cone|distance:30], with a basic Reflex save against your spell DC.</p>\n<p>Your eidolon then can't use their Breath Weapon again for the next [[/r 1d4 #rounds]]{1d4 rounds}.</p>\n<p>At 3rd level and every 2 levels thereafter, the damage increases by 1d6. [[/r ((floor(@actor.level/2))d6)[cold]]]{Levelled Damage}</p>"
+			"name": "Arma de aliento (Frío) (Cono)",
+			"description": "<p>Tu eidolón exhala una ráfaga de energía destructiva. Tu eidolón inflige [[/r {1d6}[cold]]]{1d6 de daño por frío} a todas las criaturas en un @Template[type:cone|distance:30], con una salvación básica de Reflejos contra tu DC del hechizo. </p>\n<p>A continuación, tu eidolon no puede volver a usar su Arma de Aliento durante los siguientes [[/r 1d4 #rounds]]{1d4 rondas}.</p>\n<p>A partir del 3º nivel y cada 2 niveles posteriores, el daño aumenta en 1d6. [[/r ((floor(@actor.level/2))d6)[cold]]]{Daño de nivel}</p>"
 		},
 		{
 			"id": "Breath Weapon (Cold) (Line)",
-			"name": "Arma de aliento (Cold) (Line)",
-			"description": "<p>Your eidolon exhales a blast of destructive energy. Your eidolon deals [[/r {1d6}[cold]]]{1d6 cold damage} to all creatures in a @Template[type:line|distance:60], with a basic Reflex save against your spell DC.</p>\n<p>Your eidolon then can't use their Breath Weapon again for the next [[/r 1d4 #rounds]]{1d4 rounds}.</p>\n<p>At 3rd level and every 2 levels thereafter, the damage increases by 1d6. [[/r ((floor(@actor.level/2))d6)[cold]]]{Levelled Damage}</p>"
+			"name": "Arma de aliento (Frío) (Linea)",
+			"description": "<p>Tu eidolón exhala una ráfaga de energía destructiva. Tu eidolón inflige [[/r {1d6}[cold]]]{1d6 de daño por frío} a todas las criaturas en un @Template[type:line|distance:60], con una salvación básica de Reflejos contra la DC de tu hechizo. </p>\n<p>A continuación, tu eidolon no puede volver a usar su Arma de Aliento durante los siguientes [[/r 1d4 #rondas]]{1d4 rondas}.</p>\n<p>A partir del 3º nivel y cada 2 niveles posteriores, el daño aumenta en 1d6. [[/r ((floor(@actor.level/2))d6)[cold]]]{Daño de nivel}</p>"
 		},
 		{
 			"id": "Breath Weapon (Electricity) (Cone)",
@@ -288,7 +288,7 @@
 		},
 		{
 			"id": "Chassis Deflection",
-			"name": "Chassis Deflection",
+			"name": "Desviación del chasis",
 			"description": "<p><strong>Desencadenante</strong> Un golpe crítico te inflige daño físico.</p>\n<hr />\n<p>Attempt a @Check[type:flat|dc:17]. Si tienes éxito, el ataque se convierte en un golpe normal.</p>"
 		},
 		{
@@ -303,8 +303,8 @@
 		},
 		{
 			"id": "Climb",
-			"name": "Climb",
-			"description": "<p><strong>Requisitos</strong> You have both hands free</p>\n<hr />\n<p>You move up, down, or across an incline. Unless it's particularly easy, you must attempt an <span data-pf2-action=\"climb\" data-pf2-glyph=\"A\">Athletics</span> check. The GM determines the DC based on the nature of the incline and environmental circumstances. You're @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} unless you have a climb Speed.</p>\n<hr />\n<p><strong>Fallo Crítico</strong> You move up, across, or safely down the incline for 5 feet plus 5 feet per 20 feet of your land Speed (a total of 10 feet for most PCs).</p>\n<p><strong>Éxito</strong> You move up, across, or safely down the incline for 5 feet per 20 feet of your land Speed (a total of 5 feet for most PCs, minimum 5 feet if your Speed is below 20 feet).</p>\n<p><strong>Fallo Crítico</strong> You fall. If you began the climb on stable ground, you fall and land @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{Prone}.</p>\n<h2>Sample Climb Tasks</h2>\n<ul>\n<li><strong>No entrenado</strong> ladder, steep slope, low-branched tree</li>\n<li><strong>Entrenado</strong> rigging, rope, typical tree</li>\n<li><strong>Experto</strong> wall with small handholds and footholds</li>\n<li><strong>Maestro</strong> ceiling with handholds and footholds, rock wall</li>\n<li><strong>Legendario</strong> smooth surface</li>\n</ul>"
+			"name": "Trepar",
+			"description": "<p><strong>Requisitos</strong> Tienes las dos manos libres</p>\n<hr />\n<p>Te mueves hacia arriba, hacia abajo o a través de una pendiente. A menos que sea particularmente fácil, debes intentar un <span data-pf2-action=\"climb\" data-pf2-glyph=\"A\">Athletics</span> chequeo. El GM determina la DC basándose en la naturaleza de la pendiente y las circunstancias del entorno. Eres @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Desprevenido} a menos que tengas una velocidad de subida.</p>\n<hr />\n<p><strong>Fallo Crítico</strong> Te mueves hacia arriba, a través o de forma segura por la pendiente durante 5 pies más 5 pies por cada 20 pies de tu Velocidad terrestre (un total de 10 pies para la mayoría de PCs).</p>\n<p><strong>Éxito</strong> Te mueves hacia arriba, a través o de forma segura por la pendiente durante 5 pies por cada 20 pies de tu Velocidad terrestre (un total de 5 pies para la mayoría de los PC, mínimo 5 pies si tu Velocidad es inferior a 20 pies).</p>\n<p><strong>Fallo Crítico</strong> You fall. If you began the climb on stable ground, you fall and land @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{Prone}.</p>\n<h2>Ejemplo de tareas de escalada</h2>\n<ul>\n<li><strong>No entrenado</strong> escalera, pendiente pronunciada, árbol poco ramificado</li>\n<li><strong>Entrenado</strong> aparejo, cuerda, árbol típico</li>\n<li><strong>Experto</strong> pared con pequeños asideros y puntos de apoyo</li>\n<li><strong>Maestro</strong> techo con asideros y puntos de apoyo, pared de roca</li>\n<li><strong>Legendario</strong> superficie lisa</li>\n</ul>"
 		},
 		{
 			"id": "Clue In",
