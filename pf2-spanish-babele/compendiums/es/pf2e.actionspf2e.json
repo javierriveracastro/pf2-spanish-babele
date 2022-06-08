@@ -73,13 +73,13 @@
 		},
 		{
 			"id": "Automaton Aim",
-			"name": "Automaton Aim",
-			"description": "<p>You steady your body and observe the events of the battlefield to maximize the range of your next shot. You reduce the penalty for firing into your weapon's second range increment from -2 to 0 for the next ranged attack you make this turn. You can use this action a second time in the same turn to reduce the penalty from firing into your weapon's third range increment from -4 to 0 for the next ranged attack you make this turn.</p>"
+			"name": "Objetivo Autómata",
+			"description": "<p>Tranquilizas tu cuerpo y observas los acontecimientos del campo de batalla para maximizar el alcance de tu próximo disparo. Reduces la penalización por disparar en el segundo incremento de alcance de tu arma de -2 a 0 para el siguiente ataque a distancia que realices este turno. Puedes usar esta acción una segunda vez en el mismo turno para reducir la penalización por disparar al tercer incremento de alcance de tu arma de -4 a 0 para el siguiente ataque a distancia que realices este turno.</p>"
 		},
 		{
 			"id": "Avert Gaze",
-			"name": "Avert Gaze",
-			"description": "<p>You avert your gaze from danger.</p>\n<p>You gain a +2 circumstance bonus to saves against visual abilities that require you to look at a creature or object, such as a medusa's petrifying gaze. Your gaze remains averted until the start of your next turn.</p>"
+			"name": "Evitar la mirada",
+			"description": "<p>Apartas tu mirada del peligro.</p>\n<p>Ganas un bonificador de circunstancia +2 a las salvaciones contra habilidades visuales que requieran que mires a una criatura u objeto, como la mirada petrificante de una medusa. Tu mirada permanece desviada hasta el comienzo de tu siguiente turno.</p>"
 		},
 		{
 			"id": "Avoid Notice",
@@ -159,57 +159,57 @@
 		{
 			"id": "Breath Weapon (Electricity) (Cone)",
 			"name": "Arma de aliento (Electricity) (Cone)",
-			"description": "<p>Your eidolon exhales a blast of destructive energy. Your eidolon deals [[/r {1d6}[electricity]]]{1d6 electricity damage} to all creatures in a @Template[type:cone|distance:30], with a basic Reflex save against your spell DC.</p>\n<p>Your eidolon then can't use their Breath Weapon again for the next [[/r 1d4 #rounds]]{1d4 rounds}.</p>\n<p>At 3rd level and every 2 levels thereafter, the damage increases by 1d6. [[/r ((floor(@actor.level/2))d6)[electricity]]]{Levelled Damage}</p>"
+			"description": "<p>Tu eidolón exhala una ráfaga de energía destructiva. Tu eidolón inflige [[/r {1d6}[electricity]]]{1d6 de daño por electricidad} a todas las criaturas en un @Template[type:cone|distance:30], con una salvación básica de Reflejos contra la DC de tu hechizo. </p>\n<p>A continuación, tu eidolon no puede volver a usar su Arma de Aliento durante los siguientes [[/r 1d4 #rounds]]{1d4 rondas}.</p>\n<p>A partir del 3º nivel y cada 2 niveles posteriores, el daño aumenta en 1d6. [[/r ((floor(@actor.level/2))d6)[electricity]]]{Daño de nivel}</p>"
 		},
 		{
 			"id": "Breath Weapon (Electricity) (Line)",
 			"name": "Arma de aliento (Electricity) (Line)",
-			"description": "<p>Your eidolon exhales a blast of destructive energy. Your eidolon deals [[/r {1d6}[electricity]]]{1d6 electricity damage} to all creatures in a @Template[type:line|distance:60], with a basic Reflex save against your spell DC.</p>\n<p>Your eidolon then can't use their Breath Weapon again for the next [[/r 1d4 #rounds]]{1d4 rounds}.</p>\n<p>At 3rd level and every 2 levels thereafter, the damage increases by 1d6. [[/r ((floor(@actor.level/2))d6)[electricity]]]{Levelled Damage}</p>"
+			"description": "<p>Tu eidolón exhala una ráfaga de energía destructiva. Tu eidolón inflige [[/r {1d6}[electricity]]]{1d6 de daño por electricidad} a todas las criaturas en un @Template[type:line|distance:60], con una salvación básica de Reflejos contra la DC de tu hechizo. </p>\n<p>A continuación, tu eidolon no puede volver a usar su Arma de Aliento durante los siguientes [[/r 1d4 #rounds]]{1d4 rondas}.</p>\n<p>A partir del 3º nivel y cada 2 niveles posteriores, el daño aumenta en 1d6. [[/r ((floor(@actor.level/2))d6)[electricity]]]{Daño de nivel}</p>"
 		},
 		{
 			"id": "Breath Weapon (Fire) (Cone)",
 			"name": "Arma de aliento (Fire) (Cone)",
-			"description": "<p>Your eidolon exhales a blast of destructive energy. Your eidolon deals [[/r {1d6}[fire]]]{1d6 fire damage} to all creatures in a @Template[type:cone|distance:30], with a basic Reflex save against your spell DC.</p>\n<p>Your eidolon then can't use their Breath Weapon again for the next [[/r 1d4 #rounds]]{1d4 rounds}.</p>\n<p>At 3rd level and every 2 levels thereafter, the damage increases by 1d6. [[/r ((floor(@actor.level/2))d6)[fire]]]{Levelled Damage}</p>"
+			"description": "<p>Tu eidolón exhala una ráfaga de energía destructiva. Tu eidolon inflige [[/r {1d6}[fire]]]{1d6 de daño de fuego} a todas las criaturas en un @Template[type:cone|distance:30], con una salvación básica de Reflejos contra tu DC de hechizo. </p>\n<p>A continuación, tu eidolon no puede volver a usar su Arma de Aliento durante los siguientes [[/r 1d4 #rondas]]{1d4 rondas}.</p>\n<p>A partir del 3º nivel y cada 2 niveles posteriores, el daño aumenta en 1d6. [[/r ((floor(@actor.nivel/2))d6)[fire]]]{Daño nivelado}</p>"
 		},
 		{
 			"id": "Breath Weapon (Fire) (Line)",
-			"name": "Arma de aliento (Fire) (Line)",
-			"description": "<p>Your eidolon exhales a blast of destructive energy. Your eidolon deals [[/r {1d6}[fire]]]{1d6 fire damage} to all creatures in a @Template[type:line|distance:60], with a basic Reflex save against your spell DC.</p>\n<p>Your eidolon then can't use their Breath Weapon again for the next [[/r 1d4 #rounds]]{1d4 rounds}.</p>\n<p>At 3rd level and every 2 levels thereafter, the damage increases by 1d6. [[/r ((floor(@actor.level/2))d6)[fire]]]{Levelled Damage}</p>"
+			"name": "Arma de aliento (Fire) (Linea)",
+			"description": "<p>Tu eidolón exhala una ráfaga de energía destructiva. Tu eidolon inflige [[/r {1d6}[fire]]]{1d6 de daño de fuego} a todas las criaturas en un @Template[type:cone|line:60], con una salvación básica de Reflejos contra tu DC de hechizo. </p>\n<p>A continuación, tu eidolon no puede volver a usar su Arma de Aliento durante los siguientes [[/r 1d4 #rondas]]{1d4 rondas}.</p>\n<p>A partir del 3º nivel y cada 2 niveles posteriores, el daño aumenta en 1d6. [[/r ((floor(@actor.nivel/2))d6)[fire]]]{Daño nivelado}</p>"
 		},
 		{
 			"id": "Breath Weapon (Negative) (Cone)",
 			"name": "Arma de aliento (Negative) (Cone)",
-			"description": "<p>Your eidolon exhales a blast of destructive energy. Your eidolon deals [[/r {1d6}[negative]]]{1d6 negative damage} to all creatures in a @Template[type:cone|distance:30], with a basic Reflex save against your spell DC.</p>\n<p>Your eidolon then can't use their Breath Weapon again for the next [[/r 1d4 #rounds]]{1d4 rounds}.</p>\n<p>At 3rd level and every 2 levels thereafter, the damage increases by 1d6. [[/r ((floor(@actor.level/2))d6)[negative]]]{Levelled Damage}</p>"
+			"description": "<p>Tu eidolón exhala una ráfaga de energía destructiva. Tu eidolón inflige [[/r {1d6}[negative]]]{1d6 de daño negativo} a todas las criaturas en un @Template[type:cone|distance:30], con una salvación básica de Reflejos contra la DC de tu hechizo. </p>\n<p>A continuación, tu eidolon no puede volver a usar su Arma de Aliento durante los siguientes [[/r 1d4 #rounds]]{1d4 rondas}.</p>\n<p>A partir del 3º nivel y cada 2 niveles posteriores, el daño aumenta en 1d6. [[/r ((floor(@actor.nivel/2))d6)[negative]]]{Daño de nivel}</p>"
 		},
 		{
 			"id": "Breath Weapon (Negative) (Line)",
-			"name": "Arma de aliento (Negative) (Line)",
-			"description": "<p>Your eidolon exhales a blast of destructive energy. Your eidolon deals [[/r {1d6}[negative]]]{1d6 negative damage} to all creatures in a @Template[type:line|distance:60], with a basic Reflex save against your spell DC.</p>\n<p>Your eidolon then can't use their Breath Weapon again for the next [[/r 1d4 #rounds]]{1d4 rounds}.</p>\n<p>At 3rd level and every 2 levels thereafter, the damage increases by 1d6. [[/r ((floor(@actor.level/2))d6)[negative]]]{Levelled Damage}</p>"
+			"name": "Arma de aliento (Negative) (Linea)",
+			"description": "<p>Tu eidolón exhala una ráfaga de energía destructiva. Tu eidolón inflige [[/r {1d6}[negative]]]{1d6 de daño negativo} a todas las criaturas en un @Template[type:line|distance:60], con una salvación básica de Reflejos contra la DC de tu hechizo. </p>\n<p>A continuación, tu eidolon no puede volver a usar su Arma de Aliento durante los siguientes [[/r 1d4 #rounds]]{1d4 rondas}.</p>\n<p>A partir del 3º nivel y cada 2 niveles posteriores, el daño aumenta en 1d6. [[/r ((floor(@actor.nivel/2))d6)[negative]]]{Daño de nivel}</p>"
 		},
 		{
 			"id": "Breath Weapon (Piercing) (Cone)",
-			"name": "Arma de aliento (Piercing) (Cone)",
-			"description": "<p>Your eidolon exhales a blast of destructive energy. Your eidolon deals [[/r {1d6}[piercing]]]{1d6 piercing damage} to all creatures in a @Template[type:cone|distance:30], with a basic Reflex save against your spell DC.</p>\n<p>Your eidolon then can't use their Breath Weapon again for the next [[/r 1d4 #rounds]]{1d4 rounds}.</p>\n<p>At 3rd level and every 2 levels thereafter, the damage increases by 1d6. [[/r ((floor(@actor.level/2))d6)[piercing]]]{Levelled Damage}</p>"
+			"name": "Arma de aliento (Piercing) (Cono)",
+			"description": "<p>Tu eidolón exhala una ráfaga de energía destructiva. Tu eidolon inflige [[/r {1d6}[piercing]]]{1d6 de daño perforante} a todas las criaturas en un @Template[type:cone|distance:30], con una salvación básica de Reflejos contra tu DC del hechizo. </p>\n<p>A continuación, tu eidolon no puede volver a usar su Arma de Aliento durante los siguientes [[/r 1d4 #rounds]]{1d4 asaltos}.</p>\n<p>A partir del 3º nivel y cada 2 niveles posteriores, el daño aumenta en 1d6. [[/r ((floor(@actor.level/2))d6)[piercing]]]{Daño de nivel}</p>"
 		},
 		{
 			"id": "Breath Weapon (Piercing) (Line)",
-			"name": "Arma de aliento (Piercing) (Line)",
-			"description": "<p>Your eidolon exhales a blast of destructive energy. Your eidolon deals [[/r {1d6}[piercing]]]{1d6 piercing damage} to all creatures in a @Template[type:line|distance:60], with a basic Reflex save against your spell DC.</p>\n<p>Your eidolon then can't use their Breath Weapon again for the next [[/r 1d4 #rounds]]{1d4 rounds}.</p>\n<p>At 3rd level and every 2 levels thereafter, the damage increases by 1d6. [[/r ((floor(@actor.level/2))d6)[piercing]]]{Levelled Damage}</p>"
+			"name": "Arma de aliento (Piercing) (Linea)",
+			"description": "<p>Tu eidolón exhala una ráfaga de energía destructiva. Tu eidolon inflige [[/r {1d6}[piercing]]]{1d6 de daño perforante} a todas las criaturas en un @Template[type:line|distance:60], con una salvación básica de Reflejos contra tu DC del hechizo. </p>\n<p>A continuación, tu eidolon no puede volver a usar su Arma de Aliento durante los siguientes [[/r 1d4 #rounds]]{1d4 asaltos}.</p>\n<p>A partir del 3º nivel y cada 2 niveles posteriores, el daño aumenta en 1d6. [[/r ((floor(@actor.level/2))d6)[piercing]]]{Daño de nivel}</p>"
 		},
 		{
 			"id": "Breath Weapon (Poison) (Cone)",
-			"name": "Arma de aliento (Poison) (Cone)",
-			"description": "<p>Your eidolon exhales a blast of destructive energy. Your eidolon deals [[/r {1d6}[poison]]]{1d6 poison damage} to all creatures in a @Template[type:cone|distance:30], with a basic Reflex save against your spell DC.</p>\n<p>Your eidolon then can't use their Breath Weapon again for the next [[/r 1d4 #rounds]]{1d4 rounds}.</p>\n<p>At 3rd level and every 2 levels thereafter, the damage increases by 1d6. [[/r ((floor(@actor.level/2))d6)[poison]]]{Levelled Damage}</p>"
+			"name": "Arma de aliento (Poison) (Cono)",
+			"description": "<p>Tu eidolón exhala una ráfaga de energía destructiva. Tu eidolon inflige [[/r {1d6}[poison]]]{1d6 de daño por veneno} a todas las criaturas en un @Template[type:cone|distance:30], con una salvación básica de Reflejos contra tu DC de hechizo. </p>\n<p>A continuación, tu eidolon no puede volver a usar su Arma de Aliento durante los siguientes [[/r 1d4 #rondas]]{1d4 rondas}.</p>\n<p>A partir del 3º nivel y cada 2 niveles posteriores, el daño aumenta en 1d6. [[/r ((floor(@actor.level/2))d6)[poison]]]{Daño de nivel}</p>"
 		},
 		{
 			"id": "Breath Weapon (Poison) (Line)",
-			"name": "Arma de aliento (Poison) (Line)",
-			"description": "<p>Your eidolon exhales a blast of destructive energy. Your eidolon deals [[/r {1d6}[poison]]]{1d6 poison damage} to all creatures in a @Template[type:line|distance:60], with a basic Reflex save against your spell DC.</p>\n<p>Your eidolon then can't use their Breath Weapon again for the next [[/r 1d4 #rounds]]{1d4 rounds}.</p>\n<p>At 3rd level and every 2 levels thereafter, the damage increases by 1d6. [[/r ((floor(@actor.level/2))d6)[poison]]]{Levelled Damage}</p>"
+			"name": "Arma de aliento (Poison) (Linea)",
+			"description": "<p>Tu eidolón exhala una ráfaga de energía destructiva. Tu eidolon inflige [[/r {1d6}[poison]]]{1d6 de daño por veneno} a todas las criaturas en un @Template[type:line|distance:60], con una salvación básica de Reflejos contra tu DC de hechizo. </p>\n<p>A continuación, tu eidolon no puede volver a usar su Arma de Aliento durante los siguientes [[/r 1d4 #rondas]]{1d4 rondas}.</p>\n<p>A partir del 3º nivel y cada 2 niveles posteriores, el daño aumenta en 1d6. [[/r ((floor(@actor.level/2))d6)[poison]]]{Daño de nivel}</p>"
 		},
 		{
 			"id": "Breath Weapon (Riding Drake)",
 			"name": "Arma de aliento (Riding Drake)",
-			"description": "<p>The riding drake breathes a @Template[type:cone|distance:30]{30-foot cone} of fire, dealing [[/r ((ceil(@actor.level/2))d6)[fire]]]{1d6 fire damage for every 2 levels the drake has} to all creatures in the area (basic Reflex save). This uses a trained DC using the drake's Constitution modifier or an expert DC if the drake is specialized.</p>"
+			"description": "<p>El dragón montado respira un @Template[type:cone|distance:30]{cono de 30 pies} de fuego, infligiendo [[/r ((ceil(@actor.level/2))d6)[fire]]]{1d6 de daño por fuego por cada 2 niveles que tenga el dragón} a todas las criaturas del área (salvación básica de Reflejos). Esto utiliza una DC entrenada usando el modificador de Constitución del drake o una DC experta si el drake está especializado.</p>"
 		},
 		{
 			"id": "Bribe Contact",
@@ -718,8 +718,8 @@
 		},
 		{
 			"id": "Hide",
-			"name": "Hide",
-			"description": "<p>You huddle behind cover or greater cover or deeper into concealment to become @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Hidden}, rather than @Compendium[pf2e.conditionitems.1wQY3JYyhMYeeV2G]{Observed}. The GM rolls your <span data-pf2-action=\"hide\" data-pf2-glyph=\"A\">Stealth</span> check in secret and compares the result to the Perception DC of each creature you're observed by but that you have cover or greater cover against or are concealed from. You gain the circumstance bonus from cover or greater cover to your check.</p>\n<hr />\n<p><strong>Éxito</strong> If the creature could see you, you're now hidden from it instead of observed. If you were hidden from or @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Undetected} by the creature, you retain that condition.</p>\n<p>If you successfully become hidden to a creature but then cease to have cover or greater cover against it or be concealed from it, you become observed again. You cease being hidden if you do anything except Hide, @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]{Sneak}, or Step. If you attempt to Strike a creature, the creature remains @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} against that attack, and you then become observed. If you do anything else, you become observed just before you act unless the GM determines otherwise. The GM might allow you to perform a particularly unobtrusive action without being noticed, possibly requiring another Stealth check.</p>\n<p>If a creature uses @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Seek} to make you observed by it, you must successfully Hide to become hidden from it again.</p>"
+			"name": "Esconderse",
+			"description": "<p>Te acurrucas detrás de una cobertura o una cobertura mayor o te ocultas más profundamente para convertirte en @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Escondidos}, en lugar de @Compendium[pf2e.conditionitems.1wQY3JYhMYeeV2G]{Observados}. El GM tira su <span data-pf2-action=\"Esconderse\" data-pf2-glyph=\"A\">Sigilo</span> en secreto y compara el resultado con la CD de Percepción de cada criatura que te observa pero contra la que tienes cobertura o mayor cobertura o de la que estás oculto. Obtienes la bonificación de circunstancia por cobertura o mayor cobertura a tu chequeo.</p>\n<hr />\n<p><strong>Éxito</strong> Si la criatura podía verte, ahora estás oculto de ella en lugar de observado. Si estabas oculto o @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Indetectado} por la criatura, conservas esa condición.</p>\n<p>Si te ocultas con éxito ante una criatura pero luego dejas de tener cobertura o mayor cobertura contra ella o de estar oculto ante ella, vuelves a ser observado. Dejas de estar oculto si haces cualquier cosa que no sea Ocultarse, @Compendium[pf2e.actionspf2e.VMozDqMMuK5kpoX4]}, o Pisar. Si intentas golpear a una criatura, la criatura queda @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Desprevenido} contra ese ataque, y entonces pasas a ser observado. Si haces cualquier otra cosa, pasas a ser observado justo antes de actuar, a menos que el GM determine lo contrario. El GM puede permitirte realizar una acción particularmente discreta sin ser observado, posiblemente requiriendo otro chequeo de Sigilo.</p>\n<p>Si una criatura usa @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Buscar} para que seas observado por ella, debes Ocultarte con éxito para volver a ocultarte de ella.</p>"
 		},
 		{
 			"id": "High Jump",
@@ -748,8 +748,8 @@
 		},
 		{
 			"id": "Identify Magic",
-			"name": "Identify Magic",
-			"description": "<p>Once you discover that an item, location, or ongoing effect is magical, you can spend 10 minutes to try to identify the particulars of its magic. If your attempt is interrupted, you must start over. The GM sets the DC for your check. Cursed or esoteric subjects usually have higher DCs or might even be impossible to identify using this activity alone. Heightening a spell doesn't increase the DC to identify it.</p>\n<hr />\n<p><strong>Fallo Crítico</strong> You learn all the attributes of the magic, including its name (for an effect), what it does, any means of activating it (for an item or location), and whether it is cursed.</p>\n<p><strong>Éxito</strong> For an item or location, you get a sense of what it does and learn any means of activating it. For an ongoing effect (such as a spell with a duration), you learn the effect's name and what it does. You can't try again in hopes of getting a critical success.</p>\n<p><strong>Fallo</strong> You fail to identify the magic and can't try again for 1 day.</p>\n<p><strong>Fallo Crítico</strong> You misidentify the magic as something else of the GM's choice.</p>"
+			"name": "Identificar magia",
+			"description": "<p>Una vez que descubras que un objeto, lugar o efecto en curso es mágico, puedes dedicar 10 minutos a intentar identificar los detalles de su magia. Si tu intento se interrumpe, debes volver a empezar. El GM establece la DC de tu chequeo. Los temas malditos o esotéricos suelen tener CCs más altas o incluso pueden ser imposibles de identificar usando sólo esta actividad. Aumentar un hechizo no aumenta la DC para identificarlo.</p>\n<hr />\n<p><strong>Fallo Crítico</strong> Aprendes todos los atributos de la magia, incluyendo su nombre (para un efecto), lo que hace, cualquier forma de activarla (para un objeto o lugar), y si está maldita.</p>\n<p><strong>Éxito</strong> En el caso de un objeto o lugar, te haces una idea de lo que hace y aprendes cualquier forma de activarlo. Para un efecto en curso (como un hechizo con duración), aprendes el nombre del efecto y lo que hace. No puedes volver a intentarlo con la esperanza de obtener un éxito crítico.</p>\n<p><strong>Fallo</strong> No consigues identificar la magia y no puedes volver a intentarlo durante 1 día.</p>\n<p><strong>Fallo Crítico</strong> Identificas erróneamente la magia como otra cosa a elección del GM.</p>"
 		},
 		{
 			"id": "Impersonate",
@@ -818,8 +818,8 @@
 		},
 		{
 			"id": "Lay Down Arms",
-			"name": "Lay Down Arms",
-			"description": "<p>You pull your arm off, harmlessly severing it from your body and dropping it in an adjacent square. You can also use this action to reattach your severed arm if it's adjacent to you; it immediately functions normally. If the detached limb was at 0 Hit Points, it takes 10 minutes to reattach it instead of a single action.</p>"
+			"name": "Bajar las armas",
+			"description": "<p>Te arrancas el brazo, separándolo inofensivamente de tu cuerpo y dejándolo caer en una casilla adyacente. También puedes utilizar esta acción para volver a unir tu brazo cortado si está adyacente a ti; inmediatamente funciona con normalidad. Si el miembro desprendido estaba a 0 puntos de vida, se tarda 10 minutos en reimplantarlo en lugar de una sola acción.</p>"
 		},
 		{
 			"id": "Leap",
@@ -838,8 +838,8 @@
 		},
 		{
 			"id": "Liberating Step",
-			"name": "Liberating Step",
-			"description": "<p><strong>Desencadenante</strong> An enemy damages, @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Grabs}, or @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Grapples} your ally, and both are within 15 feet of you</p>\n<hr />\n<p>You free an ally from restraint.</p>\n<p>If the Desencadenante was an ally taking damage, the ally gains resistance to all damage against the Desencadenanteing damage equal to 2 + your level.</p>\n<p>The ally can attempt to break free of effects grabbing, restraining, @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilizing}, or @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralyzing} them. They either attempt a new save against one such effect that allows a save, or attempt to @Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{Escape} from one effect as a free action.</p>\n<p>If they can move, the ally can Step as a free action, even if they didn't need to escape.</p>"
+			"name": "Paso Liberador",
+			"description": "<p><strong>Desencadenante</strong> Un enemigo daña, @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Agarrar}, o @Compendium[pf2e.actionspf2e.PMbdMWc2QroouFGD]{Supera} a tu aliado, y ambos se encuentran a menos de 15 pies de ti</p><p>Liberas a un aliado de la restricción. </p>\n<p>Si el Desencadenante era un aliado que estaba recibiendo daño, el aliado gana una resistencia a todo el daño contra el Desencadenante igual a 2 + tu nivel.</p>\n<p>El aliado puede intentar liberarse de los efectos de agarrar, retener, @Compendium[pf2e.conditionitems.eIcWb5o3pP6OIMe]{Immobilizar}, o @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralizar}. O bien intentan una nueva salvación contra uno de esos efectos que permite una salvación, o bien intentan @Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{Escapar} de un efecto como acción libre.</p>\n<p>Si pueden moverse, el aliado puede Pisar como acción libre, incluso si no necesitaba escapar.</p>"
 		},
 		{
 			"id": "Lie",
