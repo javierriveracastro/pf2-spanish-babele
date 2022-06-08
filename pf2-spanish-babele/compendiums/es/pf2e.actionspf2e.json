@@ -293,13 +293,13 @@
 		},
 		{
 			"id": "Cleanse Soul Path",
-			"name": "Cleanse Soul Path",
+			"name": "Limpiar el camino del alma",
 			"description": "<p>Medotas. rezas, o cualquier otra forma para reforzar la coneccioin de tu alma con su armamento forjado en el alma. Esto tomará 10 minutos. Intenta un chequeo de contraataque contra tu <em>corrupción del alma</em>. El nivel de contrarrestar es la mitad de tu nivel redondeado hacia arriba, y el modificador del chequeo de contrarrestar es tu modificador de Religión. Si tiene éxito, reduce la fase de su <em>corrupción del alma</em> por 1 (hasta un mínimo de estado 1).</p>"
 		},
 		{
 			"id": "Clear a Path",
-			"name": "Clear a Path",
-			"description": "<p><strong>Requisitos</strong> You're wielding a two-handed firearm or two-handed crossbow.</p>\n<hr />\n<p>You push outward with your weapon to clear some space before quickly reloading a fresh round. You make an Athletics check to @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Shove} an opponent within your reach using your weapon, then Interact to reload. For this Shove, you don't need a free hand, and you add the weapon's item bonus on attack rolls (if any) to the Athletics check. If your last action was a ranged Strike with the weapon, use the same multiple attack penalty as that Strike for the Shove; the Shove still counts toward your multiple attack penalty on further attacks as normal.</p>"
+			"name": "Despejar el camino",
+			"description": "<p><strong>Requisitos</strong> Estás blandiendo un arma de fuego a dos manos o una ballesta a dos manos.</p>\n<hr />\n<p>Empujas hacia fuera con tu arma para despejar algo de espacio antes de recargar rápidamente una nueva ronda. Haces un chequeo de Atletismo para @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Empujar} a un oponente a tu alcance usando tu arma, y luego Interactúas para recargar. Para este Empuje, no necesitas una mano libre, y añades el bono de objeto del arma en las tiradas de ataque (si las hay) al chequeo de Atletismo. Si tu última acción fue un Golpe a distancia con el arma, utiliza la misma penalización de ataque múltiple que ese Golpe para el Empujón; el Empujón sigue contando para tu penalización de ataque múltiple en ataques posteriores de forma normal.</p>"
 		},
 		{
 			"id": "Climb",
@@ -308,7 +308,7 @@
 		},
 		{
 			"id": "Clue In",
-			"name": "Clue In",
+			"name": "Pista en",
 			"description": "<p><strong>Frecuencia</strong> <strong>Fallo Crítico</p>\n<p><strong>Desencadenante</strong> Otra criatura intenta un chequeo para investigar una pista que estás siguiendo</p>\n<hr />\n<p>Compartes información con la criatura Desencadenante.</p>\n<p>Ganan un bono de circunstancia a su chequeo igual a tu bono de circunstancia a los chequeos que investigan a tu sujeto de @Compendium[pf2e.actionspf2e.xTK2zsWFyxSJvYbX]{Perseguir una pista}. El GM puede añadir cualquier rasgo relevante a esta reacción dependiendo de la situación, como el auditivo y el lingüístico si estás transmitiendo información verbalmente.</p>\n<p>@Compendium[pf2e.feat-effects.vhSYlQiAQMLuXqoc]{Effect: Clue In}</p>"
 		},
 		{
@@ -398,13 +398,13 @@
 		},
 		{
 			"id": "De-Animating Gestures (False)",
-			"name": "De-Animating Gestures (False)",
-			"description": "<p>You designate a single construct within 30 feet that you can see or hear. The construct becomes @Compendium[pf2e.conditionitems.nlCjDvLMf2EkV2dl]{Quickened 1} for 1 minute and is temporarily immune to this ability for 24 hours. It can use its additional action only to Stride or Strike.</p>"
+			"name": "Gestos de desanimación (Falso)",
+			"description": "<p>Designas a un único constructo en un radio de 30 pies que puedas ver u oír. El constructo se convierte en @Compendium[pf2e.conditionitems.nlCjDvLMf2EkV2dl]{Acelerado 1} durante 1 minuto y es temporalmente inmune a esta habilidad durante 24 horas. Puede utilizar su acción adicional sólo para Zancada o Golpe.</p>"
 		},
 		{
 			"id": "De-Animating Gestures (True)",
-			"name": "De-Animating Gestures (True)",
-			"description": "<p>You designate a single construct within 30 feet that you can see or hear. The construct is @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Slowed 1} for 1 minute.</p>"
+			"name": "Gestos de desanimación (Verdadero)",
+			"description": "<p>Designas a un único constructo en un radio de 30 pies que puedas ver u oír. El constructo es @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Ralentizado 1} durante 1 minuto.</p>"
 		},
 		{
 			"id": "Debilitating Strike",
@@ -414,7 +414,7 @@
 		{
 			"id": "Deceptive Sidestep",
 			"name": "Deceptive Sidestep",
-			"description": "<p><strong>Desencadenante</strong> An opponent hits, but does not critically hit you, with a melee Strike.</p>\n<p><strong>Requisitos</strong> You're in a duel, you're trained in Deception, and you rolled a Deception check for initiative this round.</p>\n<hr />\n<p>You draw your enemy in and pull away at the last moment. The Desencadenanteing opponent must roll again and take the second result. If your opponent is using Intimidation for initiative when this ability is used, they also take a -2 circumstance penalty to the second attack roll.</p>"
+			"description": "<p><strong>Desencadenante</strong> Un oponente impacta, pero no te golpea críticamente, con un Golpe cuerpo a cuerpo.</p>\n<p><strong>Requisitos</strong> Estás en un duelo, estás entrenado en Desengaño, y has tirado un chequeo de Desengaño para la iniciativa este asalto.</p>\n<hr />\n<p>Atraes a tu enemigo y te alejas en el último momento. El oponente que está desencadenando debe tirar de nuevo y tomar el segundo resultado. Si tu oponente está usando Intimidación para la iniciativa cuando se usa esta habilidad, también tiene una penalización de circunstancia de -2 a la segunda tirada de ataque.</p>"
 		},
 		{
 			"id": "Decipher Writing",
@@ -453,8 +453,8 @@
 		},
 		{
 			"id": "Devise a Stratagem",
-			"name": "Devise a Stratagem",
-			"description": "<p><strong>Frecuencia</strong> una vez por asalto</p>\n<hr />\n<p>You assess a foe's weaknesses in combat and use them to formulate a plan of attack against your enemy. Choose a creature you can see, and roll a d20. If you Strike the chosen creature later this round, you must use the result of the roll you made to Devise a Stratagem for your Strike's attack roll instead of rolling. You make this substitution only for the first Strike you make against the creature this round, not any subsequent attacks.</p>\n<p>When you make this substitution, you can also add your Intelligence modifier to your attack roll instead of your Strength or Dexterity modifier, provided your Strike uses an agile or finesse melee weapon, an agile or finesse unarmed attack, a ranged weapon (which must be agile or finesse if it's a melee weapon with the thrown trait) or @Compendium[pf2e.equipment-srd.TLQErnOpM9Luy7rL]{Sap}.</p>\n<p>If you're aware that the creature you choose is the subject of a lead you're pursuing, you can use this ability as a free action.</p>"
+			"name": "Diseñar una estrategia",
+			"description": "<p><strong>Frecuencia</strong> una vez por asalto</p>\n<hr />\n<p>Evalúas los puntos débiles de un enemigo en combate y los utilizas para formular un plan de ataque contra tu enemigo. Elige una criatura que puedas ver y tira un d20. Si golpeas a la criatura elegida más adelante en este asalto, debes utilizar el resultado de la tirada que hiciste para Idear una Estratagema para la tirada de ataque de tu Golpe en lugar de tirar. Haces esta sustitución sólo para el primer Golpe que hagas contra la criatura este asalto, no para los ataques posteriores.</p>\n<p>Cuando realices esta sustitución, también puedes añadir tu modificador de Inteligencia a tu tirada de ataque en lugar de tu modificador de Fuerza o Destreza, siempre que tu Golpe utilice un arma cuerpo a cuerpo ágil o fina, un ataque desarmado ágil o fino, un arma a distancia (que debe ser ágil o fina si es un arma cuerpo a cuerpo con el rasgo arrojado) o @Compendium[pf2e.equipment-srd.TLQErnOpM9Luy7rL]{debilitar}.</p>\n<p>Si eres consciente de que la criatura que eliges es objeto de una pista que estás persiguiendo, puedes usar esta habilidad como acción gratuita.</p>"
 		},
 		{
 			"id": "Disable Device",
@@ -468,33 +468,33 @@
 		},
 		{
 			"id": "Discover",
-			"name": "Discover",
-			"description": "<p>You watch or study an NPC to learn more about that NPC's preferences. Attempt a Perception check or an appropriate skill check determined by the GM. The DC is found in the NPC's influence stat block.</p>\n<hr />\n<p><strong>Fallo Crítico</strong> Choose two of the options detailed in Success below; you can choose the same option twice to learn two pieces of information from the same category.</p>\n<p><strong>Éxito</strong> Choose one of the following: You learn which skill that can Influence the NPC has the lowest DC (skipping any skills that you already know), one of the NPC's personal biases, one of the NPC's resistances, or one of the NPC's weaknesses.</p>\n<p><strong>Fallo</strong> You learn no information.</p>\n<p><strong>Fallo Crítico</strong> Choose a piece of information to learn about, as success, but the information is incorrect.</p>"
+			"name": "descubrir",
+			"description": "<p>Observas o estudias a un PNJ para saber más sobre sus preferencias. Intenta un chequeo de Percepción o un chequeo de habilidad apropiado determinado por el GM. La DC se encuentra en el bloque de estadísticas de influencia del PNJ.</p>\n<hr />\n<p><strong>Fallo Crítico</strong> Elija dos de las opciones detalladas en Éxito a continuación; puede elegir la misma opción dos veces para aprender dos informaciones de la misma categoría.</p>\n<p><strong>Éxito</strong> Elige una de las siguientes opciones: Aprendes qué habilidad que puede Influir en el PNJ tiene la DC más baja (omitiendo cualquier habilidad que ya conozcas), una de las inclinaciones personales del PNJ, una de las resistencias del PNJ o una de las debilidades del PNJ.</p>\n<p><strong>Fallo</strong> No se aprende ninguna información.</p>\n<p><strong>Fallo Crítico</strong> Elige una información para aprender, como el éxito, pero la información es incorrecta.</p>"
 		},
 		{
 			"id": "Dismiss",
-			"name": "Dismiss",
-			"description": "<p>You end one spell effect or magic item effect. This must be an effect you are allowed to dismiss, as defined by the spell or item. Dismissal might end the effect entirely or might end it just for a certain target or targets, depending on the spell or item.</p>"
+			"name": "Descartar",
+			"description": "<p>Terminas un efecto de hechizo o de objeto mágico. Este debe ser un efecto que se te permita descartar, según lo definido por el hechizo o el objeto. La desestimación puede terminar el efecto por completo o puede terminarlo sólo para uno o varios objetivos determinados, dependiendo del hechizo o del objeto.</p>"
 		},
 		{
 			"id": "Dispelling Bullet",
-			"name": "Dispelling Bullet",
-			"description": "<p>You imprint a bullet with a field of abjuration built upon your magical signature, disrupting the magic of whatever it hits. Make a firearm or crossbow Strike against a foe you can see. If you hit, you attempt to counteract a spell effect active on the target (your choice, or the highest-level effect if you don't choose). Your counteract level is equal to half your level (rounded up), and your counteract check modifier is equal to your class DC - 10.</p>"
+			"name": "Bala disipadora",
+			"description": "<p>Imprimes una bala con un campo de abjuración basado en tu firma mágica, interrumpiendo la magia de cualquier cosa que golpee. Realiza un golpe con un arma de fuego o una ballesta contra un enemigo que puedas ver. Si aciertas, intentas contrarrestar un efecto de hechizo activo sobre el objetivo (a tu elección, o el efecto de mayor nivel si no lo eliges). Tu nivel de contrarrestar es igual a la mitad de tu nivel (redondeado hacia arriba), y tu modificador de chequeo de contrarrestar es igual a tu DC de clase - 10.</p>"
 		},
 		{
 			"id": "Divert Lightning",
-			"name": "Divert Lightning",
-			"description": "<p><strong>Requisitos</strong> You aren't immune to electricity</p>\n<p><strong>Desencadenante</strong> A creature within 30 feet of you is targeted by an electricity effect or is in the area of an electricity effect.</p>\n<hr />\n<p><strong>Efecto</strong> You draw the electricity to yourself like a lightning rod in order to shield the target. If the Desencadenanteing effect was targeted, it targets you instead of the Desencadenanteing creature. If it was an area effect, it leaps from the Desencadenanteing creature's space to fill your space instead. This doesn't divert lightning from any other creatures targeted by or in the area of the lightning. You're automatically hit by or automatically fail your save against the effect. You then can't Divert Lightning for [[/r 1d4 #rounds]]{1d4 rounds}.</p>"
+			"name": "Desviar el rayo",
+			"description": "<p><strong>Requisitos</strong> No eres inmune a la electricidad</p>\n<p><strong>Desencadenante</strong> Una criatura a menos de 30 pies de ti es objetivo de un efecto de electricidad o está en el área de un efecto de electricidad.</p>\n<hr />\n<p><strong>Efecto</strong> You draw the electricity to yourself like a lightning rod in order to shield the target. If the Desencadenanteing effect was targeted, it targets you instead of the Desencadenanteing creature. If it was an area effect, it leaps from the Desencadenanteing creature's space to fill your space instead. This doesn't divert lightning from any other creatures targeted by or in the area of the lightning. You're automatically hit by or automatically fail your save against the effect. You then can't Divert Lightning for [[/r 1d4 #rounds]]{1d4 rondas}.</p>"
 		},
 		{
 			"id": "Draconic Frenzy",
-			"name": "Draconic Frenzy",
-			"description": "<p>Your eidolon makes one Strike with their primary unarmed attack and two Strikes with their secondary unarmed attack (in any order). If any of these attacks critically hits an enemy, your eidolon instantly recovers the use of their Breath Weapon.</p>"
+			"name": "Frenesí dracónico",
+			"description": "<p>Tu eidolon realiza un Golpe con su ataque desarmado principal y dos Golpes con su ataque desarmado secundario (en cualquier orden). Si alguno de estos ataques golpea críticamente a un enemigo, tu eidolon recupera instantáneamente el uso de su Arma de Aliento.</p>"
 		},
 		{
 			"id": "Drain Bonded Item",
-			"name": "Drain Bonded Item",
-			"description": "<p><strong>Frecuencia</strong> una vez por día</p>\n<hr />\n<p>You expend the power stored in your bonded item. During your turn, you gain the ability to cast one spell you prepared today and already cast, without spending a spell slot. You must still Cast the Spell and meet the spell's other Requisitos.</p>"
+			"name": "Elemento de unión de drenaje",
+			"description": "<p><strong>Frecuencia</strong> una vez por día</p>\n<hr />\n<p>Gastas el poder almacenado en tu objeto vinculado. Durante tu turno, obtienes la habilidad de lanzar un hechizo que hayas preparado hoy y que ya hayas lanzado, sin gastar una ranura de hechizo. Aun así, debes lanzar el hechizo y cumplir los demás requisitos del mismo.</p>"
 		},
 		{
 			"id": "Dream Research",
@@ -588,18 +588,18 @@
 		},
 		{
 			"id": "Feint",
-			"name": "Feint",
-			"description": "<p><strong>Requisitos</strong> You are within melee reach of the target you attempt to Feint.</p>\n<hr />\n<p>With a misleading flourish, you leave an opponent unprepared for your real attack. Attempt a <span data-pf2-action=\"feint\" data-pf2-glyph=\"A\">Deception</span> check against your target's Perception DC.</p>\n<hr />\n<p><strong>Fallo Crítico</strong> You throw your enemy's defenses against you entirely off. The target is @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} against melee attacks that you attempt against it until the end of your next turn.</p>\n<p><strong>Éxito</strong> Your foe is fooled, but only momentarily. The target is flat-footed against the next melee attack that you attempt against it before the end of your current turn.</p>\n<p><strong>Fallo Crítico</strong> Your feint backfires. You are flat-footed against melee attacks the target attempts against you until the end of your next turn.</p>"
+			"name": "Finta",
+			"description": "<p><strong>Requisitos</strong> Estás al alcance cuerpo a cuerpo del objetivo que intentas fintar.</p>\n<hr />\n<p>Con una floritura engañosa, dejas al adversario desprevenido para tu verdadero ataque. Intenta un <span data-pf2-action=\"Finta\" data-pf2-glyph=\"A\">Deception</span> check against your target's Perception DC.</p>\n<hr />\n<p><strong>Fallo Crítico</strong> You throw your enemy's defenses against you entirely off. The target is @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} against melee attacks that you attempt against it until the end of your next turn.</p>\n<p><strong>Éxito</strong> Your foe is fooled, but only momentarily. The target is flat-footed against the next melee attack that you attempt against it before the end of your current turn.</p>\n<p><strong>Fallo Crítico</strong> Tu finta resulta fallida. Quedas desarmado contra los ataques cuerpo a cuerpo que el objetivo intente contra ti hasta el final de tu siguiente turno.</p>"
 		},
 		{
 			"id": "Fey's Fortune",
-			"name": "Fey's Fortune",
-			"description": "<p><strong>Frecuencia</strong> una vez por día</p>\n<p><strong>Desencadenante</strong> You attempt a skill check and haven't yet rolled</p>\n<hr />\n<p><strong>Efecto</strong> Roll the skill check twice and use the better result</p>"
+			"name": "Fortuna de Fey",
+			"description": "<p><strong>Frecuencia</strong> una vez por día</p>\n<p><strong>Desencadenante</strong> Intentas un chequeo de habilidad y aún no has tirado</p>\n<hr />\n<p><strong>Efecto</strong> Tira dos veces el chequeo de habilidad y utiliza el mejor resultado</p>"
 		},
 		{
 			"id": "Field of Roots",
-			"name": "Field of Roots",
-			"description": "<p>Your eidolon extends its roots underground to entangle and possibly damage all foes nearby. All enemies within your eidolon's reach take damage of the same type and amount as your eidolon's most damaging Strike, depending on their Reflex saves. Any ongoing effects of the save last until the enemy either Escapes or leaves your eidolon's reach.</p>\n<p>After using Field of Roots, your eidolon is @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilized} until it takes a single action, which has the manipulate trait, to detach from the ground; this also ends any remaining effects on enemies from Field of Roots.</p>\n<hr />\n<p><strong>Fallo Crítico</strong> The enemy is unaffected.</p>\n<p><strong>Éxito</strong> The enemy takes no damage, but takes a -10 foot circumstance penalty to its Speeds.</p>\n<p><strong>Fallo</strong> The enemy takes half damage, takes a -10-foot circumstance penalty to its Speeds, and, at the end of each of its turns, takes half damage again.</p>\n<p><strong>Fallo Crítico</strong> The enemy is immobilized, takes full damage, and, at the end of each of its turns, takes full damage again.</p>"
+			"name": "Campo de raíces",
+			"description": "<p>Tu eidolón extiende sus raíces bajo tierra para enredar y posiblemente dañar a todos los enemigos cercanos. Todos los enemigos al alcance de tu eidolón reciben el mismo tipo y cantidad de daño que el golpe más dañino de tu eidolón, dependiendo de sus salvaciones de Reflejos. Los efectos de la salvación duran hasta que el enemigo escapa o sale del alcance de tu eidolon.</p>\n<p>Después de usar Campo de raíces, tu eidolon queda @Compendium[pf2e.conditionitems.eIcWb5o3pP6OIMe]{Inmovilizado} hasta que realiza una única acción, que tiene el rasgo de manipulación, para separarse del suelo; esto también acaba con cualquier efecto restante de Campo de raíces sobre los enemigos.</p>\n<hr />\n<p><strong>Fallo Crítico</strong> El enemigo no se ve afectado.</p>\n<p><strong>Éxito</strong> El enemigo no recibe daño, pero sufre una penalización de circunstancia de -10 pies a sus Velocidades.</p>\n<p><strong>Fallo</strong> El enemigo recibe la mitad del daño, sufre una penalización de circunstancia de -10 pies a sus Velocidades y, al final de cada uno de sus turnos, vuelve a recibir la mitad del daño.</p>\n<p><strong>Fallo Crítico</strong> El enemigo queda inmovilizado, recibe todo el daño y, al final de cada uno de sus turnos, vuelve a recibir todo el daño.</p>"
 		},
 		{
 			"id": "Fight with Fear",
@@ -623,8 +623,8 @@
 		},
 		{
 			"id": "Fire in the Hole",
-			"name": "Fire in the Hole",
-			"description": "<p><strong>Desencadenante</strong> A creature moves into the hazard's space</p>\n<hr />\n<p><strong>Efecto</strong> The hazard explodes, dealing the bombs' damage and splash damage to the inanimate object. Combine this damage for the purpose of resistances and weaknesses, and this damage ignores an amount of the object's Hardness equal to your level. Any creatures adjacent to the hazard take the bombs' splash damage, similarly combined for the purpose of resistances and weaknesses. As a reminder, since you didn't throw the bombs, @Compendium[pf2e.feats-srd.UjWLK86BgHxz3Itd]{Calculated Splash} and similar effects don't apply.</p>"
+			"name": "Fuego en el agujero",
+			"description": "<p><strong>Desencadenante</strong> Una criatura se mueve en el espacio del peligro</p>\n<hr />\n<p><strong>Efecto</strong> El peligro explota, infligiendo el daño de las bombas y el daño por salpicadura al objeto inanimado. Combina este daño a efectos de resistencias y debilidades, y este daño ignora una cantidad de la Dureza del objeto igual a tu nivel. Cualquier criatura adyacente al peligro recibe el daño por salpicadura de las bombas, igualmente combinado a efectos de resistencias y debilidades. Como recordatorio, dado que no has lanzado las bombas, @Compendium[pf2e.feats-srd.UjWLK86BgHxz3Itd]{Salpicadura calculada} y efectos similares no se aplican.</p>"
 		},
 		{
 			"id": "Flurry of Blows",
@@ -848,12 +848,12 @@
 		},
 		{
 			"id": "Life Block",
-			"name": "Life Block",
-			"description": "<p><strong>Desencadenante</strong> The spell's target would take damage</p>\n<hr />\n<p><strong>Efecto</strong> Reduce the Desencadenanteing damage by 10, but you lose 5 Hit Points. Even if this reduces the damage to 0, the target still takes any effects that would come with the damage, such as the poison on a viper's fangs Strike.</p>\n<hr />\n<p><strong>Heightened (+2)</strong> The reaction reduces the damage by another 10, and you lose 5 more Hit Points. If you want to lose fewer Hit Points, you can choose to lower the damage reduction and HP lost to what any lower-level version of the spell could do without lowering the spell's actual level.</p>"
+			"name": "Bloque de vida",
+			"description": "<p><strong>Desencadenante</strong> El objetivo del hechizo recibiría daño</p>\n<hr />\n<p><strong>Efecto</strong> Reduce el daño de Desencadenante en 10, pero pierdes 5 Puntos de Golpe. Aunque esto reduzca el daño a 0, el objetivo sigue sufriendo los efectos que acompañarían al daño, como el veneno de los colmillos de una víbora Huelga.</p>\n<hr />\n<p><strong>Aumento de (+2)</strong> La reacción reduce el daño en otros 10, y pierdes 5 Puntos de Vida más. Si quieres perder menos Puntos de Golpe, puedes elegir reducir la reducción de daño y los PS perdidos a lo que cualquier versión de nivel inferior del hechizo podría hacer sin bajar el nivel real del hechizo.</p>"
 		},
 		{
 			"id": "Living Fortification",
-			"name": "Living Fortification",
+			"name": "Fortalecimiento de vida",
 			"description": "<p><strong>Desencadenante</strong> You roll initiative.</p>\n<hr />\n<p>You can posture defensively with firearms or crossbows, acting like a walking tower. Interact to draw a firearm or crossbow. You then position that weapon defensively, gaining a +1 circumstance bonus to AC until the start of your first turn, or a +2 circumstance bonus if the chosen weapon has the parry trait.</p>"
 		},
 		{
@@ -893,23 +893,23 @@
 		},
 		{
 			"id": "Mark for Death",
-			"name": "Mark for Death",
-			"description": "<p><strong>Requisitos</strong> You can see and hear the creature you intend to mark</p>\n<hr />\n<p><strong>Efecto</strong> You designate a single creature as your mark. This lasts until the mark dies or you use Mark for Death again. You gain a +2 circumstance bonus to Perception checks to @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Seek} your mark and on Deception checks to @Compendium[pf2e.actionspf2e.QNAVeNKtHA0EUw4X]{Feint} against your mark.</p>\n<p>Your agile and finesse weapons and unarmed attacks gain the backstabber and deadly d6 weapon traits when you're attacking your mark.</p>\n<p>If the weapon or unarmed attack already has the deadly trait, increase the size of the deadly damage die by one step instead of giving it deadly d6.</p>"
+			"name": "Marca de la muerte",
+			"description": "<p><strong>Requisitos</strong> Puedes ver y oír a la criatura que pretendes marcar</p>\n<hr />\n<p><strong>Efecto</strong> Designas a una sola criatura como tu marca. Esto dura hasta que la marca muera o hasta que vuelvas a usar Marca de la Muerte. Obtienes un bonificador +2 de circunstancia a los chequeos de Percepción a @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Buscar} tu marca y a los chequeos de Engaño a @Compendium[pf2e.actionspf2e.QNAVeNKtHA0EUw4X]{Fintar} contra tu marca.</p>\n<p>Tus ataques ágiles y finos con armas y desarmados ganan los rasgos de arma de puñalada por la espalda y mortal d6 cuando atacas a tu objetivo.</p>\n<p>Si el arma o el ataque desarmado ya tiene el rasgo mortal, aumenta el tamaño del dado de daño mortal en un paso en lugar de darle d6 mortal.</p>"
 		},
 		{
 			"id": "Master Strike",
-			"name": "Master Strike",
-			"description": "<p><strong>Desencadenante</strong> Your Strike hits a @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} creature and deals damage</p>\n<hr />\n<p>The target attempts a Fortitude save at your class DC. It then becomes temporarily immune to your Master Strike for 1 day.</p>\n<hr />\n<p><strong>Fallo CríticoEl objetivo no se ve afectado.</p>\n<p><strong>Éxito</strong> The target is @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Enfeebled 2} until the end of your next turn.</p>\n<p><strong>Fallo</strong> The target is @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralyzed} for 4 rounds.</p>\n<p><strong>Fallo Crítico</strong> The target is paralyzed for 4 rounds, knocked @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Unconscious} for 2 hours, or killed (your choice).</p>"
+			"name": "Golpe maestro",
+			"description": "<p><strong>Desencadenante</strong> Tu Golpe golpea a una criatura @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Desprevenido} e inflige daño</p>\n<hr />\n<p>El objetivo intenta una salvación de Fortaleza con tu DC de clase. Entonces se vuelve temporalmente inmune a tu Golpe Maestro durante 1 día.</p>\n<hr />\n<p><strong>Fallo CríticoEl objetivo no se ve afectado.</p>\n<p><strong>Éxito</strong> El objetivo es @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Debilitado 2} hasta el final de tu próximo turno.</p>\n<p><strong>Fallo</strong> El objetivo es @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralizado} durante 4 rondas.</p>\n<p><strong>Fallo Crítico</strong> El objetivo queda paralizado durante 4 asaltos, noqueado @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{inconsciente} durante 2 horas, o muerto (a tu elección).</p>"
 		},
 		{
 			"id": "Mesmerizing Performance",
-			"name": "Mesmerizing Performance",
-			"description": "<p><strong>Requisitos</strong> The companion's last action was a successful Performance check to @Compendium[pf2e.actionspf2e.EEDElIyin4z60PXx]{Perform}. The companion maintains its performance to captivate a single target within 30 feet that witnessed its successful performance. The target must attempt a Will save.</p>\n<hr />\n<p><strong>ÉxitoEl objetivo no se ve afectado and temporarily immune for 1 hour.</p>\n<p><strong>Fallo</strong> The target is @Compendium[pf2e.conditionitems.AdPVz7rbaVSRxHFg]{Fascinated} by the companion for its next action and then is temporarily immune for 1 hour.</p>\n<p><strong>Fallo Crítico</strong> The target is fascinated by the companion for 1 round. While it remains fascinated, it can't use reactions.</p>"
+			"name": "Actuación fascinante",
+			"description": "<p><strong>Requisitos</strong> La última acción del compañero fue un chequeo de Actuación con éxito a @Compendium[pf2e.actionspf2e.EEDElIyin4z60PXx]{Performar}. El compañero mantiene su actuación para cautivar a un único objetivo en un radio de 30 pies que haya presenciado su actuación con éxito. El objetivo debe intentar una salvación de Voluntad.</p>\n<hr />\n<p><strong>Éxito</strong> El objetivo no se ve afectado and temporarily immune for 1 hour.</p>\n<p><strong>Fallo</strong> El objetivo es @Compendium[pf2e.conditionitems.AdPVz7rbaVSRxHFg]{Fascinado} por el compañero para su próxima acción y luego es temporalmente inmune durante 1 hora.</p>\n<p><strong>Fallo Crítico</strong> El objetivo queda fascinado por el compañero durante 1 asalto. Mientras permanece fascinado, no puede utilizar reacciones.</p>"
 		},
 		{
 			"id": "Mighty Rage",
-			"name": "Mighty Rage",
-			"description": "<p><strong>Desencadenante</strong> You use the @Compendium[pf2e.actionspf2e.Ah5g9pDwWF9b9VW9]{Rage} action on your turn</p>\n<hr />\n<p>Use an action that has the rage trait. Alternatively, you can increase the actions of the Desencadenanteing Rage to 2 to instead use a 2-action activity with the rage trait.</p>"
+			"name": "Furia poderosa",
+			"description": "<p><strong>Desencadenante</strong> Usas la acción @Compendium[pf2e.actionspf2e.Ah5g9pDwWF9b9VW9]{Furia} en tu turno</p>\n<hr />\n<p>Usa una acción que tenga el rasgo de rabia. Alternativamente, puedes aumentar las acciones del Desencadenante de Furia a 2 para, en su lugar, utilizar una actividad de 2 acciones con el rasgo de Furia.</p>"
 		},
 		{
 			"id": "Mist Blending",
@@ -1234,7 +1234,7 @@
 		{
 			"id": "Share Senses",
 			"name": "Compartir los sentidos",
-			"description": "<p><strong>Requisitos</strong> YoYour eidolon is manifested.</p>\n<p>You project your senses into your eidolon, allowing you to perceive through it. When you do, you lose all sensory information from your own body, but can sense through your eidolon's body for up to 1 minute. You can @Compendium[pf2e.actionspf2e.AjLSHZSWQ90exdLo]{Dismiss} this effect.</p>\n<hr />\n<p><strong>Special</strong> This action has the trait matching your eidolon's tradition (arcane, divine, occult, or primal). Yu eidolon puede usar esta habilidad. Cuando lo hace When you do, you lose all sensory information from your own body, but can sense through your eidolon's body for up to 1 minute. You can @Compendium[pf2e.actionspf2e.AjLSHZSWQ90exdLo]{Dismiss} this effect.</p>\n<hr />\n<p><strong>Special</strong> This action has the trait matching your eidolon's tradition (arcane, divine, occult, or primal). Your eidolon can also use this ability. When it does, it projects its senses into your body.</p>"
+			"description": "<p><strong>Requisitos</strong> Tu eidolon se manifiesta.</p>\n<p>Proyectas tus sentidos en tu eidolon, lo que te permite percibir a través de él. Cuando lo haces, pierdes toda la información sensorial de tu propio cuerpo, pero puedes percibir a través del cuerpo de tu eidolon hasta 1 minuto. Puedes @Compendium[pf2e.actionspf2e.AjLSHZSWQ90exdLo]{Descartar} este efecto.</p>\n<hr />\n<p><strong>Especial</strong> Esta acción tiene el rasgo correspondiente a la tradición de tu eidolon (arcano, divino, oculto o primitivo). Tu eidolon puede usar esta habilidad. Cuando lo hace, pierde toda la información sensorial de su propio cuerpo, pero puede sentir a través del cuerpo de su eidolon durante un minuto. Puedes @Compendium[pf2e.actionspf2e.AjLSHZSWQ90exdLo]{Descartar} este efecto.</p>\n<hr />\n<p><strong>Special</strong> Esta acción tiene el rasgo que coincide con la tradición de tu eidolon (arcano, divino, oculto o primitivo). Tu eidolon también puede utilizar esta habilidad. Cuando lo hace, proyecta sus sentidos en tu cuerpo.</p>"
 		},
 		{
 			"id": "Shove",
