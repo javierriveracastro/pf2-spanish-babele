@@ -98,23 +98,23 @@
 		},
 		{
 			"id": "Barbed Quills",
-			"name": "Barbed Quills",
-			"description": "<p><strong>Frecuencia</strong> una vez por día</p>\n<p><strong>Desencadenante</strong> You are hit with an unarmed strike or a strike with a non-reach melee weapon.</p>\n<hr />\n<p>You break off quills in your attacker's flesh. You deal [[/r {1d8}[piercing]]]{1d8 piercing damage} to the Desencadenanteing creature (basic Reflex save using your class DC or spell DC, whichever is higher.) On a critical failure, the creature also takes @Localize[PF2E.PersistentDamage.Bleed1d4.success] as your quills hook into its flesh. At 3rd level, and every 2 levels thereafter, this damage increases by 1d8 and the persistent piercing damage increases by 1.</p>\n<p>[[/r ceil(@actor.level/2)d8 #piercing]]{Levelled} piercing damage</p>\n<p>[[/r {1d4+ceil(@actor.level/2)-1}[persistent,bleed]]]{Levelled} @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Bleed Damage}</p>\n<hr />\n<p><em>Note: +1 bonus from Bristle is not added automatically</em></p>"
+			"name": "Púas punzantes",
+			"description": "<p><strong>Frecuencia</strong> una vez por día</p>\n<p><strong>Desencadenante</strong> Te golpean con un golpe sin armas o un golpe con un arma cuerpo a cuerpo sin alcance.</p>\n<hr />\n<p>Rompes las púas en la carne de tu atacante. Infliges [[/r {1d8}[perforante]]]{1d8 de daño perforante} a la criatura que se desentiende (salvación básica de Reflejos usando tu DC de clase o la DC del hechizo, la que sea mayor.) En un fallo crítico, la criatura también recibe @Localize[PF2E.PersistentDamage.Bleed1d4.success] mientras tus púas se enganchan en su carne. A 3er nivel, y cada 2 niveles a partir de entonces, este daño aumenta en 1d8 y el daño persistente de perforación aumenta en 1.</p>\n<p>[[/r ceil(@actor.level/2)d8 #piercing]]{Nivelado} daño penetrante</p>\n<p>[[/r {1d4+ceil(@actor.level/2)-1}[persistent,bleed]]]{Nivelado} @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Daño por sangrado persistente}</p>\n<hr />\n<p><em>Nota: la bonificación +1 de Cerdas no se añade automáticamente</em></p>"
 		},
 		{
 			"id": "Basic Finisher",
-			"name": "Basic Finisher",
-			"description": "<p>You make a graceful, deadly attack. Make a Strike; if you hit and your weapon qualifies for @Compendium[pf2e.classfeatures.RQH6vigvhmiYKKjg]{Precise Strike}, you deal the full [[/r {1d6}]]{1d6 damage} from precise strike.</p>"
+			"name": "Finalizador básico",
+			"description": "<p>Realizas un ataque elegante y mortal. Haz un Golpe; si impactas y tu arma califica para @Compendium[pf2e.classfeatures.RQH6vigvhmiYKKjg]{Golpe preciso}, infliges el [[/r {1d6}]]{1d6 de daño} completo del golpe preciso.</p>"
 		},
 		{
 			"id": "Beast's Charge",
-			"name": "Beast's Charge",
-			"description": "<p>Your eidolon rushes forward, using its momentum to increase the power of its attack. Your eidolon Strides twice and then Strikes. If the eidolon moved at least 20 feet away from its starting position and moved entirely in a straight line, it gains a +1 circumstance bonus to this attack roll.</p>"
+			"name": "Carga de la Bestia",
+			"description": "<p>Tu eidolón se precipita hacia delante, utilizando su impulso para aumentar la potencia de su ataque. Tu eidolon da dos zancadas y luego golpea. Si el eidolon se alejó al menos 6 metros de su posición inicial y se movió completamente en línea recta, gana un bono de circunstancia de +1 a esta tirada de ataque.</p>"
 		},
 		{
 			"id": "Bend Time",
-			"name": "Bend Time",
-			"description": "<p><strong>Frecuencia</strong> una vez por día</p>\n<p><strong>Desencadenante</strong> Your turn begins</p>\n<hr />\n<p><strong>Efecto</strong> You are @Compendium[pf2e.conditionitems.nlCjDvLMf2EkV2dl]{Quickened} this turn. You can use your extra action to Stride.</p>"
+			"name": "Doblar el tiempo",
+			"description": "<p><strong>Frecuencia</strong> una vez por día</p>\n<p><strong>Desencadenante</strong> Comienza tu turno</p>\n<hr />\n<p><strong>Efecto</strong> Estás @Compendium[pf2e.conditionitems.nlCjDvLMf2EkV2dl]{Acelerado} este turno. Puedes usar tu acción extra para Zancada.</p>"
 		},
 		{
 			"id": "Blizzard Evasion",
