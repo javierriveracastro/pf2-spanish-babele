@@ -128,8 +128,8 @@
 		},
 		{
 			"id": "Alter Reality",
-			"name": "Alter Reality",
-			"description": "<p>You use your occult lore and the power of your mind to manipulate the spiritual multiverse, resulting in any of the following effects:</p>\n<ul>\n<li>Duplicate any occult spell of 9th level or lower.</li>\n<li>Duplicate any non-occult spell of 7th level or lower.</li>\n<li>Produce any effect whose power is equivalent to any occult spell 9th level or lower, or non-occult spell 7th level or lower.</li>\n<li>Reverse certain effects that refer to the wish spell</li>\n</ul>\n<p>At the GM's discretion, you can try to produce greater effects, but this is dangerous and the spell may have only a partial effect.</p>"
+			"name": "Alterar la Realidad",
+			"description": "<p>Utilizas tu conocimiento del ocultismo y el poder de tu mente para manipular el multiverso espiritual, lo que resulta en cualquiera de los siguientes efectos: <br />&bull; Duplicas cualquier conjuro ocultista de 9&ordm; nivel o inferior. <br />&bull; Duplicas cualquier conjuro no ocultista de 7&ordm; nivel o inferior. <br />&bull; Creas cualquier efecto cuya potencia es equivalente a la de cualquier conjuro ocultista de 9&ordm; nivel o inferior, o cualquier conjuro no ocultista de 7&ordm; nivel o inferior. <br />&bull; Inviertes ciertos efectos que tienen que ver con el conjuro deseo. A discreci&oacute;n del DJ, puedes intentar obtener efectos mayores, pero es peligroso y el conjuro podr&iacute;a tener tan s&oacute;lo efectos parciales.</p>"
 		},
 		{
 			"id": "Anathematic Reprisal",
@@ -778,8 +778,8 @@
 		},
 		{
 			"id": "Chromatic Wall",
-			"name": "Chromatic Wall",
-			"description": "<p>You create an opaque wall of light in a single vibrant color. The wall is straight and vertical, stretching 60 feet long and 30 feet high. If the wall would pass through a creature, the spell is lost. The wall sheds bright light for 20 feet on each side, and dim light for the next 20 feet. You can ignore the wall's effects.</p>\n<p>Roll 1d4 to determine the color of the wall. Each color has a particular effect on items, effects, or creatures that attempt to pass through. Chromatic wall can't be counteracted normally; rather, each color is automatically counteracted when targeted by a specific spell, even if that spell's level is lower than that of chromatic wall.</p>\n<ol>\n<li><strong>Red</strong> The wall destroys ranged weapon ammunition (such as arrows and crossbow bolts) that would pass through, and it deals 20 fire damage to anyone passing through, with a basic Reflex save. Cone of cold can counteract a red chromatic wall.</li>\n<li><strong>Orange</strong> The wall destroys thrown weapons that would pass through, and it deals 25 acid damage to anyone passing through, with a basic Reflex save. Gust of wind can counteract an orange chromatic wall.</li>\n<li><strong>Yellow</strong> The wall stops acid, cold, electricity, fire, force, negative, positive, and sonic effects from passing through, and it deals 30 electricity damage to anyone passing through, with a basic Reflex save. Disintegrate can counteract a yellow chromatic wall.</li>\n<li><strong>Green</strong> The wall stops toxins, gases, and breath weapons from passing through. It deals 10 poison damage to anyone passing through and makes them @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Enfeebled 1} for 1 minute. A basic Fortitude save reduces the damage and negates the Enfeebled condition on a success. Passwall can counteract a green chromatic wall.<hr /></li>\n</ol>\n<p><strong>Heightened (7th)</strong> The spell's duration increases to 1 hour. Roll 1d8 to determine the wall's color; the results for 5-8 are below. A red, orange, yellow, or green wall deals an extra 10 damage.</p>\n<ol start=\"5\">\n<li><strong>Blue</strong> The wall stops auditory, petrification, and visual effects from passing through, and creatures passing through are subject to the effects of flesh to stone. Magic missile can counteract a blue chromatic wall.</li>\n<li><strong>Indigo</strong> The wall stops divination and mental effects from passing through, and those passing through are subject to the effects of warp mind. Searing light can counteract an indigo chromatic wall.</li>\n<li><strong>Violet</strong> The wall prevents spells from targeting the other side (area effects still cross as normal). Creatures passing through must succeed at a Will save or they are @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Slowed 1} for 1 minute; on a critical failure, the creature is instead sent to another plane, with the effect of plane shift. Dispel magic can counteract a violet chromatic wall.</li>\n<li><strong>Reroll</strong>, and creatures that pass through the wall take a -2 circumstance penalty to their saves.</li>\n</ol>"
+			"name": "Muro Cromático",
+			"description": "<p>Creas un muro opaco de luz de un color &uacute;nico y vibrante. El muro es recto y vertical, extendi&eacute;ndose 60 pies (18 m) de longitud y 30 pies (9 m) de altura. Si el muro atraviesa una criatura, el conjuro se pierde. El muro emite una luz brillante a 20 pies (6 m) por cada lado, y luz tenue los siguientes 20 pies (6 m). Puedes ignorar los efectos del muro. Tira 1d4 para determinar su color. Cada color tiene un efecto particular sobre los objetos, los efectos o las criaturas que intentan atravesarlo. No se puede contrarrestar de la forma normal; por el contrario, cada color se ve autom&aacute;ticamente contrarrestado cuando es el objetivo de un conjuro espec&iacute;fico, incluso si dicho conjuro es de un nivel inferior al de muro crom&aacute;tico. <br /><strong>1.Rojo</strong> El muro destruye la munici&oacute;n de las armas a distancia (como por ejemplo las flechas y los virotes) que intentan atravesarlo, e inflige 20 da&ntilde;o por fuego a cualquiera que lo atraviesa, con una salvaci&oacute;n b&aacute;sica de Reflejos. Cono de fr&iacute;o puede contrarrestar a un muro crom&aacute;tico rojo. <br /><strong>2. Naranja</strong> El muro destruye las armas arrojadizas que intentan atravesarlo, e inflige 25 da&ntilde;o por &aacute;cido a cualquiera que lo atraviesa, con una salvaci&oacute;n b&aacute;sica de Reflejos. R&aacute;faga de viento puede contrarrestar un muro crom&aacute;tico naranja. <br /><strong>3. Amarillo</strong> El muro detiene los efectos de &aacute;cido, electricidad, fr&iacute;o, fuego, fuerza, negativo, positivo y s&oacute;nico que pretenden atravesarlo, e inflige 30 da&ntilde;o por electricidad a cualquiera que lo atraviesa, con una salvaci&oacute;n b&aacute;sica de Reflejos. Desintegrar puede contrarrestar un muro crom&aacute;tico amarillo. <br /><strong>4. Verde</strong> El muro detiene las toxinas, los gases y las armas de aliento que pretenden atravesarlo. Inflige 10 da&ntilde;o por veneno a cualquiera que la atraviesa, y le deja debilitado 1 durante 1 minuto. Una salvaci&oacute;n b&aacute;sica de Fortaleza reduce el da&ntilde;o y niega el estado de @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Debilitado 1} con un &eacute;xito. Pasamiento puede contrarrestar un muro crom&aacute;tico verde. <br /><strong>Potenciado</strong> (7&ordm;) La duraci&oacute;n del conjuro se incrementa en 1 hora. Tira 1d8 para determinar el color del muro; los resultados para 5-8 se dan a continuaci&oacute;n. Un muro rojo, naranja, amarillo o verde inflige 10 da&ntilde;o adicional. <br /><strong>5. Azul</strong> El muro detiene los efectos auditivos, de petrificaci&oacute;n y visuales que pretenden atravesarlo, y las criaturas que lo atraviesan se ven sujetas a los efectos de un de la carne a la piedra. Proyectil m&aacute;gico puede contrarrestar un muro crom&aacute;tico azul. <br /><strong>6. A&ntilde;il</strong> El muro detiene los efectos de adivinaci&oacute;n y mentales que pretenden atravesarlo, y las criaturas que lo atraviesan se ven sujetas a los efectos de distorsionar la mente. Luz abrasadora puede contrarrestar un muro crom&aacute;tico a&ntilde;il. <br /><strong>7. Violeta</strong> El muro evita que los conjuros designen como objetivo el otro lado (los efectos de &aacute;rea siguen cruzando de la forma habitual). Las criaturas que lo atraviesan deben tener &eacute;xito en una salvaci&oacute;n de Voluntad o quedar @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Lentificada 1} durante 1 minuto; con un fallo cr&iacute;tico, en su lugar la criatura es enviada a otro Plano, como en cambio de Plano. Disipar magia puede contrarrestar un muro crom&aacute;tico violeta. <br /><strong>8. Vuelve a tirar,</strong> y las criaturas que atraviesan el muro sufren un penalizador -2 por circunstancia a sus salvaciones.</p>"
 		},
 		{
 			"id": "Circle of Protection",
@@ -1583,8 +1583,8 @@
 		},
 		{
 			"id": "Dreaming Potential",
-			"name": "Dreaming Potential",
-			"description": "<p>You draw the target into a lucid dream where it can explore the endless possibilities of its own potential within the ever-changing backdrop of its dreamscape. If it sleeps the full 8 hours uninterrupted, when it wakes, it counts as having spent a day of downtime retraining, though it can't use dreaming potential for any retraining that would require either an instructor or specialized knowledge it can't access within the dream.</p>"
+			"name": "Potencial Onírico",
+			"description": "<p>Atraes al objetivo a un sue&ntilde;o l&uacute;cido donde puede explorar las infinitas posibilidades de su propio potencial con el siempre cambiante tel&oacute;n de fondo de su paisaje on&iacute;rico. Si duerme las 8 horas ininterrumpidamente, al despertar cuenta como si hubiera pasado un d&iacute;a entero de tiempo libre reconvirtiendo, aunque no puede utilizar potencial on&iacute;rico para ninguna reconversi&oacute;n que requiere o bien un instructor o bien conocimiento especializado al que no puede acceder en el sue&ntilde;o.</p>"
 		},
 		{
 			"id": "Drop Dead",
@@ -1913,8 +1913,8 @@
 		},
 		{
 			"id": "Fabricated Truth",
-			"name": "Fabricated Truth",
-			"description": "<p>Choose a single statement you want the targets to believe. The fact could be narrow, such as \"a dragon is circling overhead and wants to kill me\"; wide-reaching, such as \"all humanoids are disguised abominations\"; or conceptual, such as \"if I don't live a kinder life, I'll be punished in the afterlife.\" The targets' experiences color how they react to this \"truth\" and how their behavior changes. If the statement changes what they perceive, they treat the change as a sudden revelation.</p>\n<p>The effect of the spell depends on the targets' Will saves. If a target is already subject to <em>fabricated truth</em>, your spell tries to counteract it. If the counteract check fails, the outcome of the target's saving throw can't be worse than a success.</p>\n<hr />\n<p><strong>Critical Success</strong> The target doesn't believe the statement, and it knows you tried to trick it.</p>\n<p><strong>Success</strong> The target doesn't believe the statement or realize you tried to trick it.</p>\n<p><strong>Failure</strong> The target believes the statement for a duration of 1 week.</p>\n<p><strong>Critical Failure</strong> The target believes the statement with unlimited duration.</p>"
+			"name": "Verdad Inventada",
+			"description": "<p>Elige una sola declaraci&oacute;n que quieres que crean los objetivos. El hecho podr&iacute;a ser muy limitado, como por ejemplo &laquo;un drag&oacute;n est&aacute; sobrevol&aacute;ndonos y me quiere matar&raquo;; extenso, como por ejemplo &laquo;todos los humanoides son abominaciones disfrazadas&raquo;; o conceptual, como por ejemplo &laquo;si no vivo la vida haciendo el bien, ser&eacute; castigado en la otra vida&raquo;. Las experiencias de cada objetivo dan color a la reacci&oacute;n que tiene ante esta &lsquo;verdad&rsquo; y afectan a c&oacute;mo cambia su comportamiento. Si la declaraci&oacute;n cambia lo que perciben, tratan el cambio como una revelaci&oacute;n repentina. <br />El efecto del conjuro depende de las salvaciones de Voluntad de los objetivos. Si un objetivo ya est&aacute; sujeto a una verdad inventada, tu conjuro intenta contrarrestarla. Si el intento de contrarrestarla falla, el desenlace de la tirada de salvaci&oacute;n del objetivo no puede ser peor que un &eacute;xito. <br /><strong>&Eacute;xito cr&iacute;tico</strong> El objetivo no se cree la declaraci&oacute;n y sabe que has intentado enga&ntilde;arle. <br /><strong>&Eacute;xito</strong> El objetivo no se cree la declaraci&oacute;n o bien se da cuenta de que has intentado enga&ntilde;arle. <br /><strong>Fallo</strong> El objetivo se cree la declaraci&oacute;n durante 1 semana. <br /><strong>Fallo cr&iacute;tico</strong> El objetivo se cree la declaraci&oacute;n de forma ilimitada.</p>"
 		},
 		{
 			"id": "Face in the Crowd",
@@ -2318,8 +2318,8 @@
 		},
 		{
 			"id": "Glibness",
-			"name": "Glibness",
-			"description": "<p>Falsehoods pass your lips as smoothly as silk. You gain a +4 status bonus to Deception checks to Lie and against Perception checks to discern if you are telling the truth, and you add your level even if you're untrained. If the implausibility of your lies prompts a circumstance penalty or a DC increase, reduce that penalty or increase by half.</p>"
+			"name": "Labia",
+			"description": "<p>Las falsedades salen de tus labios tan suavemente como la seda. Obtienes un bonificador +4 por estatus a las pruebas de Enga&ntilde;o para Mentir y contra las pruebas de Percepci&oacute;n para discernir si est&aacute;s diciendo la verdad, y sumas tu nivel incluso si no est&aacute;s entrenado. Si la inverosimilitud de tus mentiras supondr&iacute;a un penalizador por circunstancia o un incremento de la CD, reduce dicho penalizador o incrementa la CD s&oacute;lo la mitad.</p>"
 		},
 		{
 			"id": "Glimmer of Charm",
@@ -2618,8 +2618,8 @@
 		},
 		{
 			"id": "Hypercognition",
-			"name": "Hypercognition",
-			"description": "<p>You rapidly catalog and collate information relevant to your current situation. You can instantly use up to 6 Recall Knowledge actions as part of Casting this Spell. For these actions, you can't use any special abilities, reactions, or free actions that trigger when you Recall Knowledge.</p>"
+			"name": "Hipercognición",
+			"description": "<p>Catalogas r&aacute;pidamente y re&uacute;nes informaci&oacute;n relevante a tu situaci&oacute;n actual. Puedes utilizar instant&aacute;neamente hasta 6 acciones de Recordar conocimiento como parte de Lanzar este conjuro. Para esas acciones, no puedes usar ninguna aptitud especial, reacci&oacute;n o acci&oacute;n gratuita que se desencadenan cuando Recuerdas conocimiento.</p>"
 		},
 		{
 			"id": "Hyperfocus",
@@ -3108,7 +3108,7 @@
 		},
 		{
 			"id": "Mage Armor",
-			"name": "Mage Armor",
+			"name": "Armadura de Mago",
 			"description": "<p>Te proteges a ti mismo con una energ&iacute;a m&aacute;gica brillante, que te concede un bonificador +1 por objeto a la clase de armadura y un bonificador m&aacute;ximo por Destreza de +5. Mientras llevas armadura de mago, utilizas tu competencia sin armadura para calcular tu CA. <br /><strong>Potenciado</strong> (4&ordm;) Obtienes un bonificador +1 por objeto a las tiradas de salvaci&oacute;n. <br /><strong>Potenciado</strong> (6&ordm;) El bonificador por objeto a la CA se incrementa a +2, y obtienes un bonificador +1 por objeto a las tiradas de salvaci&oacute;n. <br /><strong>Potenciado</strong> (8&ordm;) El bonificador por objeto a la CA se incrementa a +2, y obtienes un bonificador +2 por objeto a las tiradas de salvaci&oacute;n. <br /><strong>Potenciado</strong> (10&ordm;) El bonificador por objeto a la CA se incrementa a +3, y obtienes un bonificador +3 por objeto a las tiradas de salvaci&oacute;n.<br />@Compendium[pf2e.spell-effects.qkwb5DD3zmKwvbk0]{Spell Effect: Mage Armor}</p>"
 		},
 		{
@@ -3318,8 +3318,8 @@
 		},
 		{
 			"id": "Mindlink",
-			"name": "Mindlink",
-			"description": "<p>You link your mind to the target's mind and mentally impart to that target an amount of information in an instant that could otherwise be communicated in 10 minutes.</p>"
+			"name": "Enlace Mental",
+			"description": "<p>Enlazas tu mente con la del objetivo y le impartes mentalmente una cantidad de informaci&oacute;n en un instante que de otra forma se podr&iacute;a comunicar en 10 minutos.</p>"
 		},
 		{
 			"id": "Miracle",
@@ -3358,8 +3358,8 @@
 		},
 		{
 			"id": "Modify Memory",
-			"name": "Modify Memory",
-			"description": "<p>You alter the target's memories, either erasing a memory, enhancing a memory's clarity, altering a memory, or adding a false memory. The target can attempt a Will save to resist the spell.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected and realizes you tried to alter its memory.</p>\n<p><strong>Success</strong> The target is unaffected but thinks your spell was something harmless instead of modify memory, unless it identifies the spell.</p>\n<p><strong>Failure</strong> During the first 5 minutes of the spell's duration, you can Sustain the Spell to modify a memory once each round. When you do, you imagine up to 6 seconds of memory to modify, to a maximum of 5 continuous minutes of memory.</p>\n<p>Any memories you've altered remain changed as long as the spell is active. If the target moves out of range before the 5 minutes is up, you can't alter any further memories.</p>\n<hr />\n<p><strong>Heightened (6th)</strong> You can cast the spell on a willing target to suppress all memory of a particular topic, detailed in 50 words or fewer. The effect is permanent, and it patches these omissions with an indistinct haze.</p>"
+			"name": "Modificar Recuerdo",
+			"description": "<p>Alteras los recuerdos del objetivo, o bien borrando, potenciando su claridad, alterando o a&ntilde;adiendo un recuerdo falso. El objetivo puede hacer una salvaci&oacute;n de Voluntad para resistirse al conjuro. <br /><strong>&Eacute;xito cr&iacute;tico</strong> El objetivo no resulta afectado y se da cuenta de que has intentado alterar sus recuerdos. <br /><strong>&Eacute;xito</strong> El objetivo no resulta afectado, pero cree que es un conjuro inofensivo en lugar de modificar recuerdo, si no lo identifica. <br /><strong>Fallo</strong> Durante los primeros 5 minutos de la duraci&oacute;n del conjuro, puedes Mantenerlo para modificar un recuerdo una vez por asalto. Cuando lo haces, te imaginas hasta 6 segundos de recuerdo a modificar, hasta un m&aacute;ximo de 5 minutos continuos de recuerdos. Cualquier recuerdo alterado permanece as&iacute; mientras el conjuro est&aacute; activo. Si el objetivo sale del alcance antes de que se acaben los 5 minutos, ya no puedes alterar ning&uacute;n recuerdo m&aacute;s. <br /><strong>Potenciado</strong> (6&ordm;) Puedes lanzar el conjuro sobre un objetivo voluntario para eliminar todo recuerdo de un tema en particular, detallado en 50 palabras o menos. El efecto es permanente, y parchea dichas omisiones con una neblina indistinta.</p>"
 		},
 		{
 			"id": "Moment of Renewal",
@@ -3723,8 +3723,8 @@
 		},
 		{
 			"id": "Phantom Pain",
-			"name": "Phantom Pain",
-			"description": "<p>Illusory pain wracks the target, dealing 2d4 mental damage and [[/r {1d4}[persistent,mental]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Mental Damage}. The target must attempt a Will save.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target takes full initial damage but no @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Mental Damage}, and the spell ends immediately.</p>\n<p><strong>Failure</strong> The target takes full initial and Persistent Damage, and the target is @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened 1}. If the target recovers from being Sickened, the Persistent Damage ends and the spell ends.</p>\n<p><strong>Critical Failure</strong> As failure, but the target is @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Sickened 2}.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 2d4 and the Persistent Damage by 1d4.</p>"
+			"name": "Dolor Fantasmal",
+			"description": "<p>Un dolor ilusorio atenaza al objetivo, infligiendo 2d4 da&ntilde;o mental y [[/r {1d4}[persistente,mental]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Da&ntilde;o Mental Persistente}. El objetivo debe llevar a cabo una salvaci&oacute;n de Voluntad. <br /><strong>&Eacute;xito cr&iacute;tico</strong> El objetivo no resulta afectado. <br /><strong>&Eacute;xito</strong> El objetivo sufre el da&ntilde;o inicial completo, pero no el @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Da&ntilde;o Mental Persistente}, y el conjuro se acaba de inmediato. <br /><strong>Fallo</strong> El objetivo sufre el da&ntilde;o inicial y el da&ntilde;o persistente completos, y queda indispuesto 1. Si se recupera del estado @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Indispuesto 1}, el da&ntilde;o persistente se acaba y el conjuro tambi&eacute;n. <br /><strong>Fallo cr&iacute;tico</strong> Como en fallo, pero el objetivo queda @Compendium[pf2e.conditionitems.fesd1n5eVhpCSS18]{Indispuesto 2}. <br /><strong>Potenciado</strong> (+1) El da&ntilde;o se incrementa en 2d4 y el da&ntilde;o persistente en 1d4.</p>"
 		},
 		{
 			"id": "Phantom Prison",
@@ -3818,8 +3818,8 @@
 		},
 		{
 			"id": "Possession",
-			"name": "Possession",
-			"description": "<p>You send your mind and soul into the target's body, attempting to take control. The target must attempt a Will save. You can choose to use the effects of a degree of success more favorable to the target if you prefer. While you're possessing a target, your own body is @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Unconscious} and can't wake up normally. You can sense everything the possessed target does. You can Dismiss this spell. If the possessed body dies, the spell ends and you must succeed at a Fortitude save against your spell DC or be @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralyzed} for 1 hour, or 24 hours on a critical failure. If the spell ends during an encounter, you act just before the possessed creature's initiative count.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> You possess the target but can't control it. You ride along in the body while the spell lasts.</p>\n<p><strong>Failure</strong> You possess the target and take partial control of it. You no longer have a separate turn; instead, you might control the target. At the start of each of the target's turns, it attempts another Will save. If it fails, it's @Compendium[pf2e.conditionitems.9qGBRpbX9NEwtAAr]{Controlled} by you on that turn; if it succeeds, it chooses its own actions; and if it critically succeeds, it forces you out and the spell ends.</p>\n<p><strong>Critical Failure</strong> You possess the target fully, and it can only watch as you manipulate it like a puppet. The target is Controlled by you.</p>\n<hr />\n<p><strong>Heightened (9th)</strong> The duration is 10 minutes, and you can physically enter the creature's body, protecting your physical body while the spell lasts.</p>"
+			"name": "Posesión",
+			"description": "<p>Env&iacute;as tu mente y tu alma al cuerpo del objetivo, intentando tomar el control. El objetivo debe llevar a cabo una salvaci&oacute;n de Voluntad. Puedes utilizar los efectos de un grado de &eacute;xito m&aacute;s favorable para el objetivo si lo prefieres. Mientras est&aacute;s poseyendo a un objetivo, tu propio cuerpo permanece @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Inconsciente} y no puede despertarse normalmente. Puedes sentir todo lo que hace el objetivo pose&iacute;do. Puedes Disipar este conjuro. Si el cuerpo pose&iacute;do muere, el conjuro se acaba y debes tener &eacute;xito en una salvaci&oacute;n de Fortaleza contra tu CD de conjuros o quedar @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralizado} durante 1 hora, o 24 horas con un fallo cr&iacute;tico. Si el conjuro acaba durante un encuentro, act&uacute;as justo antes de la cuenta de iniciativa de la criatura pose&iacute;da. <br /><strong>&Eacute;xito cr&iacute;tico</strong> El objetivo no resulta afectado. <br /><strong>&Eacute;xito</strong> Posees al objetivo, pero no puedes controlarlo. Mientras el conjuro dura, vas &lsquo;de pasajero&rsquo; en el cuerpo. <br /><strong>Fallo</strong> Posees al objetivo y tomas el control parcial del mismo. Ya no ten&eacute;is turnos separados, sino que en su lugar puedes controlar al objetivo. Al inicio de cada uno de los turnos del objetivo, &eacute;ste hace otra salvaci&oacute;n de Voluntad. Si falla, sigue @Compendium[pf2e.conditionitems.9qGBRpbX9NEwtAAr]{Controlado} por ti dicho turno; si tiene &eacute;xito, elige sus propias acciones; y si tiene un &eacute;xito cr&iacute;tico, te expulsa y el conjuro se acaba. <br /><strong>Fallo cr&iacute;tico</strong> Posees por completo al objetivo, que s&oacute;lo puede mirar mientras lo manipulas como una marioneta. El objetivo est&aacute; controlado por ti. <br /><strong>Potenciado</strong> (9&ordm;) La duraci&oacute;n es de 10 minutos y puedes entrar f&iacute;sicamente en el cuerpo de la criatura, protegiendo as&iacute; tu cuerpo f&iacute;sico mientras dura el conjuro.</p>"
 		},
 		{
 			"id": "Power Word Blind",
@@ -4253,8 +4253,8 @@
 		},
 		{
 			"id": "Retrocognition",
-			"name": "Retrocognition",
-			"description": "<p>Opening your mind to occult echoes, you gain impressions from past events that occurred in your current location. Retrocognition reveals psychic impressions from events that occurred over the course of the last day throughout the first minute of the duration, followed by impressions from the next day back the next minute, and so on. These echoes don't play out like a vision but instead reveal impressions of emotions and metaphors that provide cryptic clues and details of the past. If you witness a traumatic or turbulent event through an impression, the spell ends unless you succeed at a Will save with a DC of at least 30 and possibly as much as 50, depending on the severity of the event. The GM determines whether an event is traumatic and chooses the DC.</p>\n<hr />\n<p><strong>Heightened (8th)</strong> You gain impressions of events that occurred over the previous year for each minute you concentrate, instead of the previous day, though the details diminish, making it harder to distinguish impressions from all but the most major events.</p>\n<p><strong>Heightened (9th)</strong> You gain impressions of events that occurred over the previous century for each minute you concentrate, instead of the previous day, though the details diminish, making it almost impossible to distinguish impressions from all but the most major events.</p>"
+			"name": "Retrocognición",
+			"description": "<p>Abriendo tu mente a los ecos ocultos, obtienes impresiones de acontecimientos pasados que tuvieron lugar en tu ubicaci&oacute;n actual. La retrocognici&oacute;n revela impresiones ps&iacute;quicas de acontecimientos que tuvieron lugar a lo largo del d&iacute;a anterior durante el primer minuto de la duraci&oacute;n, seguido por impresiones del siguiente d&iacute;a anterior el siguiente minuto, y as&iacute; sucesivamente. Estos ecos no funcionan como una visi&oacute;n, sino que en su lugar revelan impresiones de emociones y met&aacute;foras que proporcionan pistas y detalles cr&iacute;pticos del pasado Si eres testigo de un acontecimiento traum&aacute;tico o turbulento gracias a una impresi&oacute;n, el conjuro acaba si no consigues una salvaci&oacute;n de Voluntad con una CD de por lo menos 30 y posiblemente hasta 50, dependiendo de la gravedad del acontecimiento. El DJ es quien determina si un acontecimiento es traum&aacute;tico y quien elige la CD. <br /><strong>Potenciado</strong> (8&ordm;) Obtienes impresiones de acontecimientos que tuvieron lugar el a&ntilde;o anterior por cada minuto que te concentras, en lugar del d&iacute;a anterior, aunque los detalles disminuyen haciendo m&aacute;s dif&iacute;cil distinguir impresiones de los acontecimientos, excepto de los m&aacute;s relevantes. <br /><strong>Potenciado</strong> (9&ordm;) Obtienes impresiones de acontecimientos que tuvieron lugar el siglo anterior por cada minuto que te concentras, en lugar del d&iacute;a anterior, aunque los detalles disminuyen haciendo m&aacute;s dif&iacute;cil distinguir impresiones de los acontecimientos, excepto de los m&aacute;s relevantes.</p>"
 		},
 		{
 			"id": "Return Beacon",
@@ -4553,8 +4553,8 @@
 		},
 		{
 			"id": "Shatter",
-			"name": "Shatter",
-			"description": "<p>A high-frequency sonic attack shatters a nearby object. You deal 2d10 sonic damage to the object, ignoring the object's Hardness if it is 4 or lower.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 1d10, and the Hardness the spell ignores increases by 2.</p>"
+			"name": "Estallar",
+			"description": "<p>Un ataque s&oacute;nico de alta frecuencia hace estallar un objeto pr&oacute;ximo. Infliges 2d10 da&ntilde;o s&oacute;nico al objeto, ignorando su Dureza si es 4 o menor.<br /><strong>Potenciado</strong> (+1) El da&ntilde;o se incrementa en 1d10 y la Dureza que el conjuro ignora se incrementa en 2.</p>"
 		},
 		{
 			"id": "Shattering Gem",
@@ -4718,8 +4718,8 @@
 		},
 		{
 			"id": "Soothe",
-			"name": "Soothe",
-			"description": "<p>You grace the target's mind, boosting its mental defenses and healing its wounds. The target regains 1d10+4 Hit Points when you Cast the Spell and gains a +2 status bonus to saves against mental effects for the duration.</p>\n<p>@Compendium[pf2e.spell-effects.nkk4O5fyzrC0057i]{Spell Effect: Soothe}</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The amount of healing increases by 1d10+4.</p>"
+			"name": "Amansar",
+			"description": "<p>Avivas la mente del objetivo, reforzando sus defensas mentales y curando sus heridas. El objetivo recupera 1d10+4 Puntos de Golpe cuando Lanzas el conjuro y obtiene un bonificador +2 por estatus a las salvaciones contra los efectos mentales mientras dura el conjuro. <br /><strong>Potenciado</strong> (+1) La cantidad curada se incrementa en 1d10+4.<br />@Compendium[pf2e.spell-effects.nkk4O5fyzrC0057i]{Efecto M&aacute;gico: Amansar}</p>"
 		},
 		{
 			"id": "Soothing Ballad",
@@ -4838,8 +4838,8 @@
 		},
 		{
 			"id": "Spirit Song",
-			"name": "Spirit Song",
-			"description": "<p>Your eldritch song sends pulsing waves of ethereal energy to attack creatures' spirits in the area, dealing 18d6 force damage. Because spirit song affects creatures' spirits, it can damage a target projecting its consciousness (such as via project image) or possessing another creature even if the target's body is elsewhere. The vibrating waves of spiritual song penetrate into, but not through, solid barriers, damaging incorporeal creatures hiding in solid objects in the area but not passing onward to damage creatures in other rooms. Possessed creatures aren't harmed by the song. The song doesn't harm creatures that have no spirit, such as constructs.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 2d6.</p>"
+			"name": "Canción Espiritual",
+			"description": "<p>Tu canci&oacute;n sobrenatural env&iacute;a ondas pulsantes de energ&iacute;a et&eacute;rea para atacar a los esp&iacute;ritus de las criaturas en el &aacute;rea, infligiendo 18d6 da&ntilde;o por fuerza. Como quiera que canci&oacute;n espiritual afecta el esp&iacute;ritu de la criatura, puede da&ntilde;ar a un objetivo que est&aacute; proyectando su consciencia (por ejemplo, mediante proyectar imagen) o poseyendo a otra criatura incluso si el cuerpo del objetivo est&aacute; en otra parte. Las ondas vibrantes de canci&oacute;n espiritual penetran, pero no traspasan, barreras s&oacute;lidas, pudiendo da&ntilde;ar a criaturas incorporales ocultas en los objetos s&oacute;lidos del &aacute;rea, pero no continuando hasta da&ntilde;ar a otras posibles criaturas en otras habitaciones. Las criaturas pose&iacute;das no resultan da&ntilde;adas por la canci&oacute;n. La explosi&oacute;n no da&ntilde;a a criaturas carentes de esp&iacute;ritu, como por ejemplo los constructos. <br /><strong>Potenciado</strong> (+1) El da&ntilde;o se incrementa en 2d6.</p>"
 		},
 		{
 			"id": "Spirit Veil",
@@ -5073,13 +5073,13 @@
 		},
 		{
 			"id": "Summon Entity",
-			"name": "Summon Entity",
-			"description": "<p>You conjure an aberration to fight for you. This works like <em>@Compendium[pf2e.spells-srd.4YnON9JHYqtLzccu]{Summon Animal}</em>, except you summon a common creature that has the aberration trait and whose level is 5 or lower.</p>\n<hr />\n<p><strong>Heightened (6th)</strong> Level 7</p>\n<p><strong>Heightened (7th)</strong> Level 9</p>\n<p><strong>Heightened (8th)</strong> Level 11</p>\n<p><strong>Heightened (9th)</strong> Level 13</p>\n<p><strong>Heightened (10th)</strong> Level 15</p>"
+			"name": "Convocar Aberración",
+			"description": "<p>Conjuras a una aberraci&oacute;n para que luche por ti. Funciona igual que @Compendium[pf2e.spells-srd.4YnON9JHYqtLzccu]{Convocar Animal} excepto que convocas a una criatura com&uacute;n con el rasgo aberraci&oacute;n y cuyo nivel es 5 o menor.<br /><strong>Potenciado</strong> (2&ordm;) Nivel 1.<br /><strong>Potenciado</strong> (3&ordm;) Nivel 2.<br /><strong>Potenciado</strong> (4&ordm;) Nivel 3.<br /><strong>Potenciado</strong> (5&ordm;) Nivel 5.<br /><strong>Potenciado</strong> (6&ordm;) Nivel 7.<br /><strong>Potenciado</strong> (7&ordm;) Nivel 9.<br /><strong>Potenciado</strong> (8&ordm;) Nivel 11.<br /><strong>Potenciado</strong> (9&ordm;) Nivel 13.<br /><strong>Potenciado</strong> (10&ordm;) Nivel 15.</p>"
 		},
 		{
 			"id": "Summon Fey",
-			"name": "Summon Fey",
-			"description": "<p>You conjure a fey to fight for you. This works like <em>@Compendium[pf2e.spells-srd.4YnON9JHYqtLzccu]{Summon Animal}</em>, except you summon a common creature that has the fey trait and whose level is -1.</p>\n<hr />\n<p><strong>Heightened (2nd)</strong> Level 1</p>\n<p><strong>Heightened (3rd)</strong> Level 2</p>\n<p><strong>Heightened (4th)</strong> Level 3</p>\n<p><strong>Heightened (5th)</strong> Level 5</p>\n<p><strong>Heightened (6th)</strong> Level 7</p>\n<p><strong>Heightened (7th)</strong> Level 9</p>\n<p><strong>Heightened (8th)</strong> Level 11</p>\n<p><strong>Heightened (9th)</strong> Level 13</p>\n<p><strong>Heightened (10th)</strong> Level 15</p>"
+			"name": "Convocar Hada",
+			"description": "<p>Conjuras a un hada para que luche por ti. Funciona igual que @Compendium[pf2e.spells-srd.4YnON9JHYqtLzccu]{Convocar Animal}&nbsp;excepto que convocas a una criatura com&uacute;n con el rasgo hada y cuyo nivel es -1.<br /><strong>Potenciado</strong> (2&ordm;) Nivel 1.<br /><strong>Potenciado</strong> (3&ordm;) Nivel 2.<br /><strong>Potenciado</strong> (4&ordm;) Nivel 3.<br /><strong>Potenciado</strong> (5&ordm;) Nivel 5.<br /><strong>Potenciado</strong> (6&ordm;) Nivel 7.<br /><strong>Potenciado</strong> (7&ordm;) Nivel 9.<br /><strong>Potenciado</strong> (8&ordm;) Nivel 11.<br /><strong>Potenciado</strong> (9&ordm;) Nivel 13.<br /><strong>Potenciado</strong> (10&ordm;) Nivel 15.<br /><br /></p>"
 		},
 		{
 			"id": "Summon Fiend",
@@ -5173,8 +5173,8 @@
 		},
 		{
 			"id": "Synaptic Pulse",
-			"name": "Synaptic Pulse",
-			"description": "<p>You emit a pulsating mental blast that penetrates the minds of all enemies in the area. Each creature in the area must attempt a Will save.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature is @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Stunned 1}.</p>\n<p><strong>Failure</strong> The creature is @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Stunned 2}.</p>\n<p><strong>Critical Failure</strong> The creature is Stunned for 1 round.</p>"
+			"name": "Pulso Sináptico",
+			"description": "<p>Emites una explosi&oacute;n mental pulsante que perfora la mente de todos los enemigos en el &aacute;rea. Cada criatura en el &aacute;rea debe hacer una salvaci&oacute;n de Voluntad. <br /><strong>&Eacute;xito cr&iacute;tico</strong> La criatura no resulta afectada. <br /><strong>&Eacute;xito</strong> La criatura queda @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Aturdida 1}. <br /><strong>Fallo</strong> La criatura queda @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Aturdida 2}. <br /><strong>Fallo cr&iacute;tico</strong> La criatura queda aturdida durante 1 asalto</p>"
 		},
 		{
 			"id": "Synchronize",
@@ -5188,8 +5188,8 @@
 		},
 		{
 			"id": "Synesthesia",
-			"name": "Synesthesia",
-			"description": "<p>The target's senses are suddenly rewired in unexpected ways, causing them to process noises as bursts of color, smells as sounds, and so on. This has three effects, and the target must attempt a Will save. Due to the distraction, the target must succeed at a DC 5 flat check each time it uses a concentrate action, or the action fails and is wasted. The target's difficulty processing visual input makes all creatures and objects @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} from it. The creature has trouble moving, making it @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy 3} and giving it a -10-foot status penalty to its Speeds.</p>\n<hr /><strong>Critical Success</strong> The target is unaffected.\n<p><strong>Success</strong> The target is affected for 1 round.</p>\n<p><strong>Failure</strong> The target is affected for 1 minute.</p>\n<p><strong>Critical Failure</strong> As failure, and the target is @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Stunned 2} as it attempts to process the sensory shifts.</p>\n<hr />\n<p><strong>Heightened (9th)</strong> You can target up to five creatures.</p>"
+			"name": "Sinestesia",
+			"description": "<p>Los sentidos del objetivo son repentinamente renovados de formas inesperadas, haciendo que procesen los ruidos como explosiones de color, los olores como sonidos y as&iacute; sucesivamente. Esto tiene tres efectos y el objetivo debe hacer una salvaci&oacute;n de Voluntad. Debido a la distracci&oacute;n, el objetivo debe tener &eacute;xito en una prueba plana CD 5 cada vez que lleva a cabo una acci&oacute;n de concentrar, o falla y la acci&oacute;n se pierde. La dificultad del objetivo en procesar los impulsos visuales hace que todas las criaturas y objetos queden @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Ocultos} de &eacute;l. La criatura tiene problemas en moverse, haciendo que est&eacute; torpe 3 e infligi&eacute;ndole un penalizador de -10 pies (-3 m) por estatus a sus Velocidades. <br /><strong>&Eacute;xito cr&iacute;tico</strong> El objetivo no resulta afectado. <br /><strong>&Eacute;xito</strong> El objetivo queda afectado durante 1 asalto. <br /><strong>Fallo</strong> El objetivo queda afectado durante 1 minuto. <br /><strong>Fallo</strong> <strong>cr&iacute;tico</strong> Como en fallo, y el objetivo queda @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Aturdido 2}&nbsp; mientras intenta procesar los cambios sensoriales. <br /><strong>Potenciado</strong> (9&ordm;) Puedes designar como objetivo hasta 5 criaturas.</p>"
 		},
 		{
 			"id": "Take its Course",
@@ -5228,12 +5228,12 @@
 		},
 		{
 			"id": "Telekinetic Maneuver",
-			"name": "Maniobra Telequinética",
+			"name": "Maniobra Telecinética",
 			"description": "<p>Con una oleada de poder telecin&eacute;tico, mueves a un enemigo o a algo que &eacute;ste lleva. Puedes intentar Desarmar, Empujar o derribar al objetivo utilizando una tirada de ataque de conjuro en lugar de una prueba de Atletismo.</p>"
 		},
 		{
 			"id": "Telekinetic Projectile",
-			"name": "Proyectil Telequinético",
+			"name": "Proyectil Telecinético",
 			"description": "<p>Lanzas contra el objetivo un objeto suelto y no atendido dentro del alcance y con una Impedimenta de 1 o menos. Haz un ataque de ataque de conjuro contra el objetivo. Si impactas, infliges tanto da&ntilde;o contundente, perforante o cortante (seg&uacute;n el objeto lanzado) como 1d6 m&aacute;s tu modificador por caracter&iacute;stica de lanzamiento de conjuros. Ning&uacute;n rasgo espec&iacute;fico ni propiedad m&aacute;gica del objeto arrojado afecta ni el ataque ni el da&ntilde;o. <br /><strong>&Eacute;xito cr&iacute;tico</strong> Infliges doble da&ntilde;o. <br /><strong>&Eacute;xito</strong> Infliges da&ntilde;o completo.<br /> <strong>Potenciado</strong> (+1) El da&ntilde;o se incrementa en 1d6.</p>"
 		},
 		{
@@ -5523,8 +5523,8 @@
 		},
 		{
 			"id": "Unfathomable Song",
-			"name": "Unfathomable Song",
-			"description": "<p>Fleeting notes of a strange and unnatural song fill the air, overtaking the mind. Each target must attempt a Will save when you cast the spell, and again the first time you Sustain this Spell each round. A creature needs to attempt only one save against the song each round, and you have to keep the same targets when you Sustain the Spell.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected, can't be affected on subsequent rounds, and is temporarily immune for 1 minute.</p>\n<p><strong>Success</strong> The target is unaffected this round, but it can be affected on subsequent rounds.</p>\n<p><strong>Failure</strong> Roll 1d4 on the table below.</p>\n<p><strong>Critical Failure</strong> Roll 1d4+1 on the table below.</p>\n<table class=\"pf2-table\">\n<thead>\n<tr>\n<th>Result</th>\n<th>Effect</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>The target is @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened 2}</td>\n</tr>\n<tr>\n<td>2</td>\n<td>The target is @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{Confused} for 1 round</td>\n</tr>\n<tr>\n<td>3</td>\n<td>The target is @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefied 4} for 1 round</td>\n</tr>\n<tr>\n<td>4</td>\n<td>The target is @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Blinded} for 1 round</td>\n</tr>\n<tr>\n<td>5</td>\n<td>The target is @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Stunned} for 1 round and @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefied 1} for an unlimited duration</td>\n</tr>\n</tbody>\n</table>"
+			"name": "Canción Insondable",
+			"description": "<p>Notas fugaces de una canci&oacute;n extra&ntilde;a y antinatural llenan el aire, abrumando la mente. Cada objetivo debe hacer una salvaci&oacute;n de Voluntad cuando lanzas el conjuro, y cada vez que lo Mantienes. Una criatura tan s&oacute;lo necesita hacer una salvaci&oacute;n contra la canci&oacute;n cada asalto, y tienes que conservar los mismos objetivos cuando Mantienes el conjuro. <br /><strong>&Eacute;xito cr&iacute;tico</strong> El objetivo no resulta afectado, no puede verse afectado en los asaltos subsiguientes y queda temporalmente inmune durante 1 minuto. <br /><strong>&Eacute;xito</strong> El objetivo no resulta afectado este asalto, pero puede verse afectado en asaltos subsiguientes. <br /><strong>Fallo</strong> Tira 1d4 en la tabla a continuaci&oacute;n. <br /><strong>Fallo cr&iacute;tico</strong> Tira 1d4 +1 en la tabla a continuaci&oacute;n. <br />Resultado Efecto <br /><strong>1</strong> El objetivo queda @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Asustado 2}. <br /><strong>2</strong> El objetivo queda @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{Confundido} durante 1 asalto. <br /><strong>3</strong> El objetivo queda @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Anonadado 4} durante 1 asalto. <br /><strong>4</strong> El objetivo queda @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Cegado} durante 1 asalto. <br /><strong>5</strong> El objetivo queda @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Aturdido} durante 1 asalto y @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Anonadado 1} 1 con una duraci&oacute;n ilimitada.</p>"
 		},
 		{
 			"id": "Unfetter Eidolon",
@@ -5673,8 +5673,8 @@
 		},
 		{
 			"id": "Visions of Danger",
-			"name": "Visions of Danger",
-			"description": "<p>An illusion of horrific creatures fills the spell's area. The creatures look like Tiny swarming monsters with a specific appearance of your choice, such as Hellish flies or animated saw blades. The burst deals 8d8 mental damage (basic Will save) to each creature that's inside the burst when it's created, enters the burst, or starts its turn inside the burst. A creature that critically succeeds at its will save can immediately attempt to disbelieve the illusion. A creature that tries to Interact with the monsters or observes one with a Seek action can attempt to disbelieve the illusion. Creatures that disbelieve the illusion take no damage from the illusion thereafter.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The mental damage increases by 1d8.</p>"
+			"name": "Visiones de Peligro",
+			"description": "<p>Una ilusi&oacute;n de criaturas horribles llena el &aacute;rea del conjuro. Las criaturas parecen como plagas de monstruos Menudos con una apariencia espec&iacute;fica a elegir por ti, como por ejemplo moscas infernales u hojas de sierra animadas. La explosi&oacute;n inflige 8d8 da&ntilde;o mental a cada criatura en el interior de la misma cuando se crea, cuando entra en ella o cuando empieza su turno en su interior. Una criatura que obtiene un &eacute;xito cr&iacute;tico en su salvaci&oacute;n de Voluntad puede intentar de inmediato descreer la ilusi&oacute;n. Una criatura que intenta Interactuar con los monstruos u observar a uno de ellos con una acci&oacute;n de Buscar puede intentar descreer la ilusi&oacute;n. Las criaturas que descreen la ilusi&oacute;n ya no sufren m&aacute;s da&ntilde;o debido a la misma posteriormente. <br /><strong>Potenciado</strong> (+1) El da&ntilde;o mental se incrementa en 1d8.</p>"
 		},
 		{
 			"id": "Vital Beacon",
