@@ -3,168 +3,168 @@
 	"entries": [
 		{
 			"id": "Advanced Undead Benefits",
-			"name": "Advanced Undead Benefits",
-			"description": "<p><strong>Darkvision:</strong> You gain darkvision if you don't already have it.</p>\n<p><strong>Greater Disease and Poison Protection:</strong> Your bonus against disease and poison increases to +2. You gain poison resistance equal to half your level.</p>\n<p><strong>Paralysis and Sleep Protection:</strong> You gain a +1 circumstance bonus to saving throws (or any other defense) against effects that would make you @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralyzed} or have the sleep trait.</p>"
+			"name": "Beneficios de los muertos vivientes avanzados",
+			"description": "<p><strong>Visión en la Oscuridad:</strong> Obtienes visión oscura si no la tienes ya.</p>\n<p><strong>Mayor protección contra enfermedades y venenos:</strong> Tu bonificación contra la enfermedad y el veneno aumenta a +2. Obtienes una resistencia al veneno igual a la mitad de tu nivel.</p>\n<p><strong>Paralysis and Sleep Protection:</strong> You gain a +1 circumstance bonus to saving throws (or any other defense) against effects that would make you @Compendium[pf2e.conditionitems.6uEgoh53GbXuHpTF]{Paralyzed} or have the sleep trait.</p>"
 		},
 		{
 			"id": "Aquatic Adaptation",
-			"name": "Aquatic Adaptation",
+			"name": "Adaptación acuática",
 			"description": "<p>Your reptilian biology allows you to hold your breath for a long time. You gain the @Compendium[pf2e.feats-srd.aJUXbe9HJVvv0Mxa]{Breath Control} general feat as a bonus feat.</p>"
 		},
 		{
 			"id": "Automaton Core",
-			"name": "Automaton Core",
-			"description": "<p>Your body contains an automaton core infused with planar quintessence that grants you power to perform various tasks and houses your soul and life energy. This life energy flows through you much like the blood of humanoids. As a result, you are a living creature. You don't have the typical construct immunities, can be affected by effects that target a living creature, and can recover Hit Points normally via positive energy. Additionally, you are not destroyed when reduced to 0 Hit Points. Instead, your life energy attempts to keep you active even in dire straits; you are knocked out and begin dying when reduced to 0 Hit Points.</p>"
+			"name": "Núcleo del autómata",
+			"description": "<p><p>Su cuerpo contiene un n&uacute;cleo aut&oacute;mata infundido con quintaesencia planar que le otorga poder para realizar diversas tareas y alberga su alma y energ&iacute;a vital. Esta energ&iacute;a vital fluye a trav&eacute;s de ti como la sangre de los humanoides. Como resultado, eres una criatura viva. No tienes las t&iacute;picas inmunidades de los constructos, puedes ser afectado por los efectos que tienen como objetivo una criatura viva y puedes recuperar puntos de vida normalmente a trav&eacute;s de la energ&iacute;a positiva. Adem&aacute;s, no te destruyes cuando te reduces a 0 puntos de vida. En lugar de ello, tu energ&iacute;a vital intenta mantenerte activo incluso en situaciones extremas; quedas noqueado y empiezas a morir cuando te reduces a 0 puntos de vida.</p>"
 		},
 		{
 			"id": "Basic Undead Benefits",
-			"name": "Basic Undead Benefits",
-			"description": "<p><strong>Necril:</strong> You know the Necril language.</p>\n<p><strong>Undead Vision:</strong> You gain low-light vision, or you gain darkvision if your ancestry already has low-light vision.</p>\n<p><strong>Negative Healing:</strong> You are damaged by positive damage and aren't healed by positive healing effects. You don't take negative damage and are healed by negative effects that heal undead.</p>\n<p><strong>Negative Survival:</strong> Unlike normal undead, you aren't destroyed when reduced to 0 Hit Points. Instead, powerful negative energy attempts to keep you from being destroyed even in dire straits. You are knocked out and begin dying when reduced to 0 Hit Points. Because you're undead, many methods of bringing someone back from dying, such as stabilize, don't benefit you. When you would die, you're destroyed rather than dead, just like other undead.</p>\n<p><strong>Immunity to Death Effects:</strong> You're immune to death effects. This keeps you from being automatically killed or from having your dying value automatically increase, but it doesn't make you immune to other parts of the spell or effect. For example, you can still take mental damage and become frightened by a phantasmal killer, you just don't instantly die from it.</p>\n<p><strong>Disease and Poison Protection:</strong> You gain a +1 circumstance bonus to saving throws (or any other defense) against disease and poison.</p>\n<p><strong>Undead Hunger:</strong> While you don't eat or drink the same food as humanoids do, you usually have thirsts and hungers related to your undead state, such as a ghoul's hunger for humanoid flesh, a zombie's craving for brains, and a vampire's desire for blood. Additionally, while you don't sleep, you enter a state of quiescence for at least 4 hours a day to recuperate, which lets your undead flesh reknit and recover naturally. Many undead choose to rest when the sun is at its highest.</p>"
+			"name": "Beneficios básicos de los no muertos",
+			"description": "<p><strong>Necril:</strong> Conoces la lengua de los Necril.</p>\n<p>Visión de los no-muertos:</strong> Ganas visión con poca luz, o ganas visión en la oscuridad si tu ascendencia ya tiene visión con poca luz.</p>\n<p><strong>Sanación negativa:</strong> Recibes daño positivo y no te curan los efectos positivos de curación. No recibes daño negativo y te curan los efectos negativos que curan a los muertos vivientes.</p>\n<p><strong>Supervivencia negativa:</strong> Unlike normal undead, you aren't destroyed when reduced to 0 Hit Points. En su lugar, una poderosa energía negativa intenta evitar que te destruyas incluso en situaciones extremas. Quedas noqueado y empiezas a morir cuando te reduces a 0 puntos de vida.. Como eres un muerto viviente, muchos métodos para recuperar a alguien de la muerte, como la estabilización, no te benefician. Cuando mueres, quedas destruido en lugar de muerto, al igual que otros no muertos.</p>\n<p><strong>Inmunidad a los efectos de muerte:</strong> Eres inmune a los efectos de muerte. Esto evita que te maten automáticamente o que tu valor de muerte aumente automáticamente, pero no te hace inmune a otras partes del hechizo o efecto. Por ejemplo, puedes seguir recibiendo daño mental y ser asustado por un asesino fantasmal, sólo que no mueres instantáneamente por ello.</p>\n<p><strong>Disease and Poison Protection:</strong> Obtienes un bono de circunstancia de +1 a las tiradas de salvación (o cualquier otra defensa) contra la enfermedad y el veneno.</p>\n<p><strong>Hambre de muertos:</strong> Aunque no comes ni bebes los mismos alimentos que los humanoides, sueles tener sed y hambre relacionados con tu estado de no muerto, como el hambre de carne humanoide de un ghoul, el ansia de cerebros de un zombie y el deseo de sangre de un vampiro. Además, aunque no duermes, entras en un estado de quiescencia durante al menos 4 horas al día para recuperarte, lo que permite que tu carne de no muerto vuelva a unirse y se recupere de forma natural. Muchos no muertos eligen descansar cuando el sol está en su punto más alto.</p>"
 		},
 		{
 			"id": "Bite",
-			"name": "Bite",
-			"description": "<p>Your sharp teeth and powerful jaws are fearsome weapons. You have a jaws unarmed attack that deals 1d6 piercing damage. Your jaws are in the brawling group.</p>"
+			"name": "Mordisco",
+			"description": "<p>Tus afilados dientes y tus poderosas mand&iacute;bulas son armas temibles. Tienes un ataque desarmado de mand&iacute;bulas que inflige 1d6 de da&ntilde;o perforante. Tus mand&iacute;bulas se encuentran en el grupo de los pendencieros.</p>"
 		},
 		{
 			"id": "Blunt Snout",
-			"name": "Blunt Snout",
-			"description": "<p>Your small, blunt snout and labyrinthine sinus system make you resistant to phenomena that assail the nose. When you roll a saving throw against inhaled threats (such as inhaled poisons) and olfactory effects (such as xulgath stench), you get the outcome one degree of success better than the result of your roll.</p>"
+			"name": "Hocico Romo",
+			"description": "<p>Tu peque&ntilde;o y contundente hocico y tu sistema sinusal laber&iacute;ntico te hacen resistente a los fen&oacute;menos que asaltan la nariz. Cuando realizas una tirada de salvaci&oacute;n contra amenazas inhaladas (como venenos inhalados) y efectos olfativos (como el hedor xulgath), obtienes el resultado un grado de &eacute;xito mejor que el resultado de tu tirada.</p>"
 		},
 		{
 			"id": "Change Shape",
-			"name": "Change Shape",
-			"description": "<p>As a kitsune, you gain the @Compendium[pf2e.actionspf2e.wwvPiG2kET2rkSAG]{Change Shape (Kitsune)} ability.</p>"
+			"name": "Cambio de Forma",
+			"description": "Como kitsune, obtienes la habilidad @Compendium[pf2e.actionspf2e.wwvPiG2kET2rkSAG]{Cambio de Forma (Kitsune)}."
 		},
 		{
 			"id": "Change Shape (Anadi)",
-			"name": "Change Shape (Anadi)",
-			"description": "<p>As a anadi, you gain the @Compendium[pf2e.actionspf2e.34E7k2YRcsOU5uyl]{Change Shape (Anadi)} ability.</p>"
+			"name": "Cambio de Forma (Anadi)",
+			"description": "<p>Como anadi, ganas la habilidad @Compendium[pf2e.actionspf2e.34E7k2YRcsOU5uyl]{Cambio de Forma (anadi)}. </p>"
 		},
 		{
 			"id": "Clan Dagger",
-			"name": "Clan Dagger",
-			"description": "<p>You get one @Compendium[pf2e.equipment-srd.kJJvKm80KwWXPukV]{clan dagger} of your clan for free, as it was given to you at birth. Selling this dagger is a terrible taboo and earns you the disdain of other dwarves.</p>"
+			"name": "Daga del Clan",
+			"description": "<p>Obtienes una @Compendium[pf2e.equipment-srd.kJJvKm80KwWXPukV]{daga de clan} de tu clan de forma gratuita, ya que te fue dada al nacer. Vender esta daga es un terrible tabú y te hace ganar el desprecio de los demás enanos.</p>"
 		},
 		{
 			"id": "Claws",
-			"name": "Claws",
-			"description": "<p>Your sharp claws offer an alternative to the fists other humanoids bring to a fight. You have a claw unarmed attack that deals [[/r {1d4}[slashing]]]{1d4 slashing damage} and has the agile and finesse traits.</p>"
+			"name": "Garras",
+			"description": "<p>Tus afiladas garras ofrecen una alternativa a los puños que otros humanoides llevan a la lucha. Tienes un ataque desarmado con garras que inflige [[/r {1d4}[slashing]]]{1d4 de daño cortante} y tiene los rasgos de agilidad y delicadeza.</p>"
 		},
 		{
 			"id": "Constructed",
-			"name": "Constructed",
-			"description": "<p>Your synthetic body resists ailments better than those of purely biological organisms. You gain a +1 circumstance bonus to saving throws against diseases, poisons, and radiation.</p>"
+			"name": "Constructo",
+			"description": "<p>Tu cuerpo sintético resiste las dolencias mejor que las de los organismos puramente biológicos. Obtienes un bonificador de circunstancia de +1 a las tiradas de salvación contra enfermedades, venenos y radiación.<p>"
 		},
 		{
 			"id": "Constructed (Poppet)",
-			"name": "Constructed (Poppet)",
-			"description": "<p>The materials of your body resist ailments that assail the flesh. You gain a +1 circumstance bonus to saving throws against death effects, disease, and poison as well as to saving throws against effects that would give you the drained, paralyzed, or sickened conditions. Your spark of life means that you're a living creature, and you can be healed by positive energy and harmed by negative energy as normal.</p>"
+			"name": "Construido (Poppet)",
+			"description": "<p>Los materiales de tu cuerpo resisten las dolencias que asaltan la carne. Obtienes un bonificador de circunstancia +1 a las tiradas de salvación contra los efectos de muerte, enfermedad y veneno, así como a las tiradas de salvación contra los efectos que te provocarían las condiciones de drenado, paralizado o enfermo. Tu chispa de vida significa que eres una criatura viva, y puedes ser curado por la energía positiva y dañado por la energía negativa como es normal.</p>"
 		},
 		{
 			"id": "Constructed Body",
-			"name": "Constructed Body",
-			"description": "<p>Your physiological needs are different than those of living creatures. You don't need to eat or drink. You don't need to sleep, but you still need a daily period of rest. During this period of rest, you must enter a recuperating standby state for 2 hours, which is similar to sleeping except you are aware of your surroundings and don't take penalties for being @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{Unconscious}. Much like with sleeping, if you go too long without entering your standby state, you become @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigued} and can't recover until you enter standby for 2 hours.</p>"
+			"name": "Cuerpo construido",
+			"description": "<p>Tus necesidades fisiológicas son diferentes a las de los seres vivos. No necesitas comer ni beber. No necesitas dormir, pero sí un periodo diario de descanso. Durante este periodo de descanso, debes entrar en un estado de espera de recuperación durante 2 horas, que es similar a dormir, excepto que eres consciente de tu entorno y no recibes penalizaciones por estar @Compendium[pf2e.conditionitems.fBnFDH2MTzgFijKf]{inconsciente}. Al igual que con el sueño, si pasas demasiado tiempo sin entrar en tu estado de espera, te conviertes en @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigado} y no puedes recuperarte hasta que entres en espera durante 2 horas.</p>"
 		},
 		{
 			"id": "Darkvision",
-			"name": "Darkvision",
-			"description": "<p>You can see in darkness and dim light just as well as you can see in bright light, though your vision in darkness is in black and white.</p>"
+			"name": "Visión en la Oscuridad",
+			"description": "<p>Puedes ver en la oscuridad y en la luz tenue tan bien como en la luz brillante, aunque tu visión en la oscuridad es en blanco y negro.<p>"
 		},
 		{
 			"id": "Draconic Exemplar",
-			"name": "Draconic Exemplar",
-			"description": "<p>You draw minor powers from your draconic exemplar. Choose a type of chromatic or metallic dragon to be your exemplar. This determines your scale color and appearance, and dragons sometimes look more favorably upon those kobolds who resemble them, at the GM's discretion. Your exemplar may also determine details of other abilities you have, using the Draconic Exemplars table.</p>\n<h3><strong>Table 1-1 Draconic Exemplars</strong></h3>\n<table class=\"pf2-table\">\n<thead>\n<tr>\n<th>Dragon</th>\n<th>Breath Weapon Shape</th>\n<th>Damage Type</th>\n<th>Saving Throw</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Black</td>\n<td>Line</td>\n<td>Acid</td>\n<td>Reflex</td>\n</tr>\n<tr>\n<td>Blue</td>\n<td>Line</td>\n<td>Electricity</td>\n<td>Reflex</td>\n</tr>\n<tr>\n<td>Green</td>\n<td>Cone</td>\n<td>Poison</td>\n<td>Fortitude</td>\n</tr>\n<tr>\n<td>Red</td>\n<td>Cone</td>\n<td>Fire</td>\n<td>Reflex</td>\n</tr>\n<tr>\n<td>White</td>\n<td>Cone</td>\n<td>Cold</td>\n<td>Reflex</td>\n</tr>\n<tr>\n<td>Brass</td>\n<td>Line</td>\n<td>Fire</td>\n<td>Reflex</td>\n</tr>\n<tr>\n<td>Bronze</td>\n<td>Line</td>\n<td>Electricity</td>\n<td>Reflex</td>\n</tr>\n<tr>\n<td>Copper</td>\n<td>Line</td>\n<td>Acid</td>\n<td>Reflex</td>\n</tr>\n<tr>\n<td>Gold</td>\n<td>Cone</td>\n<td>Fire</td>\n<td>Reflex</td>\n</tr>\n<tr>\n<td>Silver</td>\n<td>Cone</td>\n<td>Cold</td>\n<td>Reflex</td>\n</tr>\n</tbody>\n</table>"
+			"name": "Ejemplar dracónico",
+			"description": "<p>Obtienes poderes menores de tu ejemplar dracónico. Elige un tipo de dragón cromático o metálico para que sea tu ejemplar. Esto determina el color de tu escama y tu apariencia, y los dragones a veces ven con mejores ojos a los kobolds que se les parecen, a discreción del GM. Tu ejemplar también puede determinar detalles de otras habilidades que tienes, usando la tabla de Ejemplares Dracónicos.</p>\n<h3><strong>Table 1-1 Ejemplares dracónicos</strong></h3>\n<table class=\"pf2-table\">\n<thead>\n<tr>\n<th>Dragon</th>\n<th>Forma del Arma de Aliento</th>\n<th>Tipo de daño</th>\n<th>Tirada de Salvación</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>Negro</td>\n<td>Linea</td>\n<td>Acido</td>\n<td>Reflejos</td>\n</tr>\n<tr>\n<td>Azul</td>\n<td>Line</td>\n<td>Electricidad</td>\n<td>Reflejos</td>\n</tr>\n<tr>\n<td>Verde</td>\n<td>Cono</td>\n<td>Veneno</td>\n<td>Fortaleza</td>\n</tr>\n<tr>\n<td>Rojo</td>\n<td>Cono</td>\n<td>Fuego</td>\n<td>Reflejos</td>\n</tr>\n<tr>\n<td>Blanco</td>\n<td>Cono</td>\n<td>Frío</td>\n<td>Reflejos</td>\n</tr>\n<tr>\n<td>Metálicos</td>\n<td>Linea</td>\n<td>Fuego</td>\n<td>Reflejos</td>\n</tr>\n<tr>\n<td>Bronce</td>\n<td>Linea</td>\n<td>Electridad</td>\n<td>Reflejos</td>\n</tr>\n<tr>\n<td>Cobre</td>\n<td>Linea</td>\n<td>Acido</td>\n<td>Reflejos</td>\n</tr>\n<tr>\n<td>Oro</td>\n<td>Cono</td>\n<td>Fuego</td>\n<td>Reflejo</td>\n</tr>\n<tr>\n<td>Plata</td>\n<td>Cono</td>\n<td>Cold</td>\n<td>Reflejos</td>\n</tr>\n</tbody>\n</table>"
 		},
 		{
 			"id": "Emotionally Unaware",
-			"name": "Emotionally Unaware",
-			"description": "<p>You find it difficult to understand and express complex emotions. You take a -1 circumstance penalty to Diplomacy and Performance checks, and on Perception checks to Sense Motive.</p>"
+			"name": "Desconocimiento emocional",
+			"description": "<p>Te resulta difícil comprender y expresar emociones complejas. Sufres una penalización de circunstancia de -1 a los chequeos de Diplomacia y Actuación, y en los chequeos de Percepción de Sense Motive.</p>"
 		},
 		{
 			"id": "Eyes in Back",
-			"name": "Eyes in Back",
-			"description": "<p>You have eyes that point in several different directions and instinctively notice movement in the peripheries of your vision. When you use the Seek basic action, you can look for creatures in two areas instead of one. If precision is necessary, you can select two @Template[type:cone|distance:30]s or @Template[type:burst|distance:15]s within line of sight instead of one.</p>"
+			"name": "Ojos en la espalda",
+			"description": "<p>Tienes ojos que apuntan en varias direcciones diferentes y notas instintivamente el movimiento en la periferia de tu visión. Cuando usas la acción básica Buscar, puedes buscar criaturas en dos áreas en lugar de una. Si la precisión es necesaria, puedes seleccionar dos @Template[type:cone|distance:30]s o @Template[type:burst|distance:15]s dentro de la línea de visión en lugar de una.</p>"
 		},
 		{
 			"id": "Fangs",
-			"name": "Fangs",
-			"description": "<p>You were born with a natural means for hunting and self-defense. You gain a fangs unarmed attack that deals [[/r {1d6}[piercing]]]{1d6 piercing damage}. Your fangs are in the brawling group and have the finesse and unarmed traits.</p>"
+			"name": "Colmillos",
+			"description": "<p>Has nacido con un medio natural para la caza y la autodefensa. Obtienes un ataque desarmado de colmillos que inflige [[/r {1d6}[piercing]]]{1d6 de daño perforante}. Tus colmillos están en el grupo de los bravos y tienen los rasgos de delicadeza y desarmado.</p>"
 		},
 		{
 			"id": "Flammable",
-			"name": "Flammable",
-			"description": "<p>You have weakness to fire damage equal to one-third your level (minimum 1).</p>"
+			"name": "Inflamable",
+			"description": "<p>Tienes debilidad al daño por fuego igual a un tercio de tu nivel (mínimo 1).</p>"
 		},
 		{
 			"id": "Greater Darkvision",
-			"name": "Greater Darkvision",
-			"description": "<p>You can see in darkness and dim light just as well as you can see in bright light, though your vision in darkness is in black and white. Some forms of magical darkness, such as a 4th-level <em>@Compendium[pf2e.spells-srd.4GE2ZdODgIQtg51c]{Darkness}</em> spell, block normal @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Darkvision}. You, however, can see through even these forms of magical darkness.</p>"
+			"name": "Mayor visión de la oscuridad",
+			"description": "<p>Puedes ver en la oscuridad y en la luz tenue tan bien como en la luz brillante, aunque tu visión en la oscuridad es en blanco y negro. Algunas formas de oscuridad mágica, como la de 4º nivel <em>@Compendium[pf2e.spells-srd.4GE2ZdODgIQtg51c]{Oscuridad}</em> hechizo, bloquea la @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Visión en la oscuridad} normal. Sin embargo, puedes ver a través de estas formas de oscuridad mágica.</p>"
 		},
 		{
 			"id": "Hydration",
-			"name": "Hydration",
-			"description": "<p>While you are an amphibious being equally as capable on land as in the water, your body requires you to return to aquatic environments at least once in a 24-hour period. You must submerge in water in order to rehydrate your water-acclimated skin.</p>\n<p>If you fail to do this, your skin begins to crack and your gills become painful. After the first 24 hours outside of water, you take a -1 status penalty to Fortitude saves. After 48 hours, you struggle to breathe air and begin to suffocate until returned to water.</p>\n<p>@Compendium[pf2e.feature-effects.Q5FUu7yhWPJlcXei]{Effect: Hydration}</p>"
+			"name": "Hidratación",
+			"description": "<p>Aunque eres un ser anfibio tan capaz en tierra como en el agua, tu cuerpo te exige volver al medio acuático al menos una vez en un periodo de 24 horas. Debes sumergirte en el agua para rehidratar tu piel aclimatada al agua.</p>\n<p>Si no lo haces, tu piel comienza a agrietarse y tus branquias se vuelven dolorosas. Después de las primeras 24 horas fuera del agua, tienes una penalización de estado de -1 a las salvaciones de Fortaleza. Después de 48 horas, te cuesta respirar aire y empiezas a asfixiarte hasta que vuelvas al agua.</p>\n<p>@Compendium[pf2e.feature-effects.Q5FUu7yhWPJlcXei]{Efecto: Hidratación}</p>"
 		},
 		{
 			"id": "Keen Eyes",
-			"name": "Keen Eyes",
-			"description": "<p>Your eyes are sharp, allowing you to make out small details about concealed or even invisible creatures that others might miss. You gain a +2 circumstance bonus when using the @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Seek} action to find @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Hidden} or @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Undetected} creatures within 30 feet of you. When you target an opponent that is @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} from you or hidden from you, reduce the DC of the flat check to 3 for a concealed target or 9 for a hidden one.</p>"
+			"name": "Ojos afilados",
+			"description": "<p>Tus ojos son agudos, lo que te permite distinguir pequeños detalles de criaturas ocultas o incluso invisibles que otros podrían pasar por alto. Obtienes una bonificación de circunstancia de +2 al usar la acción @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Buscar} para encontrar criaturas @Compendium[pf2e.conditionitems.iU0fEDdBp3rXpTMC]{Escondidas} o @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{No detectadas} en un radio de 30 pies de ti. Cuando apuntas a un oponente que está @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Oculto} de ti o escondido de ti, reduce la DC del chequeo plano a 3 para un objetivo oculto o a 9 para uno escondido.</p>"
 		},
 		{
 			"id": "Land on Your Feet",
-			"name": "Land on Your Feet",
-			"description": "<p>When you fall, you take only half the normal damage and don't land @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{Prone}.</p>"
+			"name": "Aterriza en tus pies",
+			"description": "Cuando caes, sólo recibes la mitad del daño normal y no caes @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{Derribarte}.</p>"
 		},
 		{
 			"id": "Low-Light Vision",
-			"name": "Low-Light Vision",
-			"description": "<p>A creature with low-light vision can see in dim light as though it were bright light, so it ignores the @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} condition due to dim light.</p>"
+			"name": "Visión con poca luz",
+			"description": "<p>Una criatura con visión de poca luz puede ver con luz tenue como si fuera luz brillante, por lo que ignora la condición @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Oculto} por luz tenue.</p>"
 		},
 		{
 			"id": "Magical Strikes",
-			"name": "Magical Strikes",
-			"description": "<p>Your inherent magic pervades your entire being. All your Strikes are magical, whether with unarmed attacks or weapons.</p>"
+			"name": "Golpes mágicos",
+			"description": "<p>Tu magia inherente impregna todo tu ser. Todos tus golpes son mágicos, ya sea con ataques desarmados o con armas.</p>"
 		},
 		{
 			"id": "Plant Nourishment",
-			"name": "Plant Nourishment",
-			"description": "<p>You gain nourishment in the same way that the plants or fungi that match your body type normally do, through some combination of photosynthesis, absorbing minerals with your roots, or scavenging decaying matter. You typically do not need to pay for food. If you normally rely on photosynthesis and go without sunlight for 1 week, you begin to starve. You can derive nourishment from specially formulated bottles of sunlight instead of natural sunlight, but these bottles cost 10 times as much as standard rations (or 40 sp).</p>"
+			"name": "Nutrición de las plantas",
+			"description": "<p>Obtienes el alimento de la misma manera que lo hacen normalmente las plantas u hongos que coinciden con tu tipo de cuerpo, a través de alguna combinación de fotosíntesis, absorción de minerales con tus raíces o carroñeo de materia en descomposición. Normalmente no necesitas pagar por la comida. Si normalmente dependes de la fotosíntesis y te quedas sin luz solar durante una semana, empiezas a pasar hambre. Puedes obtener alimento de botellas de luz solar especialmente formuladas en lugar de luz solar natural, pero estas botellas cuestan 10 veces más que las raciones estándar (o 40 sp).</p>"
 		},
 		{
 			"id": "Revulsion",
 			"name": "Revulsion",
-			"description": "<p>You can't voluntarily come within 10 feet of brandished garlic or a religious symbol of a non-evil deity. A creature must Interact to brandish garlic or a religious symbol for 1 round (similar to Raising a Shield). If you involuntarily come within 10 feet of an object of your revulsion, you gain the @Compendium[pf2e.conditionitems.sDPxOjQ9kx2RZE8D]{Fleeing} condition, running from the subject of your revulsion until you end an action beyond 10 feet of it. After 1 round of being exposed to the subject of your revulsion, you can attempt a @Check[type:will|dc:25] save as a single action, which has the concentrate trait. On a success, you overcome your revulsions for [[/r 1d6 #Overcome Revulsion Duration]]{1d6 rounds}, or 1 hour on a critical success.</p>"
+			"description": "<p>No puedes acercarte voluntariamente a menos de 3 metros de un ajo blandido o de un símbolo religioso de una deidad no maligna. Una criatura debe Interactuar para blandir ajo o un símbolo religioso durante 1 asalto (similar a Levantar un escudo). Si te acercas involuntariamente a menos de 3 metros de un objeto de tu repulsión, obtienes la condición @Compendium[pf2e.conditionitems.sDPxOjQ9kx2RZE8D]{Huir}, huyendo del objeto de tu repulsión hasta que termines una acción más allá de 3 metros de él. Después de 1 asalto de estar expuesto al sujeto de tu repulsión, puedes intentar una salvación @Check[type:will|dc:25] como acción única, que tiene el rasgo de concentración. Con un éxito, superas tus revulsiones durante [[/r 1d6 #Overcome Revulsion Duration]]{1d6 asaltos}, o 1 hora con un éxito crítico.</p>"
 		},
 		{
 			"id": "Sharp Beak",
-			"name": "Sharp Beak",
-			"description": "<p>With your Sharp Beak, you are never without a weapon. You have a beak unarmed attack that deals [[/r {1d6}[piercing]]]{1d6 piercing damage}. Your beak is in the brawling weapon group and has the finesse and unarmed traits.</p>"
+			"name": "Pico afilado",
+			"description": "<p>Con tu pico afilado, nunca te falta un arma. Tienes un ataque desarmado con el pico que inflige [[/r {1d6}[piercing]]]{1d6 de daño perforante}. Tu pico está en el grupo de armas de pelea y tiene los rasgos de delicadeza y desarmado.</p>"
 		},
 		{
 			"id": "Sunlight",
-			"name": "Sunlight",
-			"description": "<p>If exposed to direct sunlight, you immediately become @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Slowed 1}. The slowed value increases by 1 each time you end your turn in sunlight. If you lose all your actions in this way, you are destroyed. Due to your supernatural aversion to light, you don't cast shadows or show a reflection in mirrors.</p>"
+			"name": "Luz solar",
+			"description": "<p>Si te expones a la luz solar directa, te conviertes inmediatamente en @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Relentizado 1}. El valor de la ralentización aumenta en 1 cada vez que terminas tu turno bajo la luz del sol. Si pierdes todas tus acciones de este modo, quedas destruido. Debido a tu aversión sobrenatural a la luz, no proyectas sombras ni muestras un reflejo en los espejos.</p>"
 		},
 		{
 			"id": "Sunlight Healing",
 			"name": "Sunlight Healing",
-			"description": "<p>A conrasu can enter a meditative, healing state as a 10-minute activity when exposed to direct sunlight, in which case they recover 1d8 Hit Points. At 3rd level, and every 2 levels thereafter, this healing increases by 1d8. [[/r ceil(@actor.level/2))d8[healing]]]{Levelled healing}</p>\n<p>Once a conrasu has recovered Hit Points in this way, they are temporarily immune to further uses of Sunlight Healing for 1 day.</p>"
+			"description": "<p>Un conrasu puede entrar en un estado meditativo y curativo como actividad de 10 minutos cuando se expone a la luz solar directa, en cuyo caso recupera 1d8 puntos de golpe. A 3er nivel, y cada 2 niveles posteriores, esta curación aumenta en 1d8. [[/r ceil(@actor.level/2))d8[healing]]]{Curación por nivel}</p>\n<p>Una vez que un conrasu ha recuperado Puntos de Golpe de esta manera, es temporalmente inmune a más usos de la Curación de la Luz del Sol durante 1 día.</p>"
 		},
 		{
 			"id": "Swim",
-			"name": "Swim",
-			"description": "<p>Azarketi get a base Swim speed of 30.</p>"
+			"name": "Nado",
+			"description": "<p>Los Azarketi tienen una velocidad de natación base de 30.</p>"
 		},
 		{
 			"id": "Unusual Anatomy",
-			"name": "Unusual Anatomy",
-			"description": "<p>Your unorthodox body resists physical afflictions meant for other creatures. You gain a +1 circumstance bonus to saves against diseases and poisons.</p>"
+			"name": "Anatomía inusual",
+			"description": "<p>Tu cuerpo poco ortodoxo resiste las aflicciones físicas destinadas a otras criaturas. Obtienes un bonificador de circunstancia de +1 a las salvaciones contra enfermedades y venenos.</p>"
 		},
 		{
 			"id": "Wings",
-			"name": "Wings",
-			"description": "<p>All strix possess powerful wings. While not all strix focus on honing their flying skills, a strong flap of their wings allows strix to travel longer distances when jumping.</p>\n<p>When Leaping horizontally, you move an additional 5 feet. You don't automatically fail your checks to High Jump or Long Jump if you don't Stride at least 10 feet first. In addition, when you make a Long Jump, you can jump a distance up to 10 feet further than your Athletics check result, though still with the normal maximum of your Speed.</p>"
+			"name": "Alas",
+			"description": "<p>Todos los Strix poseen poderosas alas. Aunque no todos los Strix se centran en perfeccionar sus habilidades de vuelo, un fuerte batir de sus alas permite a los strix recorrer mayores distancias al saltar.</p>\n<p>Cuando saltas horizontalmente, te mueves 5 pies adicionales. No fallas automáticamente tus chequeos de Salto de Altura o Salto de Longitud si no das una zancada de al menos 3 metros antes. Además, cuando realizas un Salto de Altura, puedes saltar una distancia de hasta 10 pies más allá del resultado de tu chequeo de Atletismo, aunque todavía con el máximo normal de tu Velocidad.</p>"
 		}
 	]
 }
