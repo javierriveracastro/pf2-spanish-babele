@@ -9,7 +9,7 @@
 		{
 			"id": "Aquatic Adaptation",
 			"name": "Adaptación acuática",
-			"description": "<p>Your reptilian biology allows you to hold your breath for a long time. You gain the @Compendium[pf2e.feats-srd.aJUXbe9HJVvv0Mxa]{Breath Control} general feat as a bonus feat.</p>"
+			"description": "<p>Tu biología de reptil te permite aguantar la respiración durante mucho tiempo. Obtienes la @Compendium[pf2e.feats-srd.aJUXbe9HJVvv0Mxa]{Control de la respiración} dote general como dote adicional.</p>"
 		},
 		{
 			"id": "Automaton Core",
@@ -148,7 +148,7 @@
 		},
 		{
 			"id": "Sunlight Healing",
-			"name": "Sunlight Healing",
+			"name": "Curación con luz solar",
 			"description": "<p>Un conrasu puede entrar en un estado meditativo y curativo como actividad de 10 minutos cuando se expone a la luz solar directa, en cuyo caso recupera 1d8 puntos de golpe. A 3er nivel, y cada 2 niveles posteriores, esta curación aumenta en 1d8. [[/r ceil(@actor.level/2))d8[healing]]]{Curación por nivel}</p>\n<p>Una vez que un conrasu ha recuperado Puntos de Golpe de esta manera, es temporalmente inmune a más usos de la Curación de la Luz del Sol durante 1 día.</p>"
 		},
 		{
