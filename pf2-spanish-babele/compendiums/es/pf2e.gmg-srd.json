@@ -1,495 +1,495 @@
 {
-	"label": "Game Mastery Guide",
+	"label": "Guía de dirección del juego",
 	"entries": [
 		{
 			"id": "Abandoned in a Distant Land",
-			"name": "Abandoned in a Distant Land",
-			"description": "<p>Due to some mischance (such as wandering off while on a trip or being press-ganged onto a seagoing ship), you had to survive in a distant land for a while.</p>\n<p>Add the @Compendium[pf2e.feats-srd.P9HCz0uR6xPHuw72]{Multilingual} skill feat to your background options</p>"
+			"name": "Abandonado en un país distante",
+			"description": "<p>Debido a algún percance (como por ejemplo perderte cuando estabas de excursión o ser alistado a la fuerza en un navío), tuviste que sobrevivir durante algún tiempo en una tierra distante.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.P9HCz0uR6xPHuw72]{Multilingüe} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Academic Community",
-			"name": "Academic Community",
-			"description": "<p>You were raised in or near a university, academy, or other center of learning.</p>\n<p>Add Academia Lore, Genealogy Lore, Library Lore, and Scribing Lore to your background options.</p>"
+			"name": "Comunidad académica",
+			"description": "<p>Creciste en una universidad, academia u otro centro de enseñanza o cerca del mismo.</p>\n<p>Suma Saber académico, Saber de la genealogía, Saber de las bibliotecas y Saber de la escritura a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Academy Trained",
-			"name": "Academy Trained",
-			"description": "<p>You attended an academy where you studied a number of topics and skills. Whether you were a studious pupil or a dropout, the academy was your home for a good portion of your formative years.</p>\n<p>Add the @Compendium[pf2e.feats-srd.BocFD2KV0qgUC76x]{Additional Lore} skill feat to your background options. If you select Additional Lore as your skill feat, instead of becoming trained in Lore, you become trained in your choice of Arcana, Occultism, or Society.</p>"
+			"name": "Entrenado en academia",
+			"description": "<p>Asististe a una academia donde estudiaste cierto número de temas y de habilidades. Ya fueras un alumno estudioso o alguien que abandonó los estudios, la academia fue tu hogar durante buena parte de tus años formativos.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.BocFD2KV0qgUC76x]{Saber adicional} a tus opciones de bagaje. Si seleccionas Saber adicional como dote de habilidad, en lugar de obtener el nivel entrenado en Saber, lo obtienes a elegir entre Arcanos, Ocultismo o Sociedad.</p>"
 		},
 		{
 			"id": "Accidental Fall",
-			"name": "Accidental Fall",
-			"description": "<p>This character once inadvertently shoved you off a ledge or balcony. You're mostly certain it was a mistake, but the fall was terrifying, and you've resolved to never be caught unaware like that again.</p>\n<p>Add the @Compendium[pf2e.feats-srd.LQw0yIMDUJJkq1nD]{Cat Fall} skill feat to your background options.</p>"
+			"name": "Caída accidental",
+			"description": "<p>Este personaje te empujó cierta vez sin darse cuenta, y caíste de una repisa o un balcón. Estás bastante seguro de que fue un accidente, pero la caída fue terrorífica y estás resuelto a que nunca te pillen desprevenido de esa manera de nuevo.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.LQw0yIMDUJJkq1nD]{Caída de gato} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Accusation of Theft",
-			"name": "Accusation of Theft",
-			"description": "<p>You were once secretly certain that this character stole a cherished valuable from you. You were determined to steal it back, until you learned that this character wasn't in fact to blame and you'd only misplaced the item.</p>\n<p>Add the @Compendium[pf2e.feats-srd.jDdOqFmZLwE4dblQ]{Pickpocket} skill feat to your background options.</p>"
+			"name": "Acusación de robo",
+			"description": "<p>Una vez tuviste la certeza en secreto de que este personaje había robado un objeto de valor muy querido por ti. Estabás determinado a recuperarlo como fuera, hasta que averiguaste que en realidad el personaje no tuvo la culpa y simplemente habías extraviado el objeto.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.jDdOqFmZLwE4dblQ]{Carterista} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Animal Helpers",
-			"name": "Animal Helpers",
-			"description": "<p>When you and this character were younger, you worked together to nurse sick animals back to health.</p>\n<p>Add the @Compendium[pf2e.feats-srd.nowEaHgIyij7im8F]{Train Animal} skill feat to your background options</p>"
+			"name": "Ayudante de veterinario",
+			"description": "<p>Cuando este personaje y tú erais más jóvenes, trabajasteis juntos para ayudar a curar animales enfermos.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.nowEaHgIyij7im8F]{Adiestrar animal} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Another Ancestry's Settlement",
-			"name": "Another Ancestry's Settlement",
-			"description": "<p>Randomly determine another common ancestry; you grew up surrounded by that ancestry. Reroll on this table (with a modifier for the new ancestry, if applicable) to determine the type of community in which you grew up (for example, if your gnome grew up among dwarves and rolls a 3, they grew up underground).</p>\n<p>Add the @Compendium[pf2e.feats-srd.ihN8gkHSdPG9Trte]{Adopted Ancestry} feat and the Lore skill related to your adopted ancestry (such as Dwarf Lore) to your background options. If you select this feat instead of a skill feat, you aren't trained in a background skill.</p>"
+			"name": "Asentamiento de otra ascendencia",
+			"description": "<p>Determina al azar otra ascendencia común; creciste rodeado por ella. Vuelve a tirar en esta Tabla (con un modificador para la nueva ascendencia, si se aplica) para determinar el tipo de comunidad en la que creciste (por ejemplo, si tú gnomo creció entre enanos y saca un 3, creció bajo tierra).</p>\n<p>Añade la @Compendium[pf2e.feats-srd.ihN8gkHSdPG9Trte]{Ascendencia adoptada} y la habilidad de Saber relacionada con tu ascendencia adoptada (como por ejemplo Saber de los enanos) a tus opciones de bagaje. Si seleccionaste esta dote en lugar de una dote de habilidad, no estás entrenado en una habilidad de bagaje.</p>"
 		},
 		{
 			"id": "Attained a Magical Gift",
-			"name": "Attained a Magical Gift",
-			"description": "<p>When you were a child, you found, stole, or were given a magic item that gave you an extraordinary ability.</p>\n<p>Add the @Compendium[pf2e.feats-srd.blMeVamjGz4ODWxq]{Arcane Sense} skill feat to your background options.</p>"
+			"name": "Regalo mágico",
+			"description": "<p>Cuando eras niño, encontraste, robaste o te dieron un regalo mágico que te concedió una aptitud extraordinaria.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.blMeVamjGz4ODWxq]{Sentido arcano} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Balance",
-			"name": "Balance",
-			"description": "<p>Your alignment changes to a radically different one. If you fail to adhere to that alignment, you lose a level and all the benefits you gained at that level. Your XP total doesn't change when you lose a level this way.</p>"
+			"name": "Balanza",
+			"description": "<p>Tu alineamiento cambia a otro radicalmente diferente. Si no te adhieres a dicho alineamiento, pierdes un nivel y todos los beneficios que ganaste en el mismo. Tu total de PX no cambia cuando pierdes un nivel de esta forma.</p>"
 		},
 		{
 			"id": "Betrayed",
-			"name": "Betrayed",
-			"description": "<p>A friend or family member whom you trusted more than anyone else betrayed you.</p>\n<p>Add the @Compendium[pf2e.feats-srd.Dvz54d6aPhjsmUux]{Lie To Me} skill feat to your background options.</p>"
+			"name": "Traicionado",
+			"description": "<p>Un amigo o un miembro de tu familia en quien confiabas ciegamente te traicionó.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.Dvz54d6aPhjsmUux]{Miénteme} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Bullied",
-			"name": "Bullied",
-			"description": "<p>In your early life, you were often picked on. The callousness of bullies sharpened your resolve to stand up for yourself and others.</p>\n<p>Add the @Compendium[pf2e.feats-srd.xQMz6eDgX75WX2ce]{Intimidating Glare} skill feat to your background options</p>"
+			"name": "Intimidado",
+			"description": "<p>A una edad temprana, a menudo se metían contigo. La brutalidad de los matones reforzó tu resolución de alzarte en defensa de ti mismo y de otros.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.xQMz6eDgX75WX2ce]{Mirada intimidante} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Called Before Judges",
-			"name": "Called Before Judges",
-			"description": "<p>Information provided by this character-either intentionally or inadvertently given-required you to justify yourself in front of a group of bureaucrats or magistrates.</p>\n<p>Add the @Compendium[pf2e.feats-srd.KpFetnUqTiweypZk]{Group Impression} skill feat to your background options.</p>"
+			"name": "Comparecencia ante un juez",
+			"description": "<p>Una información proporcionada por este personaje (ya fuera de forma intencional o inadvertida) requirió que te justificaras frente a un grupo de burócratas o de magistrados.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.KpFetnUqTiweypZk]{Impresión de grupo} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Captured by Giants",
-			"name": "Captured by Giants",
-			"description": "<p>You were captured by marauding giants and fought your way free.</p>\n<p>Add the @Compendium[pf2e.feats-srd.KxaYlC50zzHysJj8]{Titan Wrestler} skill feat to your background options</p>"
+			"name": "Capturado por gigantes",
+			"description": "<p>Fuiste capturado por unos gigantes merodeadores y te liberaste luchando.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.KxaYlC50zzHysJj8]{Luchador titánico} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Claimed an Inheritance",
-			"name": "Claimed an Inheritance",
-			"description": "<p>You were bequeathed great wealth or property at an early age. You retained some of it; add a piece of common adventuring gear worth 15 gp or less to your background options. If you select it instead of a skill feat, you are trained in Society.</p>"
+			"name": "Reclamaste una herencia",
+			"description": "<p>A una edad temprana heredaste propiedades o una gran riqueza. Conservaste parte de ella; suma una pieza de equipo de aventurero común por valor de 15 po o menos a tus opciones de bagaje. Si seleccionas esta dote en lugar de una dote de habilidad, estás entrenado en Sociedad.</p>"
 		},
 		{
 			"id": "Coastal Community",
-			"name": "Coastal Community",
-			"description": "<p>You grew up along a wide river, in a wetland, beside an ocean, or on an island.</p>\n<p>Add Fishing Lore, Sailing Lore, and Lore of a specific type of sea creature (such as Shark Lore) to your background options</p>"
+			"name": "Comunidad costera",
+			"description": "<p>Creciste alrededor de un amplio río, en unos humedales, junto a un océano o en una isla.</p>\n<p>Suma Saber de la pesca, Saber de la navegación y Saber de un tipo específico de criatura marina (como por ejemplo Saber de los tiburones) a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Comet",
-			"name": "Comet",
-			"description": "<p>If you alone defeat the next low-threat or harder hostile enemy or enemies you encounter, you gain enough XP to reach the next level. Otherwise, you gain no benefit.</p>"
+			"name": "Cometa",
+			"description": "<p>Si derrotas por ti mismo al siguiente enemigo o enemigos de amenaza baja o superior a los que se encuentra el grupo, obtienes suficientes PX como para llegar al siguiente nivel. De lo contrario, no obtienes beneficio alguno.</p>"
 		},
 		{
 			"id": "Comrade-in-Arms",
-			"name": "Comrade-in-Arms",
-			"description": "<p>You and this character were once comrades in military service, and you trained yourself and this character to improve your physical fitness.</p>\n<p>Add the @Compendium[pf2e.feats-srd.W6Gl9ePmItfDHji0]{Assurance} skill feat for Athletics to your background options</p>"
+			"name": "Camarada de armas",
+			"description": "<p>Este personaje y tú fuisteis antaño camaradas en el servicio militar, y ambos entrenasteis juntos para mejorar vuestra condición física.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.W6Gl9ePmItfDHji0]{Seguro} para Atletismo a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Cosmopolitan City",
-			"name": "Cosmopolitan City",
-			"description": "<p>You were raised in a community where no single ancestry predominated. This might have created tensions, but the community might also have pulled together from diverse foundations.</p>\n<p>Add Art Lore, Guild Lore, Legal Lore, and Underworld Lore to your background options</p>"
+			"name": "Ciudad cosmopolita",
+			"description": "<p>Te criaste en una comunidad en la que no predominaba ninguna ascendencia en particular. Esto podría haber creado tensiones, pero la comunidad también podría haberse cohesionado gracias a sus diversos cimientos.</p>\n<p>Suma Saber del arte, Saber gremial, Saber legal y Saber de los bajos fondos a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Desperate Intimidation",
-			"name": "Desperate Intimidation",
-			"description": "<p>You had to frighten off pirates or slavers looking to capture you and this character.</p>\n<p>Add the @Compendium[pf2e.feats-srd.gUqvezs2zzoTXFAI]{Group Coercion} skill feat to your background options.</p>"
+			"name": "Intimidación desesperada",
+			"description": "<p>Tuviste que asustar a unos piratas o esclavistas que querían capturaros a este personaje y a ti.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.gUqvezs2zzoTXFAI]{Intimidación de grupo} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Died",
-			"name": "Died",
-			"description": "<p>You died or came so close that you walked the boundary between life and death.</p>\n<p>Add the @Compendium[pf2e.feats-srd.I0BhPWqYf1bbzEYg]{Diehard} feat to your background options. If you select it instead of a skill feat, you aren't trained in a background skill.</p>"
+			"name": "Muerto",
+			"description": "<p>Moriste o estuviste tan cerca de morir que recorriste el lindero entre la vida y la muerte.</p>\n<p>Suma la dote @Compendium[pf2e.feats-srd.I0BhPWqYf1bbzEYg]{Duro de pelar} a tus opciones de bagaje. Si seleccionas esta dote en lugar de una dote de habilidad, no estás entrenado en una habilidad de bagaje.</p>"
 		},
 		{
 			"id": "Donjon",
-			"name": "Donjon",
-			"description": "<p>You're imprisoned by a 10th-level <em>@Compendium[pf2e.spells-srd.2CNqkt2s2IYkVnv6]{Imprisonment}</em> ritual. This uses the prison option, typically sequestering you in a distant part of the world. You also lose all your items. Cease drawing cards.</p>"
+			"name": "Mazmorra",
+			"description": "<p>Quedas preso de un ritual de <em>@Compendium[pf2e.spells-srd.2CNqkt2s2IYkVnv6]{cautiverio}</em> de 10.º nivel. Esto utiliza la opción de cárcel, normalmente encerrándote en una parte lejana del mundo. Además, pierdes todos tus objetos. Deja de sacar cartas.</p>"
 		},
 		{
 			"id": "Dullard",
-			"name": "Dullard",
-			"description": "<p>Immediately reduce your Intelligence score by [[/r {1d4+1} #Dullard Intelligence Decrease]]{1d4+1}. You can then draw an additional card, and the Dullard card then disappears forever.</p>"
+			"name": "Bobo",
+			"description": "<p>Reduce de inmediato tu puntuación de Inteligencia en [[/r {1d4+1} #Reducción de Inteligencia por Bobo]]{1d4+1}. A continuación puedes extraer una carta adicional, y la carta del Bobo desaparece para siempre.</p>"
 		},
 		{
 			"id": "Euryale (curse)",
-			"name": "Euryale (curse)",
-			"description": "<p>A medusa's image curses you with a permanent -1 status penalty to all saving throws. This can be removed by only a deity or @Compendium[pf2e.equipment-effects.8ersuvNJXX00XaIQ]{Effect: Euryale (Curse) Card}</p>"
+			"name": "Euríale (maldición)",
+			"description": "<p>La imagen de una medusa te maldice con un penalizador -1 permanente por estatus a todas las tiradas de salvación. Esto sólo se puede eliminar por intervención de un dios o mediante la carta del Destino.</p>"
 		},
 		{
 			"id": "Fell In with a Bad Crowd",
-			"name": "Fell In with a Bad Crowd",
-			"description": "<p>In your youth, you ran with a criminal element: a gang, thieves' guild, or similar organization.</p>\n<p>Add the @Compendium[pf2e.feats-srd.t3btih0O5RUwWynt]{Experienced Smuggler} skill feat to your background options.</p>"
+			"name": "Malas compañías",
+			"description": "<p>En tu juventud formaste parte de un elemento delictivo: una banda, una cofradía de ladrones o una organización similar.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.t3btih0O5RUwWynt]{Contrabandista experto} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Flames",
-			"name": "Flames",
-			"description": "<p>A fiend becomes filled with anger, jealousy, envy, or some other reason to despise you. Its hatred for you doesn't cease until either it or you is dead. It attacks you or otherwise attempts to foil you within [[/r 1d20 #days]]{1d20 days}. The GM determines the specifics of the fiend.</p>"
+			"name": "Llamas",
+			"description": "<p>Un infernal se llena de odio, celos, envidia o alguna otra razón para despreciarte. Su odio hacia ti no cesa hasta que uno de los dos habéis muerto. Te ataca o intenta frustrar tus planes de alguna otra forma en un máximo de [[/r 1d20 #días]]{1d20 días}. El DJ determina los detalles del infernal.</p>"
 		},
 		{
 			"id": "Fool",
-			"name": "Fool",
-			"description": "<p>You lose [[/r 1d10*100 #XP]]{1d10*100 XP} unless you choose to draw two more cards.</p>"
+			"name": "Bufón",
+			"description": "<p>Perderás [[/r 1d10*100 #XP]]{1d10*100 XP} a menos que extraigas dos cartas más.</p>"
 		},
 		{
 			"id": "Front Lines",
-			"name": "Front Lines",
-			"description": "<p>You grew up in a homeland torn by war. Even if you didn't personally participate, it was never far away.</p>\n<p>Add Heraldry Lore, Scouting Lore, and Warfare Lore to your background options.</p>"
+			"name": "Líneas del frente",
+			"description": "<p>Creciste en un país desgarrado por la guerra. Incluso si no participaste personalmente, nunca estaba muy lejos.</p>\n<p>Suma Saber heráldico, Saber de la exploración y Saber de la guerra a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Frontier",
-			"name": "Frontier",
-			"description": "<p>You grew up at the edge of a settled region. This might have been isolated hills if you are a dwarf, a ranch or farm if you are a human, or another similar frontier.</p>\n<p>Add Farming Lore, Fishing Lore, Hunting Lore, Scouting Lore, and Lore pertaining to a type of creature that threatened your homeland regularly (such as Giant Lore) to your background options</p>"
+			"name": "Frontera",
+			"description": "<p>Creciste en el límite de una región habitada. Podría tratarse de unas colinas aisladas si eres un enano, un rancho o granja si eres un humano o alguna otra frontera similar.</p>\n<p>Suma Saber de la agricultura, Saber de la pesca, Saber de la casa, Saber de la exploración y Saber relativo a un tipo de criatura que amenazaba de forma regular a tu país natal (como por ejemplo, Saber de los gigantes) a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Gem",
-			"name": "Gem",
-			"description": "<p>Gain your choice of 25 pieces of jewelry worth 200 gp each or 50 gems worth 100 gp each.</p>"
+			"name": "Gema",
+			"description": "<p>Obtienes, a elegir, 25 joyas que valen 200 po cada una o 50 gemas que valen 100 po cada una.</p>"
 		},
 		{
 			"id": "Had an Ordinary Childhood",
-			"name": "Had an Ordinary Childhood",
-			"description": "<p>Your childhood was fairly ordinary, with no major catastrophe-a stark contrast to most adventurers.</p>\n<p>Add the @Compendium[pf2e.feats-srd.W6Gl9ePmItfDHji0]{Assurance} skill feat for a skill of your choice to your background options</p>"
+			"name": "Tuviste una infancia normal",
+			"description": "<p>Tu infancia fue bastante normal sin ninguna catástrofe, en marcado contraste con la de la mayoría de aventureros.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.W6Gl9ePmItfDHji0]{Seguro} a una habilidad de tu elección a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Had Your First Kill",
-			"name": "Had Your First Kill",
-			"description": "<p>You've had blood on your hands since your youth, when you first took the life of another. You still have the weapon you used for the deed; add a common weapon worth 15 gp or less to your background options. If you select this option instead of a skill feat, you are trained in Athletics.</p>"
+			"name": "Mataste por vez primera",
+			"description": "<p>Te manchaste de sangre las manos en tu juventud, cuando mataste por vez primera. Aún tienes el arma que utilizaste para ello; suma un arma común por valor de 15 po o menos a tus opciones de bagaje. Si seleccionas esta opción en lugar de una dote de habilidad, estás entrenado en Atletismo.</p>"
 		},
 		{
 			"id": "Homelessness",
-			"name": "Homelessness",
-			"description": "<p>At a time when you were both living on the streets, you taught this character valuable pointers to survive.</p>\n<p>Add the @Compendium[pf2e.feats-srd.X2jGFfLU5qI5XVot]{Streetwise} skill feat to your background options</p>"
+			"name": "Sin techo",
+			"description": "<p>En un momento en que ambos vivíais en la calle, le diste a ese personaje algunas pistas valiosas para sobrevivir.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.X2jGFfLU5qI5XVot]{Callejeo} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Itinerant",
-			"name": "Itinerant",
-			"description": "<p>You never had a single place to call home. You might have been part of a nomadic caravan, a traveling group of entertainers, or a smuggling ring.</p>\n<p>Add Circus Lore, Fortune-Telling Lore, Games Lore, Labor Lore, and Underworld Lore to your background options.</p>"
+			"name": "Itinerante",
+			"description": "<p>Nunca tuviste un solo lugar que pudieras decir que era tu casa. Podrías haber formado parte de una caravana nómada, de un grupo de animadores ambulantes o de una banda de contrabandistas.</p>\n<p>Suma Saber del circo, Saber de la buenaventura, Saber de los juegos, Saber del trabajo y Saber de los bajos fondos a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Jester",
-			"name": "Jester",
-			"description": "<p>You can either draw two more cards or gain [[/r 1d10*100 #XP]]{1d10*100 XP}. The card then disappears forever.</p>"
+			"name": "Bromista",
+			"description": "<p>Puedes, o bien extraer 2 cartas más, o ganar [[/r 1d10*100 #XP]]{1d10*100 XP}. A continuación, la carta desaparece para siempre.</p>"
 		},
 		{
 			"id": "Key",
-			"name": "Key",
-			"description": "<p>Gain a magic weapon of 12th level or higher. The GM determines the item and what runes it has, if any.</p>"
+			"name": "Llave",
+			"description": "<p>Obtienes un arma mágica de nivel 12.º o superior. El DJ determina de qué objeto se trata y qué runas tiene, si las tiene.</p>"
 		},
 		{
 			"id": "Kidnapped",
-			"name": "Kidnapped",
-			"description": "<p>You were kidnapped at some point in your childhood and had to escape, perhaps by pirates, slavers, a cult, or someone else.</p>\n<p>Add the @Compendium[pf2e.feats-srd.3G8xUlgCjRmRJNfP]{Quick Squeeze} skill feat to your background options.</p>"
+			"name": "Secuestrado",
+			"description": "<p>En algún momento de tu infancia fuiste secuestrado y tuviste que huir, quizás de unos piratas, de unos esclavistas, de una secta o de alguna otra cosa./p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.3G8xUlgCjRmRJNfP]{Escurrirse rápidamente} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Kindly Witch",
-			"name": "Kindly Witch",
-			"description": "<p>This character connected you to a kindly but reclusive person who was living at the edge of civilization but had expansive knowledge to share.</p>\n<p>Add the @Compendium[pf2e.feats-srd.WC4xLBGmBsdOdHWu]{Natural Medicine} skill feat to your background options.</p>"
+			"name": "Bruja buena",
+			"description": "<p>Este personaje se puso en contacto con una persona amable pero solitaria que vivía en el límite de la civilización y tenía extensos conocimientos que compartir.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.WC4xLBGmBsdOdHWu]{Medicina natural} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Knight",
-			"name": "Knight",
-			"description": "<p>A @Compendium[pf2e.npc-gallery.B13dyXTo1xWVyj2R]{Palace Guard} arrives and swears unfailing loyalty to you.</p>"
+			"name": "Caballero",
+			"description": "<p>Un @Compendium[pf2e.npc-gallery.B13dyXTo1xWVyj2R]{Guardia de palacio} llega y te jura lealtad inquebrantable.</p>"
 		},
 		{
 			"id": "Liberators",
-			"name": "Liberators",
-			"description": "<p>You and this character worked together to free some captives-including one of your friends or relatives-from a gang of slavers.</p>\n<p>Add the @Compendium[pf2e.feats-srd.HEBXaS656MZTiWFu]{Lengthy Diversion} skill feat to your background options.</p>"
+			"name": "Liberadores",
+			"description": "<p>Este personaje y tú trabajasteis juntos para liberar cautivos (incluido uno de tus amigos o parientes) de una banda de esclavistas.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.HEBXaS656MZTiWFu]{Distracción extensa} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Lost in the Wilderness",
-			"name": "Lost in the Wilderness",
-			"description": "<p>Whether lured to the wilderness by a malevolent force or simply lost, you had to survive on your own for a while. Add the @Compendium[pf2e.feats-srd.tGIXuk0XeWmG04CX]{Survey Wildlife} skill feat to your background options.</p>"
+			"name": "Perdido en las tierras vírgenes",
+			"description": "<p>Ya te vieras atraído a las tierras vírgenes por una fuerza maligna o simplemente te perdieras, tuviste que sobrevivir por ti mismo durante un tiempo.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.tGIXuk0XeWmG04CX]{Supervisor de la fauna} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Magician",
-			"name": "Magician",
-			"description": "<p>This character supported your brief dalliance with stage magic, which you took up as a precursor to learning actual magic or simply to keep your fingers nimble.</p>\n<p>Add the @Compendium[pf2e.feats-srd.hVZbnsDuXihggylt]{Subtle Theft} skill feat to your background options.</p>"
+			"name": "Mago",
+			"description": "<p>Este personaje apoyó tu breve flirteo con la magia de escenario, que fue para ti un preámbulo antes de aprender la magia real, o simplemente para mantener tus dedos ágiles.</p>\n<p>Añade la dote de habilidad @Compendium[pf2e.feats-srd.hVZbnsDuXihggylt]{Sustracción sutil} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Matter of Might",
-			"name": "Matter of Might",
-			"description": "<p>You have long considered this character your rival in a question of strength. You are determined to prove yourself to be mightier, perhaps by intelligent application of force if you aren't physically imposing.</p>\n<p>Add the @Compendium[pf2e.feats-srd.C0Tcelg3BAPhML6J]{Hefty Hauler} skill feat to your background options.</p>"
+			"name": "Un problema de potencia",
+			"description": "<p>Hace tiempo que consideras a este personaje tu rival en cuestión de fuerza. Estás determinado a demostrar que tú eres más fuerte, quizá mediante una aplicación inteligente de la fuerza si no eres físicamente imponente.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.C0Tcelg3BAPhML6J]{Porteador recio} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Mercantile Expertise",
-			"name": "Mercantile Expertise",
-			"description": "<p>To encourage an employer to hire you instead of this character, you worked hard to demonstrate your keen mercantile sense. It didn't work; the employer hired this character anyway.</p>\n<p>Add the @Compendium[pf2e.feats-srd.5nc5ridFBfYpn2Om]{Bargain Hunter} skill feat to your background options.</p>"
+			"name": "Pericia mercantil",
+			"description": "<p>Para animar a un patrón a contratarte en lugar de a este personaje, trabajaste duro con el fin de demostrar tu agudo olfato mercantil. No funcionó; el patrón acabó contratando a este personaje.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.5nc5ridFBfYpn2Om]{Buscador de gangas} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Met a Fantastic Creature",
-			"name": "Met a Fantastic Creature",
-			"description": "<p>When you were a child, you made contact with a magical creature, such as a dragon, unicorn, genie, pixie, or similar creature.</p>\n<p>Add the @Compendium[pf2e.feats-srd.MjQyTcV8Jiv1Jtln]{Recognize Spell} skill feat to your background options.</p>"
+			"name": "Encuentro con una criatura fantástica",
+			"description": "<p>Cuando eras niño, entraste en contacto con una criatura mágica, como por ejemplo un dragón, un unicornio, un genio, un pixi o una criatura similar.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.MjQyTcV8Jiv1Jtln]{Reconocer conjuro} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Metropolis",
-			"name": "Metropolis",
-			"description": "<p>You grew up in one of the largest cities in the world, such as Absalom or Westcrown.</p>\n<p>Add Architecture Lore, Gladiatorial Lore, Guild Lore, Legal Lore, and Theater Lore to your background options</p>"
+			"name": "Metrópolis",
+			"description": "<p>Creciste en una de las mayores ciudades del mundo, como por ejemplo Absalom o Corona del Oeste.</p>\n<p>Suma Saber arquitectónico, Saber de los gladiadores, Saber gremial, Saber legal y Saber teatral a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Missing Child",
-			"name": "Missing Child",
-			"description": "<p>When a young relative disappeared in a busy market, this character helped you question merchants and shoppers and find the child before they came to any harm.</p>\n<p>Add the @Compendium[pf2e.feats-srd.4RjDxgvNXNl5GG9d]{Hobnobber} skill feat to your background options.</p>"
+			"name": "Niño perdido",
+			"description": "<p>Cuando un joven pariente desapareció en un mercado bullicioso, este personaje te ayudó a interrogar a mercaderes y tenderos y a encontrar al niño antes de que sufriera daño.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.4RjDxgvNXNl5GG9d]{Confraternizador} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Moon",
-			"name": "Moon",
-			"description": "<p>Roll [[/r {1d4} #Wishes]]{1d4} to determine how many wishes the card grants you, which also affects the phase of the moon depicted on the card (1: crescent moon; 2: half moon; 3: gibbous moon; 4: full moon). These wishes each take one action to speak and have the effect of a <em>@Compendium[pf2e.spells-srd.6dDtGIUerazSHIOu]{Wish}</em> spell.</p>"
+			"name": "Luna",
+			"description": "<p>Tira [[/r {1d4} #Deseos]]{1d4} para determinar cuántos deseos concede la carta, que también afecta la fase de la luna mostrada en la carta (1: luna creciente; 2: media luna; 3: luna gibosa; 4: luna llena). Cada uno de estos deseos requiere una acción para ser pronunciado y tiene el defecto de un conjuro de <em>@Compendium[pf2e.spells-srd.6dDtGIUerazSHIOu]{Deseo}</em>.</p>"
 		},
 		{
 			"id": "Patron of the Arts",
-			"name": "Patron of the Arts",
-			"description": "<p>This character encouraged you to excel at a type of performance you loved, even going so far as to support you in lean times.</p>\n<p>Add the @Compendium[pf2e.feats-srd.lFwfUvH2708rl6i3]{Virtuosic Performer} skill feat to your background options.</p>"
+			"name": "Mecenas de las artes",
+			"description": "<p>Este personaje te animó a la excelencia en un tipo de interpretación que te encantaba, llegando incluso a apoyarte económicamente en tiempos difíciles.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.lFwfUvH2708rl6i3]{Intérprete virtuoso} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Privileged Position",
-			"name": "Privileged Position",
-			"description": "<p>You once sought the favor of a powerful spellcaster as a mentor, but this character was plainly the mentor's favorite, no matter how hard you tried.</p>\n<p>Add the @Compendium[pf2e.feats-srd.IlOQuCQIhjJpig3S]{Quick Identification} skill feat to your background options.</p>"
+			"name": "Posición privilegiada",
+			"description": "<p>Antaño buscaste el favor de un poderoso lanzador de conjuros como mentor, pero este personaje era claramente el favorito del mentor, sin importar lo intensamente que lo intentaras.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.IlOQuCQIhjJpig3S]{Identificación rápida} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Raided",
-			"name": "Raided",
-			"description": "<p>A horde of raiders attacked your settlement and killed and wounded several of your people. This could have been a band of highway robbers or a conquering army.</p>\n<p>You have a relic from those times; add an armor or shield worth 15 gp or less to your background options. If you select this option instead of a skill feat, you are trained in Medicine.</p>"
+			"name": "Asaltado",
+			"description": "<p>Una horda de asaltantes atacaron tu asentamiento y mataron e hirieron a varios de los tuyos. Pudo haberse tratado de una banda de salteadores de caminos o de un ejército de conquista.</p>\n<p>Tienes una reliquia de dichos tiempos; suma una armadura o un escudo por valor de 15 po o menos a tus opciones de bagaje. Si seleccionas esta opción en lugar de una dote de habilidad, estás entrenado en Medicina.</p>"
 		},
 		{
 			"id": "Relationship Ender",
-			"name": "Relationship Ender",
-			"description": "<p>You once warned off an admirer seeking this character's affections. You still maintain that the match would have been a poor one and that you did this character a favor.</p>\n<p>Add the @Compendium[pf2e.feats-srd.ar2DUlvDK4LDcH9J]{Quick Coercion} skill feat to your background options.</p>"
+			"name": "Finalizador de relación",
+			"description": "<p>Una vez avisaste a un admirador que buscaba el afecto de este personaje de que cometía un error. A día de hoy sigues manteniendo que la relación hubiera sido un desastre y que le hiciste un favor.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.ar2DUlvDK4LDcH9J]{Intimidación rápida} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Religious Community",
-			"name": "Religious Community",
-			"description": "<p>You were raised in a community of religious scholars, such as the town around an abbey, a remote elven forest shrine, or a dwarven temple-city.</p>\n<p>Add Art Lore, Scribing Lore, Lore about a deity that was the focus or enemy of your community (such as Pharasma Lore), and Lore about a plane (other than the Material Plane) where that deity resides to your background options.</p>"
+			"name": "Comunidad religiosa",
+			"description": "<p>Creciste en una comunidad de eruditos religiosos, como por ejemplo la población que rodea a una abadía, un santuario en un remoto bosque elfo o una ciudad-templo de los enanos.</p>\n<p>Suma Saber del arte, Saber de la escritura, Saber acerca de un dios que era el foco o el enemigo de tu comunidad (como por ejemplo Saber de Farasma) y Saber acerca de un Plano (diferente al Plano Material) donde reside dicho dios a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Religious Students",
-			"name": "Religious Students",
-			"description": "<p>You and this character shared some religious training in the past, even if you didn't stick with it, and you admired their piety.</p>\n<p>Add the @Compendium[pf2e.feats-srd.x7EMZNMavris2aHY]{Student of the Canon} skill feat to your background options</p>"
+			"name": "Alumnos religiosos",
+			"description": "<p>Este personaje y tú compartisteis entrenamiento religioso en el pasado, incluso aunque tú no lo prosiguieras, y admirabas su piedad.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.x7EMZNMavris2aHY]{Alumno del canon} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Rival Trackers",
-			"name": "Rival Trackers",
-			"description": "<p>You and this character worked for a time as rival hunters, whether tracking animals or escaped criminals.</p>\n<p>Add the @Compendium[pf2e.feats-srd.urQZwmzg2kS53vd5]{Experienced Tracker} skill feat to your background options.</p>"
+			"name": "Rastreadores rivales",
+			"description": "<p>Este personaje y tú trabajasteis durante un tiempo como cazadores rivales, ya fuera rastreando animales o delincuentes huidos.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.urQZwmzg2kS53vd5]{Rastreador experto} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Robbed",
-			"name": "Robbed",
-			"description": "<p>Your family's possessions were stolen, and you vowed to catch the next burglar in the act. Add the @Compendium[pf2e.feats-srd.DMetdzt1VJL2Y62i]{Snare Crafting} skill feat to your background options.</p>"
+			"name": "Robado",
+			"description": "<p>Las posesiones de tu familia fueron robadas y juraste atrapar en el acto al próximo aspirante a ladrón.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.DMetdzt1VJL2Y62i]{Preparar trampas de lazo} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Rogue",
-			"name": "Rogue",
-			"description": "<p>One NPC ally becomes filled with hatred and immediately turns against you forever. The NPC might keep this hatred secret until an opportune moment.</p>"
+			"name": "Canalla",
+			"description": "<p>Un PNJ aliado lleno de odio se vuelve de inmediato contra ti para siempre. El PNJ podría mantener en secreto este odio hasta el momento oportuno.</p>"
 		},
 		{
 			"id": "Ruin",
-			"name": "Ruin",
-			"description": "<p>You lose all your nonmagical possessions, including any wealth and property.</p>"
+			"name": "Ruina",
+			"description": "<p>Pierdes todas tus posesiones no mágicas incluyendo cualquier riqueza y propiedades.</p>"
 		},
 		{
 			"id": "Seeking Accolades",
-			"name": "Seeking Accolades",
-			"description": "<p>You never seemed to capture the attention of the crowds at the tavern as easily as this character did, so you worked hard to practice your showmanship.</p>\n<p>Add the @Compendium[pf2e.feats-srd.xqAdXRd2gSQcqp5E]{Impressive Performance} skill feat to your background options.</p>"
+			"name": "En busca de elogios",
+			"description": "<p>Nunca pareciste capturar la atención del público en la taberna tan fácilmente como lo hacía este personaje, por lo que trabajaste muy duro practicando tus dotes de Interpretación.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.xqAdXRd2gSQcqp5E]{Interpretación impresionante} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Simple Village",
-			"name": "Simple Village",
-			"description": "<p>You were raised in a sleepy village such as a bucolic gnome hamlet, a close-knit human town, or an established goblin fort.</p>\n<p>Add Herbalism Lore, Midwifery Lore, Milling Lore, Tanning Lore, and Lore of a type of food, drink, or product the village was known for producing (such as Alcohol Lore or Wagon Lore) to your background options</p>"
+			"name": "Población sencilla",
+			"description": "<p>Te criaste en un poblado tranquilo como por ejemplo una aldea gnoma bucólica, una población humana estrechamente unida o un fuerte goblin bien establecido.</p>\n<p>Suma Saber de herbolario, Saber de la obstetricia, Saber de la molienda, Saber de la jurisdicción y Saber de un tipo de comida, bebida o producto por el que dicha población era bien conocida (como por ejemplo Saber del alcohol o Saber de los carros) a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Skull",
-			"name": "Skull",
-			"description": "<p>You must immediately battle a @Compendium[pf2e.pathfinder-bestiary.pkNWilK2pHZ5TDsd]{Lesser Death}. If slain in the battle, you can never be revived, except by a deity.</p>"
+			"name": "Calavera",
+			"description": "<p>Tienes que luchar de inmediato contra una @Compendium[pf2e.pathfinder-bestiary.pkNWilK2pHZ5TDsd]{Parca menor}. Si mueres en combate, no puedes ser revivido, excepto por un dios.</p>"
 		},
 		{
 			"id": "Slander",
-			"name": "Slander",
-			"description": "<p>You and this character were rivals for the same person's affections, and you stooped to spreading vicious lies before the whole situation fell apart.</p>\n<p>Add the @Compendium[pf2e.feats-srd.B6HbYsLBWb1RR6Fx]{Charming Liar} skill feat to your background options.</p>"
+			"name": "Difamación",
+			"description": "<p>YEste personaje y tú fuisteis rivales por el afecto de la misma persona, y caíste tan bajo como para divulgar mentiras asquerosas antes de que la situación se hiciera pedazos.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.B6HbYsLBWb1RR6Fx]{Mentiroso encantador} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Social Maneuvering",
-			"name": "Social Maneuvering",
-			"description": "<p>You have always wanted to prove yourself better than this character in a fancy social situation but have yet to decisively do so.</p>\n<p>Add the @Compendium[pf2e.feats-srd.JtjnFsOToBLnSRO9]{Courtly Graces} skill feat to your background options.</p>"
+			"name": "Maniobras sociales",
+			"description": "<p>Siempre has querido demostrarte a ti mismo que eres mejor que este personaje en una reunión social elegante, pero aún no lo has conseguido de forma decisiva.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.JtjnFsOToBLnSRO9]{Gracia cortesana} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Spy",
-			"name": "Spy",
-			"description": "<p>You spied upon this character in the past, either at the behest of someone else or because of your own suspicions.</p>\n<p>Add the @Compendium[pf2e.feats-srd.yUuU9xyotrpwpTyC]{Read Lips} skill feat to your background options.</p>"
+			"name": "Espía",
+			"description": "<p>En el pasado espiaste a este personaje, bien a petición de alguien más, o bien debido a sospechas propias.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.yUuU9xyotrpwpTyC]{Leer los labios} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Star",
-			"name": "Star",
-			"description": "<p>Gain an ability boost you must use immediately on one ability score of your choice.</p>"
+			"name": "Estrella",
+			"description": "<p>Obtienes una mejora de característica que debes utilizar de inmediato en una puntuación de característica a tu elección.</p>"
 		},
 		{
 			"id": "Sun",
-			"name": "Sun",
-			"description": "<p>Gain 1,000 XP and a beneficial permanent magic item of 6th to 11th level, chosen by the GM.</p>"
+			"name": "Sol",
+			"description": "<p>Obtienes 1.000 PX y un objeto mágico permanente beneficioso de nivel entre 6.º y 11.º, a elegir por el DJ.</p>"
 		},
 		{
 			"id": "Survived a Disaster",
-			"name": "Survived a Disaster",
-			"description": "<p>You witnessed and survived a major disaster in your childhood years-such as a great fire, flood, earthquake, volcano, or storm-by relying on what was at hand.</p>\n<p>Add the @Compendium[pf2e.feats-srd.ASy9AKEIRxPYUi5o]{Quick Repair} skill feat to your background options.</p>"
+			"name": "Sobrevivir a un desastre",
+			"description": "<p>Fuiste testigo de un gran desastre durante tu infancia (como por ejemplo un gran incendio, una inundación, un terremoto, un volcán o una tormenta) y sobreviviste al mismo usando lo que tenías a mano.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.ASy9AKEIRxPYUi5o]{Reparación rápida} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Talons",
-			"name": "Talons",
-			"description": "<p>All your magic items disappear permanently, except for the deck and any artifact of higher level than the deck.</p>"
+			"name": "Garras",
+			"description": "<p>Todos tus objetos mágicos desaparecen permanentemente, excepto la baraja y cualquier artefacto de nivel mayor que la misma.</p>"
 		},
 		{
 			"id": "The Academic",
-			"name": "The Academic",
-			"description": "<p>One of your associates had a thirst for knowledge that could never be satisfied with simple answers. Through this association, you developed a keen appreciation for numbers, geometry, logic, hard study, and problem-solving.</p>\n<p>Add an Intelligence ability boost to your background options</p>"
+			"name": "El académico",
+			"description": "<p>Uno de tus asociados tenía una sed de conocimientos que no podía quedar satisfecha con respuestas simples. Mediante esta asociación, desarrollaste una gran afición por los números, la geometría, la lógica, el estudio a fondo y la solución de problemas.</p>\n<p>Suma una mejora de característica a la Inteligencia a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "The Boss",
-			"name": "The Boss",
-			"description": "<p>You once gained employment under a powerful individual with far-reaching influence. When the boss spoke up, everyone listened. This could have been a military commander, village leader, guild head, or gang boss. From the boss, you learned how to make people listen and keep them in line.</p>\n<p>Add a Charisma ability boost to your background options</p>"
+			"name": "El jefe",
+			"description": "<p>Una vez tuviste un empleo, dependiendo de un individuo poderoso y cuya influencia tenía un gran alcance. Cuando el jefe hablaba, todo el mundo escuchaba. Se pudo tratar de un comandante militar, el líder de una población, el maestre de un gremio o el jefe de una banda. Del jefe, aprendiste a hacer que la gente escuchara y a mantenerles a raya.</p>\n<p>Suma una mejora de característica al Carisma a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "The Champion",
-			"name": "The Champion",
-			"description": "<p>You were close to someone who excelled at athletic endeavors and tests of strength or skill. Through your friendship or rivalry, you developed a competitive spirit that continues to drive you in everything you do.</p>\n<p>Add a Strength ability boost to your background options.</p>"
+			"name": "El campeón",
+			"description": "<p>Estabas cerca de alguien que destacaba en los empeños atléticos y en las pruebas de fuerza o de habilidad. Mediante amistad o rivalidad, desarrollaste un espíritu competitivo que continúa empujándote en todo lo que haces.</p>\n<p>Suma una mejora de característica a la Fuerza a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "The Confidante",
-			"name": "The Confidante",
-			"description": "<p>You could tell this person anything. They know your deepest secrets and vulnerabilities just as you know theirs, and thinking critically about another's perspective became second nature to you.</p>\n<p>Add an Intelligence ability boost to your background options.</p>"
+			"name": "El confidente",
+			"description": "<p>A esta persona le podías contar cualquier cosa. Conoce tus secretos y vulnerabilidades más profundos igual que tú conoces los suyos, y pensar de forma crítica acerca de la perspectiva de otro se convirtió en una reacción instintiva para ti.</p>\n<p>Suma una mejora de característica a la Inteligencia a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "The Crafter",
-			"name": "The Crafter",
-			"description": "<p>One of your major influences cherished perfection through art. From this person, you developed a disciplined mind, a solitary focus, and the ability to create something useful and beautiful.</p>\n<p>Add an Intelligence ability boost to your background options</p>"
+			"name": "El artesano",
+			"description": "<p>Una de tus mayores influencias estimaba la perfección a través del arte. Gracias a esta persona, desarrollaste una mente disciplinada, un enfoque solitario y la capacidad para crear algo útil y a la vez bello.</p>\n<p>Suma una mejora de característica a la Inteligencia a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "The Criminal",
-			"name": "The Criminal",
-			"description": "<p>The Criminal One of your associates committed crimes regularly. They regaled you with many stories of daring robberies and break-ins-perhaps even murders. You learned what you know of the criminal element from this friend.</p>\n<p>Add a Dexterity ability boost to your background options</p>"
+			"name": "El delincuente",
+			"description": "<p>Uno de tus asociados delinquía de forma regular. Eso te proporcionó muchos relatos de robos y atracos osados, quizás incluso de asesinatos. Averiguaste lo que sabes acerca de los bajos fondos gracias a este amigo.</p>\n<p>Suma una mejora de característica a la Destreza a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "The Dead One",
-			"name": "The Dead One",
-			"description": "<p>One of your greatest influences was a sapient undead creature, such as a ghost, lich, graveknight, or vampire. Through this strange relationship, you learned of its mortal life, giving you perspective on your own life.</p>\n<p>Add a Constitution ability boost to your background options.</p>"
+			"name": "El muerto",
+			"description": "<p>Una de tus mayores influencias fue una criatura muerta viviente inteligente, como por ejemplo un fantasma, un liche, un caballero sepulcral o un vampiro. A través de esta extraña relación, aprendiste acerca de su vida mortal, lo que te proporcionó una perspectiva sobre la tuya propia.</p>\n<p>Suma una mejora de característica a la Constitución a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "The Fates",
-			"name": "The Fates",
-			"description": "<p>The Fates respin the fabric of reality to save you from any situation you choose. This can reverse even a past event, and you can make the decision instantly even if the event would slay you. This intervention saves only you, not anyone else affected by the event. There's no limit on how long you can wait before using this effect.</p>"
+			"name": "Destino, el",
+			"description": "<p>El Destino volverá a tejer el tapiz de la realidad para salvarte de cualquier situación que elijas. Esto puede invertir incluso un suceso del pasado y puedes tomar la decisión de forma instantánea si dicho suceso puede matarte. La intervención sólo te salva a ti, y no a nadie más afectado por dicho suceso. No hay límite en cuanto al tiempo que puedes esperar antes de utilizar este efecto.</p>"
 		},
 		{
 			"id": "The Fiend",
-			"name": "The Fiend",
-			"description": "<p>You dealt with, or were possessed by, a fiend who lent you power at a time of great need. Some part of it remains inside you, influencing you toward destructive ends.</p>\n<p>Add a Strength ability boost to your background options</p>"
+			"name": "El infernal",
+			"description": "<p>Trataste con un infernal o fuiste poseído por él, y te concedió poder en un momento de gran necesidad. Parte de él permanece en tu interior, influenciándote con fines destructivos.</p>\n<p>Suma una mejora de característica a la Fuerza en tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "The Fool",
-			"name": "The Fool",
-			"description": "<p>One of your close associates mocked propriety and custom, engaging in wild and somewhat random actions from time to time. After a while, you learned there was simple wisdom to this foolery-a careless worldview that taught you to cast off concern.</p>\n<p>Add a Wisdom ability boost to your background options.</p>"
+			"name": "El bufón",
+			"description": "<p>Uno de tus amigos cercanos se burlaba de la corrección y de las costumbres, y de vez en cuando llevaba a cabo acciones salvajes y en apariencia aleatorias. Al cabo de un tiempo, averiguaste que en estas tonterías había una sabiduría sencilla, una visión despreocupada del mundo que te enseñó a liberarte de preocupaciones.</p>\n<p>Suma una mejora de característica a la Sabiduría en tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "The Hunter",
-			"name": "The Hunter",
-			"description": "<p>This person was a lone wolf who cautiously allowed you to become a member of their solitary pack. They taught you how to remain quick and thrive on your own in spite of natural dangers.</p>\n<p>Add a Dexterity ability boost to your background options.</p>"
+			"name": "El cazador",
+			"description": "<p>Esta persona era un lobo solitario que te permitió, cuidadosamente, convertirte en miembro de su solitaria manada. Te enseñó a ser rápido y a prosperar por ti mismo a pesar de los peligros naturales.</p>\n<p>Suma una mejora de característica a la Destreza en tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "The Liege Lord",
-			"name": "The Liege Lord",
-			"description": "<p>You became close with someone you were bound to serve, be it an employer, minor lord or lady, or even a king or queen. Though this person held power over you, they held you closer than a subject or servant. As a result, you're used to dealing with and being close to power.</p>\n<p>Add a Charisma ability boost to your background options.</p>"
+			"name": "El señor feudal",
+			"description": "<p>Te hiciste amigo de alguien a quien estabas obligado a servir, se tratara de un patrón, de un señor o señora menor o incluso un rey o una reina. Aunque dicha persona tenía poder sobre ti, eras más cercano para él que un súbito o un sirviente. Como resultado, estás acostumbrado a tratar con el poder y estar cercano a él.</p>\n<p>Suma una mejora de característica al Carisma en tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "The Lover",
-			"name": "The Lover",
-			"description": "<p>You had a romantic connection in your past, and this person deeply influenced your personality. Perhaps this was a first love, a casual partner you grew close to, or the one who got away. The experience bolstered your confidence in romantic interactions, even though your thoughts still stray toward that special someone from long ago.</p>\n<p>Add a Charisma ability boost to your background options</p>"
+			"name": "El amante",
+			"description": "<p>En el pasado tuviste una conexión romántica, y dicha persona influenció profundamente tu personalidad. Quizá fue un primer amor, una pareja casual con la que intimaste o la que se te escapó. La experiencia reforzó tu confianza en las interacciones románticas, aunque de vez en cuando tus pensamientos aún se dirigen hacia esa persona especial de hace tanto tiempo.</p>\n<p>Suma una mejora de característica al Carisma en tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "The Mentor",
-			"name": "The Mentor",
-			"description": "<p>You had a mentor who taught you everything worth knowing about life. This could have been the person who taught you your heroic abilities, or simply a kindred spirit who helped form your worldview.</p>\n<p>Add a Constitution ability boost to your background options.</p>"
+			"name": "El mentor",
+			"description": "<p>Tuviste un mentor que te enseñó todo lo que valía la pena saber de la vida. Pudo tratarse de la persona que te enseñó tus aptitudes heroicas, o simplemente un espíritu afable que te ayudó a formar tu visión del mundo.</p>\n<p>Suma una mejora de característica a la Constitución en tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "The Mercenary",
-			"name": "The Mercenary",
-			"description": "<p>With this person, there was always a cost. No deed came without a trade for something of equal or greater value. You respected their cynical but fair dealings, and they influenced your philosophy.</p>\n<p>Add a Strength ability boost to your background options</p>"
+			"name": "El mercenario",
+			"description": "<p>Para esta persona, siempre había un coste. Ningún acto tenía lugar sin que fuera a cambio de algo de un valor igual o mayor. Respetabas sus tratos cínicos pero justos, que influenciaron tu filosofía.</p>\n<p>Suma una mejora de característica a la Fuerza a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "The Mystic",
-			"name": "The Mystic",
-			"description": "<p>You were especially close to a holy person in your community who fundamentally changed your life, opening your eyes to the incredible powers that exist beyond the natural world. Regardless of whether you now follow a faith, certain religious artifacts, rituals, and texts played a large part in making you the person you are.</p>\n<p>Add a Wisdom ability boost to your background options.</p>"
+			"name": "El místico",
+			"description": "<p>Estabas especialmente vinculado a una persona de tu comunidad que cambió tu vida fundamentalmente, abriendo tus ojos a los increíbles poderes que existen más allá del mundo natural. Tanto si ahora sigues una fe como si no, ciertos artefactos, rituales y textos religiosos jugaron un papel importante en la creación de la persona que eres a día de hoy.</p>\n<p>Suma una mejora de característica a la Sabiduría a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "The Pariah",
-			"name": "The Pariah",
-			"description": "<p>You met a disgraced exile and found in their words something that spoke to you. What once seemed true in your religion, society, or family began to appear false, and you quickly learned not to trust everyone you meet.</p>\n<p>Add a Wisdom ability boost to your background options.</p>"
+			"name": "El paria",
+			"description": "<p>Te encontraste con un exiliado caído en desgracia y descubriste en sus palabras algo que te cautivó. Lo que una vez te pareció verdadero de tu religión, tu sociedad o tu familia empezó a parecerte falso y aprendiste rápidamente a no confiar en todos aquellos con los que te encontrabas.</p>\n<p>Suma una mejora de característica a la Sabiduría a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "The Relative",
-			"name": "The Relative",
-			"description": "<p>You were especially close to a specific relative growing up. To you, this person was the meaning of family. They helped shepherd you into adulthood, teaching you everything you know about the world. You resolutely strive to keep a promise, vow, or oath that you made to them.</p>\n<p>Add a Constitution ability boost to your background options.</p>"
+			"name": "El pariente",
+			"description": "<p>Cuando creciste, estabas especialmente unido a un pariente concreto. Para ti, esta persona encarnaba el significado de la familia. Te ayudó a llegar a la edad adulta, enseñándote todo lo que sabes acerca del mundo. Te esfuerzas en gran medida en cumplir una promesa, voto o juramento que le hiciste.</p>\n<p>Suma una mejora de característica a la Constitución a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "The Seer",
-			"name": "The Seer",
-			"description": "<p>You were close to a person who claimed to see the future-perhaps an oracle, seer, prophet, or merely some festival charlatan. The seer's influence either made you into an optimist with a drive to fulfill that future or a fatalist resigned to accept it.</p>\n<p>Add a Wisdom ability boost to your background options.</p>"
+			"name": "El vidente",
+			"description": "<p>Estabas vinculado a una persona que afirmaba ver el futuro; quizás un oráculo, un vidente, un profeta o simplemente un charlatán de feria. La influencia del vidente, o bien te convirtió en un optimista impulsado a cumplir dicho futuro, o en un fatalista resignado a aceptarlo.</p>\n<p>Suma una mejora de característica a la Sabiduría a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "The Void",
-			"name": "The Void",
-			"description": "<p>Your mind becomes trapped forever. This card is fickle, but it often throws the psyche into a prison in an object on a distant plane or planet. <em>@Compendium[pf2e.spells-srd.6dDtGIUerazSHIOu]{Wish}</em> or similarly powerful magic can reveal your psyche's location, but it doesn't bring you back. Your comatose body continues to function. Cease drawing cards.</p>"
+			"name": "Vacío, el",
+			"description": "<p>Tu mente queda atrapada para siempre. Esta carta es voluble, pero a menudo arroja la psique a una prisión en un objeto o un Plano o planeta distante. Un <em>@Compendium[pf2e.spells-srd.6dDtGIUerazSHIOu]{Deseo}</em> o magia similarmente poderosa puede revelar dónde está tu psique, pero no la trae de vuelta. Tu cuerpo comatoso continúa funcionando. Deja de sacar cartas.</p>"
 		},
 		{
 			"id": "The Wanderer",
-			"name": "The Wanderer",
-			"description": "<p>You knew someone who traveled from place to place with the changing of the wind, such as a minstrel, merchant, outcast, mercenary, or sailor. This person brought you wondrous mementos and inspired a wanderlust within you.</p>\n<p>Add a Dexterity ability boost to your background options.</p>"
+			"name": "El vagabundo",
+			"description": "<p>Conociste a alguien que viajaba de un lugar a otro cuando cambiaba el viento, como un juglar, un mercader, un paria, un mercenario o un marino. Dicha persona te traía recuerdos maravillosos y te inspiró el ansia viajera.</p>\n<p>Suma una mejora de característica a la Destreza a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "The Well-Connected",
-			"name": "The Well-Connected",
-			"description": "<p>Friend In your circle of associates, there was someone everyone knew. This person had contacts in every social circle. Through this connection, you continue to meet and associate with a wide variety of people in every walk of life.</p>\n<p>Add a Charisma ability boost to your background options.</p>"
+			"name": "El amigo bien conectado",
+			"description": "<p>En tu círculo de asociados, había alguien que conocía a todo el mundo. Dicha persona tenía contactos en todos los círculos sociales. A través de dicha conexión, continúas reuniéndote con una amplia variedad de personas de todos los estratos sociales, y asociándote con ellas.</p>\n<p>Suma una mejora de característica al Carisma a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Throne",
-			"name": "Throne",
-			"description": "<p>You gain a permanent +4 status bonus to Diplomacy checks, and you now own a small castle in any open area you wish. You must choose its location within 1 hour.</p>\n<p>@Compendium[pf2e.equipment-effects.Zb8RYgmzCI6fQE0o]{Effect: Throne Card}</p>"
+			"name": "Trono",
+			"description": "<p>Obtienes un bonificador +4 permanente por estatus a las pruebas de Diplomacia, y ahora dispones de un pequeño castillo en cualquier área abierta que quieras. Debes elegir su ubicación en 1 hora o menos.</p>\n<p>@Compendium[pf2e.equipment-effects.Zb8RYgmzCI6fQE0o]{Effect: Carta del trono}</p>"
 		},
 		{
 			"id": "Timely Cure",
-			"name": "Timely Cure",
-			"description": "<p>When a family member of yours was dying and there didn't seem to be much hope, this character brought a simple but effective alchemical cure. You are determined to pay this favor forward.</p>\n<p>Add the @Compendium[pf2e.feats-srd.is3Oz9wt11lNq62K]{Alchemical Crafting} skill feat to your background options.</p>"
+			"name": "Curación oportuna",
+			"description": "<p>Cuando un miembro de tu familia se estaba muriendo y no parecía haber demasiada esperanza, este personaje aportó una cura alquímica sencilla pero efectiva. Estas determinado a pagarle este favor en algún momento.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.is3Oz9wt11lNq62K]{Artesanía alquímica} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Trade Town",
-			"name": "Trade Town",
-			"description": "<p>People frequently passed through your homeland. You might have been raised near a major thoroughfare or crossroads, or in a small trade town.</p>\n<p>Add Accounting Lore, Guild Lore, Mercantile Lore, Stabling Lore, and Lore of a common ancestry (such as Dwarf Lore) to your background options.</p>"
+			"name": "Población comercial",
+			"description": "<p>La gente atravesaba frecuentemente tu país. Puedes haber crecido cerca de una carretera principal o en un cruce de caminos, o una pequeña población comercial.</p>\n<p>Suma Saber de la contabilidad, Saber gremial, Saber mercantil, Saber de los establos y Saber de una ascendencia común (como por ejemplo, Saber de los enanos) a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Trained by a Mentor",
-			"name": "Trained by a Mentor",
-			"description": "<p>A mentor or patron took an interest in your development and volunteered to train or sponsor you.</p>\n<p>Add the @Compendium[pf2e.feats-srd.sMm0UfYxEPpq2Yzd]{Experienced Professional} skill feat to your background options.</p>"
+			"name": "Entrenado por un mentor",
+			"description": "<p>Un mentor o un patrón se interesó en tu desarrollo y se presentó voluntario para entrenarte o patrocinarte.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.sMm0UfYxEPpq2Yzd]{Profesional experto} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Underground",
-			"name": "Underground",
-			"description": "<p>You grew up in a partly or wholly underground region, such as a human mining town, a goblin warren, or a dwarf-held cavern.</p>\n<p>Add Engineering Lore, Labor Lore, and Mining Lore to your background options.</p>"
+			"name": "Subterráneo",
+			"description": "<p>Creciste en una región parcial o completamente subterránea, como por ejemplo una población minera humana, una madriguera de goblins o un bastión subterráneo enano.</p>\n<p>Suma Saber de la ingeniería, Saber del trabajo manual y Saber de la minería a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Vizier",
-			"name": "Vizier",
-			"description": "<p>Upon request, you can learn the solution to any one problem or the correct answer to any one question, unless that information is obscured by a deity. This doesn't necessarily give you the means to act on that solution. You have 1 year to take the vizier's advice or lose its benefits.</p>"
+			"name": "Visir",
+			"description": "<p>A petición tuya, puedes averiguar la solución a un único problema o la respuesta correcta a una sola pregunta, a menos que dicha información resulte oscurecida por un dios. Esto no te concede necesariamente los medios para actuar en pos de dicha solución. Tienes 1 año para aceptar el consejo del visir o perder sus beneficios.</p>"
 		},
 		{
 			"id": "Wasteland Survivors",
-			"name": "Wasteland Survivors",
-			"description": "<p>You and this character were lost in a dangerous wasteland together and depended upon each other for survival; you're still not certain that either of you would have survived the ordeal without the other's aid.</p>\n<p>Add the @Compendium[pf2e.feats-srd.8qebBeOJsyRIchcu]{Forager} skill feat to your background options.</p>"
+			"name": "Supervivientes de los yermos",
+			"description": "<p>Este personaje y tú os perdisteis juntos en un yermo peligroso y dependíais el uno del otro para sobrevivir; sigues sin estar seguro de que uno u otro hubierais sobrevivido a ese calvario sin la ayuda mutua.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.8qebBeOJsyRIchcu]{Forrajeador} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Witnessed War",
-			"name": "Witnessed War",
-			"description": "<p>You grew up against the backdrop of a major military conflict that affected much of your childhood world.</p>\n<p>Add the @Compendium[pf2e.feats-srd.wYerMk6F1RZb0Fwt]{Battle Medicine} skill feat to your background options.</p>"
+			"name": "Testigo de una guerra",
+			"description": "<p>Creciste en el marco de un gran conflicto militar, que afectó a gran parte del mundo de tu infancia.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.wYerMk6F1RZb0Fwt]{Medicina de guerra} a tus opciones de bagaje.</p>"
 		},
 		{
 			"id": "Won a Competition",
-			"name": "Won a Competition",
-			"description": "<p>You distinguished yourself at an early age when you won a competition. This might have been a martial contest of arms, a showing of apprentice magicians, high-stakes gambling, or something more mundane, like an eating contest.</p>\n<p>Add the @Compendium[pf2e.feats-srd.7LB00jkh6JaJr3vS]{Fascinating Performance} skill feat to your background options.</p>"
+			"name": "Ganaste una competición",
+			"description": "<p>Te distinguiste a una edad temprana al ganar una competición. Podría tratarse de una competición de armas marcial, una demostración de aprendices de mago, una partida con apuestas altas de algún juego de azar o algo más mundano, como un concurso de comida.</p>\n<p>Suma la dote de habilidad @Compendium[pf2e.feats-srd.7LB00jkh6JaJr3vS]{Interpretación fascinante} a tus opciones de bagaje.</p>"
 		}
 	]
 }
