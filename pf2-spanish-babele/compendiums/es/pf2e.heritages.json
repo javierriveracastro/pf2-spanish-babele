@@ -1,5 +1,5 @@
 {
-	"label": "Heritages",
+	"label": "Herencias",
 	"entries": [
 		{
 			"id": "Aasimar",
@@ -8,12 +8,12 @@
 		},
 		{
 			"id": "Adaptive Anadi",
-			"name": "Adaptive Anadi",
+			"name": "Anadi Adaptable",
 			"description": "<p>You descend from a line of anadi who worked to perfect their transformation magic, allowing them to integrate into a wider variety of cultures. Choose a common, Medium humanoid ancestry. Your human form is replaced with a form that matches this choice. You also gain the @Compendium[pf2e.feats-srd.ihN8gkHSdPG9Trte]{Adopted Ancestry} feat for your chosen humanoid ancestry.</p>"
 		},
 		{
 			"id": "Ancient Elf",
-			"name": "Ancient Elf",
+			"name": "Elfo Antiguo",
 			"description": "<p>In your long life, you've dabbled in many paths and many styles. typical ancient elf is at least 100 years old, though you might be younger at the GM's discretion. Choose a class other than your own. You gain the multiclass dedication feat for that class, even though you don't meet its level prerequisite. You must still meet its other prerequisites to gain the feat.</p>"
 		},
 		{
@@ -43,8 +43,8 @@
 		},
 		{
 			"id": "Arctic Elf",
-			"name": "Arctic Elf",
-			"description": "<p>You dwell deep in the frozen north and have gained incredible resilience against cold environments, granting you cold resistance equal to half your level (minimum 1). You treat environmental cold effects as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on).</p>"
+			"name": "Elfo Ártico",
+			"description": "<p>Vives en lo más profundo del norte congelado y has obtenido una increíble resistencia a los entornos fríos, lo que te concede una resistencia al frío igual a la mitad de tu nivel (mínimo 1) Tratas los efectos ambientales de frío como si fueran un paso menos extremos (un frío increíble se vuelve extremo, un frío extremo se vuelve severo y así sucesivamente).</p>"
 		},
 		{
 			"id": "Artisan Android",
@@ -93,8 +93,8 @@
 		},
 		{
 			"id": "Cavern Elf",
-			"name": "Cavern Elf",
-			"description": "<p>You were born or spent many years in underground tunnels or caverns where light is scarce. You gain @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{Darkvision}.</p>"
+			"name": "Elfo de las Cavernas",
+			"description": "<p>Naciste o pasaste muchos años en túneles subterráneos o en cavernas, donde la luz escasea. Obtienes @Compendium[pf2e.ancestryfeatures.HHVQDp61ehcpdiU8]{visión en la oscuridad}.</p>"
 		},
 		{
 			"id": "Cavern Kobold",
@@ -658,8 +658,8 @@
 		},
 		{
 			"id": "Seer Elf",
-			"name": "Seer Elf",
-			"description": "<p>You have an inborn ability to detect and understand magical phenomena. You can cast the <em>@Compendium[pf2e.spells-srd.gpzpAAAJ1Lza2JVl]{Detect Magic}</em> cantrip as an arcane innate spell at will. A cantrip is heightened to a spell level equal to half your level rounded up.</p>\n<p>In addition, you gain a +1 circumstance bonus to checks to @Compendium[pf2e.actionspf2e.eReSHVEPCsdkSL4G]{Identify Magic} and to @Compendium[pf2e.actionspf2e.d9gbpiQjChYDYA2L]{Decipher Writing} of a magical nature. These skill actions typically use the Arcana, Nature, Occultism, or Religion skill.</p>"
+			"name": "Elfo Vidente",
+			"description": "<p>Tienes una aptitud innata para detectar y entender los fenóme- nos mágicos. Puedes lanzar el truco mágico <em>@Compendium[pf2e.spells-srd.gpzpAAAJ1Lza2JVl]{Detectar Magia}</em> a voluntad como un conjuro arcano innato. Un truco se potencia a un nivel de conjuro igual a la mitad de tu nivel redondeado hacia arriba.</p>\n<p>Además, obtienes un bonificador +1 por circunstancia a las pruebas de @Compendium[pf2e.actionspf2e.eReSHVEPCsdkSL4G]{Identificar Magia} y a @Compendium[pf2e.actionspf2e.d9gbpiQjChYDYA2L]{Descifrar Escritura} de naturaleza mágica. Estas acciones de habilidad suelen utilizar las habilidades Arcanos, Naturaleza, Ciencias ocultas o Religión.</p>"
 		},
 		{
 			"id": "Sensate Gnome",
@@ -973,8 +973,8 @@
 		},
 		{
 			"id": "Whisper Elf",
-			"name": "Whisper Elf",
-			"description": "<p>Your ears are finely tuned, able to detect even the slightest whispers of sound.</p>\n<p>As long as you can hear normally, you can use the @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Seek} action to sense @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{Undetected} creatures in a @Template[type:cone|distance:60] instead of a @Template[type:cone|distance:30].</p>\n<p>You also gain a +2 circumstance bonus to locate undetected creatures that you could hear within 30 feet with a seek action.</p>"
+			"name": "Elfo de los Susurros",
+			"description": "<p>Tus oídos están muy aguzados y son capaces de detectar incluso el más leve susurro o sonido.</p>\n<p>Mientras puedas oír normalmente, podrás utilizar la acción de @Compendium[pf2e.actionspf2e.BlAOM2X92SI6HMtJ]{Buscar} para notar la presencia de criaturas @Compendium[pf2e.conditionitems.VRSef5y1LmL2Hkjf]{no detectadas} en un  @Template[type:cone|distance:60] en lugar de @Template[type:cone|distance:30].</p>\n<p>También obtienes un bonificador +2 por circunstancia para ubicar criaturas no detectadas a las que puedes oír a 30 pies (9 m) o menos con una acción de Buscar.</p>"
 		},
 		{
 			"id": "Wildwood Halfling",
@@ -1023,8 +1023,8 @@
 		},
 		{
 			"id": "Woodland Elf",
-			"name": "Woodland Elf",
-			"description": "<p>You're adapted to life in the forest or the deep jungle, and you know how to climb trees and use foliage to your advantage. When @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{Climbing} trees, vines, and other foliage, you move at half your Speed on a success and at full Speed on a critical success (and you move at full Speed on a success if you have @Compendium[pf2e.feats-srd.P04Hw8E6WAWARKHP]{Quick Climb}). This doesn't affect you if you're using a climb Speed.</p>\n<p>You can always use the @Compendium[pf2e.actionspf2e.ust1jJSCZQUhBZIz]{Take Cover}action when you are within forest terrain to gain cover, even if you're not next to an obstacle you can take cover behind.</p>"
+			"name": "Elfo Silvano",
+			"description": "<p>Estás adaptado a la vida en el bosque o en lo más profundo de la jungla y sabes cómo trepar a los árboles y usar el follaje en tu ventaja. Cuando @Compendium[pf2e.actionspf2e.pprgrYQ1QnIDGZiy]{trepas} a árboles, lianas u otro follaje, te mueves a la mitad de tu Velocidad con un éxito y a Velocidad completa con un éxito crítico (y te mueves a Velocidad completa con un éxito normal si tienes @Compendium[pf2e.feats-srd.P04Hw8E6WAWARKHP]{Trepar Rápido}). Esto no te afecta si tienes Velocidad de trepar.</p>\n<p>Siempre puedes utilizar la acción de @Compendium[pf2e.actionspf2e.ust1jJSCZQUhBZIz]{Ponerte a Cubierto} cuando estás en un terreno de bosque para cubrirte, incluso si no estás cerca de un obstáculo tras el que te puedes poner a cubierto.</p>"
 		},
 		{
 			"id": "Woodstalker Lizardfolk",
