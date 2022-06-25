@@ -23,8 +23,8 @@
 		},
 		{
 			"id": "Ancient-Blooded Dwarf",
-			"name": "Ancient-Blooded Dwarf",
-			"description": "<p>Dwarven heroes of old could shrug off their enemies' magic, and some of that resistance manifests in you. You gain the @Compendium[pf2e.actionspf2e.8w6esW689NNbbq3i]{Call on Ancient Blood} reaction.</p>"
+			"name": "Enano de Sangre Antigua",
+			"description": "<p>Los antiguos héroes enanos podían sacudirse la magia de sus enemigos, y parte de dicha resistencia se manifiesta en ti. Obtienes la reacción @Compendium[pf2e.actionspf2e.8w6esW689NNbbq3i]{Llamar a la Sangre Antigua}.</p>"
 		},
 		{
 			"id": "Ant Gnoll",
@@ -153,8 +153,8 @@
 		},
 		{
 			"id": "Death Warden Dwarf",
-			"name": "Death Warden Dwarf",
-			"description": "<p>Your ancestors have been tomb guardians for generations, and the power they cultivated to ward off necromancy has passed on to you. If you roll a success on a saving throw against a necromancy effect, you get a critical success instead.</p>"
+			"name": "Enano Guardián de la Muerte",
+			"description": "<p>Tus antepasados fueron guardianes de tumbas durante gene- raciones y el poder que cultivaron para protegerse de la nigro- mancia ha llegado hasta ti. Si sacas un éxito en una tirada de salvación contra un efecto nigromántico, en su lugar obtienes un éxito crítico.</p>"
 		},
 		{
 			"id": "Deep Fetchling",
@@ -298,8 +298,8 @@
 		},
 		{
 			"id": "Forge Dwarf",
-			"name": "Forge Dwarf",
-			"description": "<p>You have a remarkable adaptation to hot environments from ancestors who inhabited blazing deserts or volcanic chambers beneath the earth. This grants you fire resistance equal to half your level (minimum 1), and you treat environmental heat effects as if they were one step less extreme (incredible heat becomes extreme, extreme heat becomes severe, and so on).</p>"
+			"name": "Enano de la Forja",
+			"description": "<p>Tienes una notable adaptación a los entornos cálidos, debido a antepasados que habitaban desiertos ardientes o cámaras volcánicas bajo tierra. Esto te concede una resistencia al fuego igual a la mitad de tu nivel (mínimo 1) y tratas los efectos ambientales de calor como si fueran 1 paso menos extremos (un calor increíble se convierte en extremo, un calor extremo se convierte en severo y así sucesivamente).</p>"
 		},
 		{
 			"id": "Frightful Goloma",
@@ -628,8 +628,8 @@
 		},
 		{
 			"id": "Rock Dwarf",
-			"name": "Rock Dwarf",
-			"description": "<p>Your ancestors lived and worked among the great ancient stones of the mountains or the depths of the earth. This makes you solid as a rock when you plant your feet. You gain a +2 circumstance bonus to your Fortitude or Reflex DC against attempts to @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Shove} or @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Trip} you. This bonus also applies to saving throws against spells or effects that attempt to knock you @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{Prone}.</p>\n<p>In addition, if any effect would force you to move 10 feet or more, you are moved only half the distance.</p>"
+			"name": "Enano de la Roca",
+			"description": "<p>Tus antepasados vivieron y trabajaron entre las grandes y antiguas piedras de las montañas o en las profundidades de la tierra. Esto te hace tan sólido como una roca cuando plantas los pies. Obtienes un bonificador +2 por circunstancia a tus CD de Fortaleza o de Reflejos contra intentos de @Compendium[pf2e.actionspf2e.7blmbDrQFNfdT731]{Empujarte} o @Compendium[pf2e.actionspf2e.ge56Lu1xXVFYUnLP]{Derribarte}. Este bonificador también se aplica a las tiradas de salvación contra conjuros o efectos que intentan @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{Tirarte al suelo}.</p>\n<p>Además, si un efecto te obligaría a desplazarte más de 10 pies (3 m) o más, sólo te mueves la mitad de dicha distancia.</p>"
 		},
 		{
 			"id": "Root Leshy",
@@ -783,8 +783,8 @@
 		},
 		{
 			"id": "Strong-Blooded Dwarf",
-			"name": "Strong-Blooded Dwarf",
-			"description": "<p>Your blood runs hearty and strong, and you can shake off toxins. You gain poison resistance equal to half your level (minimum 1), and each of your successful saving throws against a poison affliction reduces its stage by 2, or by 1 for a virulent poison. Each critical success against an ongoing poison reduces its stage by 3, or by 2 for a virulent poison.</p>"
+			"name": "Enano de Sangre Fuerte",
+			"description": "<p>Tu sangre corre sana y fuerte, y puedes ignorar en parte las toxinas. Obtienes una resistencia al veneno igual a la mitad de tu nivel (mínimo 1) y cada una de tus tiradas de salvación sucesivas contra una aflicción venenosa reduce su estado en 2, o en 1 para un veneno virulento. Cada éxito crítico contra un veneno continuado reduce su estado en 3, o en 2 para un veneno virulento.</p>"
 		},
 		{
 			"id": "Stronggut Shisk",
