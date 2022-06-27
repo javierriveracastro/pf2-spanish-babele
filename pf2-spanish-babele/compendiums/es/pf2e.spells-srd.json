@@ -97,8 +97,8 @@
 			"description": "<p>La mente de tu objetivo se sume en un profundo pozo de miedo, reviviendo tan intensamente sus miedos m&aacute;s profundos que le resulta doloroso. El objetivo sufre 4d6 de da&ntilde;o mental con una tirada de salvaci&oacute;n de Voluntad. <br /><strong>&Eacute;xito cr&iacute;tico</strong> El objetivo no se ve afectado. <br /><strong>&Eacute;xito</strong> El objetivo sufre la mitad del da&ntilde;o y queda @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Asustado 1}. <br /><strong>Fallo</strong> El objetivo sufre todo el da&ntilde;o y queda @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Asustado 2}. <br /><strong>Fallo cr&iacute;tico</strong> El objetivo sufre el doble de da&ntilde;o y queda @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Asustado 3}. <br /><strong>Potenciado</strong> (+1) Aumenta el da&ntilde;o en 2d6.</p>"
 		},
 		{
-			"id": "Burbuja de Aire",
-			"name": "Air Bubble",
+			"id": "Air Bubble",
+			"name": "Burbuja de Aire",
 			"description": "<p>Una burbuja de aire puro aparece alrededor de la cabeza del objetivo, permiti&eacute;ndole respirar con normalidad. El efecto acaba en cuanto el objetivo vuelve a un entorno en el que puede respirar normalmente.</p>"
 		},
 		{
