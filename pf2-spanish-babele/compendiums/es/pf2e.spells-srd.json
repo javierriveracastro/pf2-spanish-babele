@@ -53,23 +53,23 @@
 		},
 		{
 			"id": "Acid Storm",
-			"name": "Acid Storm",
-			"description": "<p>You evoke a storm of acid rain that pelts the area for the spell's duration. A creature that begins its turn in the area takes 3d8 acid damage.</p>\n<hr />\n<p><strong>Heightened (+2)</strong> The damage increases by 1d8.</p>"
+			"name": "Tormenta de Ácido",
+			"description": "<p>Provocas una tormenta de lluvia &aacute;cida que azota el &aacute;rea durante la duraci&oacute;n del conjuro. Una criatura que comienza su turno en el &aacute;rea sufre 3d8 de da&ntilde;o por &aacute;cido (salvaci&oacute;n de Reflejos b&aacute;sica). <br /><strong>Potenciado</strong> (+2) El da&ntilde;o aumenta en 1d8.</p>"
 		},
 		{
 			"id": "Acidic Burst",
-			"name": "Acidic Burst",
-			"description": "<p>You create a shell of acid around yourself that immediately bursts outward, dealing 2d6 acid damage to each creature in the area.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 2d6.</p>"
+			"name": "Explosión de Ácido",
+			"description": "<p>Creas una capa de &aacute;cido a tu alrededor que estalla inmediatamente e<br />inflige 2d6 de da&ntilde;o por &aacute;cido a cada criatura en el &aacute;rea.<br /><strong>Potenciado</strong> (+1) El da&ntilde;o aumenta en 2d6.</p>"
 		},
 		{
 			"id": "Adapt Self",
-			"name": "Adapt Self",
-			"description": "<p>You make subtle changes to yourself to adapt to the situation. Choose one of the following options that applies to you.</p>\n<ul>\n<li>If you are in water, you gain a @Compendium[pf2e.spell-effects.2SWUzp4JuNK5EX0J]{swim Speed} equal to half your Speed.</li>\n<li>If you are in water, you become able to breathe water.</li>\n<li>If it's too dark for you to see, you gain @Compendium[pf2e.spell-effects.0gv9D5RlrF5cKA3I]{Darkvision}.</li>\n<li>If you are in an environment of severe heat or severe cold, you are protected from the effects of severe heat or severe cold, and the spell lasts 10 minutes.</li>\n</ul>"
+			"name": "Adaptarse",
+			"description": "<p>Cambias sutilmente para adaptarte a la situaci&oacute;n. Elige una de las siguientes opciones que se aplique a tu caso. <br />&bull; Si est&aacute;s en el agua, obtienes una @Compendium[pf2e.spell-effects.2SWUzp4JuNK5EX0J]{Velocidad de Nado} equivalente a la mitad de tu Velocidad. <br />&bull; Si est&aacute;s en el agua, podr&aacute;s respirar en el agua. <br />&bull; Si est&aacute; demasiado oscuro para poder ver, obtienes @Compendium[pf2e.spell-effects.0gv9D5RlrF5cKA3I]{Visi&oacute;n en la Oscuridad}. <br />&bull; Si te encuentras en un entorno de mucho calor o mucho fr&iacute;o, est&aacute;s protegido de los efectos del calor intenso o del fr&iacute;o intenso y el conjuro dura 10 minutos.</p>"
 		},
 		{
 			"id": "Adaptive Ablation",
-			"name": "Adaptive Ablation",
-			"description": "<p><strong>Trigger</strong> You take acid, cold, electricity, fire, or sonic damage.</p>\n<hr />\n<p>You shift yourself to adapt to the mystical wavelengths of the energy damage, protecting yourself from further harm. You gain resistance 5 to the triggering energy type; you gain this resistance after you take the triggering damage, so it applies only to future damage you take during the duration.</p>\n<p>@Compendium[pf2e.spell-effects.6GAztnHuQSwAp1k1]{Spell Effect: Adaptive Ablation}</p>\n<hr />\n<p><strong>Heightened (+2)</strong> Increase the resistance by 5.</p>"
+			"name": "Ablación Adaptiva",
+			"description": "<p><strong>Disparador</strong> Sufres da&ntilde;o por &aacute;cido, electricidad, fr&iacute;o, fuego o s&oacute;nico.<br /> Cambias para adaptarte a las longitudes de onda m&iacute;sticas del da&ntilde;o energ&eacute;tico, protegi&eacute;ndote de un da&ntilde;o mayor. Obtienes resistencia 5 al tipo de energ&iacute;a disparadora; obtienes esta resistencia despu&eacute;s de sufrir el da&ntilde;o disparador, por lo que solo se aplica al da&ntilde;o futuro que sufras mientras dure.<br />@Compendium[pf2e.spell-effects.6GAztnHuQSwAp1k1]{Efecto M&aacute;gico: Ablaci&oacute;n Adaptativa} <br /><strong>Potenciado</strong> (+2) Aumenta la resistencia en 5.</p>"
 		},
 		{
 			"id": "Admonishing Ray",
@@ -88,8 +88,8 @@
 		},
 		{
 			"id": "Agitate",
-			"name": "Agitate",
-			"description": "<p>You send the target's mind and body into overdrive, forcing it to become restless and hyperactive. During the duration, the target must Stride, Fly, or Swim at least once each turn or take [[/r {2d8}[mental]]]{2d8 mental damage} that turn. The duration of this effect depends on the target's Will save. The GM might decide to add additional move actions to the list for creatures who possess only a more unusual form of movement.</p>\n<hr />\n<p><strong>Critical Success</strong> The spell has no effect.</p>\n<p><strong>Success</strong> The duration is 1 round.</p>\n<p><strong>Failure</strong> The duration is 2 rounds.</p>\n<p><strong>Critical Failure</strong> The duration is 4 rounds.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 2d8.</p>"
+			"name": "Agitar",
+			"description": "<p>Pones la mente y el cuerpo del objetivo a funcionar a toda marcha, forz&aacute;ndolo a volverse inquieto e hiperactivo. Durante la duraci&oacute;n, el objetivo debe Dar una zancada al menos una vez por turno o sufrir [[/r {2d8}[mental]]]{2d8 da&ntilde;o mental} de da&ntilde;o mental dicho turno. La duraci&oacute;n de este efecto depende de la salvaci&oacute;n de Voluntad del objetivo. <br /><strong>&Eacute;xito cr&iacute;tico</strong> El conjuro no tiene ning&uacute;n efecto. <br /><strong>&Eacute;xito</strong> La duraci&oacute;n es de 1 asalto. <br /><strong>Fallo</strong> La duraci&oacute;n es de 2 asaltos. <br /><strong>Fallo cr&iacute;tico</strong> La duraci&oacute;n es de 4 asaltos. <br /><strong>Potenciado</strong> (+1) El da&ntilde;o aumenta en 2d8.</p>"
 		},
 		{
 			"id": "Agonizing Despair",
@@ -228,8 +228,8 @@
 		},
 		{
 			"id": "Animus Mine",
-			"name": "Animus Mine",
-			"description": "<p>You implant a mental mine within your psyche that detonates against anyone attempting to manipulate your thoughts. You can use a single action, which has the concentrate trait, to suppress the effects of the mine for 1 round to allow someone to safely use a mental effect on you. You can Dismiss the spell.</p>\n<p>The first creature that uses a mental effect against you triggers the animus mine, causing the spell to end. The animus mine deals 4d8 mental damage to the triggering creature, which must attempt a Will save. This spell should only the deal the mental damage on magical mental effects that send their magic into your mind, not if a creature tries to do something mundane like talk to you.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature takes half damage.</p>\n<p><strong>Failure</strong> The creature takes full damage and is @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Stunned 1}.</p>\n<p><strong>Critical Failure</strong> The creature takes double damage and is @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Stunned 1}. You are unaffected by the triggering mental effect.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 2d8.</p>"
+			"name": "Mina de Odio",
+			"description": "<p>Implantas una mina mental en el interior de tu psique que detona contra cualquiera que intente manipular tus pensamientos. Puedes usar una sola acci&oacute;n, que tenga el rasgo concentrado, para suprimir los efectos de la mina durante 1 asalto y permitir que alguien use de forma segura un efecto mental sobre ti. Puedes Disipar el conjuro. La primera criatura que usa un efecto mental contra ti activa la mina de odio, haciendo que el conjuro termine. La mina de odio inflige 4d8 de da&ntilde;o mental a la criatura que la dispara, que debe hacer una salvaci&oacute;n de Voluntad. <br /><strong>&Eacute;xito cr&iacute;tico</strong> La criatura no se ve afectada. <br /><strong>&Eacute;xito</strong> La criatura sufre la mitad de da&ntilde;o. <br /><strong>Fallo</strong> La criatura sufre todo el da&ntilde;o y queda @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Aturdida 1}. <br /><strong>Fallo cr&iacute;tico</strong> La criatura sufre el doble de da&ntilde;o y queda @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Aturdida 1}. No te afecta el efecto mental disparador. <br /><strong>Potenciado</strong> (+1) El da&ntilde;o aumenta en 2d8.</p>"
 		},
 		{
 			"id": "Ant Haul",
@@ -238,8 +238,8 @@
 		},
 		{
 			"id": "Anticipate Peril",
-			"name": "Anticipate Peril",
-			"description": "<p>You grant the target brief foresight. The target gains a +1 status bonus to its next initiative roll, after which the spell ends.</p>\n<hr />\n<p><strong>Heightened (+2)</strong> The status bonus increases by 1, to a maximum of +4 at 7th level.</p>"
+			"name": "Anticipar Peligro",
+			"description": "<p>Le concedes al objetivo una breve premonici&oacute;n. El objetivo obtiene un bonificador +1 por estatus a su siguiente tirada de iniciativa, tras lo cual el conjuro termina.<br /><strong>Potenciado</strong> (+2) El bonificador por estatus aumentaen 1, hasta un m&aacute;ximo de +4 en el 7.&ordm; nivel.</p>"
 		},
 		{
 			"id": "Antimagic Field",
@@ -303,8 +303,8 @@
 		},
 		{
 			"id": "Asterism",
-			"name": "Asterism",
-			"description": "<p>Lines of burning starlight form a constellation around you. Draw five lines, one at a time; each line must anchor at you or a creature or object already connected to a previous line, and it must end at a creature or object within 30 feet of its anchor (possibly allowing the <em>asterism</em> to extend to its full 150-foot range). A creature that begins its turn in one of these lines or enters one of these lines on its turn takes 4d6 fire damage (basic Reflex save). A creature can take this damage only once per turn, even if it moves through several lines. Targets that are part of the <em>asterism</em> do not take damage from it. If the distance between two targets (or you and a target) ever exceeds 30 feet, the line of starlight between the two breaks, and any lines that now no longer have a direct path back to you also break. You can Dismiss the spell.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 1d6.</p>"
+			"name": "Asterismo",
+			"description": "<p>Unas l&iacute;neas de la abrasadora luz de las estrellas forman una constelaci&oacute;n a tu alrededor. Dibujas cinco l&iacute;neas, una a una; cada l&iacute;nea debe enlazarse contigo o en una criatura u objeto que ya est&eacute; conectado a una l&iacute;nea anterior y debe terminar en una criatura u objeto a 30 pies (9 m) de su enlace (posiblemente permitiendo que el asterismo se extienda por completo unos 150 pies [45 m]). Una criatura que comienza su turno en una de estas l&iacute;neas o atraviesa una de estas l&iacute;neas en su turno sufre 4d6 de da&ntilde;o por fuego (salvaci&oacute;n de Reflejos b&aacute;sica). Una criatura solo puede sufrir este da&ntilde;o una vez por turno, incluso si se desplaza a trav&eacute;s de varias l&iacute;neas. Los objetivos que forman parte del asterismo no sufren da&ntilde;os. Si la distancia entre dos objetivos (o t&uacute; y un objetivo) supera los 30 pies (9 m), la l&iacute;nea de luz de las estrellas entre los dos se interrumpe, y cualquier l&iacute;nea que ya no tenga un camino directo de regreso a ti tambi&eacute;n se interrumpe. Puedes Disipar el conjuro. <br /><strong>Potenciado</strong> (+1) El da&ntilde;o aumenta en 1d6.</p>"
 		},
 		{
 			"id": "Astral Labyrinth",
@@ -408,8 +408,8 @@
 		},
 		{
 			"id": "Befuddle",
-			"name": "Befuddle",
-			"description": "<p>You sow seeds of confusion in your target's mind, causing their actions and thoughts to become clumsy.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target is @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy 1} and @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefied 1}.</p>\n<p><strong>Failure</strong> The target is @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy 2} and @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefied 2}.</p>\n<p><strong>Critical Failure</strong> The target is @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy 3}, @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefied 3}, and @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{Confused}.</p>"
+			"name": "Embotar",
+			"description": "<p>Siembras semillas de confusi&oacute;n en la mente de tu objetivo, lo que hace que sus acciones y pensamientos se vuelvan torpes. <br /><strong>&Eacute;xito cr&iacute;tico</strong> El objetivo no se ve afectado. <br /><strong>&Eacute;xito</strong> El objetivo se queda @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Torpe 1} y queda @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Anonadado 1}. <br /><strong>Fallo</strong> El objetivo se queda @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Torpe 2} y queda @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Anonadado 2}. <br /><strong>Fallo cr&iacute;tico</strong> El objetivo se queda @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Torpe 3}, @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Anonadado 3} y @Compendium[pf2e.conditionitems.yblD8fOR1J8rDwEQ]{Confuso}.</p>"
 		},
 		{
 			"id": "Bestial Curse",
@@ -578,8 +578,8 @@
 		},
 		{
 			"id": "Bottle the Storm",
-			"name": "Bottle the Storm",
-			"description": "<p><strong>Trigger</strong> You would take electricity damage.</p>\n<hr />\n<p>When lightning is turned at you, you store the charge safely within yourself, unleashing it when the time is right. You gain electricity resistance 10 against the triggering effect. If you successfully prevent damage in this way, at any time during the spell's duration, you can spend a single action, which has the attack trait, to expend the charge and make a melee spell attack at an adjacent target or a ranged spell attack at a target within 60 feet. This attack deals electricity damage equal to the damage prevented by <em>bottle the storm</em>. If you cast <em>bottle the storm</em> a second time before the original duration elapses, or if you do not make this attack, the stored charge dissipates harmlessly.</p>\n<p>@Compendium[pf2e.spell-effects.GlggmEqkGVj1noOD]{Spell Effect: Bottle the Storm}</p>\n<hr />\n<p><strong>Heightened (7th)</strong> The resistance increases to 15, and you can immediately make the spell attack roll granted by <em>bottle the storm</em> as part of the reaction used to cast the spell.</p>\n<p><strong>Heightened (10th)</strong> The resistance increases to 20, and you can immediately make the spell attack roll granted by <em>bottle the storm</em> as part of the reaction used to cast the spell.</p>"
+			"name": "Embotellar la Tormenta",
+			"description": "<p><strong>Disparador</strong> Deber&iacute;as sufrir da&ntilde;o por electricidad.<br />Cuando un rayo se dirige hacia ti, almacenas su carga de forma segura en tu interior y la liberas en el momento adecuado. Obtienes resistencia 10 electricidad contra el efecto disparador. Si evitas con &eacute;xito el da&ntilde;o de esta manera, en cualquier momento mientras dure el conjuro, puedes gastar una acci&oacute;n &uacute;nica que tenga el rasgo ataque, para liberar la carga y realizar un conjuro de ataque cuerpo a cuerpo a un objetivo adyacente o un conjuro de ataque a distancia a un objetivo a 60 pies (18 m). Este ataque inflige un da&ntilde;o por electricidad equivalente al da&ntilde;o evitado por embotellar la tormenta. Si lanzas embotellar la tormenta por segunda vez antes de que transcurra la duraci&oacute;n original, o si no realizas este ataque, la carga almacenada se disipa sin causar da&ntilde;o.<br />@Compendium[pf2e.spell-effects.GlggmEqkGVj1noOD]{Efecto M&aacute;gico: Embotellar la tormenta} <br /><strong>Potenciado</strong> (7.&ordm;) La resistencia aumenta a 15 y puedes realizar inmediatamente la tirada de conjuro de ataque otorgada por embotellar la tormenta como parte de la reacci&oacute;n utilizada para lanzar el conjuro. <br /><strong>Potenciado</strong> (10.&ordm;) La resistencia aumenta a 20 y puedes realizar inmediatamente la tirada de conjuro de ataque otorgada por embotellar la tormenta como parte de la reacci&oacute;n utilizada para lanzar el conjuro.</p>"
 		},
 		{
 			"id": "Bottomless Stomach",
@@ -593,8 +593,8 @@
 		},
 		{
 			"id": "Brand the Impenitent",
-			"name": "Brand the Impenitent",
-			"description": "<p>You brand the target with an ethereal copy of your deity's religious symbol. This brand can't be hidden, but it is visible only to followers of your faith, who see it as clearly as a lit torch. Followers of your faith ignore the target's @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} condition, if any, and the target gains a -1 status penalty to AC against attacks by followers of your faith. If the target is a follower of your deity in good standing, the spell fails.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The spell lasts for 1 round.</p>\n<p><strong>Failure</strong> The spell lasts for 1 minute.</p>\n<p><strong>Critical Failure</strong> The spell has an unlimited duration.</p>"
+			"name": "Marcar al Impenitente",
+			"description": "<p>Marcas el objetivo con una copia et&eacute;rea del s&iacute;mbolo religioso de tu dios. Esta marca no se puede ocultar, pero solo es visible para los seguidores de tu fe, que la ven con la claridad de una antorcha encendida. Los seguidores de tu fe ignoran la condici&oacute;n @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Oculto} del objetivo, si la tiene y al objetivo se le impone un penalizador -1 por estatus a la CA contra los ataques de los seguidores de tu fe. Si el objetivo es un seguidor activo de tu dios, el conjuro falla. <br /><strong>&Eacute;xito cr&iacute;tico</strong> El objetivo no se ve afectado. <br /><strong>&Eacute;xito</strong> El conjuro dura 1 asalto. <br /><strong>Fallo</strong> El conjuro dura 1 minuto. <br /><strong>Fallo cr&iacute;tico</strong> El conjuro tiene una duraci&oacute;n ilimitada.</p>"
 		},
 		{
 			"id": "Breadcrumbs",
@@ -718,8 +718,8 @@
 		},
 		{
 			"id": "Charged Javelin",
-			"name": "Charged Javelin",
-			"description": "<p>You fire a javelin of electricity that leaves a charged field around its target. Make a spell attack roll. The javelin deals 1d6 electricity damage and [[/r {1}[persistent,electricity]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Electricity Damage}.</p>\n<p>As long as the target is taking @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Damage} from this spell, creatures gain a +1 status bonus to attack rolls with metal weapons or electricity effects against the target, and the target takes a -1 status penalty to saves against electricity effects.</p>\n<hr />\n<p><strong>Critical Success</strong> The javelin deals double damage, both initial and persistent.</p>\n<p><strong>Success</strong> The javelin deals full damage.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The initial damage increases by 1d6, and the Persistent Damage increases by 1.</p>"
+			"name": "Jabalina Cargada",
+			"description": "<p>Disparas una jabalina de electricidad que deja un campo cargado alrededor de su objetivo. Haz una tirada de conjuro de ataque. La jabalina inflige [[/r {1}[persistente,electricidad]]] de da&ntilde;o el&eacute;ctrico y 1 de da&ntilde;o el&eacute;ctrico persistente.@Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Da&ntilde;o Persistente El&eacute;ctrico} <br /><strong>&Eacute;xito cr&iacute;tico</strong> La jabalina inflige doble da&ntilde;o, tanto inicial como persistente. <br /><strong>&Eacute;xito</strong> La jabalina inflige da&ntilde;o completo. Mientras el objetivo sufra da&ntilde;o persistente de este conjuro, las criaturas obtienen un bonificador -1 por estatus a las tiradas de ataque con armas de metal o efectos de electricidad contra el objetivo y al objetivo se le impone un penalizador -1 por estatus a las salvaciones contra efectos de electricidad. <br /><strong>Potenciado</strong> (+1) El da&ntilde;o inicial aumenta en 1d6 y el da&ntilde;o persistente aumenta en 1.</p>"
 		},
 		{
 			"id": "Charitable Urge",
@@ -1068,8 +1068,8 @@
 		},
 		{
 			"id": "Cup of Dust",
-			"name": "Cup of Dust",
-			"description": "<p>You curse the target with a thirst no drink can quench. You can Dismiss the spell. The target must attempt a Fortitude save.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected and is temporarily immune for 1 hour.</p>\n<p><strong>Success</strong> The creature is @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigued} for 1 round.</p>\n<p><strong>Failure</strong> The creature is immediately afflicted by thirst as if it hadn't had a drink in days. It becomes Fatigued and takes 1d4 damage each hour that can't be healed until it quenches its thirst. No amount of drinking can quench the creature's thirst during the spell's duration.</p>\n<p><strong>Critical Failure</strong> As failure but the creature takes 2d4 damage each hour, twice as much as usual for thirst.</p>\n<hr />\n<p><strong>Heightened (+3)</strong> The thirst becomes more unbearable, increasing the damage each hour by 1d4, or by 2d4 on a critical failure.</p>"
+			"name": "Copa de Polvo",
+			"description": "<p>Maldices al objetivo con una sed que ninguna bebida puede saciar. Puedes Disipar el conjuro. El objetivo debe hacer una salvaci&oacute;n de Fortaleza. <br /><strong>&Eacute;xito cr&iacute;tico</strong> La criatura no se ve afectada y es temporalmente inmune durante 1 hora. <br /><strong>&Eacute;xito</strong> La criatura queda @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigada} durante 1 asalto. <br /><strong>Fallo</strong> La criatura se ve inmediatamente afectada por una sed como si no hubiera bebido en d&iacute;as. Queda fatigada y sufre 1d4 de da&ntilde;o que no se puede curar cada hora hasta que sacia su sed. Ninguna cantidad de bebida puede apagar la sed de la criatura mientras dure el conjuro. <br /><strong>Fallo cr&iacute;tico</strong> Como fallo, pero la criatura sufre 2d4 de da&ntilde;o cada hora, el doble de lo habitual por sed. <br /><strong>Potenciado</strong> (+3) La sed se vuelve a&uacute;n m&aacute;s insoportable, aumentando el da&ntilde;o cada hora en 1d4, o en 2d4 en caso de fallo cr&iacute;tico.</p>"
 		},
 		{
 			"id": "Curse of Death",
@@ -1193,8 +1193,8 @@
 		},
 		{
 			"id": "Delay Consequence",
-			"name": "Delay Consequence",
-			"description": "<p><strong>Trigger</strong> A creature or object within range is hit by an attack.</p>\n<hr />\n<p>You transpose the moment that the target would be injured to later in its timestream. Roll damage normally, but do not reduce Hit Points or apply any other effects of the attack until the spell's duration has elapsed. When the spell ends, the target is immediately affected by the attack, taking damage and being affected by any additional effects. You can Dismiss this spell.</p>"
+			"name": "Retrasar Consecuencia",
+			"description": "<p><strong>Disparador</strong> Una criatura u objeto al alcance es alcanzado por un ataque. <br />Transportas el momento en el que el objetivo resultar&iacute;a a herido m&aacute;s adelante en su corriente temporal. Tira el da&ntilde;o normalmente, pero no reduzcas los Puntos de Golpe ni apliques ning&uacute;n otro efecto del ataque hasta que haya transcurrido la duraci&oacute;n del conjuro. Cuando el conjuro termina, el objetivo es inmediatamente afectado por el ataque, sufre da&ntilde;o y se ve afectado por cualquier efecto adicional. Puedes Disipar este conjuro.</p>"
 		},
 		{
 			"id": "Deluge",
@@ -1263,8 +1263,8 @@
 		},
 		{
 			"id": "Diamond Dust",
-			"name": "Diamond Dust",
-			"description": "<p>You supercool the nearby air, forming a cloud of dancing ice crystals in an emanation around you. A creature other than you that enters the area or ends its turn within the area takes 2d6 cold damage. A creature can take this damage only once per turn. The crystals scatter and refract light; if a light effect enters diamond dust's area, any creatures that effect goes on to affect gain a +2 status bonus to AC and saves against it. While the spell persists, you can activate or deactivate this aura by using a single action, which has the concentrate trait. You can Dismiss this spell.</p>\n<hr />\n<p><strong>Heightened (+2)</strong> The damage increases by 1d6.</p>"
+			"name": "Polvo de Diamante",
+			"description": "<p>Sobreenfr&iacute;as el aire cercano, formando una nube de cristales de hielo danzantes en una emanaci&oacute;n a su alrededor. Cualquier criatura aparte de ti que entre en el &aacute;rea o termine su turno dentro de la misma sufre 2d6 de da&ntilde;o por fr&iacute;o. Una criatura solo puede sufrir este da&ntilde;o una vez por turno. Los cristales dispersan y refractan la luz; si un efecto de luz entra en el &aacute;rea de polvo de diamante, cualquier criatura afectada obtiene un bonificador +2 por estatus a la CA y salvaciones contra ella. Mientras el conjuro persista, puedes activar o desactivar esta aura usando una acci&oacute;n &uacute;nica, que tiene el rasgo concentrar. Puedes Disipar este conjuro. <br /><strong>Potenciado</strong> (+2) El da&ntilde;o aumenta en 1d6</p>"
 		},
 		{
 			"id": "Dim the Light",
@@ -1408,8 +1408,8 @@
 		},
 		{
 			"id": "Divine Plagues",
-			"name": "Divine Plagues",
-			"description": "<p>Your deity sends wracking plagues. The target must attempt a Fortitude save. When you Cast the Spell, decide whether the disease inflicts the Clumsy, Enfeebled, or Stupefied condition.</p>\n<p><strong>Divine Plague</strong> (disease) <strong>Level</strong> 1</p>\n<p><strong>Stage 1</strong> @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{Clumsy 1}, @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Enfeebled 1}, or @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Stupefied 1} (1 round)</p>\n<p><strong>Stage 2</strong> @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Slowed 1}, and Clumsy 1, Enfeebled 1, or Stupefied 1 (1 round)</p>\n<p><strong>Stage 3</strong> Clumsy 1, Enfeebled 1, or Stupefied 1 and the target can't recover from the condition until they are cured (1 day)</p>\n<hr />\n<p><strong>Success</strong> The target is unaffected.</p>\n<p><strong>Failure</strong> The target is afflicted with divine plague at stage 1.</p>\n<p><strong>Critical Failure</strong> The target is afflicted with divine plague at stage 2.</p>\n<hr />\n<p><strong>Heightened (5th)</strong> The divine plague disease gains the virulent trait. The condition value for the Clumsy, Enfeebled, or Stupefied condition is 2 instead of 1.</p>"
+			"name": "Plagas Divinas",
+			"description": "<p>Tu dios env&iacute;a plagas devastadoras. El objetivo debe hacer una salvaci&oacute;n de Fortaleza. Cuando Lances el conjuro, decide si la enfermedad causa el estado torpe, debilitado o anonadado. <br /><strong>&Eacute;xito</strong> El objetivo no se ve afectado. <br /><strong>Fallo</strong> El objetivo sufre la plaga divina en fase 1. <br /><strong>Fallo cr&iacute;tico</strong> El objetivo sufre la plaga divina en fase 2. <br /><strong>Plaga Divina</strong> (enfermedad) <strong>Nivel</strong> 1; <strong>Fase</strong> 1 @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Anonadado 1}, @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Debilitado 1} o @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{torpe1} (1 asalto); <strong>Fase</strong> 2 @Compendium[pf2e.conditionitems.xYTAsEpcJE1Ccni3]{Lentificado 1} y @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Anonadado 1}, @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Debilitado 1} o @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{torpe1} (1 asalto); <strong>Fase</strong> 3 @Compendium[pf2e.conditionitems.e1XGnhKNSQIm5IXg]{Anonadado 1}, @Compendium[pf2e.conditionitems.MIRkyAjyBeXivMa7]{Debilitado 1} o @Compendium[pf2e.conditionitems.i3OJZU2nk64Df3xm]{torpe1} y el objetivo no puede recuperarse del estado hasta que est&eacute; curado (1 d&iacute;a) <br /><strong>Potenciado</strong> (5.&ordm;) La enfermedad de la plaga divina adquiere el rasgo virulento. El valor de condici&oacute;n para los estados anonadado, debilitado o torpe o es 2 en lugar de 1.</p>"
 		},
 		{
 			"id": "Divine Vessel",
@@ -1438,8 +1438,8 @@
 		},
 		{
 			"id": "Door to Beyond",
-			"name": "Door to Beyond",
-			"description": "<p>Striking at thin air, you create hairline cracks in an unoccupied adjacent space that lead somewhere outside reality. Air rushes through the cracks, drawing Large or smaller creatures and objects of light Bulk or less toward the center. Large or smaller creatures in the area must attempt a Fortitude save at the start of their turn; creatures that move into the area must attempt the save on entering.</p>\n<p>The cracks of the door to beyond are too thin for anything to fully slip through, but decompressive effects deal 4d6 slashing damage to any creature or object that ends its turn in the door's space. You are unaffected by your own <em>door to beyond</em>. You can Dismiss the spell.</p>\n<hr />\n<p><strong>Success</strong> The creature is unaffected.</p>\n<p><strong>Failure</strong> The creature is pulled 10 feet toward the door.</p>\n<p><strong>Critical Failure</strong> The creature is pulled 20 feet toward the door.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 1d6.</p>"
+			"name": "Puerta al Más Allá",
+			"description": "<p>Golpeando el aire, creas peque&ntilde;as grietas en un espacio adyacente desocupado que conduce a alg&uacute;n lugar fuera de la realidad. El aire se precipita a trav&eacute;s de las grietas, atrayendo criaturas Grandes o m&aacute;s peque&ntilde;as y objetos de Peso ligero menor hacia el centro. Las criaturas Grandes o m&aacute;s peque&ntilde;as en el &aacute;rea deben hacer una salvaci&oacute;n de Fortaleza al comienzo de su turno; las criaturas que se desplazan hasta el &aacute;rea deben hacer una salvaci&oacute;n al entrar. <br /><strong>&Eacute;xito</strong> La criatura no se ve afectada. <br /><strong>Fallo</strong> La criatura es arrastrada 10 pies (3 m) hacia la puerta. <br /><strong>Fallo cr&iacute;tico</strong> La criatura se desplaza 20 pies (6 m) hacia la puerta. Las grietas de la puerta al m&aacute;s all&aacute; son demasiado estrechas para que algo las atraviese por completo, pero los efectos de descompresi&oacute;n infligen 4d6 de da&ntilde;o cortante a cualquier criatura u objeto que termine su turno en el espacio de la puerta. Tu propia puerta al m&aacute;s all&aacute; no te afecta. Puedes Disipar el conjuro. <br /><strong>Potenciado</strong> (+1) El da&ntilde;o aumenta en 1d6.</p>"
 		},
 		{
 			"id": "Downpour",
@@ -1448,8 +1448,8 @@
 		},
 		{
 			"id": "Draconic Barrage",
-			"name": "Draconic Barrage",
-			"description": "<p>You shape energy into one incorporeal tiny dragon (or serpentine creature) that flits around you. The specific dragon is random; roll [[/r 1d6 #dragon]] on the table below for each dragon evoked to determine which type of dragon you create. While the spell persists, you can command one of your dragons to spit a missile of energy at a creature within 60 feet by using a single action, which has the concentrate trait. This is a ranged Strike that uses your spell attack bonus and deals 1d6 damage plus your spellcasting ability modifier, with the damage type depending on the dragon. A dragon's breath Strike uses and contributes to your multiple attack penalty. Once a dragon has used its breath Strike, it winks out of existence; when you have no dragons remaining, the spell ends.</p>\n<h2>Draconic Barrage</h2>\n<table class=\"pf2-table\">\n<thead>\n<tr>\n<th>d6</th>\n<th>Dragon</th>\n<th>Breath Strike type</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Copper or Black</td>\n<td>Acid</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Silver or White</td>\n<td>Cold</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Bronze or Blue</td>\n<td>Electricity</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Brass, Gold, or Red</td>\n<td>Fire</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Green</td>\n<td>Poison</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Your choice of dragon</td>\n<td>As the dragon</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<p><strong>Heightened (+1)</strong> You shape 1 additional dragon, and the Strike damage increases by 1d6.</p>"
+			"name": "Andanada Dracónica",
+			"description": "<p>Moldeas la energía en forma de un pequeño dragón incorporal (o criatura serpentina) que revolotea a tu alrededor. El dragón específico es aleatorio; tira 1d6 en la tabla de abajo por cada dragón evocado para determinar qué tipo de dragón creas. Mientras el conjuro persista, puedes ordenar a uno de tus dragones que escupa un proyectil de energía a una criatura a 60 pies (18 m) usando una acción única, que tiene el rasgo concentrar. Este es un Golpe a distancia que usa tu bonificador de ataque con conjuros e inflige 1d6 de daño más tu modificador por característica de lanzamiento de conjuros y el tipo de daño depende del dragón. Un Golpe de aliento de dragón utiliza y contribuye a tu penalizador de ataque múltiple. Una vez que un dragón ha usado su Golpe de aliento, deja de existir; cuando ya no quedan dragones, el conjuro termina.</p>\n<h2>Andanada Dracónica</h2>\n<table class=\"pf2-table\">\n<thead>\n<tr>\n<th>d6</th>\n<th>Dragón</th>\n<th>Tipo de Golpe de Aliento</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td>1</td>\n<td>Cobre o Negro</td>\n<td>Ácido</td>\n</tr>\n<tr>\n<td>2</td>\n<td>Plata o Blanco</td>\n<td>Frio</td>\n</tr>\n<tr>\n<td>3</td>\n<td>Bronce o Azul</td>\n<td>Electricidad</td>\n</tr>\n<tr>\n<td>4</td>\n<td>Bronce, Oro, o Rojo</td>\n<td>Fuego</td>\n</tr>\n<tr>\n<td>5</td>\n<td>Verde</td>\n<td>Veneno</td>\n</tr>\n<tr>\n<td>6</td>\n<td>Dragón a tu Elección</td>\n<td>Como el Dragón</td>\n</tr>\n</tbody>\n</table>\n<hr />\n<p><strong>Potenciado</strong> (+1) Das forma a 1 drag&oacute;n adicional y el da&ntilde;o de cada Golpe aumenta en 1d6.</p>"
 		},
 		{
 			"id": "Dragon Breath",
@@ -1603,13 +1603,13 @@
 		},
 		{
 			"id": "Dust Storm",
-			"name": "Dust Storm",
-			"description": "<p>You call forth a swirling storm of dust. The <em>dust storm</em> obscures vision, with the effect of <em>@Compendium[pf2e.spells-srd.9XHmC2JgTUIQ1CCm]{Obscuring Mist}</em>. The dust also makes the air unbreathable; creatures in the area must hold their breath, though wearing a scarf or similar clothing over the mouth increases the time the creature can hold its breath to 5 rounds. Creatures entering or starting their turn in the <em>dust storm</em> take 1d6 slashing damage. Creatures that have the water trait or that are made primarily of liquid take double damage.</p>\n<hr />\n<p><strong>Heightened (+2)</strong> The damage increases by 1d6.</p>"
+			"name": "Tormenta de Arena",
+			"description": "<p>Invocas una turbulenta tormenta de arena. La tormenta de arena oscurece la visi&oacute;n, con el efecto de @Compendium[pf2e.spells-srd.9XHmC2JgTUIQ1CCm]{Niebla de Oscurecimiento}. La arena tambi&eacute;n vuelve el aire irrespirable; las criaturas en el &aacute;rea deben contener la respiraci&oacute;n (Reglas b&aacute;sicas, p&aacute;g. 478), aunque ponerse un pa&ntilde;uelo o ropa similar sobre la boca aumenta el tiempo que la criatura puede contener la respiraci&oacute;n a 5 asaltos. Las criaturas que entran o comienzan su turno en la tormenta de arena sufren 1d6 de da&ntilde;o cortante. Las criaturas que tienen el rasgo agua o que est&aacute;n hechas principalmente de l&iacute;quido sufren el doble de da&ntilde;o. <br /><strong>Potenciado</strong> (+2) El da&ntilde;o aumenta en 1d6.</p>"
 		},
 		{
 			"id": "Dutiful Challenge",
-			"name": "Dutiful Challenge",
-			"description": "<p>As you challenge an enemy, you take some of its attention away from your allies. The target takes a -1 status penalty to attack rolls, damage rolls, and skill checks against creatures other than you, and you take a -1 status penalty to attack rolls, damage rolls, and skill checks against creatures other than the target.</p>\n<p>Each time a creature other than you uses a hostile action that affects the challenged enemy, the enemy can attempt a Will save. On a success, the enemy no longer takes the penalty against that creature. You can Dismiss the spell, and it ends automatically if you or the target is defeated.</p>\n<hr />\n<p><strong>Heightened (+3)</strong> The status penalties increase by 1.</p>\n<p>@Compendium[pf2e.spell-effects.UH2sT6eW5e31Xytd]{Spell Effect: Dutiful Challenge}</p>"
+			"name": "Desafío Obediente",
+			"description": "<p>Cuando desaf&iacute;as a un enemigo, alejas su atenci&oacute;n de tus aliados. Al objetivo se le impone un penalizador -1 por estatus a las tiradas de ataque, las tiradas de da&ntilde;o y las pruebas de habilidad contra criaturas que no sean t&uacute; y a ti se te impone un penalizador -1 por estatusa las tiradas de ataque, las tiradas de da&ntilde;o y las pruebas de habilidad contra criaturas que no sean el objetivo. Cada vez que una criatura no seas t&uacute; usa una acci&oacute;n hostil que afecta al enemigo desafiado, el enemigo puede hacer una salvaci&oacute;n de Voluntad. Si tiene &eacute;xito, al enemigo ya no se le aplica el penalizador contra esa criatura. Puedes Disipar el conjuro y &eacute;ste termina autom&aacute;ticamente si t&uacute; o el objetivo sois derrotados.<br />@Compendium[pf2e.spell-effects.UH2sT6eW5e31Xytd]{Efecto M&aacute;gico: Desafio Obediente} <br /><strong>Potenciado</strong> (+3) Los penalizadores por estatus aumentan en 1.</p>"
 		},
 		{
 			"id": "Earthbind",
@@ -1638,8 +1638,8 @@
 		},
 		{
 			"id": "Ectoplasmic Interstice",
-			"name": "Ectoplasmic Interstice",
-			"description": "<p>You force the Material and Ethereal Planes to partially overlap, creating a zone that causes incorporeal and spiritual entities to take on many of the aspects of corporeal creatures. Within the ectoplasmic interstice, incorporeal creatures cannot pass through solid objects or corporeal creatures, and they can manipulate and attempt Strength-based checks against physical creatures and objects. An incorporeal PC or other creature with a normal Strength modifier simply uses that modifier, but if the creature had a Strength modifier of -5, like most incorporeal monsters, it uses a +4 modifier instead, increasing its Athletics modifier by 9 accordingly. Attacks against creatures that are within the interstice overcome resistances as if they were by @Compendium[pf2e.equipment-srd.JQdwHECogcTzdd8R]{Ghost Touch} weapons.</p>"
+			"name": "Intersicio Ectoplasmático",
+			"description": "<p>Obligas a los Planos Material y Et&eacute;reo a superponerse parcialmente, creando una zona que provoca que los seres incorporales y espirituales asuman muchos de los aspectos de las criaturas corporales. Dentro del intersticio ectopl&aacute;smico, las criaturas incorporales no pueden atravesar objetos s&oacute;lidos o criaturas corporales y pueden manipular y hacer pruebas basadas en la Fuerza contra criaturas y objetos f&iacute;sicos. Un PJ incorporales u otra criatura con un modificador de Fuerza normal simplemente usa ese modificador, pero si la criatura ten&iacute;a un modificador de Fuerza &ndash;5, como la mayor&iacute;a de los monstruos incorporales, usa un modificador +4 en su lugar, aumentando su modificador de Atletismo en 9 en consecuencia. Los ataques contra criaturas que se encuentran en el intersticio superan las resistencias como si fueran armas de toque fantasmal.@Compendium[pf2e.equipment-srd.JQdwHECogcTzdd8R]{Toque Fantasmal}</p>"
 		},
 		{
 			"id": "Efficient Apport",
@@ -1653,8 +1653,8 @@
 		},
 		{
 			"id": "Eject Soul",
-			"name": "Eject Soul",
-			"description": "<p>Your touch disrupts the connection between body and soul, possibly forcing the soul out of the body altogether. The target must attempt a Fortitude save. You can allow allies to choose the degree of success instead of rolling a saving throw.</p>\n<hr />\n<p><strong>Success</strong> The target is unaffected.</p>\n<p><strong>Failure</strong> The target is @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Stunned 1} as its soul briefly loses its connection to its body.</p>\n<p><strong>Critical Failure</strong> The target's soul exits its body for 1 round. The target's body becomes Stunned. While its body is stunned in this way, the target remains fully aware in soul form; it simply can't consciously move its body (though the body makes basic instinctual defensive movements). The target's soul has the incorporeal trait, is @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{Invisible}, and has a fly Speed of 60 feet. It can't attack, cast spells, or attempt any skill checks that require a physical body, and it must always maintain line of effect to its body. When the target's body ceases being stunned, the target's soul instantly returns to its body as the target wakes.</p>\n<hr />\n<p><strong>Heightened (+3)</strong> If a willing ally chooses to critically fail, it can stay in soul form for 1 additional round.</p>"
+			"name": "Expulsar Alma",
+			"description": "<p>Tu toque interrumpe la conexi&oacute;n entre el cuerpo y el alma, posiblemente forzando al alma a salir del cuerpo por completo. El objetivo debe hacer una salvaci&oacute;n de Fortaleza. Puedes permitir que los aliados elijan el grado de &eacute;xito en lugar de hacer una tirada de salvaci&oacute;n. <br /><strong>&Eacute;xito</strong> El objetivo no se ve afectado. <br /><strong>Fallo</strong> El objetivo queda @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Aturdido 1} cuando su alma pierde brevemente la conexi&oacute;n con su cuerpo. <br /><strong>Fallo cr&iacute;tico</strong> El alma del objetivo abandona su cuerpo durante 1 asalto. El cuerpo del objetivo queda aturdido. Mientras su cuerpo est&aacute; aturdido, el objetivo permanece completamente consciente en forma de alma; b&aacute;sicamente no puede mover conscientemente su cuerpo (aunque el cuerpo hace movimientos defensivos b&aacute;sicos de forma instintiva). El alma del objetivo tiene el rasgo incorporal, es @Compendium[pf2e.conditionitems.zJxUflt9np0q4yML]{Invisible} y tiene una velocidad volando de 60 pies (18 m). No puede atacar, lanzar conjuros o hacer pruebas de habilidad que requieran un cuerpo f&iacute;sico y siempre debe mantener una l&iacute;nea de efecto con su cuerpo. Cuando el cuerpo del objetivo deja de estar aturdido, el alma del objetivo vuelve instant&aacute;neamente a su cuerpo a medida que el objetivo se despierta. <br /><strong>Potenciado</strong> (+3) Si un aliado dispuesto elige fallar cr&iacute;ticamente, puede permanecer en forma de alma durante 1 asalto adicional.</p>"
 		},
 		{
 			"id": "Electric Arc",
@@ -1758,13 +1758,13 @@
 		},
 		{
 			"id": "Empty Inside",
-			"name": "Empty Inside",
-			"description": "<p>You inject a sliver of the void into your mind, momentarily remaking it into a bleak and empty place. Attempt a counteract check against one emotion effect affecting you.</p>\n<hr />\n<p><strong>Heightened (5th)</strong> You can attempt counteract checks against any number of emotion effects affecting you.</p>"
+			"name": "Vacío Interior",
+			"description": "<p>Inyectas una astilla del vac&iacute;o en tu mente, transform&aacute;ndola moment&aacute;neamente en un lugar desolado y vac&iacute;o. Haz una prueba de contrarrestar contra un efecto de emoci&oacute;n que te afecte. <br /><strong>Potenciado</strong> (5.&ordm;) Puedes hacer pruebas de contrarrestar contra cualquier n&uacute;mero de efectos emocionales que te afecten.</p>"
 		},
 		{
 			"id": "Endure",
-			"name": "Endure",
-			"description": "<p>You invigorate the touched creature's mind and urge it to press on. You grant the touched creature 5 temporary Hit Points.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> Increase the temporary Hit Points by 5.</p>"
+			"name": "Soportar",
+			"description": "<p>Vigorizas la mente de la criatura a la que tocas y la instas a seguir adelante. Le otorgas a la criatura a la que tocas 5 Puntos de Golpe temporales. <br /><strong>Potenciado</strong> (+1) Aumenta los Puntos de Golpe temporales en 5.</p>"
 		},
 		{
 			"id": "Endure Elements",
@@ -1833,8 +1833,8 @@
 		},
 		{
 			"id": "Ephemeral Hazards",
-			"name": "Ephemeral Hazards",
-			"description": "<p>You create illusory hazards, such as spinning blades or a puddle of acid, in four 10-foot-by-10-foot spaces within range. The hazards are merely a mental projection, and a creature receives a Will save each time it touches a hazard or is occupying one's space at the start of its turn. Depending on the result, the creature takes 4d6 mental damage and might have difficulty moving through the area. A creature can take this damage only once per turn, even if it moves through several hazards. Choose bludgeoning, slashing, piercing, acid, cold, electricity, fire, or sonic damage when you cast <em>ephemeral hazards</em>; resistances and weaknesses to those damage types apply if the target thinks they do, as judged by the GM. You can freely choose the appearance and damage type of each hazard as long as its appearance reflects the type of damage it deals (for instance, a hazard that deals piercing damage might take the form of sharpened spikes).</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected by the hazards and no longer needs to attempt Will saves against them.</p>\n<p><strong>Success</strong> The creature realizes the hazards aren't real but still takes half damage from them; on future Will saves against the hazards, the creature continues to use this result unless it rolls a critical success.</p>\n<p><strong>Failure</strong> The target takes full damage and treats the square as difficult terrain.</p>\n<p><strong>Critical Failure</strong> The target takes double damage and cannot pass through a square containing a hazard.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 1d6.</p>"
+			"name": "Peligros Efímeros",
+			"description": "<p>Creas peligros ilusorios, como cuchillas giratorias o un charco de &aacute;cido, en cuatro espacios de 10 pies (3 m) por 10 pies (3 m) dentro del alcance. Los peligros son una mera proyecci&oacute;n mental y una criatura tiene derecho a una salvaci&oacute;n de Voluntad cada vez que toca un peligro o ocupa su espacio al comienzo de su turno. Dependiendo del resultado, la criatura sufre 4d6 de da&ntilde;o mental y puede tener dificultades para moverse por el &aacute;rea. Una criatura puede sufrir este da&ntilde;o solo una vez por turno, incluso si atraviesa varios peligros. Elige entre da&ntilde;o contundente, cortante, perforante, por &aacute;cido, el&eacute;ctrico, fr&iacute;o, fuego o s&oacute;nico cuando lances peligros ef&iacute;meros; las resistencias y debilidades a esos tipos de da&ntilde;o se aplican si el objetivo cree que lo hacen, seg&uacute;n lo juzgue el DJ. Puedes decidir libremente la apariencia y el tipo de da&ntilde;o de cada peligro siempre que su apariencia refleje el tipo de da&ntilde;o que inflige (por ejemplo, un peligro que inflige da&ntilde;o perforante puede adoptar la forma de afilados pinchos). <br /><strong>&Eacute;xito cr&iacute;tico</strong> La criatura no se ve afectada por los peligros y ya no necesita hacer salvaciones de Voluntad contra ellos. <br /><strong>&Eacute;xito</strong> La criatura se da cuenta de que los peligros no son reales, pero a&uacute;n as&iacute; sufre mitad de da&ntilde;o; en futuras salvaciones de Voluntad contra los peligros, la criatura contin&uacute;a usando este resultado a menos que obtenga un &eacute;xito cr&iacute;tico. <br /><strong>Fallo</strong> El objetivo sufre da&ntilde;o completo y trata la casilla como terreno dif&iacute;cil. <br /><strong>Fallo cr&iacute;tico</strong> El objetivo sufre doble da&ntilde;o y no puede atravesar una casilla que contenga un peligro. <br /><strong>Potenciado</strong> (+1) El da&ntilde;o aumenta en 1d6.</p>"
 		},
 		{
 			"id": "Ephemeral Tracking",
@@ -1883,8 +1883,8 @@
 		},
 		{
 			"id": "Expeditious Excavation",
-			"name": "Expeditious Excavation",
-			"description": "<p>You remove loose dirt, dust, gravel, sand, and the like (though not solid stone) up to the size of a 5-foot cube. Any Medium or smaller creature standing atop the earth when the spell is cast must attempt a Reflex save or Acrobatics check.</p>\n<hr />\n<p><strong>Success</strong> The creature is unaffected and can choose to either descend the pit without damage or move to the nearest available space of its choice.</p>\n<p><strong>Failure</strong> The creature falls @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{Prone} in the nearest available space of its choice, or falls into the pit if it prefers.</p>\n<p><strong>Critical Failure</strong> The creature falls into the pit excavated by the spell and lands Prone, taking falling damage as normal.</p>\n<hr />\n<p><strong>Heightened (+2)</strong> The spell can excavate an additional 5-foot cube of earth. If you excavate all four 5-foot cubes beneath a Large creature, it must attempt a Reflex save or Acrobatics check, as above.</p>"
+			"name": "Excavación Expeditiva",
+			"description": "<p>Quitas la tierra suelta, polvo, grava, arena y similares (aunque no piedra s&oacute;lida) de un cubo de un tama&ntilde;o m&aacute;ximo de 5 pies (1,5 m) de arista. Cualquier criatura Mediana o m&aacute;s peque&ntilde;a que est&eacute; sobre la tierra cuando se lanza el conjuro debe hacer una salvaci&oacute;n de Reflejos o una prueba de Acrobacias. <br /><strong>&Eacute;xito</strong> La criatura no se ve afectada y puede elegir entre descender al foso sin sufrir da&ntilde;o o moverse al espacio disponible m&aacute;s cercano de su elecci&oacute;n. <br /><strong>Fallo</strong> La criatura @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{cae} de bruces en el espacio disponible m&aacute;s cercano de su elecci&oacute;n, o cae al foso si lo prefiere. <br /><strong>Fallo cr&iacute;tico</strong> La criatura cae en el foso excavado por el conjuro y cae de bruces, sufriendo da&ntilde;o por ca&iacute;da como es habitual. <br /><strong>Potenciado</strong> (+2) El conjuro puede excavar un cubo de tierra de 5 pies (1,5 m) de arista adicionales. Si excavas los cuatro cubos de 5 pies (1,5 m) de arista que hay debajo de una criatura Grande, debe hacer una salvaci&oacute;n de Reflejos o una prueba de Acrobacias, como se indica m&aacute;s arriba</p>"
 		},
 		{
 			"id": "Extend Boost",
@@ -1933,8 +1933,8 @@
 		},
 		{
 			"id": "Fallow Field",
-			"name": "Fallow Field",
-			"description": "<p>A sickly yellow light fills the area as entropic forces prevent healing. When a creature within the area would regain Hit Points, such as from a healing effect or an ability like fast healing or regeneration, it must attempt a Will save.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature regains the full number of Hit Points that would be restored by the healing effect, and is temporarily immune for 1 minute.</p>\n<p><strong>Success</strong> The creature regains the full number of Hit Points that would be restored.</p>\n<p><strong>Failure</strong> The creature regains only half the number of Hit Points that would be restored.</p>\n<p><strong>Critical Failure</strong> The creature does not regain Hit Points from the healing effect.</p>"
+			"name": "Campo Yermo",
+			"description": "<p>Una enfermiza luz amarilla llena el &aacute;rea a medida que las fuerzas entr&oacute;picas impiden la curaci&oacute;n. Cuando una criatura dentro del &aacute;rea recupera Puntos de Golpe, como por un efecto de curaci&oacute;n o una aptitud como curaci&oacute;n r&aacute;pida o regeneraci&oacute;n, debe hacer una salvaci&oacute;n de Voluntad. <br /><strong>&Eacute;xito cr&iacute;tico</strong> La criatura recupera el n&uacute;mero total de Puntos de Golpe que se le restablecer&iacute;an por el efecto curativo y se queda temporalmente inmune durante 1 minuto. <br /><strong>&Eacute;xito</strong> La criatura recupera el n&uacute;mero total de Puntos de Golpe que se le restablecer&iacute;an. <br /><strong>Fallo</strong> La criatura solo recupera la mitad de los Puntos de Golpe que se le restablecer&iacute;an. <br /><strong>Fallo cr&iacute;tico</strong> La criatura no recupera los Puntos de Golpe del efecto curativo.</p>"
 		},
 		{
 			"id": "False Life",
@@ -1998,8 +1998,8 @@
 		},
 		{
 			"id": "Feast of Ashes",
-			"name": "Feast of Ashes",
-			"description": "<p>You curse the target with a hunger no food can sate. You can Dismiss the spell. The target must attempt a Fortitude save.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected and is temporarily immune for 1 hour.</p>\n<p><strong>Success</strong> The creature is @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigued} for 1 round.</p>\n<p><strong>Failure</strong> The creature is immediately afflicted by hunger as if it hadn't eaten food in days. It becomes Fatigued and takes 1d4 damage each day that can't be healed until it sates its hunger. No amount of eating can sate the creature's hunger during the spell's duration. After the spell's duration, the creature takes damage from starvation.</p>\n<p><strong>Critical Failure</strong> As failure but the creature takes 2d4 damage each day, twice as much as usual for hunger.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The hunger becomes more unbearable, increasing the damage each day by 1d4, or by 2d4 on a critical failure.</p>"
+			"name": "Festín de Cenizas",
+			"description": "<p>Maldices al objetivo con un hambre que ning&uacute;n alimento puede saciar. Puedes Disipar el conjuro. El objetivo debe hacer una salvaci&oacute;n de Fortaleza. <br /><strong>&Eacute;xito cr&iacute;tico</strong> La criatura no se ve afectada y es inmune temporalmente durante 1 hora. <br /><strong>&Eacute;xito</strong> La criatura queda @Compendium[pf2e.conditionitems.HL2l2VRSaQHu9lUw]{Fatigada} durante 1 asalto. <br /><strong>Fallo</strong> La criatura se ve inmediatamente afectada por el hambre, como si no hubiera comido en d&iacute;as. Queda fatigada y sufre 1d4 de da&ntilde;o que no se puede curar cada d&iacute;a hasta que sacie su hambre. Ninguna cantidad de comida puede saciar el hambre de la criatura mientras dure el conjuro. Despu&eacute;s de la duraci&oacute;n del conjuro, la criatura sufre da&ntilde;o por inanici&oacute;n como se describe en la p&aacute;gina 500 de las Reglas b&aacute;sicos. <br /><strong>Fallo cr&iacute;tico</strong> Como fallo, pero la criatura sufre 2d4 de da&ntilde;o cada d&iacute;a, el doble de lo habitual por hambre. <br /><strong>Potenciado</strong> (+1) El hambre se vuelve m&aacute;s insoportable, aumentando el da&ntilde;o cada d&iacute;a en 1d4, o en 2d4 en caso de fallo cr&iacute;tico.</p>"
 		},
 		{
 			"id": "Feather Fall",
@@ -2143,8 +2143,8 @@
 		},
 		{
 			"id": "Font of Serenity",
-			"name": "Font of Serenity",
-			"description": "<p>A divine beacon radiates serenity, soothing nearby allies.</p>\n<p>Allies within the area gain a +1 status bonus to saving throws against emotion effects.</p>\n<p>@Compendium[pf2e.spell-effects.Bc2Bwuan3716eAyY]{Spell Effect: Font of Serenity}</p>\n<p>An ally can touch the font as an Interact action; if they do so, the spell attempts to counteract one emotion effect affecting the ally of the ally's choice, after which that emotion effect is temporarily immune for 1 day. If the spell succeeds at the counteract check, it removes the emotion effect from your ally, though not from any other creatures the effect might be affecting.</p>\n<hr />\n<p><strong>Heightened (+4)</strong> The bonus increases by 1.</p>"
+			"name": "Fuente de Serenidad",
+			"description": "<p>Un faro divino irradia serenidad y calma a los aliados cercanos. Los aliados dentro del &aacute;rea obtienen un bonificador +1 por estatus a las tiradas de salvaci&oacute;n contra efectos de emoci&oacute;n. Un aliado puede tocar la fuente como una acci&oacute;n de Interactuar; si lo hace, el conjuro intenta contrarrestar un efecto de emoci&oacute;n que afecte a un aliado escogido por &eacute;l, despu&eacute;s de lo cual se vuelve temporalmente inmune a ese efecto de emoci&oacute;n durante 1 d&iacute;a. Si el conjuro tiene &eacute;xito en la prueba de contraataque, elimina el efecto de emoci&oacute;n de tu aliado, aunque no de ninguna otra criatura que pueda estar sufriendo el efecto.<br />@Compendium[pf2e.spell-effects.Bc2Bwuan3716eAyY]{Efecto M&aacute;gico: Fuente de Serenidad} <br /><strong>Potenciado</strong> (+4) El bonificador aumenta en 1.</p>"
 		},
 		{
 			"id": "For Love, For Lightning",
@@ -2203,8 +2203,8 @@
 		},
 		{
 			"id": "Foul Miasma",
-			"name": "Foul Miasma",
-			"description": "<p>You multiply the disease within a creature, drawing it into an infectious mist outside their body where it can spread to other creatures. The target must attempt a Will save. If the target is willing, it can choose to take the effects of critical failure.</p>\n<hr />\n<p><strong>Critical Success</strong> The target receives the benefit of a successful save against the lowest-level disease affecting it.</p>\n<p><strong>Success</strong> The target is unaffected.</p>\n<p><strong>Failure</strong> One randomly chosen disease affecting the target fills the air in a 15-foot emanation centered on the target. For the spell's duration, any creature that enters or ends its turn within the area is exposed to that disease.</p>\n<p><strong>Critical Failure</strong> As failure, except the miasma contains all the diseases affecting the target.</p>"
+			"name": "Miasma Nauseabundo",
+			"description": "<p>Reproduces la enfermedad en el interior de una criatura, convirti&eacute;ndola en una niebla infecciosa que sale de su cuerpo, desde donde puede extenderse a otras criaturas. El objetivo debe hacer una salvaci&oacute;n de Voluntad. Si el objetivo est&aacute; dispuesto, puede optar por sufrir los efectos de un fallo cr&iacute;tico. <br /><strong>&Eacute;xito cr&iacute;tico</strong> El objetivo obtiene el beneficio de una salvaci&oacute;n con &eacute;xito contra la enfermedad de nivel m&aacute;s bajo que lo afecta. <br /><strong>&Eacute;xito</strong> El objetivo no se ve afectado. <br /><strong>Fallo</strong> Una enfermedad elegida al azar que afecte al objetivo llena el aire en una emanaci&oacute;n de 15 pies (4,5 m) entorno al objetivo. Mientras dure el conjuro, cualquier criatura que entre o termine su turno dentro del &aacute;rea queda expuesta a esa enfermedad. <br /><strong>Fallo cr&iacute;tico</strong> Como fallo, excepto porque el miasma contiene todas las enfermedades que afectan al objetivo.</p>"
 		},
 		{
 			"id": "Freedom",
@@ -2228,8 +2228,8 @@
 		},
 		{
 			"id": "Fungal Hyphae",
-			"name": "Fungal Hyphae",
-			"description": "<p>Thin hyphae grow from your feet and plunge into the earth, creating a symbiotic fungal network that attaches to plants within 30 feet and connects you to their root systems. You gain an imprecise tremorsense allowing you to sense anything directly touching plants within that distance. If you move, the hyphae snap and the spell ends.</p>\n<hr />\n<p><strong>Heightened (4th)</strong> You can control plants in the area to a small degree, allowing you to make Strikes with tree branches, exposed roots, or similarly solid plants. To do so, you use a Strike action, but you can Strike any creature you can detect with your tremorsense. These are melee spell attacks that deal 2d8 bludgeoning damage plus your spellcasting ability modifier. Unusual plants, such as thorny vines, might deal a different type of damage at the GM's discretion. You can't make any other attacks through these plants, or take any other actions through them, other than these Strikes.</p>\n<p><strong>Heightened (6th)</strong> As 4th level, but you can use other simple manipulate actions through the plants, including having a branch pick an object up or open a door, though more complex actions, such as picking a lock or disabling a trap, remain impossible.</p>"
+			"name": "Hipas Fúngicas",
+			"description": "<p>Finas hifas crecen desde tus pies y se sumergen en la tierra, creando una red simbi&oacute;tica de hongos que se adhiere a todas las plantas a 30 pies (9 m) y te conecta a sus sistemas de ra&iacute;ces. Obtienes un sentido de la vibraci&oacute;n impreciso que te permite sentir cualquier cosa que toque directamente las plantas dentro de esa distancia. Si te mueves, las hifas se rompen y el conjuro termina. <br /><strong>Potenciado</strong> (4.&ordm;) Puedes controlar las plantas en el &aacute;rea en cierto grado, lo que te permite dar Golpes con ramas de &aacute;rboles, ra&iacute;ces expuestas o plantas s&oacute;lidas similares. Para hacerlo, usa unas acci&oacute;n de Golpe, pero puedes Golpear a cualquier criatura que puedas detectar con tu sentido de la vibraci&oacute;n. Estos son conjuros de ataque cuerpo a cuerpo que infligen 2d8 de da&ntilde;o contundente m&aacute;s tu modificador de aptitud de lanzamiento de conjuros. Las plantas inusuales, como las zarzas con espinas, pueden causar otro tipo de da&ntilde;o a discreci&oacute;n del DJ. No puede realizar ning&uacute;n otro ataque mediante estas plantas, ni realizar ninguna otra acci&oacute;n a trav&eacute;s de ellas, aparte de estos Golpes. <br /><strong>Potenciado</strong> (6.&ordm;) Como 4.&ordm; nivel, pero puedes usar otras acciones simples de manipular a trav&eacute;s de las plantas, como hacer que una rama levante un objeto o abra una puerta, aunque las acciones m&aacute;s complejas, como forzar una cerradura o desactivar una trampa, siguen siendo imposibles.</p>"
 		},
 		{
 			"id": "Fungal Infestation",
@@ -2293,8 +2293,8 @@
 		},
 		{
 			"id": "Ghostly Transcription",
-			"name": "Ghostly Transcription",
-			"description": "<p>Glowing letters assemble in the air, providing a transcription of the target's speech in all languages you speak. For the spell's duration, any words spoken aloud by the target are spelled out in letters in front of them. When you Cast the Spell, you can choose whether these letters are visible to all creatures or only certain creatures you specify. Any words the target mouths silently are similarly spelled out, allowing the target to communicate silently or in areas where sound doesn't carry. This even allows the target to provide verbal casting components in such areas, but only if you choose to make the letters visible to all creatures. Furthermore, any of the target's auditory abilities can affect creatures even in areas where sound does not carry as long as you have made the glyphs visible to them and they have line of sight to the target; in this case, they gain the visual trait. You can Dismiss the spell.</p>"
+			"name": "Transcipción Fantasmal",
+			"description": "<p>Unas letras brillantes se forman en el aire, proporcionando una transcripci&oacute;n del discurso del objetivo en todos los idiomas que hablas. Mientras dure el conjuro, las palabras pronunciadas en voz alta por el objetivo forman palabras escritas delante de &eacute;l. Cuando lanzas el conjuro, puedes elegir si estas letras son visibles para todas las criaturas o solo para ciertas criaturas que t&uacute; especifiques Cualquier palabra que el objetivo gesticule con la boca en silencio se forma de manera similar, lo que permite al objetivo comunicarse en silencio o en &aacute;reas donde el sonido no se transmite. Esto incluso permite que el objetivo proporcione componentes de lanzamiento verbal en tales &aacute;reas, pero solo si decides que las letras sean visibles para todas las criaturas. Adem&aacute;s, cualquiera de las aptitudes auditivas del objetivo puede afectar a las criaturas incluso en &aacute;reas donde el sonido no se transmite siempre que hayas hecho que los glifos sean visibles para ellas y tengan una l&iacute;nea de visi&oacute;n con el objetivo; en este caso, obtienen el rasgo visual. Puedes Disipar el conjuro.</p>	"
 		},
 		{
 			"id": "Ghostly Weapon",
@@ -2388,8 +2388,8 @@
 		},
 		{
 			"id": "Gravity Well",
-			"name": "Gravity Well",
-			"description": "<p>You create a sphere of altered gravity. All creatures and unsecured objects in the area move towards the center, depending on their Reflex saving throws. This follows the rules for forced movement. If there's not enough space near the center of the sphere, creatures and objects nearer to the center move first, and others move as far as they can without being blocked, up to the amount set by their saving throw outcomes.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature moves 5 feet toward the center.</p>\n<p><strong>Failure</strong> The creature moves 15 feet toward the center.</p>\n<p><strong>Critical Failure</strong> The creature moves 30 feet toward the center.</p>"
+			"name": "Pozo de Gravedad",
+			"description": "<p>Creas una esfera de gravedad alterada. Todas las criaturas y<br />objetos que no est&eacute;n amarrados en el &aacute;rea se mueven hacia el<br />centro, dependiendo de sus tiradas de salvaci&oacute;n de Reflejos. Esto<br />sigue las reglas para desplazamientos forzados (Reglas b&aacute;sicas,<br />p&aacute;g. 475). Si no hay suficiente espacio cerca del centro de la<br />esfera, las criaturas y objetos m&aacute;s cercanos al centro se mueven<br />primero, y los dem&aacute;s se mueven lo m&aacute;s lejos que pueden sin ser<br />bloqueados, hasta la cantidad establecida por los resultados de<br />sus tiradas de salvaci&oacute;n.<br /><strong>&Eacute;xito cr&iacute;tico</strong> La criatura no se ve afectada.<br /><strong>&Eacute;xito</strong> La criatura se desplaza 5 pies (1,5 m) hacia el centro.<br /><strong>Fallo</strong> La criatura se desplaza 15 pies (4,5 m) hacia el centro.<br /><strong>Fallo cr&iacute;tico</strong> La criatura se desplaza 30 pies (9 m) hacia el centro.</p>"
 		},
 		{
 			"id": "Gray Shadow",
@@ -2623,8 +2623,8 @@
 		},
 		{
 			"id": "Hyperfocus",
-			"name": "Hyperfocus",
-			"description": "<p>You sharpen a creature's senses, though more distant objects become hazy, indistinct, or muted to it.</p>\n<p>The target gains a +1 status bonus to Perception checks attempted with any of its precise senses.</p>\n<p>Furthermore, any imprecise senses the target has are sharpened to precise senses (though they do not receive the status bonus). However, the target cannot perceive anything beyond a range of 20 feet with any of its senses.</p>\n<p>The duration is determined by the target's Will save. You can allow allies to choose the outcome instead of rolling a saving throw.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target is affected for 1 round.</p>\n<p><strong>Failure</strong> The target is affected for 1 minute.</p>\n<p><strong>Critical Failure</strong> As failure, but the target cannot perceive anything beyond a range of 10 feet.</p>\n<hr />\n<p><strong>Heightened (3rd)</strong> You can target up to 2 creatures.</p>\n<p><strong>Heightened (6th)</strong> You can target up to 4 creatures.</p>\n<p>@Compendium[pf2e.spell-effects.qQLHPbUFASKFky1W]{Spell Effect: Hyperfocus}</p>"
+			"name": "Hiperfoco",
+			"description": "<p>Agudizas los sentidos de una criatura, aunque los objetos m&aacute;s distantes se vuelven borrosos, poco definidos o sin sonido. El objetivo obtiene un bonificador +1 por estatus a las pruebas de Percepci&oacute;n con cualquiera de sus sentidos precisos. Adem&aacute;s, cualquier sentido impreciso que tenga el objetivo se agudiza a sentido preciso (aunque no obtiene el bonificador por situaci&oacute;n). Sin embargo, el objetivo no puede percibir nada m&aacute;s all&aacute; de un rango de 20 pies (6 m) con ninguno de sus sentidos. La duraci&oacute;n est&aacute; determinada por la salvaci&oacute;n de Voluntad del objetivo. Puedes permitir que los aliados elijan el resultado en lugar de hacer una tirada de salvaci&oacute;n. <br /><strong>&Eacute;xito cr&iacute;tico</strong> El objetivo no se ve afectado. <br /><strong>&Eacute;xito</strong> El objetivo se ve afectado durante 1 asalto. <br /><strong>Fallo</strong> El objetivo se ve afectado durante 1 minuto. <br /><strong>Fallo cr&iacute;tico</strong> Como fallo, pero el objetivo no puede percibir nada m&aacute;s all&aacute; de un rango de 10 pies (3 m).<br />@Compendium[pf2e.spell-effects.qQLHPbUFASKFky1W]{Efecto M&aacute;gico: Hiperfoco} <br /><strong>Potenciado</strong> (3.&ordm;) Puedes apuntar hasta a 2 criaturas. <br /><strong>Potenciado</strong> (6.&ordm;) Puedes apuntar hasta a 4 criaturas.</p>"
 		},
 		{
 			"id": "Hypnopompic Terrors",
@@ -2858,8 +2858,8 @@
 		},
 		{
 			"id": "Iron Gut",
-			"name": "Iron Gut",
-			"description": "<p>Your mouth, esophagus, and stomach become incredibly elastic and tougher than metal. For the duration of the spell, you can reach down your throat to store or retrieve a single object of light or negligible Bulk in your stomach, as though your stomach were a backpack or other container. Storing and retrieving an item in this way requires an Interact action. The object must be small enough to reasonably fit within your stomach. It is very difficult for other creatures to notice that you are hiding an object in this way; passive observers can't possibly notice and you gain a +4 circumstance bonus to your Stealth checks to @Compendium[pf2e.actionspf2e.qVNVSmsgpKFGk9hV]{Conceal an Object} unless the searcher specifically searches your mouth and stomach. If at the end of the spell's duration you still have an object stored in your stomach, it is violently expelled, dealing 1d6 damage to you.</p>\n<p>@Compendium[pf2e.spell-effects.hXtK08bTnDBSzGTJ]{Spell Effect: Iron Gut}</p>\n<hr />\n<p><strong>Heightened (3rd)</strong> The duration increases to 8 hours.<br />@Compendium[pf2e.spell-effects.XTgxkQkhlap66e54]{Spell Effect: Iron Gut (3rd Level)}</p>"
+			"name": "Tripas de Hierro",
+			"description": "<p>Tu boca, es&oacute;fago y est&oacute;mago se vuelven incre&iacute;blemente el&aacute;sticos y m&aacute;s duros que el metal. Mientras dure el conjuro, puedes extender tu garganta para almacenar o recuperar un solo objeto de Peso ligero o insignificante en tu est&oacute;mago, como si su est&oacute;mago fuera una mochila u otro recipiente. Almacenar y recuperar un objeto de esta forma requiere una acci&oacute;n de Interactuar. El objeto debe ser lo suficientemente peque&ntilde;o como para caber razonablemente en su est&oacute;mago. Es muy dif&iacute;cil para otras criaturas darse cuenta de que ocultas un objeto de esta manera; es posible que los observadores pasivos no puedan darse cuenta y t&uacute; obtienes un bonificador +4 por circunstancia a tus pruebas de Sigilo para @Compendium[pf2e.actionspf2e.qVNVSmsgpKFGk9hV]{Ocultar al Objeto}, a menos que el buscador registre espec&iacute;ficamente tu boca y est&oacute;mago. Si al final de la duraci&oacute;n del conjuro todav&iacute;a tienes un objeto almacenado en tu est&oacute;mago, es expulsado violentamente y te inflige 1d6 de da&ntilde;o.<br />@Compendium[pf2e.spell-effects.hXtK08bTnDBSzGTJ]{Efecto M&aacute;gico: Tripas de Hierro} <br /><strong>Potenciado</strong> (3&ordm;) La duraci&oacute;n aumenta a 8 horas.<br />@Compendium[pf2e.spell-effects.XTgxkQkhlap66e54]{Efecto M&aacute;gico: Tripas de Hierro (Nivel 3)}</p>"
 		},
 		{
 			"id": "Item Facade",
@@ -2923,8 +2923,8 @@
 		},
 		{
 			"id": "Lament",
-			"name": "Lament",
-			"description": "<p>You let out your negative emotions in a guttural wail that shakes your enemies' hearts and deals 1d8 mental damage (basic Will save). If you have any harmful conditions imposed by emotion effects, <em>lament</em> deals additional mental damage equal to the counteract level of the highest-level effect.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 1d8.</p>"
+			"name": "Lamento",
+			"description": "<p>Liberas tus emociones negativas en un gemido gutural que sacude los corazones de tus enemigos e inflige 1d8 de da&ntilde;o mental (salvaci&oacute;n de Voluntad b&aacute;sica). Si sufres estados da&ntilde;inos impuestos por efectos de emoci&oacute;n, el lamento causa da&ntilde;o mental adicional equivalente al nivel de contraataque del efecto de nivel m&aacute;s alto. <br /><strong>Potenciado</strong> (+1) El da&ntilde;o aumenta en 1d8.</p>"
 		},
 		{
 			"id": "Lay on Hands",
@@ -2953,8 +2953,8 @@
 		},
 		{
 			"id": "Liberating Command",
-			"name": "Liberating Command",
-			"description": "<p>You call out a liberating cry, urging an ally to break free of an effect that holds them in place. If the target is @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Grabbed}, @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilized}, or @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Restrained}, it can immediately use a reaction to attempt to @Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{Escape}.</p>"
+			"name": "Orden Liberadora",
+			"description": "<p>Exhalas un grito liberador, instando a un aliado a liberarse de un efecto que lo mantenga en su lugar. Si el objetivo est&aacute; @Compendium[pf2e.conditionitems.kWc1fhmv9LBiTuei]{Agarrado}, @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Inmovilizado} o @Compendium[pf2e.conditionitems.VcDeM8A5oI6VqhbM]{Neutralizado}, puede usar inmediatamente una reacci&oacute;n para intentar @Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{Escapar}.</p>"
 		},
 		{
 			"id": "Life Boost",
@@ -3273,8 +3273,8 @@
 		},
 		{
 			"id": "Message Rune",
-			"name": "Message Rune",
-			"description": "<p>You record a message up to 5 minutes long and inscribe a special rune on any flat unattended surface within reach. The nature of the rune's appearance is up to you, but it is visible to everyone and it must be no smaller than 2 inches in diameter. You also specify a trigger that creatures must meet to activate the rune. For the duration of the spell, creatures who meet the criteria of the trigger can touch the rune to hear the recorded message in their head as though you were speaking to them telepathically. You know when someone is listening to the message, but you do not know who is listening to it. You can Dismiss the spell.</p>"
+			"name": "Runa Mensajera",
+			"description": "<p>Grabas un mensaje de hasta 5 minutos de duraci&oacute;n e inscribes una runa especial en cualquier superficie plana desatendida a tu alcance. La naturaleza del aspecto de la runa depende de ti, pero es visible para todos y no debe medir menos de 2 pulgadas (5 cm) de di&aacute;metro. Tambi&eacute;n especificas un disparador que las criaturas deben cumplir para activar la runa (Reglas b&aacute;sicos, p&aacute;g. 305). Mientras dure el conjuro, las criaturas que cumplan con los criterios del disparador pueden tocar la runa para escuchar en su cabeza el mensaje grabado como si les estuviera hablando telep&aacute;ticamente. Sabes cuando alguien est&aacute; escuchando el mensaje, pero no sabes qui&eacute;n lo est&aacute; escuchando. Puedes Disipar el conjuro.</p>"
 		},
 		{
 			"id": "Meteor Swarm",
@@ -3518,13 +3518,13 @@
 		},
 		{
 			"id": "Oathkeeper's Insignia",
-			"name": "Oathkeeper's Insignia",
-			"description": "<p><strong>Trigger</strong> You make a promise or deal.</p>\n<hr />\n<p>A magical indicator assures a creature that you've upheld your end of a bargain. When you Cast the Spell, you create a bracelet, flower, or other such trinket. If, while the spell persists, you complete the terms of the promise or deal you made, the trinket fades away with a pleasant chime; if you violate the terms instead, the trinket breaks with a dissonant crash.</p>\n<hr />\n<p><strong>Heightened (3rd)</strong> The duration becomes 1 day.</p>\n<p><strong>Heightened (5th)</strong> The duration becomes 1 week.</p>\n<p><strong>Heightened (7th)</strong> The duration becomes 1 month.</p>\n<p><strong>Heightened (9th)</strong> The duration becomes 1 year.</p>"
+			"name": "Insignia del Guardián de Juramentos",
+			"description": "<p>Disparador Haces una promesa o un trato. Un indicador m&aacute;gico le asegura a una criatura que has cumplido con tu parte de un trato. Cuando lanzas el conjuro, creas una pulsera, una flor u otra baratija similar. Si, mientras persiste el conjuro, completas los t&eacute;rminos de la promesa o trato que hiciste, la baratija se desvanece con un agradable repique; si por el contrario violas los t&eacute;rminos, la baratija se rompe con un estruendo disonante. <br /><strong>Potenciado</strong> (3.&ordm;) La duraci&oacute;n pasa a ser 1 d&iacute;a. <br /><strong>Potenciado</strong> (5.&ordm;) La duraci&oacute;n pasa a ser a 1 semana. <br /><strong>Potenciado</strong> (7.&ordm;) La duraci&oacute;n pasa a ser a 1 mes. <br /><strong>Potenciado</strong> (9.&ordm;) La duraci&oacute;n pasa a ser a 1 a&ntilde;o.</p>"
 		},
 		{
 			"id": "Object Memory",
-			"name": "Object Memory",
-			"description": "<p>By touching an object, you draw forth the experience of those who created and used it.</p>\n<p>If you touch a weapon, your proficiency rank with that weapon temporarily increases to trained (if it is not already higher).</p>\n<p>If you touch a tool, your proficiency rank with the next skill check you attempt with that tool (such as a Crafting check with a blacksmith's hammer) within the spell's duration temporarily increases to trained (if it is not already higher). This spell has no benefit for activities that take longer than a minute to complete.</p>\n<hr />\n<p><strong>Heightened (6th)</strong> Your proficiency rank increases to expert instead of trained.</p>\n<p>@Compendium[pf2e.spell-effects.uDOxq24S7IT2EcXv]{Spell Effect: Object Memory (Weapon)}</p>"
+			"name": "Memoria de Objeto",
+			"description": "<p>Al tocar un objeto, revives la experiencia de quienes lo crearon y usaron. Si tocas un arma, tu nivel de competencia con esa arma aumenta temporalmente a entrenado (si no es ya m&aacute;s alto). Si tocas una herramienta, tu rango de competencia en la pr&oacute;xima prueba de habilidad que hagas con esa herramienta (como una prueba de Artesan&iacute;a con un martillo de herrero) dentro de la duraci&oacute;n del conjuro aumenta temporalmente a entrenado (si no es ya m&aacute;s alto). Este conjuro no tiene ning&uacute;n beneficio para las actividades que tardan m&aacute;s de un minuto en completarse.<br />@Compendium[pf2e.spell-effects.uDOxq24S7IT2EcXv]{Efecto M&aacute;gico Memoria de Objeto (Arma)} <br /><strong>Potenciado</strong> (6.&ordm;) Tu nivel de competencia aumenta a experto en lugar de entrenado.</p>"
 		},
 		{
 			"id": "Object Reading",
@@ -3578,8 +3578,8 @@
 		},
 		{
 			"id": "Overflowing Sorrow",
-			"name": "Overflowing Sorrow",
-			"description": "<p>Sadness flows out of you into nearby creatures, blotting out any other thoughts they had. The first time a creature begins its turn in the area or enters the area, it must attempt a Will save. If it later leaves and reenters the area, it uses the same effect as before.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature takes a -1 status penalty to skill checks and Perception checks as long as it remains in the area.</p>\n<p><strong>Failure</strong> While the creature is in the area, any emotion effects of lower counteract level than <em>overflowing sorrow</em> are suppressed, and whenever the creature attempts to use an emotion action or cast an emotion spell, it must succeed at a DC 11 flat check or the action or spell is disrupted.</p>\n<p><strong>Critical Failure</strong> As failure, but the creature cannot use emotion actions or spells.</p>\n<hr />\n<p><strong>Heightened (+2)</strong> When you Cast the Spell, you can choose to increase the area by 5 feet.</p>"
+			"name": "Dolor Desbordante",
+			"description": "<p>La tristeza fluye de ti hacia las criaturas cercanas, bloqueando cualquier otro pensamiento que tuvieran. La primera vez que una criatura comienza su turno o entra en al &aacute;rea, debe hacer una salvaci&oacute;n de Voluntad. Si luego sale y vuelve a entrar en el &aacute;rea, sufre el mismo efecto que antes. <br /><strong>&Eacute;xito cr&iacute;tico</strong> La criatura no se ve afectada. <br /><strong>&Eacute;xito</strong> A la criatura se le impone un penalizador -1 por estatus a las pruebas de habilidad y Percepci&oacute;n mientras permanezca en el &aacute;rea. <br /><strong>Fallo</strong> Mientras la criatura se encuentra en el &aacute;rea, se suprime cualquier efecto de emoci&oacute;n que tenga un nivel de contraataque inferior al de dolor desbordante y siempre que la criatura intente usar una acci&oacute;n de emoci&oacute;n o lanzar un conjuro de emoci&oacute;n, debe tener &eacute;xito en una prueba plana CD 11 o la acci&oacute;n o el conjuro se interrumpen. <br /><strong>Fallo</strong> <strong>cr&iacute;tico</strong> Como fallo, pero la criatura no puede usar acciones de emoci&oacute;n ni conjuros. Potenciado (+2) Cuando lanzas el conjuro, puedes elegir aumentar el &aacute;rea en 5 pies (1,5 m).</p>"
 		},
 		{
 			"id": "Overstuff",
@@ -3623,8 +3623,8 @@
 		},
 		{
 			"id": "Parch",
-			"name": "Parch",
-			"description": "<p>Dry winds dehydrate a creature. The target must attempt a Fortitude save; if used on a creature with the water trait or a creature made primarily of liquid (such as many oozes), the creature uses the outcome for one degree of success worse than the result. Creatures whose bodies contain no significant moisture (such as earth elementals) are immune to <em>parch</em>.</p>\n<p>If a creature affected by <em>parch</em> drinks a liquid, such as a swig of water or a potion, the spell ends. Affected creatures that have the water trait or are made primarily of liquid, as well as affected creatures that can't drink, can end the effect as a two-action activity, which has the concentrate trait.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target takes a -1 status penalty to its checks and DCs for 1 round.</p>\n<p><strong>Failure</strong> The target takes a -1 status penalty to its checks and DCs for 1 minute.</p>\n<p><strong>Critical Failure</strong> The target takes a -2 status penalty to its checks and DCs for 1 minute and is @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Dazzled} as long as it has this penalty.</p>\n<hr />\n<p><strong>Heightened (4th)</strong> You can target up to 4 creatures.</p>"
+			"name": "Resecar",
+			"description": "<p>Los vientos secos deshidratan a una criatura. El objetivo debe hacer una salvaci&oacute;n de Fortaleza; si se usa en una criatura con el rasgo de agua o una criatura hecha principalmente de l&iacute;quido (como muchos cienos), para &eacute;sta el resultado es siempre un grado de &eacute;xito peor que el normal. Las criaturas cuyos cuerpos no contienen una humedad significativa (como los elementales de tierra) son inmunes a resecar. &Eacute;xito cr&iacute;tico El objetivo no se ve afectado. &Eacute;xito Al objetivo se le impone un penalizador -1 por estatus a sus pruebas y CD durante 1 asalto. Fallo Al objetivo se le impone un penalizador -1 por estatus a sus pruebas y CD durante 1 minuto. Fallo cr&iacute;tico Al objetivo se le impone un penalizador -1 por estatus a sus pruebas y CD durante 1 minuto y queda @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Deslumbrado} mientras tenga este penalizador. Si una criatura afectada por resecar bebe un l&iacute;quido, como un trago de agua o una poci&oacute;n, el conjuro termina. Las criaturas afectadas que tienen el rasgo de agua o est&aacute;n compuestas principalmente de l&iacute;quido, as&iacute; como las criaturas afectadas que no pueden beber, pueden terminar el efecto como una actividad de dos acciones, que tiene el rasgo concentrar. <br /><strong>Potenciado</strong> (4.&ordm;) Puedes apuntar hasta a 4 criaturas.</p>"
 		},
 		{
 			"id": "Pass Without Trace",
@@ -3643,8 +3643,8 @@
 		},
 		{
 			"id": "Penumbral Shroud",
-			"name": "Penumbral Shroud",
-			"description": "<p>You envelop the target in a shroud of shadow. The target perceives light as one step lower than it actually is (bright light becomes dim light, for example), affecting their ability to sense creatures and objects accordingly. The shroud also provides the target a +1 status bonus to saving throws against light effects. While this effect is helpful to creatures sensitive to light, if the creature is unwilling, it can attempt a Reflex save to avoid the shroud and reduce the effect.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The effect lasts for 1 round.</p>\n<p><strong>Failure</strong> The effect lasts its normal duration.</p>"
+			"name": "Sudario de Penumbra",
+			"description": "<p>Envuelves al objetivo en un velo de sombra. El objetivo percibe la iluminaci&oacute;n como un nivel m&aacute;s bajo de lo que realmente es (la luz brillante se vuelve tenue, por ejemplo), lo que afecta su capacidad para detectar criaturas y objetos en consecuencia. El sudario tambi&eacute;n proporciona al objetivo un bonificador +1 por estatus a las tiradas de salvaci&oacute;n contra los efectos de luz. Si bien este efecto es &uacute;til para las criaturas sensibles a la luz, si la criatura no est&aacute; dispuesta, puede intentar una salvaci&oacute;n de Reflejos para evitar el velo y reducir el efecto. <br /><strong>&Eacute;xito cr&iacute;tico</strong> El objetivo no se ve afectado. <br /><strong>&Eacute;xito</strong> El efecto dura 1 asalto. <br /><strong>Fallo</strong> El efecto dura su duraci&oacute;n habitual.</p>"
 		},
 		{
 			"id": "Perfect Strike",
@@ -4128,13 +4128,13 @@
 		},
 		{
 			"id": "Redact",
-			"name": "Redact",
-			"description": "<p>You strike mention of a specific name from one or more documents. When you cast the spell, give one proper name, be it a creature, location, or object. Any mention of that name within the document becomes blurred, smudged, or otherwise completely illegible. Epithets and unambiguous references to the name are redacted as well; for instance, redacting the name of the goddess @Compendium[pf2e.deities.BNycwu3I21dTh4D9]{Sarenrae} from a book would also remove references to her title \"the Dawnflower.\"</p>\n<hr />\n<p><strong>Heightened (3rd)</strong> Instead of striking out a given name, you can replace it with a different name you choose. Epithets and references are substituted with similar ones relating to the replacement name. Anyone reading the text can attempt a Perception or Society check against your spell DC to notice the altered text, though that doesn't tell them what the original said.</p>\n<p><strong>Heightened (4th)</strong> At your choice, the duration is unlimited.</p>"
+			"name": "Redactar",
+			"description": "<p>Haces menci&oacute;n de un nombre espec&iacute;fico en uno o m&aacute;s documentos. Cuando lances el conjuro, pronuncia un nombre propio, ya sea de una criatura, ubicaci&oacute;n u objeto. Cualquier menci&oacute;n de ese nombre en el documento se vuelve confusa, imprecisa o completamente ilegible. Los ep&iacute;tetos y las referencias sin ambig&uuml;edades al nombre tambi&eacute;n son eliminadas; por ejemplo, eliminar el nombre de la diosa @Compendium[pf2e.deities.BNycwu3I21dTh4D9]{Sarenrae} de un libro tambi&eacute;n eliminar&iacute;a las referencias a su t&iacute;tulo &ldquo;la Flor del Alba&rdquo;. <br /><strong>Potenciado</strong> (3.&ordm;) En lugar de tachar un nombre de pila, puedes reemplazarlo por otro nombre. Los ep&iacute;tetos y referencias se sustituyen por otros similares relacionados con el nombre de repuesto. Cualquiera que lea el texto puede hacer una prueba de Percepci&oacute;n o Sociedad contra tu CD de conjuro para darse cuenta de que el texto ha sido alterado, aunque eso no significa que sepa lo que dec&iacute;a el original. <br /><strong>Potenciado</strong> (4.&ordm;) A tu elecci&oacute;n, la duraci&oacute;n es ilimitada.</p>"
 		},
 		{
 			"id": "Reflective Scales",
-			"name": "Reflective Scales",
-			"description": "<p>You grow a set of colored glowing scales or scaled armor that stores energy before releasing it in a final burst. When you cast this spell, choose acid, cold, fire, electricity, or poison damage. You gain resistance 5 against that type of damage. The scales' color depends on the damage type you chose and is usually the color of a type of dragon or other creature associated with that damage type, such as red or gold for fire damage.</p>\n<p>The scales store up energy as they protect you. Keep track of how much damage the scales have prevented. As a 2-action activity that has the concentrate and manipulate traits, you can explode your scales outward in a 20-foot radius around you, dealing 1d6 damage of the chosen type to all creatures in the area for every 10 damage the scales have prevented, to a maximum of 10d6 damage (after preventing 100 damage). Once you do so, the spell ends.</p>\n<hr />\n<p><strong>Heightened (+2)</strong> The resistance increases by 5 and the maximum damage from the scale explosion increases by 5d6.</p>"
+			"name": "Escamas Reflectantes",
+			"description": "<p>Te crecen unas escamas brillantes de colores o una armadura de escamas que almacena energ&iacute;a antes de liberarla en una explosi&oacute;n final. Cuando lances este conjuro, elige entre da&ntilde;o por &aacute;cido, electricidad, fr&iacute;o, fuego o veneno. Obtienes resistencia 5 contra ese tipo de da&ntilde;o. El color de las escamas depende del tipo de da&ntilde;o que elijas y suele ser el color de un tipo de drag&oacute;n u otra criatura asociada con ese tipo de da&ntilde;o, como el rojo o el dorado para el da&ntilde;o por fuego. Las escamas almacenan energ&iacute;a mientras te protegen. Anota cu&aacute;nto da&ntilde;o han prevenido las escamas. Como actividad de 2 acciones que tiene los rasgos concentrarse y manipular, puedes hacer explotar tus escamas en un radio de 20 pies (6 m) a tu alrededor, causando 1d6 de da&ntilde;o del tipo elegido a todas las criaturas en el &aacute;rea por cada 10 de da&ntilde;o que las escamas hayan prevenido, hasta un m&aacute;ximo de 10d6 de da&ntilde;o (despu&eacute;s de prevenir 100 de da&ntilde;o). Una vez hecho esto, el conjuro termina. <br /><strong>Potenciado</strong> (+2) La resistencia aumenta en 5 y el da&ntilde;o m&aacute;ximo de la explosi&oacute;n de escamas aumenta en 5d6.</p>"
 		},
 		{
 			"id": "Regenerate",
@@ -4163,8 +4163,8 @@
 		},
 		{
 			"id": "Remember the Lost",
-			"name": "Remember the Lost",
-			"description": "<p>You call upon the lost and forgotten, assailing your foes' minds with the memories of those who died with a grievance toward them. Enemies in the area take 6d6 mental damage (basic Will save) and are @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened 1} on a critical failure. If you know the names of anyone murdered or grievously wronged by an enemy in the area, you can chant those victims' names when you cast the spell to improve the clarity of the visions, increasing the damage to the corresponding enemy from 6d6 to 6d10; you can do so for multiple enemies if you know victims of each enemy. The visions are personal to each foe in the area, and you can't use this spell to discern a murderer by guessing a name. A creature that truly knows no one who died with any sort of grievance to that creature is immune to this effect.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 2d6 (or 2d10 to an enemy when you name a specific victim).</p>"
+			"name": "Recordar a los Perdidos",
+			"description": "<p>Invocas a los perdidos y olvidados, bombardeando las mentes de tus enemigos con los recuerdos de aquellos que murieron con un agravio hacia ellos. Los enemigos en el &aacute;rea sufren 6d6 de da&ntilde;o mental (salvaci&oacute;n de Voluntad b&aacute;sica) y quedan @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Asustado 1} con un fallo cr&iacute;tico. Si conoces el nombre de cualquier persona abatida o gravemente agraviada por un enemigo en el &aacute;rea, puedes corear los nombres de esas v&iacute;ctimas cuando lances el conjuro para mejorar la claridad de las visiones, aumentando el da&ntilde;o al enemigo correspondiente de 6d6 a 6d10; puedes hacerlo con varios enemigos si conoces a las v&iacute;ctimas de cada enemigo. Las visiones son personales para cada enemigo en el &aacute;rea, y no puedes usar este conjuro para discernir a un asesino adivinando un nombre. Una criatura que realmente no conozca a nadie que haya muerto con alg&uacute;n tipo de agravio hacia esa criatura es inmune a este efecto. <br /><strong>Potenciado</strong> (+1) El da&ntilde;o aumenta en 2d6 (o 2d10 para un enemigo cuando nombras a una v&iacute;ctima espec&iacute;fica).</p>"
 		},
 		{
 			"id": "Remove Curse",
@@ -4308,8 +4308,8 @@
 		},
 		{
 			"id": "Roar of the Wyrm",
-			"name": "Roar of the Wyrm",
-			"description": "<p>You channel the might of dragons into your voice, letting out a roar that engenders respect in dragonkind but that instills fear in most other creatures.</p>\n<p>The impressive roar grants you a @Compendium[pf2e.spell-effects.0s6YaL3IjqECmjab]{+2 circumstance bonus to Diplomacy checks} for 10 minutes against dragons that were in the area at the time of casting. All enemies within the area other than dragons must attempt a Will save; to these enemies, <em>roar of the wyrm</em> is a fear effect.</p>\n<p><em>Roar of the wyrm</em> affects non-dragon creatures with deep ties to dragonkind (such as a barbarian with the draconic instinct, a sorcerer with the draconic bloodline, or a member of a culture that reveres dragons) as if they had the dragon trait. The GM decides if a creature is aligned enough with dragonkind to be affected in this way.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature is @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened 1}.</p>\n<p><strong>Failure</strong> The creature is @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened 2}.</p>\n<p><strong>Critical Failure</strong> The creature is @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Frightened 3} and @Compendium[pf2e.conditionitems.sDPxOjQ9kx2RZE8D]{Fleeing} for 1 round.</p>"
+			"name": "Rugido de la Sierpe",
+			"description": "<p>Canalizas el poder de los dragones en tu voz, dejando escapar un rugido que suscita respeto entre los dragones pero que infunde miedo en la mayor&iacute;a de las dem&aacute;s criaturas. El impresionante rugido te otorga un bonificador @Compendium[pf2e.spell-effects.0s6YaL3IjqECmjab]{+2 a las pruebas de diplomacia} durante 10 minutos contra dragones que estuvieran en el &aacute;rea en el momento del lanzamiento. Todos los enemigos en el &aacute;rea que no sean dragones deben hacer una salvaci&oacute;n de Voluntad; para estos enemigos, el rugido de la sierpe es un efecto de miedo. <br /><strong>&Eacute;xito cr&iacute;tico</strong> La criatura no se ve afectada. <br /><strong>&Eacute;xito</strong> La criatura queda @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Asustada 1}. <br /><strong>Fallo</strong> La criatura queda @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Asustada 2}. <br /><strong>Fallo cr&iacute;tico</strong> La criatura queda @Compendium[pf2e.conditionitems.TBSHQspnbcqxsmjL]{Asustada 3} y en @Compendium[pf2e.conditionitems.sDPxOjQ9kx2RZE8D]{Fuga 2} durante 1 asalto. El rugido de la sierpe afecta a las criaturas que no son dragones y que tienen lazos profundos con la raza de los dragones (como un b&aacute;rbaro con instinto drac&oacute;nico, un hechicero con linaje drac&oacute;nico o un miembro de una cultura que venera a los dragones) como si tuvieran el rasgo drag&oacute;n. El DJ decide si una criatura est&aacute; lo suficientemente alineada con la raza drac&oacute;nica para verse afectada de esta forma.</p>"
 		},
 		{
 			"id": "Roaring Applause",
@@ -4538,13 +4538,13 @@
 		},
 		{
 			"id": "Share Burden",
-			"name": "Share Burden",
-			"description": "<p><strong>Trigger</strong> An ally within 30 feet is about to attempt a saving throw against a harmful emotion effect, and you would not otherwise have to save against the effect.</p>\n<hr />\n<p>You shoulder some of your ally's pain. Both you and your ally use the outcome one degree of success better than the result of your ally's saving throw, even if the triggering effect usually affects only one target.</p>"
+			"name": "Compartir la Carga",
+			"description": "<p><strong>Disparador</strong> Un aliado a menos de 30 pies (9 m) est&aacute; a punto de hacer una tirada de salvaci&oacute;n contra un efecto da&ntilde;ino de emoci&oacute;n y de otro modo no tendr&iacute;as que hacer una salvaci&oacute;n contra el efecto. <br />Cargas con parte del dolor de tu aliado. Tanto tu aliado como t&uacute; obten&eacute;is un resultado un grado de &eacute;xito por encima del resultado de la tirada de salvaci&oacute;n de tu aliado, incluso si el efecto de activaci&oacute;n generalmente afecta a un solo objetivo.</p>"
 		},
 		{
 			"id": "Share Lore",
-			"name": "Share Lore",
-			"description": "<p>You share your knowledge with the touched creatures. Choose one Lore skill in which you are trained. The targets become trained in that Lore skill for the duration of the spell.</p>\n<hr />\n<p><strong>Heightened (3rd)</strong> The duration of the spell is 1 hour and you can target up to five creatures.</p>\n<p><strong>Heightened (5th)</strong> The duration of the spell is 8 hours, you can target up to five creatures, and you can share up to two Lore skills in which you are trained.</p>"
+			"name": "Compartir Saber",
+			"description": "<p>Compartes tu conocimiento con las criaturas mediante el tacto. Elige una habilidad de Saber en la que est&eacute;s entrenado. Los objetivos se entrenan en esa habilidad de Saber mientras dure el conjuro. <br /><strong>Potenciado</strong> (3.&ordm;) La duraci&oacute;n del conjuro es de 1 hora y puedes seleccionar hasta cinco criaturas. <br /><strong>Potenciado</strong> (5.&ordm;) La duraci&oacute;n del conjuro es de 8 horas, puedes apuntar hasta cinco criaturas y puedes compartir hasta dos habilidades de Saber en las que est&aacute;s entrenado.</p>"
 		},
 		{
 			"id": "Shared Nightmare",
@@ -4558,8 +4558,8 @@
 		},
 		{
 			"id": "Shattering Gem",
-			"name": "Shattering Gem",
-			"description": "<p>A large gem floats around the target in an erratic pattern. The gem has 5 Hit Points. Each time a creature Strikes the target, the target attempts a DC 11 flat check. On a success, the gem blocks the attack, so the attack first damages the gem and then applies any remaining damage to the target. If the gem is reduced to 0 Hit Points, it shatters, immediately dealing the creature that destroyed it 1d8 slashing damage (basic Reflex save), as long as that creature is within 10 feet of the target.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The gem has 5 additional HP, and the damage dealt by its detonation increases by 1d8.</p>"
+			"name": "Gema Devastadora",
+			"description": "<p>Una gran gema flota alrededor del objetivo en un patr&oacute;n err&aacute;tico. La gema tiene 5 Puntos de Golpe. Cada vez que una criatura Golpea al objetivo, el objetivo hace una prueba plana CD 11. Si tiene &eacute;xito, la gema bloquea el ataque, por lo que el ataque da&ntilde;a la gema en primer lugar y luego aplica el da&ntilde;o restante al objetivo. Si la gema se reduce a 0 Puntos de Golpe, se hace a&ntilde;icos e inflige inmediatamente 1d8 de da&ntilde;o cortante a la criatura que la destruyera (salvaci&oacute;n de Reflejos b&aacute;sica), siempre que esa criatura est&eacute; a 10 pies (3 m) del objetivo.<br /> <strong>Potenciado</strong> (+1) La gema tiene 5 PG adicionales y el da&ntilde;o infligido por su detonaci&oacute;n aumenta en 1d8.</p>"
 		},
 		{
 			"id": "Shepherd of Souls",
@@ -4594,7 +4594,7 @@
 		{
 			"id": "Shifting Sand",
 			"name": "Shifting Sand",
-			"description": "<p>You cause the surface to heave. The area becomes difficult terrain and any tracks in the area are destroyed by the churning ground. Creatures standing in the area take a -1 status penalty to Acrobatics checks to @Compendium[pf2e.actionspf2e.M76ycLAqHoAgbcej]{Balance} and @Compendium[pf2e.actionspf2e.21WIfSu7Xd7uKqV8]{Tumble Through} and Athletics checks to @Compendium[pf2e.actionspf2e.2HJ4yuEFY1Cast4h]{High Jump} and @Compendium[pf2e.actionspf2e.JUvAvruz7yRQXfz2]{Long Jump}. The first time each round you Sustain the Spell, you can move the churning area up to 10 feet in any direction. Creatures immobilized by the spell are carried along with the shifting sand in the same direction, if possible; this movement is forced movement. Creatures that enter or begin their turn standing in the shifting sand must attempt a Reflex save.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected and ignores the area's difficult terrain and penalty to skill checks until the end of its turn.</p>\n<p><strong>Success</strong> The creature ignores the area's penalty to skill checks until the end of its turn.</p>\n<p><strong>Failure</strong> The creature is affected normally by the spell this turn.</p>\n<p><strong>Critical Failure</strong> The creature becomes @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilized} within the spell's area until it Escapes. If the creature was already immobilized by shifting sands, it also falls @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{Prone}.</p>\n<hr />\n<p><strong>Heightened (5th)</strong> The status penalty increases to -2 and the spell's range increases to 60 feet.</p>\n<p><strong>Heightened (7th)</strong> The status penalty increases to -3, the spell's range increases to 60 feet, and the spell's area increases to a 30-foot burst.</p>\n<p><strong>Heightened (9th)</strong> The status penalty increases to -4, the spell's range increases to 60 feet, and the spell's area increases to a 40-foot burst.</p>"
+			"description": "<p>Haces que la superficie se agite. El &aacute;rea se convierte en terreno dif&iacute;cil y cualquier huella en el &aacute;rea es destruida por el suelo agitado. A las criaturas que se encuentren en el &aacute;rea se les impone un penalizador -1 por estatus a las pruebas de Acrobacias para @Compendium[pf2e.actionspf2e.M76ycLAqHoAgbcej]{Mantener el equilibro} y @Compendium[pf2e.actionspf2e.21WIfSu7Xd7uKqV8]{Pasar Haciendo Acrobacias} y las pruebas de Atletismo para @Compendium[pf2e.actionspf2e.2HJ4yuEFY1Cast4h]{Salto de Altura} y @Compendium[pf2e.actionspf2e.JUvAvruz7yRQXfz2]{Salto de Longitud}. Cuando Mantienes el conjuro, puedes mover el &aacute;rea de batido hasta 10 pies (3 m) en cualquier direcci&oacute;n. Las criaturas inmovilizadas por el conjuro son transportadas junto con la arena cambiante en la misma direcci&oacute;n, si es posible; este movimiento es un desplazamiento forzado (Reglas b&aacute;sicas, p&aacute;g. 475). Las criaturas que entren o comiencen su turno sobre la arena cambiante deben hacer una salvaci&oacute;n de Reflejos. <br /><strong>&Eacute;xito cr&iacute;tico</strong> La criatura no se ve afectada e ignora el terreno dif&iacute;cil del &aacute;rea y el penalizador a las pruebas de habilidad hasta el final de su turno. <br /><strong>&Eacute;xito</strong> La criatura ignora el penalizador del &aacute;rea a las pruebas de habilidad hasta el final de su turno. <br /><strong>Fallo</strong> La criatura se ve afectada normalmente por el conjuro este turno. <br /><strong>Fallo cr&iacute;tico</strong> La criatura queda @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Inmovilizada} dentro del &aacute;rea del conjuro hasta que Huye. Si la criatura ya estaba inmovilizada por arena cambiante, tambi&eacute;n @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{Cae} de bruces. <br /><strong>Potenciado</strong> (5.&ordm;) El penalizador por estatus aumenta a -2 y el alcance del conjuro aumenta a 60 pies (18 m). <br /><strong>Potenciado</strong> (7.&ordm;) El penalizador por estatus aumenta a &ndash;3, el alcance del conjuro aumenta a 60 pies (18 m) y el &aacute;rea del conjuro aumenta a una r&aacute;faga de 30 pies (9 m). <br /><strong>Potenciado</strong> (9.&ordm;) El penalizador por estatus aumenta a -4, el alcance del conjuro aumenta a 60 pies (18 m) y el &aacute;rea del conjuro aumenta a una explosi&oacute;n de 40 pies (12 m).</p>"
 		},
 		{
 			"id": "Shillelagh",
@@ -4608,8 +4608,8 @@
 		},
 		{
 			"id": "Shockwave",
-			"name": "Shockwave",
-			"description": "<p>You create a wave of energy that ripples through the earth. Terrestrial creatures in the affected area must attempt a Reflex save to avoid stumbling as the shockwave shakes the ground.</p>\n<hr />\n<p><strong>Critical Success</strong> The creature is unaffected.</p>\n<p><strong>Success</strong> The creature is @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Flat-Footed} until the start of its next turn.</p>\n<p><strong>Failure</strong> The creature falls @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{Prone}.</p>\n<p><strong>Critical Failure</strong> As failure, plus the creature takes 1d6 damage.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The area increases by 5 feet (to a 20-foot cone at 2nd level, and so on).</p>"
+			"name": "Onda de Choque",
+			"description": "<p>Creas una ola de energ&iacute;a que se propaga a trav&eacute;s de la tierra. Las criaturas terrestres en el &aacute;rea afectada deben hacer una salvaci&oacute;n de Reflejos para evitar tropezar cuando la onda de choque sacude el suelo. <br /><strong>&Eacute;xito cr&iacute;tico</strong> La criatura no se ve afectada. <br /><strong>&Eacute;xito</strong> La criatura queda @Compendium[pf2e.conditionitems.AJh5ex99aV6VTggg]{Desprevenido} hasta el comienzo de su siguiente turno. <br /><strong>Fallo</strong> La criatura @Compendium[pf2e.conditionitems.j91X7x0XSomq8d60]{Cae} de bruces. <br /><strong>Fallo cr&iacute;tico</strong> Como fallo, pero adem&aacute;s la criatura sufre 1d6 de da&ntilde;o. Potenciado (+1) El &aacute;rea aumenta 5 pies (1,5 m) (hasta un cono de 20 pies [6 m] en el segundo nivel, y as&iacute; sucesivamente).</p>"
 		},
 		{
 			"id": "Shooting Star",
@@ -4618,8 +4618,8 @@
 		},
 		{
 			"id": "Show the Way",
-			"name": "Show the Way",
-			"description": "<p>You and affected allies gain preternatural knowledge of the path ahead, allowing you to intuit the best way forward and avoid potential obstacles such as difficult or confusing terrain. For the purpose of long-distance overland travel during exploration mode, traveling through difficult terrain reduces you to only three-quarters your travel Speed instead of half, and traveling through greater difficult terrain reduces your travel Speed to only half your travel Speed instead of one-third. <em>Show the way</em> does not prevent you from falling into traps or encountering other artificial obstacles and hazards.</p>\n<hr />\n<p><strong>Heightened (+6)</strong> For the purpose of long-distance overland travel during exploration mode, traveling through difficult terrain doesn't reduce your travel Speed at all, and traveling through greater difficult terrain reduces your travel Speed to only three-quarters of its normal value instead of one-third.</p>"
+			"name": "Mostrar el Camino",
+			"description": "<p>T&uacute; y tus aliados afectados obten&eacute;is un conocimiento sobrenatural del camino que est&aacute; por venir, lo que os permite intuir el mejor camino a seguir y evitar posibles obst&aacute;culos, como terrenos dif&iacute;ciles o confusos. Para el prop&oacute;sito de viajes por tierra de larga distancia durante el modo exploraci&oacute;n, viajar a trav&eacute;s de terreno dif&iacute;cil te reduce a solo tres cuartos de tu Velocidad de viaje en lugar de a la mitad y viajar a trav&eacute;s de terreno dif&iacute;cil mayor reduce tu Velocidad de viaje a solo la mitad de tu Velocidad de viaje en lugar de a un tercio. Mostrar el camino no evita que caigas en trampas o te encuentre con otros obst&aacute;culos y peligros artificiales. <br /><strong>Potenciado</strong> (6.&ordm;) Para viajes de larga distancia por tierra durante el modo de exploraci&oacute;n, viajar a trav&eacute;s de terreno dif&iacute;cil no reduce en absoluto tu Velocidad de viaje, y viajar a trav&eacute;s de terreno dif&iacute;cil mayor reduce tu Velocidad de viaje a solo tres cuartas partes de su valor normal en lugar de un tercio.</p>"
 		},
 		{
 			"id": "Shrink",
@@ -4673,8 +4673,8 @@
 		},
 		{
 			"id": "Slough Skin",
-			"name": "Slough Skin",
-			"description": "<p>You continually and harmlessly slough off the top layer of your skin while new skin regenerates immediately, quickly moving damaging substances away from your body. The flat check to remove @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Damage} from effects that coat your skin (such as most persistent acid damage) is reduced to 5, and you gain a +2 status bonus to your initial save against contact poison (but not to further saves, since by that point, the toxin has already entered your system). If you're suffering from an effect other than Persistent Damage that depends on continuous contact with your skin, if that effect allows a saving throw, you receive a new saving throw against that effect at the end of each turn when you attempt your flat checks against Persistent Damage, and you also receive a +2 status bonus to those saving throws.</p>\n<p>While affected by this spell, your continually shedding skin makes you much easier to @Compendium[pf2e.actionspf2e.EA5vuSgJfiHH7plD]{Track}. Anyone Tracking you gains a +2 circumstance bonus to do so, and you cannot Hide Your Tracks.</p>"
+			"name": "Mudar la Piel",
+			"description": "<p>Mudas continua e inofensivamente la capa superior de la piel a medida que regeneras piel nueva de inmediato, alejando r&aacute;pidamente las sustancias da&ntilde;inas de tu cuerpo. La prueba plana para eliminar el @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Da&ntilde;o Persistente} de los efectos que recubren tu piel (como el da&ntilde;o por &aacute;cido m&aacute;s persistente) se reduce a 5 y obtienes un bonificador de situaci&oacute;n +2 a tu salvaci&oacute;n inicial contra veneno de contacto (pero no a las salvaciones posteriores, ya que para entonces, la toxina ya ha entrado en tu sistema). Cuando sufres un efecto distinto al da&ntilde;o persistente que dependa del contacto continuo con tu piel, si ese efecto permite una tirada de salvaci&oacute;n, tienes derecho a una nueva tirada de salvaci&oacute;n contra ese efecto al final de cada turno cuando haces tus pruebas planas contra da&ntilde;o persistente y tambi&eacute;n se le impone un bonificador +2 por estatus a esas tiradas de salvaci&oacute;n. Mientras te encuentras bajo los efectos de este conjuro, la piel que mudas continuamente te vuelve mucho m&aacute;s f&aacute;cil de @Compendium[pf2e.actionspf2e.EA5vuSgJfiHH7plD]{Rastrear}. Cualquiera que te rastree obtiene un bonificador +2 por circunstancia, y no puedes Ocultar tu rastro.</p>"
 		},
 		{
 			"id": "Slow",
@@ -4898,8 +4898,8 @@
 		},
 		{
 			"id": "Stasis",
-			"name": "Stasis",
-			"description": "<p>The flow of time congeals around an object or creature, holding it in place. The target must attempt a Will save (an unattended object automatically critically fails its save).</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target is @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Stunned 1} as time thickens around it.</p>\n<p><strong>Failure</strong> Time ceases to pass for the target for 1 round. It is invulnerable to all damage, it cannot be targeted or affected by anything, and no rounds elapse for any timed durations, conditions, afflictions, and other effects it has. While in <em>stasis</em>, the target can't be moved, and it remains fixed in place, defying gravity if need be.</p>\n<p><strong>Critical Failure</strong> As failure, but the target is held in stasis for 3 rounds. At the end of each of its turns, it can attempt a Will save to reduce the remaining duration by 1 round or end it entirely on a critical success.</p>"
+			"name": "Estasis",
+			"description": "<p>El flujo del tiempo se congela alrededor de un objeto o criatura, manteni&eacute;ndolo en su sitio. El objetivo debe hacer una salvaci&oacute;n de Voluntad (un objeto desatendido falla autom&aacute;ticamente en su salvaci&oacute;n). <br /><strong>&Eacute;xito cr&iacute;tico</strong> El objetivo no se ve afectado. <br /><strong>&Eacute;xito</strong> El objetivo queda @Compendium[pf2e.conditionitems.dfCMdR4wnpbYNTix]{Aturdido 1} a medida que el tiempo se espesa a su alrededor. <br /><strong>Fallo</strong> El tiempo deja de pasar para el objetivo durante 1 asalto. Es invulnerable a todo el da&ntilde;o, no puede ser apuntado ni afectado por nada y no transcurren asaltos durante las aflicciones, estados, duraciones y otros efectos que tenga. Mientras est&aacute; en estasis, el objetivo no se puede mover y permanece quieto en su sitio, desafiando la gravedad si es necesario. <br /><strong>Fallo cr&iacute;tico</strong> Como fallo, pero el objetivo se mantiene en estasis durante 3 asaltos. Al final de cada uno de sus turnos, puede hacer una salvaci&oacute;n de Voluntad para reducir la duraci&oacute;n restante en 1 asalto o terminarla por completo con un &eacute;xito cr&iacute;tico.</p>"
 		},
 		{
 			"id": "Statuette",
@@ -5148,8 +5148,8 @@
 		},
 		{
 			"id": "Swarm Form",
-			"name": "Swarm Form",
-			"description": "<p>You discorporate into a swarm of Tiny creatures. While in swarm form, you have the swarm trait and you gain resistance 5 to slashing and piercing damage and weakness 5 to area and splash damage. You can fit into spaces only a few inches wide, moving your constituent creatures through the gap. You don't gain the swarm mind ability, so you are still affected normally by mental effects. As a swarm, you can't speak, cast spells, use manipulate actions requiring your hands, activate your magic items, or make any of your Strikes with your normal body. You can Dismiss the Spell.</p>\n<hr />\n<p><strong>Heightened (+2)</strong> Increase your resistances and weaknesses each by 5.</p>"
+			"name": "Forma de Enjambre",
+			"description": "<p>Te descompones en un enjambre de diminutas criaturas. Mientras est&aacute;s en forma de enjambre, tienes el rasgo plaga y obtienes resistencia 5 al da&ntilde;o cortante y perforante y debilidad 5 al da&ntilde;o de &aacute;rea y de salpicadura. Puede colarte en espacios de solo unos pocos cent&iacute;metros de ancho, moviendo las criaturas que te constituyen a trav&eacute;s del hueco. No obtienes la aptitud mental enjambre, por lo que todav&iacute;a te afectan normalmente los efectos mentales. Como un enjambre, no puedes activar tus objetos m&aacute;gicos, hablar, lanzar conjuros, realizar acciones de manipular que requieran tus manos, ni realizar cualquiera de tus Golpes con tu cuerpo normal. Puedes Disipar el conjuro. <br /><strong>Potenciado</strong> (+2) Aumenta tus resistencias y debilidades en 5 cada una.</p>"
 		},
 		{
 			"id": "Swarming Wasp Stings",
@@ -5158,8 +5158,8 @@
 		},
 		{
 			"id": "Swarmsense",
-			"name": "Swarmsense",
-			"description": "<p>You extend your senses through a multitude of crawling and flying creatures. You create a crawling swarm in your square. You can hear through the swarm as if using your normal auditory senses. The first time you Sustain the Spell each round, you can move the swarm 10 feet along the ground in any direction. The swarm has AC 15 and a +0 bonus to its saves. Any damage dealt to the swarm destroys it and ends the spell.</p>\n<hr />\n<p><strong>Heightened (3rd)</strong> The swarm has the benefits of spider climb.</p>\n<p><strong>Heightened (5th)</strong> The swarm has a fly Speed of 10 feet. You can see through the swarm using your visual senses.</p>\n<p><strong>Heightened (7th)</strong> The swarm gains a 10-foot status bonus to its Speeds.</p>"
+			"name": "Sentido del Enjambre",
+			"description": "<p>Extiendes tus sentidos a trav&eacute;s de una multitud de criaturas que se arrastran y vuelan. Creas un enjambre que se arrastra en tu casilla. Puede o&iacute;r a trav&eacute;s del enjambre como si usaras tu sentido auditivos habitual. La primera vez que mantienes el conjuro en cada asalto, puedes desplazar el enjambre 10 pies (3 m) por el suelo en cualquier direcci&oacute;n. El enjambre tiene CA 15 y un bonificador +0 a sus salvaciones. Cualquier da&ntilde;o infligido al enjambre lo destruye y pone fin al conjuro. <br /><strong>Potenciado</strong> (3.&ordm;) El enjambre obtiene los beneficios de escalada de ara&ntilde;a. <br /><strong>Potenciado</strong> (5.&ordm;) El enjambre obtiene una Velocidad volando de 10 pies (3 m). Puedes ver a trav&eacute;s del enjambre usando tus sentidos visuales. <br /><strong>Potenciado</strong> (7.&ordm;) El enjambre obtiene un bonificador de situaci&oacute;n de 10 pies (3 m) a sus Velocidades</p>"
 		},
 		{
 			"id": "Sweet Dream",
@@ -5293,8 +5293,8 @@
 		},
 		{
 			"id": "Temporary Tool",
-			"name": "Temporary Tool",
-			"description": "<p>You conjure a temporary simple tool, such as a shovel or rope into your hands. It lasts until it is used for a single activity or for 1 minute, whichever comes first, after which it disappears. The tool is obviously temporarily conjured, and thus can't be sold or passed off as a genuine item.</p>"
+			"name": "Herramienta Temporal",
+			"description": "<p>Conjuras una herramienta sencilla temporal en tus manos, como una<br />pala o una cuerda. Dura hasta que se utiliza para una sola actividad<br />o durante 1 minuto, lo que ocurra primero, despu&eacute;s de lo cual desaparece.<br />Obviamente, la herramienta se conjura temporalmente y, por<br />lo tanto, no puede venderse ni hacerse pasar por un objeto aut&eacute;ntico.</p>"
 		},
 		{
 			"id": "Tempt Fate",
@@ -5318,8 +5318,8 @@
 		},
 		{
 			"id": "Tether",
-			"name": "Tether",
-			"description": "<p>You use magical chains, vines, or other tethers to bind your target to you. The creature can still try to @Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{Escape} and it or others can break the tethers by attacking them (the tethers have AC 15 and 10 Hit Points). You must stay within 30 feet of the target while it is tethered; moving more than 30 feet away from your target ends the spell. The target must attempt a Reflex save.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target takes a -5-foot circumstance penalty to its Speed as long as it is within 30 feet of you.</p>\n<p><strong>Failure</strong> The target takes a -10-foot circumstance penalty to its Speed and cannot move more than 30 feet away from you until it Escapes or the spell ends.</p>\n<p><strong>Critical Failure</strong> The target is @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Immobilized} until it Escapes or the spell ends.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The tethers' AC increases by 3 and their Hit Points increase by 10.</p>"
+			"name": "Atadura",
+			"description": "<p>Utilizas cadenas m&aacute;gicas, enredaderas u otras ataduras para amarrar a tu objetivo a ti. La criatura todav&iacute;a puede intentar @Compendium[pf2e.actionspf2e.SkZAQRkLLkmBQNB9]{Huir} y ella u otros pueden romper las ataduras atac&aacute;ndolas (las ataduras tienen CA 15 y 10 Puntos de Golpe). Debes permanecer a 30 pies (9 m) del objetivo mientras est&aacute; atado; alejarte m&aacute;s de 30 pies (9 m) de tu objetivo termina el conjuro. El objetivo debe hacer una salvaci&oacute;n de Reflejos. <br /><strong>&Eacute;xito cr&iacute;tico</strong> El objetivo no se ve afectado. <br /><strong>&Eacute;xito</strong> Al objetivo se le impone un penalizador por circunstancia de &ndash;5 pies (1,5 m) a su Velocidad siempre que est&eacute; a 30 pies (9 m) de ti. <br /><strong>Fallo</strong> Al objetivo se le impone un penalizador por circunstancia de &ndash;10 pies (3 m) a su Velocidad y no puede alejarse m&aacute;s de 30 pies (9 m) de ti hasta que Huya o el conjuro termine. <br /><strong>Fallo cr&iacute;tico</strong> El objetivo queda @Compendium[pf2e.conditionitems.eIcWbB5o3pP6OIMe]{Inmovilizado} hasta que Huye o el conjuro termina. <br /><strong>Potenciado</strong> (+1) La CA de las ataduras aumenta en 3 y sus Puntos de Golpe aumentan en 10.</p>"
 		},
 		{
 			"id": "The World's a Stage",
@@ -5363,8 +5363,8 @@
 		},
 		{
 			"id": "Time Beacon",
-			"name": "Time Beacon",
-			"description": "<p>You create a beacon in time, intending to return to it if things go wrong. You can cast <em>time beacon</em> on only your turn. Keep careful track of everything that happens this turn after you cast <em>time beacon</em>. At the end of your turn, you can choose to rewind time back to just after you cast <em>time beacon</em>, removing all effects of your turn since then. Curses, traps, and other harmful effects that happen during your turn might prevent you from returning to the beacon if they are powerful enough. If you suffered any harmful effects during your turn after casting <em>time beacon</em>, to return to your beacon, <em>time beacon</em> attempts a counteract check against each such effect. If it fails at any of these checks, you can't return. After returning to the <em>time beacon</em>, the spell ends.</p>"
+			"name": "Faro Temporal",
+			"description": "<p>Creas un faro en el tiempo, con la intenci&oacute;n de volver a &eacute;l si las cosas salen mal. Solo puedes lanzar faro temporal en tu turno. Mant&eacute;n un registro cuidadoso de todo lo que sucede en este turno despu&eacute;s de lanzar faro temporal. Al final de tu turno, puedes optar por rebobinar el tiempo hasta justo despu&eacute;s de lanzar faro temporal, eliminando todos los efectos de tu turno desde entonces. Las maldiciones, trampas y otros efectos da&ntilde;inos que ocurren durante tu turno pueden evitar que regreses al faro si son lo suficientemente poderosos. Si sufriste alg&uacute;n efecto da&ntilde;ino durante tu turno despu&eacute;s de lanzar faro temporal, para volver a tu faro, el faro temporal hace una prueba para contrarrestar cada efecto. Si falla cualquiera de estas pruebas, no podr&aacute;s regresar.</p>"
 		},
 		{
 			"id": "Time Jump",
@@ -5848,8 +5848,8 @@
 		},
 		{
 			"id": "Whirling Scarves",
-			"name": "Whirling Scarves",
-			"description": "<p>You surround yourself in a vortex of whirling colorful scarves of force that obfuscate you and disorient your foes. You gain the benefits of the @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} condition, but only against ranged and melee attacks. When a melee attack fails to hit you because of the flat check for the Concealed condition, the scarves snag the weapon or unarmed attack, and the creature takes a -1 circumstance penalty to further attacks with that weapon or unarmed attack until the end of its turn (or the end of its next turn, if it wasn't the creature's turn). The timing of the scarves' movement is harder to predict for ranged attackers, so the flat check for the Concealed condition against ranged attacks increases from DC 5 to DC 6. You can Dismiss this spell.</p>\n<hr />\n<p><strong>Heightened (+2)</strong> The circumstance penalty to further attacks with a melee weapon or unarmed attack the scarves snag increases by 1. The DC of the flat check for the Concealed condition against ranged attacks increases by 1.</p>"
+			"name": "Remolino de Pañuelos",
+			"description": "<p>Te rodeas de un v&oacute;rtice de coloridos pa&ntilde;uelos de fuerza que te ocultan y desorientan a tus enemigos. Obtienes los beneficios del estado @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Oculto}, pero solo contra ataques a distancia y cuerpo a cuerpo. Cuando un ataque cuerpo a cuerpo no te alcanza debido a la prueba plana del estado de oculto, los pa&ntilde;uelos se enganchan en el arma o ataque sin arma y a la criatura se le impone un penalizador -1 por circunstancia a futuros ataques con esa arma o ataque sin arma hasta el final de su turno (o al final de su siguiente turno, si no era el turno de la criatura). El movimiento de los pa&ntilde;uelos es m&aacute;s dif&iacute;cil de predecir para los atacantes a distancia, por lo que la prueba plana del estado oculto contra ataques a distancia aumenta de CD 5 a CD 6. Puedes Disipar este conjuro. <br /><strong>Potenciado</strong> (+2) El penalizador por circunstancia para futuros ataques con un arma cuerpo a cuerpo o un ataque sin arma al que se enganchan los pa&ntilde;uelos aumenta en 1. La CD de la prueba plana para el estado de oculto contra ataques a distancia aumenta en 1.</p>"
 		},
 		{
 			"id": "Whirlwind",
@@ -5903,8 +5903,8 @@
 		},
 		{
 			"id": "Winter Bolt",
-			"name": "Winter Bolt",
-			"description": "<p>You fling a hollow icicle filled with winter's wrath. Make a spell attack against a target within range. The bolt deals 1d8 piercing damage and lodges in the target. At the end of the target's next turn, the bolt shatters, releasing a whirl of snow and ice that deals 1d12 cold damage to the target and all adjacent creatures. The bolt can be removed with an Interact action, which causes it to melt harmlessly without detonating.</p>\n<hr />\n<p><strong>Critical Success</strong> The initial bolt deals full damage and is especially well anchored, taking 2 Interact actions to remove. The bolt's explosion deals double damage.</p>\n<p><strong>Success</strong> The bolt and its explosion deal full damage.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The initial damage increases by 1d8 and the secondary damage increases by 1d12.</p>"
+			"name": "Virote Invernal",
+			"description": "<p>Lanzas un car&aacute;mbano hueco cargado con la furia del invierno. Realizas un conjuro de ataque contra un objetivo al alcance. Inflige 1d8 de da&ntilde;o perforante y se aloja en el objetivo. Al final del siguiente turno del objetivo, el virote estalla, liberando un remolino de nieve y hielo que inflige 1d12 de da&ntilde;o por fr&iacute;o al objetivo y a todas las criaturas adyacentes. El virote se puede quitar con una acci&oacute;n de Interactuar, que hace que se derrita inocuamente sin detonar. <br /><strong>&Eacute;xito cr&iacute;tico</strong> El virote inicial inflige todo el da&ntilde;o y queda especialmente bien anclado, por lo que eliminarlo requiere 2 acciones de Interactuar. La explosi&oacute;n causa el doble de da&ntilde;o. <br /><strong>&Eacute;xito</strong> El virote y su explosi&oacute;n infligen da&ntilde;o completo <br /><strong>Potenciado</strong> (+1) El da&ntilde;o inicial aumenta en 1d8 y el da&ntilde;o secundario aumenta en 1d12.</p>"
 		},
 		{
 			"id": "Wish",
@@ -5918,8 +5918,8 @@
 		},
 		{
 			"id": "Withering Grasp",
-			"name": "Withering Grasp",
-			"description": "<p>Your touch rots organic material and decays objects. Make a melee spell attack roll. Your touch deals 1d12 negative damage plus [[/r {1d4}[persistent,negative]]] @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Negative Damage}. If a creature uses an item to block withering grasp, such as with the Shield Block reaction, the item is automatically affected, but the creature does not take damage (even if there is damage left over after the shield's Hardness). Unlike normal negative damage, the negative damage from <em>withering grasp</em> damages objects, constructs, and the like by eroding them away.</p>\n<hr />\n<p><strong>Critical Success</strong> Your touch deals double damage (both initial and persistent). If you target an object, lower its Hardness by 4 for 1 minute.</p>\n<p><strong>Success</strong> Your touch deals full damage. If you target an object, lower its Hardness by 2 for 1 minute.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The damage increases by 1d12 and the @Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Persistent Damage} increases by 1. If you target an object, lower its Hardness by an additional 1 point on both a success and a critical success.</p>"
+			"name": "Agarrón Marchitante",
+			"description": "<p>Tu contacto pudre el material org&aacute;nico y descompone los objetos. Haz una tirada de conjuro de ataque cuerpo a cuerpo. Tu toque inflige 1d12 de da&ntilde;o negativo m&aacute;s [[/r {1d4}[persistente,negativo]]]&nbsp; de da&ntilde;o negativo persistente.@Compendium[pf2e.conditionitems.lDVqvLKA6eF3Df60]{Da&ntilde;o Negativo Persistente} Si una criatura usa un objeto para bloquear el agarr&oacute;n marchitante, como con la reacci&oacute;n Bloquear con el escudo, el objeto se ve afectado autom&aacute;ticamente, pero la criatura no sufre da&ntilde;o (incluso si queda da&ntilde;o sin aplicar despu&eacute;s de la Dureza del escudo). A diferencia del da&ntilde;o negativo normal, el da&ntilde;o negativo del agarr&oacute;n marchitante da&ntilde;a objetos, constructos y similares mediante erosi&oacute;n. <br /><strong>&Eacute;xito cr&iacute;tico</strong> Tu toque inflige doble da&ntilde;o (inicial y persistente). Si apuntas a un objeto, reduces su Dureza en 4 durante 1 minuto. <br /><strong>&Eacute;xito</strong> Tu toque inflige da&ntilde;o completo. Si apuntas a un objeto, reduces su Dureza en 2 durante 1 minuto. <br /><strong>Potenciado</strong> (+1) El da&ntilde;o aumenta en 1d12 y el da&ntilde;o persistente aumenta en 1. Si apuntas a un objeto, reduces su Dureza en 1 punto adicional tanto en un &eacute;xito como en un &eacute;xito cr&iacute;tico.</p>"
 		},
 		{
 			"id": "Word of Freedom",
@@ -5968,8 +5968,8 @@
 		},
 		{
 			"id": "Zenith Star",
-			"name": "Zenith Star",
-			"description": "<p>You call a tiny star to orbit a creature in a sparkling halo before shooting up into the heavens, where it marks the creature's rough location. The target must attempt a Fortitude save.</p>\n<hr />\n<p><strong>Critical Success</strong> The target is unaffected.</p>\n<p><strong>Success</strong> The target is @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Dazzled} for 1 round.</p>\n<p><strong>Failure</strong> The target is Dazzled for 1 round. While the spell persists, as long as you can see the night sky and the target is visible from the same night sky, you can sense the approximate direction and distance to the creature by using a single action, which has the concentrate trait. This is exact enough to track the creature, but not pinpoint their exact square (for instance, to make an attack). You can set a number of <em>zenith stars</em> equal to your Wisdom modifier; if you exceed this number, your oldest <em>zenith star</em> is automatically Dismissed.</p>\n<p><strong>Critical Failure</strong> As failure, but the target is @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Blinded} for 1 round.</p>\n<hr />\n<p><strong>Heightened (+1)</strong> The duration increases by 1 day.</p>\n<p><strong>Heightened (4th)</strong> You ignore the @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Concealed} against targets marked by <em>zenith star</em>.</p>"
+			"name": "Estrella Zenital",
+			"description": "<p>Convocas a una peque&ntilde;a estrella para que orbite a una criatura en un halo brillante antes de salir disparada hacia el cielo, donde marca la ubicaci&oacute;n aproximada de &eacute;sta. El objetivo debe hacer una salvaci&oacute;n de Fortaleza. <br /><strong>&Eacute;xito cr&iacute;tico</strong> El objetivo no se ve afectado. <br /><strong>&Eacute;xito</strong> El objetivo queda @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Deslumbrado} durante 1 asalto. <br /><strong>Fallo</strong> El objetivo queda @Compendium[pf2e.conditionitems.TkIyaNPgTZFBCCuh]{Deslumbrado} durante 1 asalto. Mientras el conjuro persista, siempre que puedas ver el cielo nocturno y el objetivo sea visible desde el mismo cielo nocturno, puedes sentir la direcci&oacute;n aproximada y la distancia a la que se encuentra la criatura usando una acci&oacute;n &uacute;nica, que tiene el rasgo concentrar. Esto es lo bastante exacto para rastrear a la criatura, pero no para se&ntilde;alar su casilla exacta (por ejemplo, para realizar un ataque). Puedes asignar un n&uacute;mero de estrellas cenitales equivalente a tu modificador de Sabidur&iacute;a; si excedes este n&uacute;mero, tu estrella cenital m&aacute;s antigua se descarta autom&aacute;ticamente. <br /><strong>Fallo cr&iacute;tico</strong> Como fallo, pero el objetivo queda @Compendium[pf2e.conditionitems.XgEqL1kFApUbl5Z2]{Cegado} durante 1 asalto. <br /><strong>Potenciado</strong> (+1) La duraci&oacute;n aumenta en 1 d&iacute;a. <br /><strong>Potenciado</strong> (4.&ordm;) Ignoras el estado @Compendium[pf2e.conditionitems.DmAIPqOBomZ7H95W]{Oculto} contra los objetivos marcados con una estrella cenital.</p>"
 		},
 		{
 			"id": "Zero Gravity",
