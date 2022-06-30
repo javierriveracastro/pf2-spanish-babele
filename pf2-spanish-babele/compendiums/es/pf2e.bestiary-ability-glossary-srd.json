@@ -88,7 +88,7 @@
 		},
 		{
 			"id": "Form Up",
-			"name": "Form Up",
+			"name": "Formación",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.FormUp]</p>"
 		},
 		{
@@ -148,7 +148,7 @@
 		},
 		{
 			"id": "Negative Healing",
-			"name": "Negative Healing",
+			"name": "Curación negativa",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.NegativeHealing]</p>"
 		},
 		{
@@ -218,7 +218,7 @@
 		},
 		{
 			"id": "Thoughtsense",
-			"name": "Thoughtsense",
+			"name": "Sentir pensamientos",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Thoughtsense]</p>"
 		},
 		{
@@ -238,7 +238,7 @@
 		},
 		{
 			"id": "Troop Defenses",
-			"name": "Troop Defenses",
+			"name": "Defensas de tropa",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.TroopDefenses]</p>"
 		},
 		{
