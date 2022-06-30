@@ -1,29 +1,29 @@
 {
-	"label": "Bestiary Ability Glossary",
+	"label": "Glosario de aptitudes del Bestiario",
 	"entries": [
 		{
 			"id": "+1 Status to All Saves vs Magic",
-			"name": "+1 Status to All Saves vs Magic",
+			"name": "+1 por estatus a las salvaciones contra la magia",
 			"description": ""
 		},
 		{
 			"id": "All-Around Vision",
-			"name": "All-Around Vision",
+			"name": "Visión periférica total",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AllAroundVision]</p>"
 		},
 		{
 			"id": "Aquatic Ambush",
-			"name": "Aquatic Ambush",
+			"name": "Emboscada acuática",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AquaticAmbush]</p>"
 		},
 		{
 			"id": "At-Will Spells",
-			"name": "At-Will Spells",
+			"name": "Conjuros a voluntad",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AtWillSpells]</p>"
 		},
 		{
 			"id": "Attack of Opportunity",
-			"name": "Attack of Opportunity",
+			"name": "Ataque de oportunidad",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.AttackOfOpportunity]</p>"
 		},
 		{
@@ -33,57 +33,57 @@
 		},
 		{
 			"id": "Buck",
-			"name": "Buck",
+			"name": "Encabritarse",
 			"description": "<p>@Check[type:reflex]</p>\n<p>@Localize[PF2E.NPC.Abilities.Glossary.Buck]</p>"
 		},
 		{
 			"id": "Catch Rock",
-			"name": "Catch Rock",
+			"name": "Atrapar roca",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.CatchRock]</p>"
 		},
 		{
 			"id": "Change Shape",
-			"name": "Change Shape",
+			"name": "Cambiar de forma",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ChangeShape]</p>"
 		},
 		{
 			"id": "Constant Spells",
-			"name": "Constant Spells",
+			"name": "Conjuros constantes",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ConstantSpells]</p>"
 		},
 		{
 			"id": "Constrict",
-			"name": "Constrict",
+			"name": "Constreñir",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Constrict]</p>"
 		},
 		{
 			"id": "Coven",
-			"name": "Coven",
+			"name": "Aquelarre",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Coven]</p>"
 		},
 		{
 			"id": "Darkvision",
-			"name": "Darkvision",
+			"name": "Visión en la oscuridad",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Darkvision]</p>"
 		},
 		{
 			"id": "Disease",
-			"name": "Disease",
+			"name": "Enfermedad",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Disease]</p>"
 		},
 		{
 			"id": "Engulf",
-			"name": "Engulf",
+			"name": "Envolver",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Engulf]</p>"
 		},
 		{
 			"id": "Fast Healing",
-			"name": "Fast Healing",
+			"name": "Curación rápida",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.FastHealing]</p>"
 		},
 		{
 			"id": "Ferocity",
-			"name": "Ferocity",
+			"name": "Ferocidad",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Ferocity]</p>"
 		},
 		{
@@ -93,57 +93,57 @@
 		},
 		{
 			"id": "Frightful Presence",
-			"name": "Frightful Presence",
+			"name": "Presencia temible",
 			"description": "<p>@Template[type:emanation|distance:0]{0 feet} @Compendium[pf2e.bestiary-ability-glossary-srd.v61oEQaDdcRpaZ9X]{Aura} @Check[type:will]</p>\n<hr />\n<p>@Localize[PF2E.NPC.Abilities.Glossary.FrightfulPresence]</p>"
 		},
 		{
 			"id": "Grab",
-			"name": "Grab",
+			"name": "Agarrón",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Grab]</p>"
 		},
 		{
 			"id": "Greater Constrict",
-			"name": "Greater Constrict",
+			"name": "Constreñir mayor",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterConstrict]</p>"
 		},
 		{
 			"id": "Greater Darkvision",
-			"name": "Greater Darkvision",
+			"name": "Visión en la oscuridad mayor",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.GreaterDarkvision]</p>"
 		},
 		{
 			"id": "Improved Grab",
-			"name": "Improved Grab",
+			"name": "Agarrón mejorado",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedGrab]</p>"
 		},
 		{
 			"id": "Improved Knockdown",
-			"name": "Improved Knockdown",
+			"name": "Derribar mejorado",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedKnockdown]</p>"
 		},
 		{
 			"id": "Improved Push",
-			"name": "Improved Push",
+			"name": "Empujar mejorado",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ImprovedPush]</p>"
 		},
 		{
 			"id": "Knockdown",
-			"name": "Knockdown",
+			"name": "Derribar",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Knockdown]</p>"
 		},
 		{
 			"id": "Lifesense",
-			"name": "Lifesense",
+			"name": "Sentir vida",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Lifesense]</p>"
 		},
 		{
 			"id": "Light Blindness",
-			"name": "Light Blindness",
+			"name": "Ceguera ante la luz",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LightBlindness]</p>"
 		},
 		{
 			"id": "Low-Light Vision",
-			"name": "Low-Light Vision",
+			"name": "Visión en la penumbra",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.LowLightVision]</p>"
 		},
 		{
@@ -153,67 +153,67 @@
 		},
 		{
 			"id": "Nimble Dodge",
-			"name": "Nimble Dodge",
-			"description": "<p><strong>Trigger</strong> A creature targets you with an attack and you can see the attacker.</p>\n<p><strong>Requirements</strong> You are not encumbered</p>\n<hr />\n<p>You deftly dodge out of the way, gaining a +2 circumstance bonus to AC against the triggering attack.</p>"
+			"name": "Esquiva ágil",
+			"description": "<p><strong>Desencadenante</strong> Una criatura te designa como objetivo de un ataque y puedes ver al atacante.</p>\n<p><strong>Requisitos</strong> No estar impedido.</p>\n<hr />\n<p>Haces una hábil esquiva, obteniendo un bonificador +2 por circunstancia a la CA contra el ataque desencadenante.</p>"
 		},
 		{
 			"id": "Poison",
-			"name": "Poison",
+			"name": "Veneno",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Poison]</p>"
 		},
 		{
 			"id": "Power Attack",
-			"name": "Power Attack",
+			"name": "Ataque poderoso",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.PowerAttack]</p>"
 		},
 		{
 			"id": "Push",
-			"name": "Push",
+			"name": "Empujar",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Push]</p>"
 		},
 		{
 			"id": "Regeneration",
-			"name": "Regeneration",
+			"name": "Regeneración",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Regeneration]</p>"
 		},
 		{
 			"id": "Rend",
-			"name": "Rend",
+			"name": "Rasgadura",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Rend]</p>"
 		},
 		{
 			"id": "Retributive Strike",
-			"name": "Retributive Strike",
+			"name": "Impacto retributivo",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.RetributiveStrike]</p>"
 		},
 		{
 			"id": "Scent",
-			"name": "Scent",
+			"name": "Olfato",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Scent]</p>"
 		},
 		{
 			"id": "Shield Block",
-			"name": "Shield Block",
+			"name": "Bloquear con el escudo",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ShieldBlock]</p>"
 		},
 		{
 			"id": "Sneak Attack",
-			"name": "Sneak Attack",
+			"name": "Ataque furtivo",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.SneakAttack]</p>"
 		},
 		{
 			"id": "Swallow Whole",
-			"name": "Swallow Whole",
+			"name": "Engullir",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.SwallowWhole]</p>"
 		},
 		{
 			"id": "Swarm Mind",
-			"name": "Swarm Mind",
+			"name": "Mente de plaga",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.SwarmMind]</p>"
 		},
 		{
 			"id": "Telepathy",
-			"name": "Telepathy",
+			"name": "Telepatía",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Telepathy]</p>"
 		},
 		{
@@ -223,17 +223,17 @@
 		},
 		{
 			"id": "Throw Rock",
-			"name": "Throw Rock",
+			"name": "Arrojar roca",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.ThrowRock]</p>"
 		},
 		{
 			"id": "Trample",
-			"name": "Trample",
+			"name": "Pisotear",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Trample]</p>"
 		},
 		{
 			"id": "Tremorsense",
-			"name": "Tremorsense",
+			"name": "Sentido de la vibración",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Tremorsense]</p>"
 		},
 		{
@@ -243,7 +243,7 @@
 		},
 		{
 			"id": "Wavesense",
-			"name": "Wavesense",
+			"name": "Sentir ondulaciones",
 			"description": "<p>@Localize[PF2E.NPC.Abilities.Glossary.Wavesense]</p>"
 		}
 	]
