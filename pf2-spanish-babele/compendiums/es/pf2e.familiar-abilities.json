@@ -1,290 +1,290 @@
 {
-	"label": "Familiar Abilities",
-	"entries": [
-		{
-			"id": "Accompanist",
-			"name": "Accompanist",
-			"description": "<p>Your familiar helps you perform. Whenever you attempt a Performance check, if your familiar is nearby and can act, it accompanies you with chirps, claps, or its own miniature instrument. This grants you a +1 circumstance bonus, or +2 if you're a master in Performance.</p>"
-		},
-		{
-			"id": "Ambassador",
-			"name": "Ambassador",
-			"description": "<p>Your familiar knows how to act cute or focused on cue, helping you make a good impression.</p>\n<p>Despite being a minion, your familiar gains 1 reaction at the start of its turns, which it can use only to @Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]{Aid} you on a Diplomacy check to @Compendium[pf2e.actionspf2e.OX4fy22hQgUHDr0q]{Make an Impression} (it still has to prepare to help you as normal for the Aid reaction, which requires it to participate throughout the activity).</p>\n<p>It automatically succeeds at its check to Aid you with those skills or automatically critically succeeds if you're a master of the skill in question.</p>"
-		},
-		{
-			"id": "Amphibious",
-			"name": "Amphibious",
-			"description": "<p>It gains a swim Speed of 25 feet (or Speed of 25 feet if it already has a swim Speed).</p>"
-		},
-		{
-			"id": "Burrower",
-			"name": "Burrower",
-			"description": "<p>It gains a burrow Speed of 5 feet, allowing it to dig Tiny holes.</p>"
-		},
-		{
-			"id": "Cantrip Connection",
-			"name": "Cantrip Connection",
-			"description": "<p>You can prepare an additional cantrip, or if you have a repertoire, instead designate a cantrip to add to your repertoire every time you select this ability; you can retrain it but can't otherwise change it. You must be able to prepare cantrips or add them to your repertoire to select this.</p>"
-		},
-		{
-			"id": "Climber",
-			"name": "Climber",
-			"description": "<p>It gains a climb Speed of 25 feet.</p>"
-		},
-		{
-			"id": "Damage Avoidance: Fortitude",
-			"name": "Damage Avoidance: Fortitude",
-			"description": "<p>It takes no damage when it succeeds at Fortitude saves; this doesn't prevent effects other than damage.</p>"
-		},
-		{
-			"id": "Damage Avoidance: Reflex",
-			"name": "Damage Avoidance: Reflex",
-			"description": "<p>It takes no damage when it succeeds at Reflex saves; this doesn't prevent effects other than damage.</p>"
-		},
-		{
-			"id": "Damage Avoidance: Will",
-			"name": "Damage Avoidance: Will",
-			"description": "<p>It takes no damage when it succeeds at Will saves; this doesn't prevent effects other than damage.</p>"
-		},
-		{
-			"id": "Darkeater",
-			"name": "Darkeater",
-			"description": "<p>Your familiar naturally recovers in the shadows. After spending 10 consecutive minutes in an area of dim light or darkness, your familiar recovers a number of Hit Points equal to half your level.</p>\n<p>This ability is for a shadow familiar. A shadowcaster, however, can select this ability for any kind of familiar.</p>"
-		},
-		{
-			"id": "Darkvision",
-			"name": "Darkvision",
-			"description": "<p>It gains darkvision.</p>"
-		},
-		{
-			"id": "Extra Reagents",
-			"name": "Extra Reagents",
-			"description": "<p>Your familiar grows extra infused reagents on or in its body. You gain an additional batch of infused reagents. You must have the infused reagents ability to select this ability.</p>"
-		},
-		{
-			"id": "Familiar Focus",
-			"name": "Familiar Focus",
-			"description": "<p>Once per day, your familiar can use 2 actions with the concentrate trait to restore 1 Focus Point to your focus pool, up to your usual maximum. You must have a focus pool to select this.</p>"
-		},
-		{
-			"id": "Fast Movement: Climb",
-			"name": "Fast Movement: Climb",
-			"description": "<p>Increase the familiar's climb Speed from 25 feet to 40 feet.</p>"
-		},
-		{
-			"id": "Fast Movement: Fly",
-			"name": "Fast Movement: Fly",
-			"description": "<p>Increase the familiar's fly Speed from 25 feet to 40 feet.</p>"
-		},
-		{
-			"id": "Fast Movement: Land",
-			"name": "Fast Movement: Land",
-			"description": "<p>Increase the familiar's land Speed from 25 feet to 40 feet.</p>"
-		},
-		{
-			"id": "Fast Movement: Swim",
-			"name": "Fast Movement: Swim",
-			"description": "<p>Increase the familiar's swim Speed from 25 feet to 40 feet.</p>"
-		},
-		{
-			"id": "Flier",
-			"name": "Flier",
-			"description": "<p>It gains a fly Speed of 25 feet.</p>"
-		},
-		{
-			"id": "Focused Rejuvenation",
-			"name": "Focused Rejuvenation",
-			"description": "<p>When you Refocus, you generate magical energy that heals your familiar. Your familiar regains 1 Hit Point per level whenever you Refocus.</p>"
-		},
-		{
-			"id": "Gills",
-			"name": "Gills",
-			"description": "<p>Your familiar grows a set of gills, allowing it to breathe water in addition to air.</p>"
-		},
-		{
-			"id": "Grasping Tendrils",
-			"name": "Grasping Tendrils",
-			"description": "<p>Prequisites @Compendium[pf2e.feats-srd.baz18CdB13DVMHV9]{Leshy Familiar Secrets}</p>\n<p>Your familiar can extend vines or similar tendrils, increasing its reach to 15 feet.</p>"
-		},
-		{
-			"id": "Greater Resistance",
-			"name": "Greater Resistance",
-			"description": "<p>Your familiar increases the resistance it gains from its resistance familiar ability to 3 + half your level. Your familiar must have the @Compendium[pf2e.familiar-abilities.FcQQLMAJMgOLjnSv]{Resistance} ability to select this.</p>"
-		},
-		{
-			"id": "Independent",
-			"name": "Independent",
-			"description": "<p>In an encounter, if you don't Command your familiar, it still gains 1 action each round. Typically, you still decide how it spends that action, but, the GM might determine that your familiar chooses its own tactics rather than performing your preferred action. This doesn't work with @Compendium[pf2e.familiar-abilities.9PsptrEoCC4QdM23]{Valet} or similar abilities that require a command, if you're capable of riding your familiar, or similar situations.</p>"
-		},
-		{
-			"id": "Innate Surge",
-			"name": "Innate Surge",
-			"description": "<p>Once per day, you can draw upon your familiar's innate magic to replenish your own. You can cast one innate spell gained from an ancestry feat that you have already cast today. You must still Cast the Spell and meet the spell's other requirements.</p>"
-		},
-		{
-			"id": "Kinspeech",
-			"name": "Kinspeech",
-			"description": "<p>It can understand and speak with animals of the same species. To select this, your familiar must be an animal, it must have the speech ability, and you must be at least 6th level.</p>"
-		},
-		{
-			"id": "Lab Assistant",
-			"name": "Lab Assistant",
-			"description": "<p>It can use your Quick Alchemy action. You must have Quick Alchemy, and your familiar must be in your space. This has the same cost and requirement as if you used it. It must have the manual dexterity ability to select this.</p>"
-		},
-		{
-			"id": "Lifelink",
-			"name": "Lifelink",
-			"description": "<p>If your familiar would be reduced to 0 HP by damage, as a reaction with the concentrate trait, you can take the damage. If you do, you take all the damage and your familiar takes none. However, special effects that would occur due to that damage (such as snake venom) still apply to your familiar.</p>"
-		},
-		{
-			"id": "Major Resistance",
-			"name": "Major Resistance",
-			"description": "<p>Your familiar increases the resistance it gains from its resistance familiar ability to a value equal to your level. To select this, your familiar must have the @Compendium[pf2e.familiar-abilities.zKTL9y9et0oTHEYS]{Greater Resistance} ability and you must be at least 8th level.</p>"
-		},
-		{
-			"id": "Manual Dexterity",
-			"name": "Manual Dexterity",
-			"description": "<p>It can use up to two of its limbs as if they were hands to use manipulate actions.</p>"
-		},
-		{
-			"id": "Mask Freeze",
-			"name": "Mask Freeze",
-			"description": "<p>When in mask form, your familiar can hide its obvious supernatural qualities to pass as a simple, unassuming mask. It doesn't need to Impersonate to fool a passing glance, and it gains a +4 circumstance bonus to its Deception DC against an active observer Seeking or otherwise studying it.</p>"
-		},
-		{
-			"id": "Master's Form",
-			"name": "Master's Form",
-			"description": "<p>Your familiar can change shape as a single action, transforming into a humanoid of your ancestry with the same age, gender, and build of its true form, though it always maintains a clearly unnatural remnant of its nature, such as a cat's eyes or a serpent's tongue. This form is always the same each time it uses this ability. This otherwise uses the effects of <em>humanoid form</em>, except the change is purely cosmetic. It only appears humanoid and gains no new capabilities. Your familiar must have the manual dexterity and speech abilities to select this.</p>"
-		},
-		{
-			"id": "Partner in Crime",
-			"name": "Partner in Crime",
-			"description": "<p>Your familiar is your criminal associate. Despite being a minion, your familiar gains 1 reaction at the start of its turns, which it can use only to Aid you on a Deception or Thievery skill check (it still has to prepare to help you as normal for the Aid reaction). It automatically succeeds at its check to Aid you with those skills or automatically critically succeeds if you're a master of the skill in question.</p>"
-		},
-		{
-			"id": "Plant Form",
-			"name": "Plant Form",
-			"description": "<p>Your plant familiar can change shape as a single action, transforming into a Tiny plant of a type roughly similar to the familiar's nature. This otherwise uses the effects of <em>tree shape</em>. You must have a familiar with the plant trait, such as a leshy, to select this ability.</p>"
-		},
-		{
-			"id": "Poison Reservoir",
-			"name": "Poison Reservoir",
-			"description": "<p>Your homunculus familiar has a reservoir for poison, allowing it to apply an injury poison to an adjacent ally's exposed weapon with a single Interact action. You must supply the poison and instill it into this reservoir using two consecutive Interact actions. You must have a homunculus familiar to select this ability.</p>"
-		},
-		{
-			"id": "Purify Air",
-			"name": "Purify Air",
-			"description": "<p>Prequisites @Compendium[pf2e.feats-srd.baz18CdB13DVMHV9]{Leshy Familiar Secrets}</p>\n<p>Your familiar recycles air, providing enough oxygen for a Medium creature in areas with stale air, such as a sealed chamber or extradimensional space. If the leshy is within the area of an inhaled poison effect or an effect that relies on smell, creatures within a @Template[type:emanation|distance:15] from the leshy gain a +2 circumstance bonus to their saving throws against the effect.</p>"
-		},
-		{
-			"id": "Recall Familiar",
-			"name": "Recall Familiar",
-			"description": "<p>You can summon your familiar to your side. Once per day, you can use a 3-action activity, which has the concentrate trait, to teleport your familiar to your space. Your familiar must be within 1 mile or the attempt to summon it fails. This is a conjuration and teleport effect.</p>"
-		},
-		{
-			"id": "Resistance",
-			"name": "Resistance",
-			"description": "<p>Choose two of the following: acid, cold, electricity, fire, poison, or sonic. Your familiar gains resistance equal to half your level against the chosen damage types.</p>"
-		},
-		{
-			"id": "Restorative Familiar",
-			"name": "Restorative Familiar",
-			"description": "<p>Once per day, your familiar can use 2 actions with the concentrate trait to give up some of its animating energy and heal you. It must be in your space to do so. You restore a number of Hit Points equal to [[/r max(floor(@actor.level/2)d8, 1d8)]]{1d8 times half your level} (minimum 1d8).</p>"
-		},
-		{
-			"id": "Scent",
-			"name": "Scent",
-			"description": "<p>It gains scent (imprecise, 30 feet).</p>"
-		},
-		{
-			"id": "Second Opinion",
-			"name": "Second Opinion",
-			"description": "<p>Your familiar is your academic confidant.</p>\n<p>Despite being a minion, your familiar gains 1 reaction at the start of its turns, which it can use only to @Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]{Aid} you on a Recall Knowledge skill check for a skill in which it has the @Compendium[pf2e.familiar-abilities.jevzf9JbJJibpqaI]{Skilled} familiar ability (it still has to prepare to help you as normal for the Aid reaction).</p>\n<p>It automatically succeeds at its check to Aid you with those skills or automatically critically succeeds if you're a master of the skill in question. Your familiar must have the skilled ability to select this.</p>"
-		},
-		{
-			"id": "Shadow Step",
-			"name": "Shadow Step",
-			"description": "<p>This ability is for a Shadow Familiar. A @Compendium[pf2e.feats-srd.ncrNQcwm4gOQRAA3]{Shadowcaster}, however, can select this ability for any kind of familiar. Your familiar gains the @Compendium[pf2e.actionspf2e.VQ5OxaDKE0lCj8Mr]{Shadow Step} action.</p>\n<p>You must be at least 7th level to select this familiar ability for your familiar.</p>"
-		},
-		{
-			"id": "Share Senses",
-			"name": "Share Senses",
-			"description": "<p>Once every 10 minutes, you can use a single action with the concentrate trait to project your senses into your familiar. When you do, you lose all sensory information from your own body, but can sense through your familiar's body for up to 1 minute. You can Dismiss this effect.</p>"
-		},
-		{
-			"id": "Skilled",
-			"name": "Skilled",
-			"description": "<p>Choose a skill other than Acrobatics or Stealth. Your familiar's modifier for that skill is equal to your level plus your key spellcasting ability modifier, rather than just your level. You can select this ability repeatedly, choosing a different skill each time.</p>"
-		},
-		{
-			"id": "Snoop",
-			"name": "Snoop",
-			"description": "<p>Your familiar keeps its eyes and ears open, ready to relay every snippet of gossip it catches, helping you gather information.</p>\n<p>Despite being a minion, your familiar gains 1 reaction at the start of its turns, which it can use only to @Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]{Aid} you on a Diplomacy check to @Compendium[pf2e.actionspf2e.plBGdZhqq5JBl1D8]{Gather Information} (it still has to prepare to help you as normal for the Aid reaction, which requires it to participate throughout the activity).</p>\n<p>It automatically succeeds at its check to Aid you with those skills or automatically critically succeeds if you're a master of the skill in question.</p>"
-		},
-		{
-			"id": "Speech",
-			"name": "Speech",
-			"description": "<p>It understands and speaks a language you know.</p>"
-		},
-		{
-			"id": "Spell Battery",
-			"name": "Spell Battery",
-			"description": "<p>You gain one additional spell slot at least 3 levels lower than your highest-level spell slot; you must be able to cast 4th-level spells using spell slots to select this master ability.</p>"
-		},
-		{
-			"id": "Spell Delivery",
-			"name": "Spell Delivery",
-			"description": "<p>If your familiar is in your space, you can cast a spell with a range of touch, transfer its power to your familiar, and command the familiar to deliver the spell. If you do, the familiar uses its 2 actions for the round to move to a target of your choice and touch that target. If it doesn't reach the target to touch it this turn, the spell has no effect.</p>"
-		},
-		{
-			"id": "Spellcasting",
-			"name": "Spellcasting",
-			"description": "<p>Choose a spell in your repertoire or that you prepared today at least 5 levels lower than your highest-level spell slot. Your familiar can Cast that Spell once per day using your magical tradition, spell attack modifier, and spell DC. If the spell has a drawback that affects the caster, both you and your familiar are affected. You must be able to cast 6th-level spells using spell slots to select this.</p>"
-		},
-		{
-			"id": "Tattoo Transformation",
-			"name": "Tattoo Transformation",
-			"description": "<p>Your familiar can transform into a tattoo you carry on your flesh. When transformed into a tattoo, the familiar looks like a colorful and stylized version of itself and can't act except to turn back into a familiar. It isn't affected by area effects and must be targeted separately to affect it, which requires knowledge that it's a creature. This means you and your allies can heal or assist the familiar while most enemies stay unaware of its true nature. Creatures must attempt a @Check[type:perception|dc:20|showDC:all] check to Seek to realize a tattoo is actually a familiar (which few foes will try). Your familiar can still communicate its feelings empathically. Transforming into a tattoo or back to familiar form is a 1-minute activity that has the concentrate trait.</p>"
-		},
-		{
-			"id": "Threat Display",
-			"name": "Threat Display",
-			"description": "<p>Your familiar helps you convey wordless threats through body language.</p>\n<p>Whenever you attempt an Intimidation check to @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Demoralize} a creature, if your familiar is within 30 feet of your target and can act, it accompanies you with snarls, hisses, or raising its hackles.</p>\n<p>If it can do so, you don't take the normal -4 penalty on the Intimidation check if your target doesn't understand the language you're speaking.</p>"
-		},
-		{
-			"id": "Toolbearer",
-			"name": "Toolbearer",
-			"description": "<p>Your familiar can carry a set of tools of up to light Bulk. So long as your familiar is adjacent to you, you can draw and replace the tools as part of the action that uses them as if you were wearing them. Your familiar must have the manual dexterity ability to select this.</p>"
-		},
-		{
-			"id": "Touch Telepathy",
-			"name": "Touch Telepathy",
-			"description": "<p>Your familiar can telepathically communicate with you via touch. If it also has the speech ability, it can telepathically communicate via touch with any creature if they share a language.</p>"
-		},
-		{
-			"id": "Tough",
-			"name": "Tough",
-			"description": "<p>Your familiar's max HP increase by 2 per level.</p>"
-		},
-		{
-			"id": "Tremorsense",
-			"name": "Tremorsense",
-			"description": "<p>Your familiar is keenly aware of any vibrations traveling through a surface. It gains imprecise tremorsense with a range of 30 feet.</p>"
-		},
-		{
-			"id": "Valet",
-			"name": "Valet",
-			"description": "<p>You can command your familiar to deliver you items more efficiently. Your familiar doesn't use its 2 actions immediately upon your command. Instead, up to twice before the end of your turn, you can have your familiar Interact to retrieve an item of light or negligible Bulk you are wearing and place it into one of your free hands. The familiar can't use this ability to retrieve stowed items. If the familiar has a different number of actions, it can retrieve one item for each action it has when commanded this way.</p>"
-		},
-		{
-			"id": "Verdant Burst",
-			"name": "Verdant Burst",
-			"description": "<p>Prequisites @Compendium[pf2e.feats-srd.baz18CdB13DVMHV9]{Leshy Familiar Secrets}</p>\n<p>When your familiar dies,it releases its primal energy to cast the 3-action version of <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{Heal}</em>, heightened to a level 1 lower than your highest-level spell slot. The <em>heal</em> spell gains a status bonus equal to twice the spell's level to the Hit Points it restores to plants. You must be able to cast 2nd-level spells using spell slots to select this familiar ability.</p>"
-		},
-		{
-			"id": "Wavesense",
-			"name": "Wavesense",
-			"description": "<p>Your familiar can sense vibrations in the water. It gains imprecise wavesense with a range of 30 feet.</p>"
-		}
-	]
+  "label": "Familiar Abilities",
+  "entries": [
+    {
+      "id": "Accompanist",
+      "name": "Acompañante",
+      "description": "<p> Tu familiar te ayuda a actuar. Siempre que intentes un chequeo de Interpretación, si tu familiar está cerca y puede actuar, te acompaña con chirridos, palmas o su propio instrumento en miniatura. Esto te otorga un bonificador de circunstancia de +1, o +2 si eres un maestro en Interpretación. Tu familiar te ayuda a actuar. Siempre que intentes un chequeo de Interpretación, si tu familiar está cerca y puede actuar, te acompaña con chirridos, palmas o su propio instrumento en miniatura. Esto te otorga un bonificador de circunstancia de +1, o +2 si eres un maestro en Interpretación.</p>"
+    },
+    {
+      "id": "Ambassador",
+      "name": "Emisario",
+      "description": "<p>Tu familiar sabe cómo actuar de forma simpática o centrada a tiempo, lo que te ayuda a causar una buena impresión.</p>\n<p>A pesar de ser un esbirro, tu familiar gana 1 reacción al inicio de sus turnos, que sólo puede utilizar para @Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]{ayudarte}en una prueba de Diplomacia para @Compendium[pf2e.actionspf2e.OX4fy22hQgUHDr0q]{causar impresión} (todavía tiene que prepararse para ayudarte como es normal para la reacción de ayuda, lo que requiere que participe durante toda la actividad).</p>\n<p>Tiene éxito automáticamente en su prueba para Ayudarte con esas habilidades, o tiene éxito crítico automáticamente si eres un maestro de la habilidad en cuestión.</p>"
+    },
+    {
+      "id": "Amphibious",
+      "name": "Anfibio",
+      "description": "<p>Gana una Velocidad de nado de 25 pies (o Velocidad de 25 pies si ya tiene una Velocidad de nado).</p>"
+    },
+    {
+      "id": "Burrower",
+      "name": "Excavador",
+      "description": "<p>Obtiene una velocidad de excavación de 1,5 metros, lo que le permite cavar agujeros diminutos.</p>"
+    },
+    {
+      "id": "Cantrip Connection",
+      "name": "Conexión de Trucos",
+      "description": "<p>Puedes preparar un truco adicional o, si tienes un repertorio, designar en su lugar un truco para añadirlo a tu repertorio cada vez que selecciones esta habilidad; puedes volver a entrenarlo pero no puedes cambiarlo de otro modo. Debes ser capaz de preparar trucos o añadirlos a tu repertorio para seleccionar esto.</p>"
+    },
+    {
+      "id": "Climber",
+      "name": "Trepador",
+      "description": "<p>Gana una velocidad de ascenso de 25 pies.</p>"
+    },
+    {
+      "id": "Damage Avoidance: Fortitude",
+      "name": "Evitar el daño: Fortaleza",
+      "description": "<p>No recibe daño cuando tiene éxito en las salvaciones de Fortaleza; esto no evita los efectos que no sean de daño.</p>"
+    },
+    {
+      "id": "Damage Avoidance: Reflex",
+      "name": "Evitar el daño: Reflejos",
+      "description": "<p>No recibe daño cuando tiene éxito en las salvaciones de Reflejos; esto no impide los efectos que no sean de daño.</p>"
+    },
+    {
+      "id": "Damage Avoidance: Will",
+      "name": "Evitar daños: Voluntad",
+      "description": "<p>No recibe daño cuando tiene éxito en las salvaciones de Voluntad; esto no evita los efectos que no sean de daño.</p>"
+    },
+    {
+      "id": "Darkeater",
+      "name": "Tragasombras",
+      "description": "<p>Tu familiar se recupera de forma natural en las sombras. Tras pasar 10 minutos consecutivos en una zona de luz tenue u oscuridad, tu familiar recupera un número de puntos de vida igual a la mitad de tu nivel.</p>\n<p>Esta habilidad es para un familiar de sombra. Sin embargo, un hechicero puede seleccionar esta habilidad para cualquier tipo de familiar.</p>"
+    },
+    {
+      "id": "Darkvision",
+      "name": "Visión en la Oscuridad",
+      "description": "<p>Obtiene Visión en la Oscuridad.</p>"
+    },
+    {
+      "id": "Extra Reagents",
+      "name": "Reactivos Adicionales",
+      "description": "<p>tu familiar crea reactivos infundidos adicionales en su cuerpo o en la superficie del mismo. Obtienes un lote adicional de reactivos infundidos. Para seleccionar esta aptitud, debes disponer de la aptitud reactivos infundidos.</p>"
+    },
+    {
+      "id": "Familiar Focus",
+      "name": "Foco de Familiar",
+      "description": "<p>una vez al día, tu familiar puede utilizar 2 acciones con el rasgo concentrar para recuperar 1 Punto de Foco hasta tu máximo habitual. Para seleccionar esto debes tener reserva de foco.</p>"
+    },
+    {
+      "id": "Fast Movement: Climb",
+      "name": "Movimiento Rápido: Trepar",
+      "description": "<p>Aumenta la Velocidad de ascenso del familiar de 25 pies a 40 pies.</p>"
+    },
+    {
+      "id": "Fast Movement: Fly",
+      "name": "Movimiento Rápido: Volar",
+      "description": "<p>Aumenta la velocidad de vuelo del familiar de 25 pies a 40 pies.</p>"
+    },
+    {
+      "id": "Fast Movement: Land",
+      "name": "Movimiento Rápido: Terrestre",
+      "description": "<p>Aumenta la Velocidad terrestre del familiar de 25 pies a 40 pies.</p>"
+    },
+    {
+      "id": "Fast Movement: Swim",
+      "name": "Movimiento Rápido: Nadar",
+      "description": "<p>Aumenta la Velocidad de nado del familiar de 25 pies a 40 pies.</p>"
+    },
+    {
+      "id": "Flier",
+      "name": "Volador",
+      "description": "<p>Obtiene una velocidad de vuelo de 25 pies</p>"
+    },
+    {
+      "id": "Focused Rejuvenation",
+      "name": "Rejuvenecimiento focalizado",
+      "description": "<p>Cuando te reenfocas, generas energía mágica que cura a tu familiar. Tu familiar recupera 1 punto de vida por nivel cada vez que te reenfocas.</p>"
+    },
+    {
+      "id": "Gills",
+      "name": "Branquias",
+      "description": "<p>A tu familiar le crecen unas branquias que le permiten respirar agua además de aire.</p>"
+    },
+    {
+      "id": "Grasping Tendrils",
+      "name": "Zarcillos de agarre",
+      "description": "<p>Prerrequisitos @Compendium[pf2e.feats-srd.baz18CdB13DVMHV9]{Leshy Familiar Secrets}</p>\n<p>Tu familiar puede extender enredaderas o zarcillos similares, aumentando su alcance a 15 pies.</p>"
+    },
+    {
+      "id": "Greater Resistance",
+      "name": "Resistencia Aumentada",
+      "description": "<p>Tu familiar aumenta la resistencia que obtiene de su habilidad de resistencia familiar a 3 + la mitad de tu nivel. Tu familiar debe tener la habilidad @Compendium[pf2e.familiar-abilities.FcQQLMAJMgOLjnSv]{Resistencia} para poder seleccionar esto</p>"
+    },
+    {
+      "id": "Independent",
+      "name": "Independiente",
+      "description": "<p>En un encuentro, si no mandas a tu familiar, éste sigue ganando 1 acción cada ronda. Normalmente, tú decides cómo gastar esa acción, pero el GM puede determinar que tu familiar elija su propia táctica en lugar de realizar tu acción preferida. Esto no funciona con @Compendium[pf2e.familiar-abilities.9PsptrEoCC4QdM23]{Valet} o habilidades similares que requieren un comando, si eres capaz de montar tu familiar, o situaciones similares.</p>"
+    },
+    {
+      "id": "Innate Surge",
+      "name": "Surgimiento innato",
+      "description": "<p>Una vez al día, puedes recurrir a la magia innata de tu familiar para reponer la tuya. Puedes lanzar un hechizo innato obtenido de una proeza de ascendencia que ya hayas lanzado hoy. Todavía debes lanzar el hechizo y cumplir los demás requisitos del mismo.</p>"
+    },
+    {
+      "id": "Kinspeech",
+      "name": "Habla de su Especie",
+      "description": "<p>puede hablar y entenderse con animales de su misma especie. Para seleccionar esto, el familiar tiene que ser un animal, tener la habilidad del habla y tú ser de por lo menos 6º nivel.</p>"
+    },
+    {
+      "id": "Lab Assistant",
+      "name": "Ayudante de Laboratorio",
+      "description": "<p>puede utilizar tu acción Alquimia rápida. Debes disponer de Alquimia rápida y tu familiar debe estar en tu espacio. El coste y el requisito son los mismos que si la utilizaras tú. Para seleccionarlo, debe disponer de la aptitud destreza manual.</p>"
+    },
+    {
+      "id": "Lifelink",
+      "name": "Unión Vital",
+      "description": "<p>si tu familiar quedaría reducido a 0 PG debido a sufrir daño, y como una reacción con el rasgo concentrar, el daño puedes asumirlo tú. Si lo haces, sufres todo el daño y tu familiar, ninguno. Sin embargo, todo efecto especial que causa daño con un impacto (como, por ejemplo, el veneno de serpiente), se aplica al familiar de la forma habitual.</p>"
+    },
+    {
+      "id": "Major Resistance",
+      "name": "Resistencia Mayor",
+      "description": "<p>Tu familiar aumenta la resistencia que obtiene de su habilidad de resistencia familiar hasta un valor igual a tu nivel. Para seleccionar esto, tu familiar debe tener la habilidad de @Compendium[pf2e.familiar-abilities.zKTL9y9et0oTHEYS]{Resistencia Aumentada} y tñu debes ser al menos de octavo nivel</p>"
+    },
+    {
+      "id": "Manual Dexterity",
+      "name": "Destreza Manual",
+      "description": "<p>puede utilizar hasta dos de sus extremidades como si fueran manos para llevar a cabo acciones de manipular..</p>"
+    },
+    {
+      "id": "Mask Freeze",
+      "name": "Mascara Pétrea",
+      "description": "<p>Cuando está en forma de máscara, tu familiar puede ocultar sus evidentes cualidades sobrenaturales para pasar por una simple y sencilla máscara. No necesita hacerse pasar por él para engañar a una mirada pasajera, y obtiene un bonificador de circunstancia +4 a su CD de Engaño contra un observador activo que lo busque o estudie de alguna manera.</p>"
+    },
+    {
+      "id": "Master's Form",
+      "name": "Maestro de la Forma",
+      "description": "<p>Tu familiar puede cambiar de forma como una sola acción, transformándose en un humanoide de tu ascendencia con la misma edad, sexo y complexión de su verdadera forma, aunque siempre mantiene un remanente claramente antinatural de su naturaleza, como los ojos de un gato o la lengua de una serpiente. Esta forma es siempre la misma cada vez que utiliza esta habilidad. Por lo demás, utiliza los efectos de la <em>forma humanoide</em>, salvo que el cambio es puramente cosmético. Sólo aparece como humanoide y no gana ninguna capacidad nueva. Tu familiar debe tener las habilidades de destreza manual y habla para seleccionar esto.</p>"
+    },
+    {
+      "id": "Partner in Crime",
+      "name": "Socio Criminal",
+      "description": "<p>Tu familiar es tu socio criminal. A pesar de ser un súbdito, tu familiar gana 1 reacción al comienzo de sus turnos, que sólo puede utilizar para ayudarte en un chequeo de habilidad de Engaño o Robo (todavía tiene que prepararse para ayudarte como es normal para la reacción de Ayuda). Tiene éxito automáticamente en su chequeo para ayudarte con esas habilidades o tiene éxito crítico automáticamente si eres un maestro de la habilidad en cuestión</p>"
+    },
+    {
+      "id": "Plant Form",
+      "name": "Plant Form",
+      "description": "<p>Tu familiar vegetal puede cambiar de forma como acción única, transformándose en una planta diminuta de un tipo más o menos similar a la naturaleza del familiar. De lo contrario, utiliza los efectos de la <em>forma de árbol</em>.Debes tener un familiar con el rasgo de planta, como un leshy, para seleccionar esta habilidad.</p>"
+    },
+    {
+      "id": "Poison Reservoir",
+      "name": "Reserva de Veneno",
+      "description": "<p>Tu familiar homúnculo tiene una reserva de veneno, lo que le permite aplicar un veneno de daño al arma expuesta de un aliado adyacente con una sola acción de Interacción. Debes suministrar el veneno e infundirlo en este depósito utilizando dos acciones de Interacción consecutivas. Debes tener un homúnculo familiar para seleccionar esta habilidad.</p>"
+    },
+    {
+      "id": "Purify Air",
+      "name": "Purificador de Aire",
+      "description": "<p>Prerrequisitos @Compendium[pf2e.feats-srd.baz18CdB13DVMHV9]{Secretos Familiares Leshy}</p>\n<p>Tu familiar recicla el aire, proporcionando suficiente oxígeno para una criatura mediana en áreas con aire viciado, como una cámara sellada o un espacio extradimensional. Si el leshy se encuentra dentro del área de un efecto de veneno inhalado o de un efecto que se base en el olor, las criaturas que se encuentren dentro de una emanación de @Template[type:emanation|distance:15] del leshy obtienen un bonificador de circunstancia +2 a sus tiradas de salvación contra el efecto.</p>"
+    },
+    {
+      "id": "Recall Familiar",
+      "name": "Llamar Familiar",
+      "description": "<p>Puedes convocar a tu familiar a tu lado. Una vez al día, puedes utilizar una actividad de 3 acciones, que tiene el rasgo de concentración, para teletransportar a tu familiar a tu espacio. Tu familiar debe estar en un radio de 1 milla o el intento de invocación falla. Este es un efecto de conjuración y teletransporte.</p>"
+    },
+    {
+      "id": "Resistance",
+      "name": "Resistencia",
+      "description": "<p>Elige dos de los siguientes: ácido, frío, electricidad, fuego, veneno o sónico. Tu familiar gana una resistencia igual a la mitad de tu nivel contra los tipos de daño elegidos.</p>"
+    },
+    {
+      "id": "Restorative Familiar",
+      "name": "Familiar Restaurador",
+      "description": "<p>Una vez al día, tu familiar puede usar 2 acciones con el rasgo de concentración para ceder parte de su energía animadora y curarte. Debe estar en tu espacio para hacerlo. Restaura un número de puntos de golpe igual a [[/r max(floor(@actor.level/2)d8, 1d8)]]{1d8 times half your level} (minimo 1d8).</p>"
+    },
+    {
+      "id": "Scent",
+      "name": "Olfato",
+      "description": "<p>Obtiene olfato (impreciso, 30 pies).</p>"
+    },
+    {
+      "id": "Second Opinion",
+      "name": "Segunda Opinión",
+      "description": "<p>Tu familiar es tu confidente académico. </p>\n<p>A pesar de ser un súbdito, tu familiar gana 1 reacción al comienzo de sus turnos, que sólo puede utilizar para @Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]{Ayudarte}en un chequeo de conocimiento de una habilidad en la que tenga la habilidad de familiar  @Compendium[pf2e.familiar-abilities.jevzf9JbJJibpqaI]{Experto} (aún tiene que prepararse para ayudarte como es normal para la reacción de ayuda). Tiene éxito automáticamente en su chequeo para Ayudarte con esas habilidades o tiene éxito crítico automáticamente si eres un maestro de la habilidad en cuestión. Tu familiar debe tener la habilidad de destreza para seleccionarla.</p>"
+    },
+    {
+      "id": "Shadow Step",
+      "name": "Shadow Step",
+      "description": "<p>Esta habilidad es para un familiar de las sombras. Sin embargo, un @Compendium[pf2e.feats-srd.ncrNQcwm4gOQRAA3]{Hechicero} puede seleccionar esta habilidad para cualquier tipo de familiar.  Tu familiar gana la habilidad @Compendium[pf2e.actionspf2e.VQ5OxaDKE0lCj8Mr]{Paso Sombrio} action.</p>\n<p>Debes ser al menos de 7º nivel para seleccionar esta habilidad para tu familiar.</p>"
+    },
+    {
+      "id": "Share Senses",
+      "name": "Intercambiar Sentidos",
+      "description": "<p>Una vez cada 10 minutos, puedes utilizar una única acción con el rasgo de concentración para proyectar tus sentidos en tu familiar. Cuando lo haces, pierdes toda la información sensorial de tu propio cuerpo, pero puedes sentir a través del cuerpo de tu familiar hasta 1 minuto. Puedes rechazar este efecto.</p>"
+    },
+    {
+      "id": "Skilled",
+      "name": "Entrenado",
+      "description": "<p>Elige una habilidad que no sea Acrobacia o Sigilo. El modificador de tu familiar para esa habilidad es igual a tu nivel más tu modificador de habilidad de lanzamiento de hechizos clave, en lugar de sólo tu nivel. Puedes seleccionar esta habilidad repetidamente, eligiendo una habilidad diferente cada vez.</p>"
+    },
+    {
+      "id": "Snoop",
+      "name": "Snoop",
+      "description": "<p>Tu familiar mantiene los ojos y los oídos abiertos, listo para transmitir cada chisme que capta, ayudándote a reunir información. </p>\n<p>A pesar de ser un súbdito, tu familiar gana 1 reacción al comienzo de sus turnos, que sólo puede utilizar para  @Compendium[pf2e.actionspf2e.HCl3pzVefiv9ZKQW]{Ayudarte}en un chequeo de Diplomacia para @Compendium[pf2e.actionspf2e.plBGdZhqq5JBl1D8]{reunir información} (sigue teniendo que prepararse para ayudarte como es normal para la reacción de Ayuda, que requiere que participe durante toda la actividad).</p>\n<p>Tiene éxito automáticamente en su chequeo para Ayudarte con esas habilidades o tiene éxito crítico automáticamente si eres un maestro de la habilidad en cuestión.</p>"
+    },
+    {
+      "id": "Speech",
+      "name": "Habla",
+      "description": "<p>habla y entiende un idioma que tú conoces.</p>"
+    },
+    {
+      "id": "Spell Battery",
+      "name": "Batería de Conjuros",
+      "description": "<p>obtienes un espacio de conjuro adicional por lo menos 3 niveles inferior que tu espacio de mayor nivel; para seleccionar esta aptitud maestra debes ser capaz de lanzar conjuros de 4º nivel utilizando espacios de conjuro.</p>"
+    },
+    {
+      "id": "Spell Delivery",
+      "name": "Transmisión de Conjuros",
+      "description": "<p>si tu familiar se encuentra en tu espacio, puedes lanzar un conjuro de alcance toque, transferir su poder a tu familiar y ordenar a éste que lo transmita. Si lo haces, el familiar utiliza sus 2 acciones en ese asalto para moverse hasta un objetivo a tu elección y tocarlo. Si no llega hasta el objetivo para tocarlo en su turno, el conjuro no surte efecto.</p>"
+    },
+    {
+      "id": "Spellcasting",
+      "name": "Lanzador de Conjuros",
+      "description": "<p>Elige un hechizo de tu repertorio o que hayas preparado hoy que sea al menos 5 niveles inferior a tu ranura de hechizo de mayor nivel. Tu familiar puede lanzar ese hechizo una vez al día utilizando tu tradición mágica, el modificador de ataque del hechizo y la CD del mismo. Si el hechizo tiene un inconveniente que afecta al lanzador, tanto tú como tu familiar se ven afectados. Debes ser capaz de lanzar conjuros de 6º nivel utilizando ranuras de conjuro para seleccionar esta habilidad. Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator</p>"
+    },
+    {
+      "id": "Tattoo Transformation",
+      "name": "Transformación Tattoo",
+      "description": "<p>Tu familiar puede transformarse en un tatuaje que llevas en tu carne. Cuando se transforma en un tatuaje, el familiar tiene el aspecto de una versión colorida y estilizada de sí mismo y no puede actuar salvo para volver a convertirse en familiar. No le afectan los efectos de área y hay que apuntar por separado para que le afecten, lo que requiere saber que es una criatura. Esto significa que tú y tus aliados podéis curar o ayudar al familiar, mientras que la mayoría de los enemigos desconocen su verdadera naturaleza.Las criaturas deben intentar una prueba @Check[type:perception|dc:20|showDC:all] para darse cuenta de que un tatuaje es en realidad un familiar (lo que pocos enemigos intentarán). Tu familiar aún puede comunicar sus sentimientos empáticamente. Transformarse en un tatuaje o volver a la forma familiar es una actividad de 1 minuto que tiene el rasgo de concentración.</p>"
+    },
+    {
+      "id": "Threat Display",
+      "name": "Threat Display",
+      "description": "<p>Tu familiar te ayuda a transmitir amenazas sin palabras a través del lenguaje corporal.</p>\n<p>Siempre que intentes un chequeo de @Compendium[pf2e.actionspf2e.2u915NdUyQan6uKF]{Intimidación} para desmoralizar a una criatura, si tu familiar está a menos de 30 pies de tu objetivo y puede actuar, te acompaña con gruñidos, siseos o erizando los pelos. </p>\n<p>Si puede hacerlo, no sufres el penalizador normal de -4 al chequeo de Intimidación si tu objetivo no entiende el idioma que hablas.</p>"
+    },
+    {
+      "id": "Toolbearer",
+      "name": "Transportaherramientas",
+      "description": "<p>Tu familiar puede llevar un conjunto de herramientas de como máximo un bulto ligero. Mientras tu familiar esté adyacente a ti, puedes sacar y reemplazar las herramientas como parte de la acción que las usa, como si las llevaras. Tu familiar debe tener la habilidad de destreza manual para seleccionar esto.</p>"
+    },
+    {
+      "id": "Touch Telepathy",
+      "name": "Telepatía Táctil",
+      "description": "<p>Tu familiar puede comunicarse telepáticamente contigo a través del tacto. Si también tiene la habilidad de habla, puede comunicarse telepáticamente a través del tacto con cualquier criatura si comparten un idioma.</p>"
+    },
+    {
+      "id": "Tough",
+      "name": "Duro",
+      "description": "<p>Los puntos de vida máximos de tu familiar aumentan en 2 por nivel.</p>"
+    },
+    {
+      "id": "Tremorsense",
+      "name": "Sentido del Temblor",
+      "description": "<p>Tu familiar es muy consciente de cualquier vibración que se produzca en una superficie. Obtiene un sentido de temblor impreciso con un alcance de 30 pies.</p>"
+    },
+    {
+      "id": "Valet",
+      "name": "Valet",
+      "description": "<p>Puedes ordenar a tu familiar que te entregue objetos de forma más eficiente. Tu familiar no utiliza sus 2 acciones inmediatamente después de tu orden. En su lugar, hasta dos veces antes del final de tu turno, puedes hacer que tu familiar Interactúe para recuperar un objeto de bulto ligero o insignificante que lleves puesto y lo coloque en una de tus manos libres. El familiar no puede utilizar esta habilidad para recuperar objetos guardados. Si el familiar tiene un número diferente de acciones, puede recuperar un objeto por cada acción que tenga cuando se le ordena de esta manera.</p>"
+    },
+    {
+      "id": "Verdant Burst",
+      "name": "Verdant Burst",
+      "description": "<p>Prerrequisitos @Compendium[pf2e.feats-srd.baz18CdB13DVMHV9]{Familiares secretos Leshy}</p>\n<pCuando tu familiar muere, libera su energía primordial para lanzar la versión de 3 acciones de <em>@Compendium[pf2e.spells-srd.rfZpqmj0AIIdkVIs]{curar}</em>, aumentada a un nivel 1 inferior al de tu ranura de conjuro de mayor nivel.El Hechizo de  <em>curar</em> obtiene un bono de estado igual al doble del nivel del hechizo a los Puntos de Golpe que restaura a las plantas. Debes ser capaz de lanzar conjuros de 2º nivel utilizando ranuras de conjuro para seleccionar esta habilidad familiar.</p>"
+    },
+    {
+      "id": "Wavesense",
+      "name": "Sensible a las Olas",
+      "description": "<p>Tu familiar puede sentir las vibraciones en el agua. Obtiene un sentido de las olas impreciso con un alcance de 9 metros.</p>"
+    }
+  ]
 }
