@@ -1,121 +1,121 @@
 {
-	"label": "Bestiary 1",
+	"label": "Bestiario 1",
 	"entries": [
 		{
 			"id": "Aasimar Redeemer",
-			"name": "Aasimar Redeemer"
+			"name": "Aasimar redentor (retoño planario)"
 		},
 		{
 			"id": "Adamantine Golem",
-			"name": "Adamantine Golem"
+			"name": "Gólem de adamantita"
 		},
 		{
 			"id": "Adult Black Dragon",
-			"name": "Adult Black Dragon"
+			"name": "Dragón negro adulto"
 		},
 		{
 			"id": "Adult Black Dragon (Spellcaster)",
-			"name": "Adult Black Dragon (Spellcaster)"
+			"name": "Dragones negros adultos(Lanzadores de conjuros)"
 		},
 		{
 			"id": "Adult Blue Dragon",
-			"name": "Adult Blue Dragon"
+			"name": "Dragón azul adulto"
 		},
 		{
 			"id": "Adult Blue Dragon (Spellcaster)",
-			"name": "Adult Blue Dragon (Spellcaster)"
+			"name": "Dragones azules adultos (Lanzadores de conjuros)"
 		},
 		{
 			"id": "Adult Brass Dragon",
-			"name": "Adult Brass Dragon"
+			"name": "Dragón de oropel adulto"
 		},
 		{
 			"id": "Adult Brass Dragon (Spellcaster)",
-			"name": "Adult Brass Dragon (Spellcaster)"
+			"name": "Dragones de oropel adultos (Lanzadores de conjuros)"
 		},
 		{
 			"id": "Adult Bronze Dragon",
-			"name": "Adult Bronze Dragon"
+			"name": "Dragón de bronce adulto"
 		},
 		{
 			"id": "Adult Bronze Dragon (Spellcaster)",
-			"name": "Adult Bronze Dragon (Spellcaster)"
+			"name": "Dragones de bronce adultos (Lanzadores de conjuros)"
 		},
 		{
 			"id": "Adult Copper Dragon",
-			"name": "Adult Copper Dragon"
+			"name": "Dragón de cobre adulto"
 		},
 		{
 			"id": "Adult Copper Dragon (Spellcaster)",
-			"name": "Adult Copper Dragon (Spellcaster)"
+			"name": "Dragones de cobre adultos (Lanzadores de conjuros)"
 		},
 		{
 			"id": "Adult Gold Dragon",
-			"name": "Adult Gold Dragon"
+			"name": "Dragón de oro adulto"
 		},
 		{
 			"id": "Adult Gold Dragon (Spellcaster)",
-			"name": "Adult Gold Dragon (Spellcaster)"
+			"name": "Dragones de oro adultos (Lanzadores de conjuros)"
 		},
 		{
 			"id": "Adult Green Dragon",
-			"name": "Adult Green Dragon"
+			"name": "Dragón verde adulto"
 		},
 		{
 			"id": "Adult Green Dragon (Spellcaster)",
-			"name": "Adult Green Dragon (Spellcaster)"
+			"name": "Dragones verdes adultos (Lanzadores de conjuros)"
 		},
 		{
 			"id": "Adult Red Dragon",
-			"name": "Adult Red Dragon"
+			"name": "Dragón rojo adulto"
 		},
 		{
 			"id": "Adult Red Dragon (Spellcaster)",
-			"name": "Adult Red Dragon (Spellcaster)"
+			"name": "Dragones rojos adultos (Lanzadores de conjuros)"
 		},
 		{
 			"id": "Adult Silver Dragon",
-			"name": "Adult Silver Dragon"
+			"name": "Dragón de plata"
 		},
 		{
 			"id": "Adult Silver Dragon (Spellcaster)",
-			"name": "Adult Silver Dragon (Spellcaster)"
+			"name": "Dragones de plata adultos (Lanzadores de conjuros)"
 		},
 		{
 			"id": "Adult White Dragon",
-			"name": "Adult White Dragon"
+			"name": "Dragón blanco"
 		},
 		{
 			"id": "Adult White Dragon (Spellcaster)",
-			"name": "Adult White Dragon (Spellcaster)"
+			"name": "Dragones blancos adultos (Lanzadores de conjuros)"
 		},
 		{
 			"id": "Air Mephit",
-			"name": "Air Mephit"
+			"name": "Méfit de aire"
 		},
 		{
 			"id": "Alchemical Golem",
-			"name": "Alchemical Golem"
+			"name": "Gólem alquímico"
 		},
 		{
 			"id": "Alghollthu Master",
-			"name": "Alghollthu Master"
+			"name": "Alghollthu amo"
 		},
 		{
 			"id": "Ancient Black Dragon",
-			"name": "Ancient Black Dragon"
+			"name": "Dragón negro venerable"
 		},
 		{
 			"id": "Ancient Black Dragon (Spellcaster)",
-			"name": "Ancient Black Dragon (Spellcaster)"
+			"name": "Dragones negros venerables (Lanzadores de conjuros)"
 		},
 		{
 			"id": "Ancient Blue Dragon",
-			"name": "Ancient Blue Dragon"
+			"name": "Dragón azul venerable"
 		},
 		{
 			"id": "Ancient Blue Dragon (Spellcaster)",
-			"name": "Ancient Blue Dragon (Spellcaster)"
+			"name": "Dragones azules venerables (Lanzadores de conjuros)"
 		},
 		{
 			"id": "Ancient Brass Dragon",
@@ -123,75 +123,75 @@
 		},
 		{
 			"id": "Ancient Brass Dragon (Spellcaster)",
-			"name": "Ancient Brass Dragon (Spellcaster)"
+			"name": "Ancient Brass Dragon (Lanzadores de conjuros)"
 		},
 		{
 			"id": "Ancient Bronze Dragon",
-			"name": "Ancient Bronze Dragon"
+			"name": "Dragón de bronce venerable"
 		},
 		{
 			"id": "Ancient Bronze Dragon (Spellcaster)",
-			"name": "Ancient Bronze Dragon (Spellcaster)"
+			"name": "Dragones de bronce venerables (Lanzadores de conjuros)"
 		},
 		{
 			"id": "Ancient Copper Dragon",
-			"name": "Ancient Copper Dragon"
+			"name": "Dragón de cobre venerable"
 		},
 		{
 			"id": "Ancient Copper Dragon (Spellcaster)",
-			"name": "Ancient Copper Dragon (Spellcaster)"
+			"name": "Dragones de cobre venerables (Lanzadores de conjuros)"
 		},
 		{
 			"id": "Ancient Gold Dragon",
-			"name": "Ancient Gold Dragon"
+			"name": "Dragón de oro venerable"
 		},
 		{
 			"id": "Ancient Gold Dragon (Spellcaster)",
-			"name": "Ancient Gold Dragon (Spellcaster)"
+			"name": "Dragones de oro venerables (Lanzadores de conjuros)"
 		},
 		{
 			"id": "Ancient Green Dragon",
-			"name": "Ancient Green Dragon"
+			"name": "Dragón verde venerable"
 		},
 		{
 			"id": "Ancient Green Dragon (Spellcaster)",
-			"name": "Ancient Green Dragon (Spellcaster)"
+			"name": "Dragones verdes venerables (Lanzadores de conjuros)"
 		},
 		{
 			"id": "Ancient Red Dragon",
-			"name": "Ancient Red Dragon"
+			"name": "Dragón rojo venerable"
 		},
 		{
 			"id": "Ancient Red Dragon (Spellcaster)",
-			"name": "Ancient Red Dragon (Spellcaster)"
+			"name": "Dragones rojos venerables (Lanzadores de conjuros)"
 		},
 		{
 			"id": "Ancient Silver Dragon",
-			"name": "Ancient Silver Dragon"
+			"name": "Dragón de plata venerable"
 		},
 		{
 			"id": "Ancient Silver Dragon (Spellcaster)",
-			"name": "Ancient Silver Dragon (Spellcaster)"
+			"name": "Dragones de plata venerables (Lanzadores de conjuros)"
 		},
 		{
 			"id": "Ancient White Dragon",
-			"name": "Ancient White Dragon"
+			"name": "Dragón blanco venerable"
 		},
 		{
 			"id": "Ancient White Dragon (Spellcaster)",
-			"name": "Ancient White Dragon (Spellcaster)"
+			"name": "Dragones blancos venerables (Lanzadores de conjuros)"
 		},
 		{
 			"id": "Animated Armor",
-			"name": "Animated Armor"
+			"name": "Armadura animada"
 		},
 		{
 			"id": "Animated Broom",
-			"name": "Animated Broom"
+			"name": "Escoba animada"
 		},
 		{
 			"id": "Animated Statue",
-			"name": "Animated Statue"
+			"name": "Estatua animada"
 		},
 		{
 			"id": "Ankhrav",
@@ -203,51 +203,51 @@
 		},
 		{
 			"id": "Annis Hag",
-			"name": "Annis Hag"
+			"name": "Saga Annis"
 		},
 		{
 			"id": "Arbiter",
-			"name": "Arbiter"
+			"name": "Arbitrador"
 		},
 		{
 			"id": "Arboreal Regent",
-			"name": "Arboreal Regent"
+			"name": "Regente arboral"
 		},
 		{
 			"id": "Arboreal Warden",
-			"name": "Arboreal Warden"
+			"name": "Custodio arboral"
 		},
 		{
 			"id": "Astradaemon",
-			"name": "Astradaemon"
+			"name": "Astradaimonion"
 		},
 		{
 			"id": "Astral Deva",
-			"name": "Astral Deva"
+			"name": "Deva astral (Angel)"
 		},
 		{
 			"id": "Awakened Tree",
-			"name": "Awakened Tree"
+			"name": "Árbol animado"
 		},
 		{
 			"id": "Axiomite",
-			"name": "Axiomite"
+			"name": "Axiomita"
 		},
 		{
 			"id": "Azure Worm",
-			"name": "Azure Worm"
+			"name": "Gusano azul"
 		},
 		{
 			"id": "Balisse",
-			"name": "Balisse"
+			"name": "Balisse (Ángel confesor)"
 		},
 		{
 			"id": "Ball Python",
-			"name": "Ball Python"
+			"name": "Pitón bola"
 		},
 		{
 			"id": "Balor",
-			"name": "Balor"
+			"name": "Bálor (demonio)"
 		},
 		{
 			"id": "Banshee",
@@ -259,7 +259,7 @@
 		},
 		{
 			"id": "Barbazu",
-			"name": "Barbazu"
+			"name": "Barbazu (diablo)"
 		},
 		{
 			"id": "Barghest",
@@ -267,15 +267,15 @@
 		},
 		{
 			"id": "Basilisk",
-			"name": "Basilisk"
+			"name": "Basilisco"
 		},
 		{
 			"id": "Black Kobold Dragon Mage",
-			"name": "Black Kobold Dragon Mage"
+			"name": "Kóbold mago dragón negro"
 		},
 		{
 			"id": "Black Pudding",
-			"name": "Black Pudding"
+			"name": "Pudin negro"
 		},
 		{
 			"id": "Bloodseeker",
@@ -283,43 +283,43 @@
 		},
 		{
 			"id": "Blue Kobold Dragon Mage",
-			"name": "Blue Kobold Dragon Mage"
+			"name": "Kóbold mago dragón azul"
 		},
 		{
 			"id": "Boar",
-			"name": "Boar"
+			"name": "Jabalí"
 		},
 		{
 			"id": "Boggard Scout",
-			"name": "Boggard Scout"
+			"name": "Boggard batidor"
 		},
 		{
 			"id": "Boggard Swampseer",
-			"name": "Boggard Swampseer"
+			"name": "Boggard vidente de la ciénaga"
 		},
 		{
 			"id": "Boggard Warrior",
-			"name": "Boggard Warrior"
+			"name": "Boggard combatiente"
 		},
 		{
 			"id": "Brain Collector",
-			"name": "Brain Collector"
+			"name": "Recolector de cerebros"
 		},
 		{
 			"id": "Brine Shark",
-			"name": "Brine Shark"
+			"name": "Tiburón de salmuera (elemental de agua)"
 		},
 		{
 			"id": "Brontosaurus",
-			"name": "Brontosaurus"
+			"name": "Brontosaurus (dinosaurio)"
 		},
 		{
 			"id": "Bugbear Thug",
-			"name": "Bugbear Thug"
+			"name": "Bugbear matón"
 		},
 		{
 			"id": "Bugbear Tormentor",
-			"name": "Bugbear Tormentor"
+			"name": "Bugbear atormentador"
 		},
 		{
 			"id": "Bulette",
@@ -331,27 +331,27 @@
 		},
 		{
 			"id": "Cacodaemon",
-			"name": "Cacodaemon"
+			"name": "Cacodaimonion (daimonion)"
 		},
 		{
 			"id": "Caligni Creeper",
-			"name": "Caligni Creeper"
+			"name": "Caligni rondador"
 		},
 		{
 			"id": "Caligni Dancer",
-			"name": "Caligni Dancer"
+			"name": "Caligni bailarín"
 		},
 		{
 			"id": "Caligni Stalker",
-			"name": "Caligni Stalker"
+			"name": "Caligni acechador"
 		},
 		{
 			"id": "Cassisian",
-			"name": "Cassisian"
+			"name": "Cassisiano (Ángel)"
 		},
 		{
 			"id": "Catfolk Pouncer",
-			"name": "Catfolk Pouncer"
+			"name": "Félido emboscador"
 		},
 		{
 			"id": "Cauthooj",
@@ -359,47 +359,47 @@
 		},
 		{
 			"id": "Cave Bear",
-			"name": "Cave Bear"
+			"name": "Oso cavernario"
 		},
 		{
 			"id": "Centaur",
-			"name": "Centaur"
+			"name": "Centauro"
 		},
 		{
 			"id": "Centipede Swarm",
-			"name": "Centipede Swarm"
+			"name": "Plaga de ciempiés"
 		},
 		{
 			"id": "Ceustodaemon",
-			"name": "Ceustodaemon"
+			"name": "Ceustodaimonion (daimonion)"
 		},
 		{
 			"id": "Changeling Exile",
-			"name": "Changeling Exile"
+			"name": "Changeling Exiliada (changeling)"
 		},
 		{
 			"id": "Chimera (Black Dragon)",
-			"name": "Chimera (Black Dragon)"
+			"name": "Quimera (Dragón negro)"
 		},
 		{
 			"id": "Chimera (Blue Dragon)",
-			"name": "Chimera (Blue Dragon)"
+			"name": "Quimera (Dragón azulk)"
 		},
 		{
 			"id": "Chimera (Green Dragon)",
-			"name": "Chimera (Green Dragon)"
+			"name": "Quimera (Dragón verde)"
 		},
 		{
 			"id": "Chimera (Red Dragon)",
-			"name": "Chimera (Red Dragon)"
+			"name": "Quimera (Dragón rojo)"
 		},
 		{
 			"id": "Chimera (White Dragon)",
-			"name": "Chimera (White Dragon)"
+			"name": "Quimera (Dragón blanco)"
 		},
 		{
 			"id": "Choral",
-			"name": "Choral"
+			"name": "Coral (Ángel)"
 		},
 		{
 			"id": "Chuul",
@@ -407,67 +407,67 @@
 		},
 		{
 			"id": "Cinder Rat",
-			"name": "Cinder Rat"
+			"name": "Rata de ceniza (elemental de fuego)"
 		},
 		{
 			"id": "Clay Golem",
-			"name": "Clay Golem"
+			"name": "Gólem de arcilla"
 		},
 		{
 			"id": "Cloaker",
-			"name": "Cloaker"
+			"name": "Manto"
 		},
 		{
 			"id": "Cloud Giant",
-			"name": "Cloud Giant"
+			"name": "Gigante de las nubes"
 		},
 		{
 			"id": "Cockatrice",
-			"name": "Cockatrice"
+			"name": "Cocatriz"
 		},
 		{
 			"id": "Crag Linnorm",
-			"name": "Crag Linnorm"
+			"name": "Linnorm del risco"
 		},
 		{
 			"id": "Crimson Worm",
-			"name": "Crimson Worm"
+			"name": "Gusano carmesí"
 		},
 		{
 			"id": "Crocodile",
-			"name": "Crocodile"
+			"name": "Cocodrilo"
 		},
 		{
 			"id": "Cyclops",
-			"name": "Cyclops"
+			"name": "Cíclope"
 		},
 		{
 			"id": "Daeodon",
-			"name": "Daeodon"
+			"name": "Daedón (jabalí)"
 		},
 		{
 			"id": "Dandasuka",
-			"name": "Dandasuka"
+			"name": "Dandasuka (rakshasa)"
 		},
 		{
 			"id": "Dark Naga",
-			"name": "Dark Naga"
+			"name": "Naga oscura"
 		},
 		{
 			"id": "Deadly Mantis",
-			"name": "Deadly Mantis"
+			"name": "Mantis letal"
 		},
 		{
 			"id": "Deep Gnome Rockwarden",
-			"name": "Deep Gnome Rockwarden"
+			"name": "Gnomo subterráneo guardiapétreo"
 		},
 		{
 			"id": "Deep Gnome Scout",
-			"name": "Deep Gnome Scout"
+			"name": "Gnomo subterráneo batidor"
 		},
 		{
 			"id": "Deep Gnome Warrior",
-			"name": "Deep Gnome Warrior"
+			"name": "Gnomo subterráneo combatiente"
 		},
 		{
 			"id": "Deinonychus",
@@ -479,47 +479,47 @@
 		},
 		{
 			"id": "Demilich",
-			"name": "Demilich"
+			"name": "Semiliche"
 		},
 		{
 			"id": "Dero Magister",
-			"name": "Dero Magister"
+			"name": "Derro magistrado"
 		},
 		{
 			"id": "Dero Stalker",
-			"name": "Dero Stalker"
+			"name": "Derro acechador"
 		},
 		{
 			"id": "Dero Strangler",
-			"name": "Dero Strangler"
+			"name": "Derro estrangulador"
 		},
 		{
 			"id": "Desert Drake",
-			"name": "Desert Drake"
+			"name": "Draco desértico"
 		},
 		{
 			"id": "Dezullon",
-			"name": "Dezullon"
+			"name": "Dezullón"
 		},
 		{
 			"id": "Dhampir Wizard",
-			"name": "Dhampir Wizard"
+			"name": "Dhampiro mago (dhampiro)"
 		},
 		{
 			"id": "Dire Wolf",
-			"name": "Dire Wolf"
+			"name": "Lobo terrible"
 		},
 		{
 			"id": "Djinni",
-			"name": "Djinni"
+			"name": "Djinni (genio)"
 		},
 		{
 			"id": "Doppelganger",
-			"name": "Doppelganger"
+			"name": "Doppelgánger"
 		},
 		{
 			"id": "Dragon Turtle",
-			"name": "Dragon Turtle"
+			"name": "Tortuga dragón"
 		},
 		{
 			"id": "Drakauthix",
@@ -527,39 +527,39 @@
 		},
 		{
 			"id": "Drider",
-			"name": "Drider"
+			"name": "Draña"
 		},
 		{
 			"id": "Drow Fighter",
-			"name": "Drow Fighter"
+			"name": "Drow guerrero"
 		},
 		{
 			"id": "Drow Priestess",
-			"name": "Drow Priestess"
+			"name": "Drow sacerdotisa"
 		},
 		{
 			"id": "Drow Rogue",
-			"name": "Drow Rogue"
+			"name": "Drow pícaro"
 		},
 		{
 			"id": "Dryad",
-			"name": "Dryad"
+			"name": "Dríada"
 		},
 		{
 			"id": "Dryad Queen",
-			"name": "Dryad Queen"
+			"name": "Reina dríada (ninfa)"
 		},
 		{
 			"id": "Duergar Bombardier",
-			"name": "Duergar Bombardier"
+			"name": "Duergar bombardero"
 		},
 		{
 			"id": "Duergar Sharpshooter",
-			"name": "Duergar Sharpshooter"
+			"name": "Duergar capataz"
 		},
 		{
 			"id": "Duergar Taskmaster",
-			"name": "Duergar Taskmaster"
+			"name": "Duergar tirador"
 		},
 		{
 			"id": "Dullahan",
@@ -567,19 +567,19 @@
 		},
 		{
 			"id": "Duskwalker Ghost Hunter",
-			"name": "Duskwalker Ghost Hunter"
+			"name": "Crepuscular cazafantasmas (retoño planario)"
 		},
 		{
 			"id": "Eagle",
-			"name": "Eagle"
+			"name": "Águila"
 		},
 		{
 			"id": "Earth Mephit",
-			"name": "Earth Mephit"
+			"name": "Méfit de tierra"
 		},
 		{
 			"id": "Efreeti",
-			"name": "Efreeti"
+			"name": "Ifriti (genio)"
 		},
 		{
 			"id": "Elananx",
@@ -587,39 +587,39 @@
 		},
 		{
 			"id": "Electric Eel",
-			"name": "Electric Eel"
+			"name": "Anguila eléctrica"
 		},
 		{
 			"id": "Elemental Avalanche",
-			"name": "Elemental Avalanche"
+			"name": "Avalancha elemental (elemental de tierra)"
 		},
 		{
 			"id": "Elemental Hurricane",
-			"name": "Elemental Hurricane"
+			"name": "Huracán elemental (elemental de aire)"
 		},
 		{
 			"id": "Elemental Inferno",
-			"name": "Elemental Inferno"
+			"name": "Infierno elemental (elemental de fuego)"
 		},
 		{
 			"id": "Elemental Tsunami",
-			"name": "Elemental Tsunami"
+			"name": "Tsunami elemental (elemental de agua)"
 		},
 		{
 			"id": "Elephant",
-			"name": "Elephant"
+			"name": "Elefante"
 		},
 		{
 			"id": "Envyspawn",
-			"name": "Envyspawn"
+			"name": "Engendro de la envidia"
 		},
 		{
 			"id": "Erinys",
-			"name": "Erinys"
+			"name": "Erinia (diablo)"
 		},
 		{
 			"id": "Ether Spider",
-			"name": "Ether Spider"
+			"name": "Araña del éter"
 		},
 		{
 			"id": "Ettin",
@@ -627,203 +627,203 @@
 		},
 		{
 			"id": "Faceless Stalker",
-			"name": "Faceless Stalker"
+			"name": "Acechador sin rostro (alghollthu)"
 		},
 		{
 			"id": "Faerie Dragon",
-			"name": "Faerie Dragon"
+			"name": "Dragón feérico"
 		},
 		{
 			"id": "Fire Giant",
-			"name": "Fire Giant"
+			"name": "Gigante de fuego"
 		},
 		{
 			"id": "Fire Mephit",
-			"name": "Fire Mephit"
+			"name": "Méfit de fuego"
 		},
 		{
 			"id": "Firewyrm",
-			"name": "Firewyrm"
+			"name": "Sierpe ígnea"
 		},
 		{
 			"id": "Flame Drake",
-			"name": "Flame Drake"
+			"name": "Draco flamígero"
 		},
 		{
 			"id": "Flash Beetle",
-			"name": "Flash Beetle"
+			"name": "Escarabajo destellante"
 		},
 		{
 			"id": "Flesh Golem",
-			"name": "Flesh Golem"
+			"name": "Gólem de carne"
 		},
 		{
 			"id": "Frost Drake",
-			"name": "Frost Drake"
+			"name": "Draco gélido"
 		},
 		{
 			"id": "Frost Giant",
-			"name": "Frost Giant"
+			"name": "Gigante de la escarcha"
 		},
 		{
 			"id": "Fungus Leshy",
-			"name": "Fungus Leshy"
+			"name": "Leshy de los hongos"
 		},
 		{
 			"id": "Gancanagh",
-			"name": "Gancanagh"
+			"name": "Gancanagh (azata)"
 		},
 		{
 			"id": "Gargoyle",
-			"name": "Gargoyle"
+			"name": "Gárgola"
 		},
 		{
 			"id": "Gelatinous Cube",
-			"name": "Gelatinous Cube"
+			"name": "Cubo gelatinoso (cieno)"
 		},
 		{
 			"id": "Gelugon",
-			"name": "Gelugon"
+			"name": "Gelugón (diablo)"
 		},
 		{
 			"id": "Ghaele",
-			"name": "Ghaele"
+			"name": "Ghaele (azata)"
 		},
 		{
 			"id": "Ghast",
-			"name": "Ghast"
+			"name": "Ghast (gul)"
 		},
 		{
 			"id": "Ghost Commoner",
-			"name": "Ghost Commoner"
+			"name": "Fantasma plebeyo"
 		},
 		{
 			"id": "Ghost Mage",
-			"name": "Ghost Mage"
+			"name": "Fantasma mago"
 		},
 		{
 			"id": "Ghoul",
-			"name": "Ghoul"
+			"name": "Gul"
 		},
 		{
 			"id": "Giant Anaconda",
-			"name": "Giant Anaconda"
+			"name": "Anaconda gigante (serpiente)"
 		},
 		{
 			"id": "Giant Animated Statue",
-			"name": "Giant Animated Statue"
+			"name": "Estatua animada gigante(objeto animado)"
 		},
 		{
 			"id": "Giant Bat",
-			"name": "Giant Bat"
+			"name": "Murciélago gigante"
 		},
 		{
 			"id": "Giant Centipede",
-			"name": "Giant Centipede"
+			"name": "Ciempiés gigante"
 		},
 		{
 			"id": "Giant Eagle",
-			"name": "Giant Eagle"
+			"name": "Águila gigante"
 		},
 		{
 			"id": "Giant Flytrap",
-			"name": "Giant Flytrap"
+			"name": "Atrapamoscas gigante"
 		},
 		{
 			"id": "Giant Frilled Lizard",
-			"name": "Giant Frilled Lizard"
+			"name": "Lagarto con chorreras gigante"
 		},
 		{
 			"id": "Giant Gecko",
-			"name": "Giant Gecko"
+			"name": "Geco gigante (lagarto)"
 		},
 		{
 			"id": "Giant Mantis",
-			"name": "Giant Mantis"
+			"name": "Mantis gigante"
 		},
 		{
 			"id": "Giant Monitor Lizard",
-			"name": "Giant Monitor Lizard"
+			"name": "Varano gigante (lagarto)"
 		},
 		{
 			"id": "Giant Moray Eel",
-			"name": "Giant Moray Eel"
+			"name": "Morena gigante"
 		},
 		{
 			"id": "Giant Octopus",
-			"name": "Giant Octopus"
+			"name": "Pulpo gigante"
 		},
 		{
 			"id": "Giant Rat",
-			"name": "Giant Rat"
+			"name": "Rata gigante"
 		},
 		{
 			"id": "Giant Scorpion",
-			"name": "Giant Scorpion"
+			"name": "Escorpión gigante"
 		},
 		{
 			"id": "Giant Stag Beetle",
-			"name": "Giant Stag Beetle"
+			"name": "Escarabajo astado gigante"
 		},
 		{
 			"id": "Giant Tarantula",
-			"name": "Giant Tarantula"
+			"name": "Tarántula gigante (araña)"
 		},
 		{
 			"id": "Giant Viper",
-			"name": "Giant Viper"
+			"name": "Víbora gigante (serpiente)"
 		},
 		{
 			"id": "Giant Wasp",
-			"name": "Giant Wasp"
+			"name": "Avispa gigante"
 		},
 		{
 			"id": "Gibbering Mouther",
-			"name": "Gibbering Mouther"
+			"name": "Bocón barbotante"
 		},
 		{
 			"id": "Gimmerling",
-			"name": "Gimmerling"
+			"name": "Duendestello"
 		},
 		{
 			"id": "Glabrezu",
-			"name": "Glabrezu"
+			"name": "Glabrezu (demonio)"
 		},
 		{
 			"id": "Gluttonyspawn",
-			"name": "Gluttonyspawn"
+			"name": "Engendro de la Gula"
 		},
 		{
 			"id": "Gnoll Cultist",
-			"name": "Gnoll Cultist"
+			"name": "Gnoll sectario"
 		},
 		{
 			"id": "Gnoll Hunter",
-			"name": "Gnoll Hunter"
+			"name": "Gnoll cazador"
 		},
 		{
 			"id": "Gnoll Sergeant",
-			"name": "Gnoll Sergeant"
+			"name": "Gnoll sargento"
 		},
 		{
 			"id": "Goblin Commando",
-			"name": "Goblin Commando"
+			"name": "Goblin Comando"
 		},
 		{
 			"id": "Goblin Dog",
-			"name": "Goblin Dog"
+			"name": "Perro goblin"
 		},
 		{
 			"id": "Goblin Pyro",
-			"name": "Goblin Pyro"
+			"name": "Goblin pirómano"
 		},
 		{
 			"id": "Goblin War Chanter",
-			"name": "Goblin War Chanter"
+			"name": "Goblin cantor de guerra"
 		},
 		{
 			"id": "Goblin Warrior",
-			"name": "Goblin Warrior"
+			"name": "Goblin combatiente"
 		},
 		{
 			"id": "Gogiteth",
@@ -831,59 +831,59 @@
 		},
 		{
 			"id": "Goliath Spider",
-			"name": "Goliath Spider"
+			"name": "Araña goliat"
 		},
 		{
 			"id": "Gorilla",
-			"name": "Gorilla"
+			"name": "Gorila"
 		},
 		{
 			"id": "Gourd Leshy",
-			"name": "Gourd Leshy"
+			"name": "Leshy de los frutos"
 		},
 		{
 			"id": "Graveknight",
-			"name": "Graveknight"
+			"name": "Caballero sepulcral"
 		},
 		{
 			"id": "Great Cyclops",
-			"name": "Great Cyclops"
+			"name": "Gran cíclope"
 		},
 		{
 			"id": "Great White Shark",
-			"name": "Great White Shark"
+			"name": "Gran tiburón blanco (tiburón)"
 		},
 		{
 			"id": "Greater Barghest",
-			"name": "Greater Barghest"
+			"name": "Barghest mayor"
 		},
 		{
 			"id": "Greater Nightmare",
-			"name": "Greater Nightmare"
+			"name": "Pesadilla mayor"
 		},
 		{
 			"id": "Greater Shadow",
-			"name": "Greater Shadow"
+			"name": "Sombra mayor"
 		},
 		{
 			"id": "Greedspawn",
-			"name": "Greedspawn"
+			"name": "Engendro de la Avaricia"
 		},
 		{
 			"id": "Green Hag",
-			"name": "Green Hag"
+			"name": "Saga cetrina"
 		},
 		{
 			"id": "Green Kobold Dragon Mage",
-			"name": "Green Kobold Dragon Mage"
+			"name": "Kóbold mago dragón verde"
 		},
 		{
 			"id": "Griffon",
-			"name": "Griffon"
+			"name": "Grifo"
 		},
 		{
 			"id": "Grig",
-			"name": "Grig"
+			"name": "Grig (duende)"
 		},
 		{
 			"id": "Grikkitog",
@@ -891,23 +891,23 @@
 		},
 		{
 			"id": "Grim Reaper",
-			"name": "Grim Reaper"
+			"name": "La parca"
 		},
 		{
 			"id": "Grizzly Bear",
-			"name": "Grizzly Bear"
+			"name": "Oso pardo"
 		},
 		{
 			"id": "Grothlut",
-			"name": "Grothlut"
+			"name": "Grothlut (modelado)"
 		},
 		{
 			"id": "Guard Dog",
-			"name": "Guard Dog"
+			"name": "Perro guardián"
 		},
 		{
 			"id": "Guardian Naga",
-			"name": "Guardian Naga"
+			"name": "Naga guardiana"
 		},
 		{
 			"id": "Gug",
@@ -919,103 +919,103 @@
 		},
 		{
 			"id": "Harpy",
-			"name": "Harpy"
+			"name": "Arpía"
 		},
 		{
 			"id": "Hell Hound",
-			"name": "Hell Hound"
+			"name": "Perro de guerra nessiano (can del Infierno)"
 		},
 		{
 			"id": "Hill Giant",
-			"name": "Hill Giant"
+			"name": "Gigante de las colinas"
 		},
 		{
 			"id": "Hive Mother",
-			"name": "Hive Mother"
+			"name": "Madre de colmena (ankhrav)"
 		},
 		{
 			"id": "Hobgoblin Archer",
-			"name": "Hobgoblin Archer"
+			"name": "Hobgoblin tirador"
 		},
 		{
 			"id": "Hobgoblin General",
-			"name": "Hobgoblin General"
+			"name": "Hobgoblin general"
 		},
 		{
 			"id": "Hobgoblin Soldier",
-			"name": "Hobgoblin Soldier"
+			"name": "Hobgoblin soldado"
 		},
 		{
 			"id": "Homunculus",
-			"name": "Homunculus"
+			"name": "Homúnculo"
 		},
 		{
 			"id": "Horned Archon",
-			"name": "Horned Archon"
+			"name": "Astarconte"
 		},
 		{
 			"id": "Hunting Spider",
-			"name": "Hunting Spider"
+			"name": "Araña cazadora"
 		},
 		{
 			"id": "Hyaenodon",
-			"name": "Hyaenodon"
+			"name": "Hyaenodon (hiena)"
 		},
 		{
 			"id": "Hydra",
-			"name": "Hydra"
+			"name": "Hidra"
 		},
 		{
 			"id": "Hyena",
-			"name": "Hyena"
+			"name": "Hiena"
 		},
 		{
 			"id": "Ice Linnorm",
-			"name": "Ice Linnorm"
+			"name": "Linnorm del hielo"
 		},
 		{
 			"id": "Imp",
-			"name": "Imp"
+			"name": "Diablillo"
 		},
 		{
 			"id": "Invisible Stalker",
-			"name": "Invisible Stalker"
+			"name": "Acechador invisible (elemental de aire)"
 		},
 		{
 			"id": "Iron Golem",
-			"name": "Iron Golem"
+			"name": "Gólem de hierro"
 		},
 		{
 			"id": "Janni",
-			"name": "Janni"
+			"name": "Janni (genio)"
 		},
 		{
 			"id": "Jinkin",
-			"name": "Jinkin"
+			"name": "Jinkin (gremlin)"
 		},
 		{
 			"id": "Jungle Drake",
-			"name": "Jungle Drake"
+			"name": "Draco selvático"
 		},
 		{
 			"id": "Kapoacinth",
-			"name": "Kapoacinth"
+			"name": "Kapoacinth (gárgola)"
 		},
 		{
 			"id": "Keketar",
-			"name": "Keketar"
+			"name": "Keketar (proteico)"
 		},
 		{
 			"id": "Kobold Scout",
-			"name": "Kobold Scout"
+			"name": "Kóbold explorador"
 		},
 		{
 			"id": "Kobold Warrior",
-			"name": "Kobold Warrior"
+			"name": "Kóbold guerrero"
 		},
 		{
 			"id": "Kolyarut",
-			"name": "Kolyarut"
+			"name": "Kolyarut (eón)"
 		},
 		{
 			"id": "Kraken",
@@ -1031,103 +1031,103 @@
 		},
 		{
 			"id": "Lamia Matriarch",
-			"name": "Lamia Matriarch"
+			"name": "Lamia matriarca"
 		},
 		{
 			"id": "Lantern Archon",
-			"name": "Lantern Archon"
+			"name": "Lamparconte"
 		},
 		{
 			"id": "Lantern Archon (Gestalt)",
-			"name": "Lantern Archon (Gestalt)"
+			"name": "Lamparconte (Gestalt)"
 		},
 		{
 			"id": "Leaf Leshy",
-			"name": "Leaf Leshy"
+			"name": "Leshy de las hojas"
 		},
 		{
 			"id": "Legion Archon",
-			"name": "Legion Archon"
+			"name": "Troparconte"
 		},
 		{
 			"id": "Lemure",
-			"name": "Lemure"
+			"name": "Lémur (diablo)"
 		},
 		{
 			"id": "Leopard",
-			"name": "Leopard"
+			"name": "Leopardo (felino)"
 		},
 		{
 			"id": "Lesser Death",
-			"name": "Lesser Death"
+			"name": "Parca menor"
 		},
 		{
 			"id": "Leukodaemon",
-			"name": "Leukodaemon"
+			"name": "Leukodaimonion (daimonion)"
 		},
 		{
 			"id": "Lich",
-			"name": "Lich"
+			"name": "Liche"
 		},
 		{
 			"id": "Lillend",
-			"name": "Lillend"
+			"name": "Lilenda (azata)"
 		},
 		{
 			"id": "Lion",
-			"name": "Lion"
+			"name": "León"
 		},
 		{
 			"id": "Living Landslide",
-			"name": "Living Landslide"
+			"name": "Desprendimiento viviente"
 		},
 		{
 			"id": "Living Waterfall",
-			"name": "Living Waterfall"
+			"name": "Catarata viviente (elemental de agua)"
 		},
 		{
 			"id": "Living Whirlwind",
-			"name": "Living Whirlwind"
+			"name": "Torbellino viviente (elemental de aire)"
 		},
 		{
 			"id": "Living Wildfire",
-			"name": "Living Wildfire"
+			"name": "Incendio viviente (elemental de fuego)"
 		},
 		{
 			"id": "Lizardfolk Defender",
-			"name": "Lizardfolk Defender"
+			"name": "Hombre lagarto defensor"
 		},
 		{
 			"id": "Lizardfolk Scout",
-			"name": "Lizardfolk Scout"
+			"name": "Hombre lagarto batidor"
 		},
 		{
 			"id": "Lizardfolk Stargazer",
-			"name": "Lizardfolk Stargazer"
+			"name": "Hombre lagarto astrólogo"
 		},
 		{
 			"id": "Lustspawn",
-			"name": "Lustspawn"
+			"name": "Engendro de la Lujuria"
 		},
 		{
 			"id": "Lyrakien",
-			"name": "Lyrakien"
+			"name": "Lyrakien (azata)"
 		},
 		{
 			"id": "Mammoth",
-			"name": "Mammoth"
+			"name": "Mamut (elefante)"
 		},
 		{
 			"id": "Manticore",
-			"name": "Manticore"
+			"name": "Mantícora"
 		},
 		{
 			"id": "Marid",
-			"name": "Marid"
+			"name": "Marid (genio)"
 		},
 		{
 			"id": "Marilith",
-			"name": "Marilith"
+			"name": "Marilith (demonio)"
 		},
 		{
 			"id": "Medusa",
@@ -1135,39 +1135,39 @@
 		},
 		{
 			"id": "Megalodon",
-			"name": "Megalodon"
+			"name": "Megalodón (tiburón)"
 		},
 		{
 			"id": "Megaprimatus",
-			"name": "Megaprimatus"
+			"name": "Megaprimate (simio)"
 		},
 		{
 			"id": "Merfolk Warrior",
-			"name": "Merfolk Warrior"
+			"name": "Sirénido combatiente"
 		},
 		{
 			"id": "Merfolk Wavecaller",
-			"name": "Merfolk Wavecaller"
+			"name": "Sirénido orador de las olas"
 		},
 		{
 			"id": "Mimic",
-			"name": "Mimic"
+			"name": "Mimeto"
 		},
 		{
 			"id": "Minotaur",
-			"name": "Minotaur"
+			"name": "Minotauro"
 		},
 		{
 			"id": "Mitflit",
-			"name": "Mitflit"
+			"name": "Mitflit (gremlin)"
 		},
 		{
 			"id": "Morrigna",
-			"name": "Morrigna"
+			"name": "Morrigna (psicopompo)"
 		},
 		{
 			"id": "Mu Spore",
-			"name": "Mu Spore"
+			"name": "Espora mu"
 		},
 		{
 			"id": "Mukradi",
@@ -1175,35 +1175,35 @@
 		},
 		{
 			"id": "Mummy Guardian",
-			"name": "Mummy Guardian"
+			"name": "Momia guardiana"
 		},
 		{
 			"id": "Mummy Pharaoh",
-			"name": "Mummy Pharaoh"
+			"name": "Momia faraona"
 		},
 		{
 			"id": "Naiad",
-			"name": "Naiad"
+			"name": "Náyade (ninfa)"
 		},
 		{
 			"id": "Naiad Queen",
-			"name": "Naiad Queen"
+			"name": "Reina náyade (ninfa)"
 		},
 		{
 			"id": "Naunet",
-			"name": "Naunet"
+			"name": "Naunet (proteico)"
 		},
 		{
 			"id": "Nessian Warhound",
-			"name": "Nessian Warhound"
+			"name": "Perro de guerra Nessiano"
 		},
 		{
 			"id": "Night Hag",
-			"name": "Night Hag"
+			"name": "Sagas nocturnas"
 		},
 		{
 			"id": "Nightmare",
-			"name": "Nightmare"
+			"name": "Pesadilla"
 		},
 		{
 			"id": "Nilith",
@@ -1211,39 +1211,39 @@
 		},
 		{
 			"id": "Nosoi",
-			"name": "Nosoi"
+			"name": "Nosoi (psicopompo)"
 		},
 		{
 			"id": "Ochre Jelly",
-			"name": "Ochre Jelly"
+			"name": "Jalea ocre (cieno)"
 		},
 		{
 			"id": "Ofalth",
-			"name": "Ofalth"
+			"name": "Pocilguero"
 		},
 		{
 			"id": "Ogre Boss",
-			"name": "Ogre Boss"
+			"name": "Ogro jefe"
 		},
 		{
 			"id": "Ogre Glutton",
-			"name": "Ogre Glutton"
+			"name": "Ogro glotón"
 		},
 		{
 			"id": "Ogre Warrior",
-			"name": "Ogre Warrior"
+			"name": "Ogro combatiente"
 		},
 		{
 			"id": "Orc Brute",
-			"name": "Orc Brute"
+			"name": "Orco bruto"
 		},
 		{
 			"id": "Orc Warchief",
-			"name": "Orc Warchief"
+			"name": "Orco caudillo"
 		},
 		{
 			"id": "Orc Warrior",
-			"name": "Orc Warrior"
+			"name": "Orco combatiente"
 		},
 		{
 			"id": "Otyugh",
@@ -1251,35 +1251,35 @@
 		},
 		{
 			"id": "Owlbear",
-			"name": "Owlbear"
+			"name": "Oso lechuza"
 		},
 		{
 			"id": "Pegasus",
-			"name": "Pegasus"
+			"name": "Pegaso"
 		},
 		{
 			"id": "Phistophilus",
-			"name": "Phistophilus"
+			"name": "Fistófiles (diablo)"
 		},
 		{
 			"id": "Phoenix",
-			"name": "Phoenix"
+			"name": "Fénix"
 		},
 		{
 			"id": "Pit Fiend",
-			"name": "Pit Fiend"
+			"name": "Diablo de la sima"
 		},
 		{
 			"id": "Pixie",
-			"name": "Pixie"
+			"name": "Pixi (duende)"
 		},
 		{
 			"id": "Plague Zombie",
-			"name": "Plague Zombie"
+			"name": "Zombi de la peste"
 		},
 		{
 			"id": "Pleroma",
-			"name": "Pleroma"
+			"name": "Pléroma (eón)"
 		},
 		{
 			"id": "Poltergeist",
@@ -1291,27 +1291,27 @@
 		},
 		{
 			"id": "Pridespawn",
-			"name": "Pridespawn"
+			"name": "Engendro del Orgullo"
 		},
 		{
 			"id": "Pteranodon",
-			"name": "Pteranodon"
+			"name": "Pteranodon (pterosaurio)"
 		},
 		{
 			"id": "Pugwampi",
-			"name": "Pugwampi"
+			"name": "Pugwampi (gremlin)"
 		},
 		{
 			"id": "Purple Worm",
-			"name": "Purple Worm"
+			"name": "Gusano púrpura"
 		},
 		{
 			"id": "Quasit",
-			"name": "Quasit"
+			"name": "Quásit (demonio)"
 		},
 		{
 			"id": "Quatoid",
-			"name": "Quatoid"
+			"name": "Cuatoide"
 		},
 		{
 			"id": "Quelaunt",
@@ -1319,31 +1319,31 @@
 		},
 		{
 			"id": "Quetzalcoatlus",
-			"name": "Quetzalcoatlus"
+			"name": "Quetzalcoatlus (pterosaurio)"
 		},
 		{
 			"id": "Raja Rakshasa",
-			"name": "Raja Rakshasa"
+			"name": "Rakshasa rajá"
 		},
 		{
 			"id": "Rat Swarm",
-			"name": "Rat Swarm"
+			"name": "Plaga de ratas"
 		},
 		{
 			"id": "Ratfolk Grenadier",
-			"name": "Ratfolk Grenadier"
+			"name": "Rátido granadero"
 		},
 		{
 			"id": "Red Kobold Dragon Mage",
-			"name": "Red Kobold Dragon Mage"
+			"name": "Kóbold mago dragón rojo"
 		},
 		{
 			"id": "Redcap",
-			"name": "Redcap"
+			"name": "Gorro rojo"
 		},
 		{
 			"id": "Reefclaw",
-			"name": "Reefclaw"
+			"name": "Garracife"
 		},
 		{
 			"id": "Remorhaz",
@@ -1351,19 +1351,19 @@
 		},
 		{
 			"id": "Riding Dog",
-			"name": "Riding Dog"
+			"name": "Perro de monta"
 		},
 		{
 			"id": "Riding Horse",
-			"name": "Riding Horse"
+			"name": "Caballo de monta"
 		},
 		{
 			"id": "Riding Pony",
-			"name": "Riding Pony"
+			"name": "Poni de monta (caballo)"
 		},
 		{
 			"id": "River Drake",
-			"name": "River Drake"
+			"name": "Draco fluvial"
 		},
 		{
 			"id": "Roc",
@@ -1371,75 +1371,75 @@
 		},
 		{
 			"id": "Roper",
-			"name": "Roper"
+			"name": "Morfópodo"
 		},
 		{
 			"id": "Rune Giant",
-			"name": "Rune Giant"
+			"name": "Gigante rúnico"
 		},
 		{
 			"id": "Rust Monster",
-			"name": "Rust Monster"
+			"name": "Monstruo oxidante"
 		},
 		{
 			"id": "Salamander",
-			"name": "Salamander"
+			"name": "Salamandra (elemental de fuego)"
 		},
 		{
 			"id": "Satyr",
-			"name": "Satyr"
+			"name": "Sátiro"
 		},
 		{
 			"id": "Scorpion Swarm",
-			"name": "Scorpion Swarm"
+			"name": "Plaga de escorpiones"
 		},
 		{
 			"id": "Sea Devil Baron",
-			"name": "Sea Devil Baron"
+			"name": "Diablo marino barón"
 		},
 		{
 			"id": "Sea Devil Brute",
-			"name": "Sea Devil Brute"
+			"name": "Diablo marino bruto"
 		},
 		{
 			"id": "Sea Devil Scout",
-			"name": "Sea Devil Scout"
+			"name": "Diablo marino batidor"
 		},
 		{
 			"id": "Sea Hag",
-			"name": "Sea Hag"
+			"name": "Saga marina"
 		},
 		{
 			"id": "Sea Serpent",
-			"name": "Sea Serpent"
+			"name": "Serpiente marina"
 		},
 		{
 			"id": "Sewer Ooze",
-			"name": "Sewer Ooze"
+			"name": "Cieno de cloaca"
 		},
 		{
 			"id": "Shadow",
-			"name": "Shadow"
+			"name": "Sombra"
 		},
 		{
 			"id": "Shaitan",
-			"name": "Shaitan"
+			"name": "Shaitan (genio)"
 		},
 		{
 			"id": "Shambler",
-			"name": "Shambler"
+			"name": "Broza movediza"
 		},
 		{
 			"id": "Shemhazian",
-			"name": "Shemhazian"
+			"name": "Shemhaziano (demonio)"
 		},
 		{
 			"id": "Shield Archon",
-			"name": "Shield Archon"
+			"name": "Escudarconte"
 		},
 		{
 			"id": "Shining Child",
-			"name": "Shining Child"
+			"name": "Vástago brillante"
 		},
 		{
 			"id": "Shoggoth",
@@ -1455,35 +1455,35 @@
 		},
 		{
 			"id": "Skeletal Champion",
-			"name": "Skeletal Champion"
+			"name": "Campeón esquelético (esqueleto)"
 		},
 		{
 			"id": "Skeletal Giant",
-			"name": "Skeletal Giant"
+			"name": "Gigante esquelético (esqueleto)"
 		},
 		{
 			"id": "Skeletal Horse",
-			"name": "Skeletal Horse"
+			"name": "Corcel esquelético (esqueleto)"
 		},
 		{
 			"id": "Skeletal Hulk",
-			"name": "Skeletal Hulk"
+			"name": "Mole esquelética (esqueleto)"
 		},
 		{
 			"id": "Skeleton Guard",
-			"name": "Skeleton Guard"
+			"name": "Guardián esquelético (esqueleto)"
 		},
 		{
 			"id": "Skulltaker",
-			"name": "Skulltaker"
+			"name": "Robacráneos"
 		},
 		{
 			"id": "Skum",
-			"name": "Skum"
+			"name": "Skum (alghollthu)"
 		},
 		{
 			"id": "Slothspawn",
-			"name": "Slothspawn"
+			"name": "Engendro de la Pereza"
 		},
 		{
 			"id": "Slurk",
@@ -1491,147 +1491,147 @@
 		},
 		{
 			"id": "Smilodon",
-			"name": "Smilodon"
+			"name": "Smilodon (felino)"
 		},
 		{
 			"id": "Snapping Flytrap",
-			"name": "Snapping Flytrap"
+			"name": "Atrapamoscas mordedor"
 		},
 		{
 			"id": "Sod Hound",
-			"name": "Sod Hound"
+			"name": "Sabueso terroso (elemental de tierra)"
 		},
 		{
 			"id": "Soulbound Doll (Chaotic Evil)",
-			"name": "Soulbound Doll (Chaotic Evil)"
+			"name": "Muñeca de alma vinculada (Caótico maligno)"
 		},
 		{
 			"id": "Soulbound Doll (Chaotic Good)",
-			"name": "Soulbound Doll (Chaotic Good)"
+			"name": "Muñeca de alma vinculada (Caótico bueno)"
 		},
 		{
 			"id": "Soulbound Doll (Chaotic Neutral)",
-			"name": "Soulbound Doll (Chaotic Neutral)"
+			"name": "Muñeca de alma vinculada (Caótico neutral)"
 		},
 		{
 			"id": "Soulbound Doll (Lawful Evil)",
-			"name": "Soulbound Doll (Lawful Evil)"
+			"name": "Muñeca de alma vinculada (Legal maligno)"
 		},
 		{
 			"id": "Soulbound Doll (Lawful Good)",
-			"name": "Soulbound Doll (Lawful Good)"
+			"name": "Muñeca de alma vinculada (Legal bueno)"
 		},
 		{
 			"id": "Soulbound Doll (Lawful Neutral)",
-			"name": "Soulbound Doll (Lawful Neutral)"
+			"name": "Muñeca de alma vinculada (Legal neutral)"
 		},
 		{
 			"id": "Soulbound Doll (Neutral Evil)",
-			"name": "Soulbound Doll (Neutral Evil)"
+			"name": "Muñeca de alma vinculada (Neutral maligno)"
 		},
 		{
 			"id": "Soulbound Doll (Neutral Good)",
-			"name": "Soulbound Doll (Neutral Good)"
+			"name": "Muñeca de alma vinculada (Neutral bueno)"
 		},
 		{
 			"id": "Soulbound Doll (True Neutral)",
-			"name": "Soulbound Doll (True Neutral)"
+			"name": "Muñeca de alma vinculada (Neutral)"
 		},
 		{
 			"id": "Sphinx",
-			"name": "Sphinx"
+			"name": "Esfinge"
 		},
 		{
 			"id": "Spider Swarm",
-			"name": "Spider Swarm"
+			"name": "Plaga de arañas"
 		},
 		{
 			"id": "Sprite",
-			"name": "Sprite"
+			"name": "Duende"
 		},
 		{
 			"id": "Stegosaurus",
-			"name": "Stegosaurus"
+			"name": "Stegosaurus (dinosaurio)"
 		},
 		{
 			"id": "Stone Giant",
-			"name": "Stone Giant"
+			"name": "Gigante de piedra"
 		},
 		{
 			"id": "Stone Golem",
-			"name": "Stone Golem"
+			"name": "Gólem de piedra"
 		},
 		{
 			"id": "Stone Mauler",
-			"name": "Stone Mauler"
+			"name": "Machacador de piedra (elemental de tierra)"
 		},
 		{
 			"id": "Storm Giant",
-			"name": "Storm Giant"
+			"name": "Gigante de las tormentas"
 		},
 		{
 			"id": "Storm Lord",
-			"name": "Storm Lord"
+			"name": "Señor tormentoso (elemental de aire)"
 		},
 		{
 			"id": "Succubus",
-			"name": "Succubus"
+			"name": "Súcubo (demonio)"
 		},
 		{
 			"id": "Tarn Linnorm",
-			"name": "Tarn Linnorm"
+			"name": "Linnorm del lago"
 		},
 		{
 			"id": "Tengu Sneak",
-			"name": "Tengu Sneak"
+			"name": "Tengu furtivo"
 		},
 		{
 			"id": "Terotricus",
-			"name": "Terotricus"
+			"name": "Terótrico"
 		},
 		{
 			"id": "Tidal Master",
-			"name": "Tidal Master"
+			"name": "Señor de la marea (elemental de agua)"
 		},
 		{
 			"id": "Tiefling Adept",
-			"name": "Tiefling Adept"
+			"name": "Tiflin adepto (retoño planario)"
 		},
 		{
 			"id": "Tiger",
-			"name": "Tiger"
+			"name": "Tigre"
 		},
 		{
 			"id": "Tor Linnorm",
-			"name": "Tor Linnorm"
+			"name": "Linnorm del peñón"
 		},
 		{
 			"id": "Treerazer",
-			"name": "Treerazer"
+			"name": "Arrasador de árboles"
 		},
 		{
 			"id": "Triceratops",
-			"name": "Triceratops"
+			"name": "Triceratops (dinosaurio)"
 		},
 		{
 			"id": "Troll",
-			"name": "Troll"
+			"name": "Trol"
 		},
 		{
 			"id": "Troll King",
-			"name": "Troll King"
+			"name": "Rey trol (trol)"
 		},
 		{
 			"id": "Tyrannosaurus",
-			"name": "Tyrannosaurus"
+			"name": "Tyrannosaurus (dinosaurio)"
 		},
 		{
 			"id": "Unicorn",
-			"name": "Unicorn"
+			"name": "Unicornio"
 		},
 		{
 			"id": "Unseen Servant",
-			"name": "Unseen Servant"
+			"name": "Sirviente invisible"
 		},
 		{
 			"id": "Uthul",
@@ -1639,67 +1639,67 @@
 		},
 		{
 			"id": "Vampire Bat Swarm",
-			"name": "Vampire Bat Swarm"
+			"name": "Plaga de murciélagos vampiro"
 		},
 		{
 			"id": "Vampire Count",
-			"name": "Vampire Count"
+			"name": "Conde vampiro (vampiro)"
 		},
 		{
 			"id": "Vampire Mastermind",
-			"name": "Vampire Mastermind"
+			"name": "Vampiro mente maestra"
 		},
 		{
 			"id": "Vampire Spawn Rogue",
-			"name": "Vampire Spawn Rogue"
+			"name": "Engendro vampírico pícaro"
 		},
 		{
 			"id": "Veiled Master",
-			"name": "Veiled Master"
+			"name": "Amo velado (alghollthu)"
 		},
 		{
 			"id": "Velociraptor",
-			"name": "Velociraptor"
+			"name": "Velociraptor (dinosaurio)"
 		},
 		{
 			"id": "Viper",
-			"name": "Viper"
+			"name": "Víbora (serpiente)"
 		},
 		{
 			"id": "Voidworm",
-			"name": "Voidworm"
+			"name": "Gusano del vacío (proteico)"
 		},
 		{
 			"id": "Vrock",
-			"name": "Vrock"
+			"name": "Vrock (demonio)"
 		},
 		{
 			"id": "War Horse",
-			"name": "War Horse"
+			"name": "Caballo de guerra"
 		},
 		{
 			"id": "War Pony",
-			"name": "War Pony"
+			"name": "Poni de guerra (caballo)"
 		},
 		{
 			"id": "Warg",
-			"name": "Warg"
+			"name": "Huargo"
 		},
 		{
 			"id": "Warsworn",
-			"name": "Warsworn"
+			"name": "Juramento de guerra"
 		},
 		{
 			"id": "Wasp Swarm",
-			"name": "Wasp Swarm"
+			"name": "Plaga de avispas"
 		},
 		{
 			"id": "Water Mephit",
-			"name": "Water Mephit"
+			"name": "Méfit de agua"
 		},
 		{
 			"id": "Web Lurker",
-			"name": "Web Lurker"
+			"name": "Tejeterror"
 		},
 		{
 			"id": "Wemmuth",
@@ -1707,23 +1707,23 @@
 		},
 		{
 			"id": "Wendigo",
-			"name": "Wendigo"
+			"name": "Wéndigo"
 		},
 		{
 			"id": "Werebear",
-			"name": "Werebear"
+			"name": "Hombre oso (licántropo)"
 		},
 		{
 			"id": "Wererat",
-			"name": "Wererat"
+			"name": "Hombre rata (licántropo)"
 		},
 		{
 			"id": "Werewolf",
-			"name": "Werewolf"
+			"name": "Hombre lobo (licántropo)"
 		},
 		{
 			"id": "White Kobold Dragon Mage",
-			"name": "White Kobold Dragon Mage"
+			"name": "Kóbold mago dragón blanco"
 		},
 		{
 			"id": "Wight",
@@ -1731,15 +1731,15 @@
 		},
 		{
 			"id": "Will-o'-Wisp",
-			"name": "Will-o'-Wisp"
+			"name": "Fuego fatuo"
 		},
 		{
 			"id": "Winter Wolf",
-			"name": "Winter Wolf"
+			"name": "Lobo invernal (huargo)"
 		},
 		{
 			"id": "Wolf",
-			"name": "Wolf"
+			"name": "Lobo"
 		},
 		{
 			"id": "Wraith",
@@ -1747,27 +1747,27 @@
 		},
 		{
 			"id": "Wrathspawn",
-			"name": "Wrathspawn"
+			"name": "Engendro del Orgullo"
 		},
 		{
 			"id": "Wyvern",
-			"name": "Wyvern"
+			"name": "Wyvern (draco)"
 		},
 		{
 			"id": "Xorn",
-			"name": "Xorn"
+			"name": "Xorn (elemental de tierra)"
 		},
 		{
 			"id": "Xulgath Leader",
-			"name": "Xulgath Leader"
+			"name": "Xulgath líder"
 		},
 		{
 			"id": "Xulgath Skulker",
-			"name": "Xulgath Skulker"
+			"name": "Xulgath rondador"
 		},
 		{
 			"id": "Xulgath Warrior",
-			"name": "Xulgath Warrior"
+			"name": "Xulgath combatiente"
 		},
 		{
 			"id": "Yeti",
@@ -1775,83 +1775,83 @@
 		},
 		{
 			"id": "Young Black Dragon",
-			"name": "Young Black Dragon"
+			"name": "Dragón negro joven"
 		},
 		{
 			"id": "Young Black Dragon (Spellcaster)",
-			"name": "Young Black Dragon (Spellcaster)"
+			"name": "Dragones negros jóvenes (Lanzadores de conjuros)"
 		},
 		{
 			"id": "Young Blue Dragon",
-			"name": "Young Blue Dragon"
+			"name": "Dragón azul joven"
 		},
 		{
 			"id": "Young Blue Dragon (Spellcaster)",
-			"name": "Young Blue Dragon (Spellcaster)"
+			"name": "Dragones azules jóvenes (Lanzadores de conjuros)"
 		},
 		{
 			"id": "Young Brass Dragon",
-			"name": "Young Brass Dragon"
+			"name": "Dragón oropal joven"
 		},
 		{
 			"id": "Young Brass Dragon (Spellcaster)",
-			"name": "Young Brass Dragon (Spellcaster)"
+			"name": "Dragones de oropal jóvenes (Lanzadores de conjuros)"
 		},
 		{
 			"id": "Young Bronze Dragon",
-			"name": "Young Bronze Dragon"
+			"name": "Dragón de bronce joven"
 		},
 		{
 			"id": "Young Bronze Dragon (Spellcaster)",
-			"name": "Young Bronze Dragon (Spellcaster)"
+			"name": "Dragones de bronce jóvenes (Lanzadores de conjuros)"
 		},
 		{
 			"id": "Young Copper Dragon",
-			"name": "Young Copper Dragon"
+			"name": "Dragón de cobre joven"
 		},
 		{
 			"id": "Young Copper Dragon (Spellcaster)",
-			"name": "Young Copper Dragon (Spellcaster)"
+			"name": "Dragones de cobre jóvenes (Lanzadores de conjuros)"
 		},
 		{
 			"id": "Young Gold Dragon",
-			"name": "Young Gold Dragon"
+			"name": "Dragón de oro joven"
 		},
 		{
 			"id": "Young Gold Dragon (Spellcaster)",
-			"name": "Young Gold Dragon (Spellcaster)"
+			"name": "Dragones de oro jóvenes (Lanzadores de conjuros)"
 		},
 		{
 			"id": "Young Green Dragon",
-			"name": "Young Green Dragon"
+			"name": "Dragón verde joven"
 		},
 		{
 			"id": "Young Green Dragon (Spellcaster)",
-			"name": "Young Green Dragon (Spellcaster)"
+			"name": "Dragones verdes jóvenes (Lanzadores de conjuros)"
 		},
 		{
 			"id": "Young Red Dragon",
-			"name": "Young Red Dragon"
+			"name": "Dragón rojo joven"
 		},
 		{
 			"id": "Young Red Dragon (Spellcaster)",
-			"name": "Young Red Dragon (Spellcaster)"
+			"name": "Dragones rojos jóvenes (Lanzadores de conjuros)"
 		},
 		{
 			"id": "Young Silver Dragon",
-			"name": "Young Silver Dragon"
+			"name": "Dragón de plata"
 		},
 		{
 			"id": "Young Silver Dragon (Spellcaster)",
-			"name": "Young Silver Dragon (Spellcaster)"
+			"name": "Dragones de plata jóvenes (Lanzadores de conjuros)"
 		},
 		{
 			"id": "Young White Dragon",
-			"name": "Young White Dragon"
+			"name": "Dragón blanco joven"
 		},
 		{
 			"id": "Young White Dragon (Spellcaster)",
-			"name": "Young White Dragon (Spellcaster)"
+			"name": "Dragones blancos jóvenes (Lanzadores de conjuros)"
 		},
 		{
 			"id": "Zaramuun",
@@ -1859,19 +1859,19 @@
 		},
 		{
 			"id": "Zephyr Hawk",
-			"name": "Zephyr Hawk"
+			"name": "Halcón de céfiro (elemental de aire)"
 		},
 		{
 			"id": "Zombie Brute",
-			"name": "Zombie Brute"
+			"name": "Zombi bruto"
 		},
 		{
 			"id": "Zombie Hulk",
-			"name": "Zombie Hulk"
+			"name": "Zombi mole"
 		},
 		{
 			"id": "Zombie Shambler",
-			"name": "Zombie Shambler"
+			"name": "Zombi tambaleante"
 		}
 	]
 }

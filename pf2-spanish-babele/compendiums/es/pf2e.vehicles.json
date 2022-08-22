@@ -1,5 +1,5 @@
 {
-	"label": "Vehicles",
+	"label": "Vehículos",
 	"entries": [
 		{
 			"id": "Adaptable Paddleboat",
@@ -7,7 +7,7 @@
 		},
 		{
 			"id": "Airship",
-			"name": "Airship"
+			"name": "Aeronave"
 		},
 		{
 			"id": "Ambling Surveyor",
@@ -31,19 +31,19 @@
 		},
 		{
 			"id": "Carriage",
-			"name": "Carriage"
+			"name": "Carruaje"
 		},
 		{
 			"id": "Cart",
-			"name": "Cart"
+			"name": "Carreta"
 		},
 		{
 			"id": "Chariot, Heavy",
-			"name": "Chariot, Heavy"
+			"name": "Carro de guerra pesado"
 		},
 		{
 			"id": "Chariot, Light",
-			"name": "Chariot, Light"
+			"name": "Carro de guerra ligero"
 		},
 		{
 			"id": "Cliff Crawler",
@@ -87,11 +87,11 @@
 		},
 		{
 			"id": "Galley",
-			"name": "Galley"
+			"name": "Galera"
 		},
 		{
 			"id": "Glider",
-			"name": "Glider"
+			"name": "Planeador"
 		},
 		{
 			"id": "Hillcross Glider",
@@ -103,11 +103,11 @@
 		},
 		{
 			"id": "Rowboat",
-			"name": "Rowboat"
+			"name": "Bote de remos"
 		},
 		{
 			"id": "Sailing Ship",
-			"name": "Sailing Ship"
+			"name": "Velero"
 		},
 		{
 			"id": "Sand Barge",
@@ -143,7 +143,7 @@
 		},
 		{
 			"id": "Sleigh",
-			"name": "Sleigh"
+			"name": "Trineo"
 		},
 		{
 			"id": "Snail Coach",
@@ -159,7 +159,7 @@
 		},
 		{
 			"id": "Steam Giant",
-			"name": "Steam Giant"
+			"name": "Gigante de vapor"
 		},
 		{
 			"id": "Steam Trolley",
@@ -183,7 +183,7 @@
 		},
 		{
 			"id": "Wagon",
-			"name": "Wagon"
+			"name": "Carromato"
 		}
 	]
 }
