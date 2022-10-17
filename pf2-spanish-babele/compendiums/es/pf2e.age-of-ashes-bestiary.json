@@ -19,19 +19,19 @@
 		},
 		{
 			"id": "Aluum Enforcer",
-			"name": "Aluum Enforcer"
+			"name": "Aluum Sicario"
 		},
 		{
 			"id": "Anadi Elder (Age of Ashes)",
-			"name": "Anadi Elder (Age of Ashes)"
+			"name": "Anciano Anadi (La Era de las cenizas)"
 		},
 		{
 			"id": "Anadi Hunter (Age of Ashes)",
-			"name": "Anadi Hunter (Age of Ashes)"
+			"name": "Cazador Anadi (La Era de las cenizas)"
 		},
 		{
 			"id": "Anadi Sage (Age of Ashes)",
-			"name": "Anadi Sage (Age of Ashes)"
+			"name": "Sabio Anadi (La Era de las cenizas)"
 		},
 		{
 			"id": "Animated Dragonstorm",
@@ -39,7 +39,7 @@
 		},
 		{
 			"id": "Asanbosam (Age of Ashes)",
-			"name": "Asanbosam (Age of Ashes)"
+			"name": "Asanbosam (La era de las cenizas)"
 		},
 		{
 			"id": "Ash Web",
@@ -63,11 +63,11 @@
 		},
 		{
 			"id": "Biloko Veteran (Age of Ashes)",
-			"name": "Biloko Veteran (Age of Ashes)"
+			"name": "Biloko Veterano (La era de las cenizas)"
 		},
 		{
 			"id": "Biloko Warrior (Age of Ashes)",
-			"name": "Biloko Warrior (Age of Ashes)"
+			"name": "Combatiente Biloko (La era de las cenizas)"
 		},
 		{
 			"id": "Black Powder Bomb",
@@ -75,7 +75,7 @@
 		},
 		{
 			"id": "Blood Boar",
-			"name": "Blood Boar"
+			"name": "Jabalí de sangre"
 		},
 		{
 			"id": "Bloody Blade Mercenary",
@@ -95,7 +95,7 @@
 		},
 		{
 			"id": "Carnivorous Crystal",
-			"name": "Carnivorous Crystal"
+			"name": "Cristal carnívoro"
 		},
 		{
 			"id": "Caustic Vapor",
@@ -107,11 +107,11 @@
 		},
 		{
 			"id": "Charau-ka Acolyte of Angazhan (Age of Ashes)",
-			"name": "Charau-ka Acolyte of Angazhan (Age of Ashes)"
+			"name": "Charau-ka Acólito de Angazhan (La era de las cenizas)"
 		},
 		{
 			"id": "Charau-ka Butcher (Age of Ashes)",
-			"name": "Charau-ka Butcher (Age of Ashes)"
+			"name": "Carnicero Charau-ka (La era de las Cenizas)"
 		},
 		{
 			"id": "Charau-ka Dragon Priest",
@@ -119,7 +119,7 @@
 		},
 		{
 			"id": "Charau-ka Warrior (Age of Ashes)",
-			"name": "Charau-ka Warrior (Age of Ashes)"
+			"name": "Charau-ka Combatiente (La era de las Cenizas)"
 		},
 		{
 			"id": "Corrupt Guard",
@@ -127,7 +127,7 @@
 		},
 		{
 			"id": "Crucidaemon",
-			"name": "Crucidaemon"
+			"name": "Crucidaimonion"
 		},
 		{
 			"id": "Dahak's Shell",
@@ -155,7 +155,7 @@
 		},
 		{
 			"id": "Doorwarden",
-			"name": "Doorwarden"
+			"name": "Guardián de la puerta"
 		},
 		{
 			"id": "Dragon Pillar",
@@ -163,7 +163,7 @@
 		},
 		{
 			"id": "Dragonscarred Dead",
-			"name": "Dragonscarred Dead"
+			"name": "Difunto marcado por el dragón"
 		},
 		{
 			"id": "Dragonshard Guardian",
@@ -191,7 +191,7 @@
 		},
 		{
 			"id": "Eloko (Age of Ashes)",
-			"name": "Eloko (Age of Ashes)"
+			"name": "Eloko (La era de las Cenizas)"
 		},
 		{
 			"id": "Emaliza Zandivar",
@@ -199,7 +199,7 @@
 		},
 		{
 			"id": "Emperor Bird",
-			"name": "Emperor Bird"
+			"name": "Pájaro Emperador"
 		},
 		{
 			"id": "Endless Elven Aging",
@@ -211,7 +211,7 @@
 		},
 		{
 			"id": "Forge-Spurned",
-			"name": "Forge-Spurned"
+			"name": "Malogro de la Fragua"
 		},
 		{
 			"id": "Gashadokuro",
@@ -231,23 +231,23 @@
 		},
 		{
 			"id": "Grauladon",
-			"name": "Grauladon"
+			"name": "Grauladón"
 		},
 		{
 			"id": "Graveshell",
-			"name": "Graveshell"
+			"name": "Caparazón sepulcral"
 		},
 		{
 			"id": "Grippli Archer",
-			"name": "Grippli Archer"
+			"name": "Grippli Arquero"
 		},
 		{
 			"id": "Grippli Greenspeaker",
-			"name": "Grippli Greenspeaker"
+			"name": "Grippli Portavoz de lo verde"
 		},
 		{
 			"id": "Hellcrown",
-			"name": "Hellcrown"
+			"name": "Corona infernal"
 		},
 		{
 			"id": "Hermean Mutant",
@@ -267,11 +267,11 @@
 		},
 		{
 			"id": "Ilssrah Embermead",
-			"name": "Ilssrah Embermead"
+			"name": "Ilssrah Aguamiel de Brasa"
 		},
 		{
 			"id": "Immortal Ichor",
-			"name": "Immortal Ichor"
+			"name": "Icor inmortal"
 		},
 		{
 			"id": "Ingnovim Tluss",
@@ -335,7 +335,7 @@
 		},
 		{
 			"id": "Living Sap",
-			"name": "Living Sap"
+			"name": "Savia Viva"
 		},
 		{
 			"id": "Luminous Ward",
@@ -403,7 +403,7 @@
 		},
 		{
 			"id": "Remnant of Barzillai",
-			"name": "Remnant of Barzillai"
+			"name": "Remanente Barzillai"
 		},
 		{
 			"id": "Renali",
@@ -467,7 +467,7 @@
 		},
 		{
 			"id": "Soulbound Ruin",
-			"name": "Soulbound Ruin"
+			"name": "Ruina de Alma vinculada"
 		},
 		{
 			"id": "Spiked Doorframe",
@@ -475,7 +475,7 @@
 		},
 		{
 			"id": "Spiritbound Aluum",
-			"name": "Spiritbound Aluum"
+			"name": "Aluum de espiritu vinculado"
 		},
 		{
 			"id": "Talamira",
@@ -507,7 +507,7 @@
 		},
 		{
 			"id": "Uri Zandivar",
-			"name": "Uri Zandivar"
+			"name": "Uri Zandívar"
 		},
 		{
 			"id": "Vaklish",
@@ -535,7 +535,7 @@
 		},
 		{
 			"id": "Warbal Bumblebrasher",
-			"name": "Warbal Bumblebrasher"
+			"name": "Warbal Zumbadora Audaz"
 		},
 		{
 			"id": "Weathered Wail",
@@ -555,7 +555,7 @@
 		},
 		{
 			"id": "Xotanispawn",
-			"name": "Xotanispawn"
+			"name": "Engendro de Xotani"
 		},
 		{
 			"id": "Zephyr Guard",
